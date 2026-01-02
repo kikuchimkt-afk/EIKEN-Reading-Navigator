@@ -7450,7 +7450,7 @@ export const readingData = [
         }
     },
     {
-        id: "grade2-2025-2-3B",
+        id: "grade2-2025-2-MirrorTest",
         grade: "2級",
         title: "The Mirror Test",
         subTitle: "2025年度 第2回 2級 大問3B",
@@ -13018,7 +13018,7 @@ export const readingData = [
         }
     },
     {
-        id: "2-2024-3-Diaries",
+        id: "grade2-2024-3-Diaries",
         grade: "2級",
         title: "Diaries",
         subTitle: "2024年度 第3回 大問3B",
@@ -13496,7 +13496,7 @@ export const readingData = [
         }
     },
     {
-        id: "2-2024-2-Bonobos",
+        id: "grade2-2024-2-Bonobos",
         grade: "2級",
         title: "Bonobos",
         subTitle: "2024年度 第2回 大問3B",
@@ -14016,7 +14016,7 @@ export const readingData = [
         }
     },
     {
-        id: "2-2024-1-ArtsAndCrafts",
+        id: "grade2-2024-1-ArtsAndCrafts",
         grade: "2級",
         title: "The Arts and Crafts Movement",
         subTitle: "2024年度 第1回 大問3B",
@@ -16376,6 +16376,5316 @@ export const readingData = [
                 { label: "2. 氷と食料", text: "氷上で他の動物を捕食。氷が減ると陸でベリー等を食べるが、急速に体重減少し危険に。" },
                 { label: "3. 研究結果", text: "3年間の夏季研究で20頭を調査。ほとんどが食料を探したが、全頭が1日平均1kg体重減少。" },
                 { label: "4. 将来予測", text: "温室効果ガス削減なければ2100年までに存続困難。2040年には夏の北極氷消滅の予測も。" }
+            ]
+        }
+    },
+    {
+        id: "pre1-2023-3-3-2",
+        grade: "準1級",
+        year: 2023,
+        round: 3,
+        category: "長文読解",
+        number: "3-2",
+        title: "The Bet",
+        subTitle: "2023年度 第3回 準1級 大問3",
+        images: {
+            content: "/images/reading/pre1-2023-3-3-2-content.png",
+            question: "/images/reading/pre1-2023-3-3-2-question.png"
+        },
+        content: [
+            {
+                paragraphId: 1,
+                text: "In 1980, environmentalist Paul Ehrlich and economist Julian Simon made a bet about the future of mankind. Ehrlich predicted that population growth and increased demand for goods would put a strain on limited resources, leading to starvation and catastrophe. Simon, however, did not share Ehrlich's pessimism, arguing that human creativity and intelligence would allow society to obtain the necessary resources or find alternatives. The purpose of the bet, therefore, was to show whose theory was correct. Since Ehrlich's side of the argument was far more familiar to the general public, Simon hoped the bet would attract attention to his side. He bet $1,000 that in a decade, the price of five commonly used metals, including copper and nickel, would be lower. These were chosen because they were often used for manufacturing essential goods and seemed certain to be in short supply if Ehrlich's prediction was correct.",
+                sentences: [
+                    {
+                        "id": 1,
+                        "text": "In 1980, environmentalist Paul Ehrlich and economist Julian Simon made a bet about the future of mankind.",
+                        "translation": "1980年、環境学者ポール・エーリッヒと経済学者ジュリアン・サイモンは人類の未来について賭けをした。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["made"],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(In 1980)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>environmentalist Paul Ehrlich and economist Julian Simon</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>made</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a bet about the future of mankind</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-M'>(1980年に)</span>, <span class='t-S'>環境学者エーリッヒと経済学者サイモンは</span> <span class='t-V'>した</span> <span class='t-O'>人類の未来についての賭けを</span>。",
+                            "naturalTranslation": "1980年、環境学者のポール・エーリッヒと経済学者のジュリアン・サイモンは、人類の未来をめぐる賭けを行った。",
+                            "vocabulary": [
+                                { "word": "environmentalist", "meaning": "環境学者、環境保護活動家" },
+                                { "word": "economist", "meaning": "経済学者" },
+                                { "word": "mankind", "meaning": "人類" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "made a bet", "explanation": "<b>make a bet</b>: 「賭けをする」の慣用表現。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "text": "Ehrlich predicted that population growth and increased demand for goods would put a strain on limited resources, leading to starvation and catastrophe.",
+                        "translation": "エーリッヒは、人口増加と商品への需要増大が限られた資源に負担をかけ、飢餓と大惨事につながると予測した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["predicted"],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Ehrlich</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>predicted</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[that population growth and increased demand for goods would put a strain on limited resources]</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(leading to starvation and catastrophe)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-S'>エーリッヒは</span> <span class='t-V'>予測した</span> <span class='t-O'>[人口増加と需要増大が限られた資源に負担をかけると]</span>, <span class='t-M'>(飢餓と大惨事につながる)</span>。",
+                            "naturalTranslation": "エーリッヒは、人口増加と商品需要の増大により資源が逼迫し、飢餓や大災害が起きると予測した。",
+                            "vocabulary": [
+                                { "word": "population growth", "meaning": "人口増加" },
+                                { "word": "put a strain on", "meaning": "〜に負担をかける" },
+                                { "word": "starvation", "meaning": "飢餓" },
+                                { "word": "catastrophe", "meaning": "大惨事、大災害" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "leading to starvation and catastrophe", "explanation": "<b>分詞構文</b>: 結果を表す。「〜につながる」。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "text": "Simon, however, did not share Ehrlich's pessimism, arguing that human creativity and intelligence would allow society to obtain the necessary resources or find alternatives.",
+                        "translation": "しかしサイモンはエーリッヒの悲観論に同意せず、人間の創造性と知性により社会は必要な資源を得るか代替物を見つけられると主張した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["did not share"],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Simon</span><span class='tag'>S</span></span>, <span class='chunk M-group'><span class='text'>(however)</span><span class='tag'>M</span></span>, <span class='chunk V-group'><span class='text'>did not share</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>Ehrlich's pessimism</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(arguing that human creativity and intelligence would allow society to obtain the necessary resources or find alternatives)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-S'>サイモンは</span> <span class='t-M'>(しかし)</span> <span class='t-V'>共有しなかった</span> <span class='t-O'>エーリッヒの悲観論を</span>, <span class='t-M'>(人間の創造性と知性で社会は必要な資源を得られると主張しながら)</span>。",
+                            "naturalTranslation": "しかしサイモンは、人間の創造性と知性によって社会は必要な資源を獲得したり代替品を見つけられると主張し、エーリッヒの悲観論を否定した。",
+                            "vocabulary": [
+                                { "word": "share", "meaning": "共有する、同意する" },
+                                { "word": "pessimism", "meaning": "悲観論、悲観主義" },
+                                { "word": "creativity", "meaning": "創造性" },
+                                { "word": "alternatives", "meaning": "代替物、代替案" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "arguing that", "explanation": "<b>分詞構文</b>: 「〜と主張しながら」付帯状況。" },
+                                { "phrase": "allow society to obtain", "explanation": "<b>allow O to do</b>: 「Oが〜することを可能にする」。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "text": "The purpose of the bet, therefore, was to show whose theory was correct.",
+                        "translation": "したがって、その賭けの目的はどちらの理論が正しいかを示すことだった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["was"],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>The purpose of the bet</span><span class='tag'>S</span></span>, <span class='chunk M-group'><span class='text'>(therefore)</span><span class='tag'>M</span></span>, <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>to show whose theory was correct</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-S'>その賭けの目的は</span> <span class='t-M'>(したがって)</span> <span class='t-V'>であった</span> <span class='t-C'>どちらの理論が正しいかを示すこと</span>。",
+                            "naturalTranslation": "つまり、この賭けの目的は、どちらの理論が正しいかを証明することだった。",
+                            "vocabulary": [
+                                { "word": "therefore", "meaning": "したがって、それゆえ" },
+                                { "word": "theory", "meaning": "理論" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "whose theory was correct", "explanation": "<b>間接疑問文</b>: 「どちらの理論が正しいか」。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "text": "Since Ehrlich's side of the argument was far more familiar to the general public, Simon hoped the bet would attract attention to his side.",
+                        "translation": "エーリッヒ側の主張は一般大衆にははるかによく知られていたため、サイモンはこの賭けが自分の側に注目を集めることを期待した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["hoped"],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Since Ehrlich's side of the argument was far more familiar to the general public)</span><span class='tag'>M(理由)</span></span>, <span class='chunk S-group'><span class='text'>Simon</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>hoped</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[the bet would attract attention to his side]</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-M'>(エーリッヒ側の主張が大衆によく知られていたので)</span>, <span class='t-S'>サイモンは</span> <span class='t-V'>期待した</span> <span class='t-O'>[この賭けが自分の側に注目を集めると]</span>。",
+                            "naturalTranslation": "エーリッヒの主張の方が一般の人々によく知られていたため、サイモンはこの賭けによって自分の考えに注目が集まることを望んだ。",
+                            "vocabulary": [
+                                { "word": "familiar to", "meaning": "〜によく知られている" },
+                                { "word": "general public", "meaning": "一般大衆" },
+                                { "word": "attract attention", "meaning": "注目を集める" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "Since Ehrlich's side of the argument was far more familiar to the general public", "explanation": "<b>Since節</b>: 理由を表す従属節。「〜なので」。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "text": "He bet $1,000 that in a decade, the price of five commonly used metals, including copper and nickel, would be lower.",
+                        "translation": "彼は、10年後に銅やニッケルを含む5種類の一般的に使われる金属の価格が下がるだろうと1,000ドルを賭けた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["bet"],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>He</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>bet</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>$1,000</span><span class='tag'>O</span></span> <span class='chunk O-group'><span class='text'>[that in a decade, the price of five commonly used metals, including copper and nickel, would be lower]</span><span class='tag'>O(that節)</span></span>.",
+                            "translationHtml": "<span class='t-S'>彼は</span> <span class='t-V'>賭けた</span> <span class='t-O'>1,000ドルを</span> <span class='t-O'>[10年後に5種類の金属の価格が下がると]</span>。",
+                            "naturalTranslation": "彼は、10年後に銅やニッケルなど5種類の一般的な金属の価格が下落すると1,000ドルを賭けた。",
+                            "vocabulary": [
+                                { "word": "decade", "meaning": "10年間" },
+                                { "word": "commonly", "meaning": "一般的に、普通に" },
+                                { "word": "copper", "meaning": "銅" },
+                                { "word": "nickel", "meaning": "ニッケル" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "including copper and nickel", "explanation": "<b>分詞の挿入句</b>: 「銅やニッケルを含む」。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "text": "These were chosen because they were often used for manufacturing essential goods and seemed certain to be in short supply if Ehrlich's prediction was correct.",
+                        "translation": "これらが選ばれたのは、必需品の製造によく使われ、エーリッヒの予測が正しければ確実に不足すると思われたからだ。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["were chosen"],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>These</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were chosen</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(because they were often used for manufacturing essential goods and seemed certain to be in short supply if Ehrlich's prediction was correct)</span><span class='tag'>M(理由)</span></span>.",
+                            "translationHtml": "<span class='t-S'>これらは</span> <span class='t-V'>選ばれた</span> <span class='t-M'>(必需品製造に使われ、エーリッヒの予測が正しければ不足必至だったので)</span>。",
+                            "naturalTranslation": "これらの金属が選ばれたのは、必需品の製造に頻繁に使用され、エーリッヒの予測が正しければ間違いなく供給不足に陥るとみられていたためである。",
+                            "vocabulary": [
+                                { "word": "manufacturing", "meaning": "製造" },
+                                { "word": "essential goods", "meaning": "必需品" },
+                                { "word": "be in short supply", "meaning": "不足している、供給不足である" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "seemed certain to be", "explanation": "<b>seem + to不定詞</b>: 「〜するように思われる」。certainは補語。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 2,
+                text: "Ten years later, Simon won—prices of the metals fell by around 50 percent overall when adjusted for inflation. However, economists say that, to some extent, Simon got lucky. If different materials or starting times had been chosen, there would have been numerous scenarios where Simon ended up paying Ehrlich. In the 1990s, for example, factors like the collapse of Communist governments in Eastern Europe led to substantial declines in raw material prices, and in the years following, they tended to rise due to the recovery of the formerly Communist economies and reductions in supply. Therefore, there would have been a large increase in prices over ten years if the bet had been delayed. It is now generally agreed that Simon was correct overall, however, and would inevitably win on a longer timescale.",
+                sentences: [
+                    {
+                        "id": 8,
+                        "text": "Ten years later, Simon won—prices of the metals fell by around 50 percent overall when adjusted for inflation.",
+                        "translation": "10年後、サイモンが勝った—インフレ調整後、金属の価格は全体で約50%下落した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["won", "fell"],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Ten years later)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>Simon</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>won</span><span class='tag'>V</span></span>—<span class='chunk S-group'><span class='text'>prices of the metals</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>fell</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(by around 50 percent overall when adjusted for inflation)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-M'>(10年後)</span>, <span class='t-S'>サイモンが</span> <span class='t-V'>勝った</span>—<span class='t-S'>金属の価格は</span> <span class='t-V'>下落した</span> <span class='t-M'>(インフレ調整後約50%)</span>。",
+                            "naturalTranslation": "10年後、サイモンが勝利した。インフレ調整後、金属価格は全体で約50%下落していた。",
+                            "vocabulary": [
+                                { "word": "adjusted for", "meaning": "〜を調整して" },
+                                { "word": "inflation", "meaning": "インフレ、物価上昇" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "when adjusted for inflation", "explanation": "<b>分詞構文</b>: 「インフレを調整すると」条件を表す。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "text": "However, economists say that, to some extent, Simon got lucky.",
+                        "translation": "しかし、経済学者たちは、ある程度サイモンは運が良かったと言っている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["say"],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>economists</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>say</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[that, to some extent, Simon got lucky]</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-M'>(しかし)</span>, <span class='t-S'>経済学者たちは</span> <span class='t-V'>言っている</span> <span class='t-O'>[ある程度サイモンは運が良かったと]</span>。",
+                            "naturalTranslation": "しかしながら、経済学者たちは、サイモンはある程度運に恵まれたと指摘している。",
+                            "vocabulary": [
+                                { "word": "to some extent", "meaning": "ある程度" },
+                                { "word": "get lucky", "meaning": "運が良い、幸運に恵まれる" }
+                            ],
+                            "grammarNotes": []
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "text": "If different materials or starting times had been chosen, there would have been numerous scenarios where Simon ended up paying Ehrlich.",
+                        "translation": "もし異なる材料や開始時期が選ばれていたら、サイモンがエーリッヒに支払うことになる多数のシナリオがあっただろう。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["would have been"],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(If different materials or starting times had been chosen)</span><span class='tag'>M(条件)</span></span>, <span class='chunk V-group'><span class='text'>there would have been</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>numerous scenarios [where Simon ended up paying Ehrlich]</span><span class='tag'>S</span></span>.",
+                            "translationHtml": "<span class='t-M'>(もし異なる材料や時期が選ばれていたら)</span>, <span class='t-V'>あっただろう</span> <span class='t-S'>多数のシナリオが[サイモンがエーリッヒに支払う]</span>。",
+                            "naturalTranslation": "もし別の素材や開始時期が選ばれていたなら、サイモンがエーリッヒに支払う羽目になるケースは数多くあったはずだ。",
+                            "vocabulary": [
+                                { "word": "numerous", "meaning": "多数の" },
+                                { "word": "scenario", "meaning": "シナリオ、想定される状況" },
+                                { "word": "end up doing", "meaning": "結局〜することになる" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "If different materials or starting times had been chosen", "explanation": "<b>仮定法過去完了</b>: 「もし〜が選ばれていたら」過去の事実に反する仮定。" },
+                                { "phrase": "there would have been", "explanation": "<b>仮定法過去完了の帰結節</b>: 「〜があっただろう」。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 11,
+                        "text": "In the 1990s, for example, factors like the collapse of Communist governments in Eastern Europe led to substantial declines in raw material prices, and in the years following, they tended to rise due to the recovery of the formerly Communist economies and reductions in supply.",
+                        "translation": "例えば1990年代には、東欧の共産主義政府の崩壊などの要因が原材料価格の大幅な下落をもたらし、その後の数年間は、旧共産主義経済の回復と供給の減少により価格は上昇する傾向にあった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["led", "tended"],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(In the 1990s, for example)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>factors like the collapse of Communist governments in Eastern Europe</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>led to</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>substantial declines in raw material prices</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(and in the years following)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>tended to rise</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(due to the recovery of the formerly Communist economies and reductions in supply)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-M'>(1990年代には例えば)</span>, <span class='t-S'>東欧共産主義政府崩壊などの要因が</span> <span class='t-V'>もたらした</span> <span class='t-O'>原材料価格の大幅下落を</span>, <span class='t-M'>(その後の数年間)</span>, <span class='t-S'>それらは</span> <span class='t-V'>上昇する傾向にあった</span> <span class='t-M'>(旧共産主義経済回復と供給減少により)</span>。",
+                            "naturalTranslation": "例えば1990年代には、東ヨーロッパの共産主義政権崩壊などの要因で原材料価格が大幅に下落し、その後は旧共産圏経済の回復や供給減少によって価格は上昇傾向にあった。",
+                            "vocabulary": [
+                                { "word": "collapse", "meaning": "崩壊" },
+                                { "word": "Communist", "meaning": "共産主義の" },
+                                { "word": "substantial", "meaning": "相当な、かなりの" },
+                                { "word": "raw material", "meaning": "原材料" },
+                                { "word": "formerly", "meaning": "以前、かつて" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "led to substantial declines", "explanation": "<b>lead to</b>: 「〜をもたらす、〜につながる」。" },
+                                { "phrase": "tended to rise", "explanation": "<b>tend to do</b>: 「〜する傾向がある」。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 12,
+                        "text": "Therefore, there would have been a large increase in prices over ten years if the bet had been delayed.",
+                        "translation": "したがって、もし賭けが延期されていたら、10年間で価格の大幅な上昇があっただろう。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["would have been"],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Therefore)</span><span class='tag'>M</span></span>, <span class='chunk V-group'><span class='text'>there would have been</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>a large increase in prices over ten years</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(if the bet had been delayed)</span><span class='tag'>M(条件)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(したがって)</span>, <span class='t-V'>あっただろう</span> <span class='t-S'>10年間で価格の大幅上昇が</span> <span class='t-M'>(もし賭けが延期されていたら)</span>。",
+                            "naturalTranslation": "つまり、賭けの時期がずれていれば、10年間で価格は大きく上昇していたはずだ。",
+                            "vocabulary": [
+                                { "word": "delay", "meaning": "延期する、遅らせる" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "if the bet had been delayed", "explanation": "<b>仮定法過去完了</b>: 「もし賭けが延期されていたら」。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 13,
+                        "text": "It is now generally agreed that Simon was correct overall, however, and would inevitably win on a longer timescale.",
+                        "translation": "しかし、サイモンは全体的に正しく、より長い時間スケールでは必然的に勝つことになっただろうというのが今では広く認められている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["is now generally agreed"],
+                            "structureHtml": "<span class='chunk V-group'><span class='text'>It is now generally agreed</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>[that Simon was correct overall, however, and would inevitably win on a longer timescale]</span><span class='tag'>S(that節)</span></span>.",
+                            "translationHtml": "<span class='t-V'>今では広く認められている</span> <span class='t-S'>[サイモンは全体的に正しく、長期的には必然的に勝つと]</span>。",
+                            "naturalTranslation": "現在では、サイモンが総合的に正しく、より長期の視点では必ず勝利を収めていたはずだという見方が一般的である。",
+                            "vocabulary": [
+                                { "word": "generally agreed", "meaning": "広く認められている" },
+                                { "word": "inevitably", "meaning": "必然的に、避けられず" },
+                                { "word": "timescale", "meaning": "時間スケール、期間" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "It is now generally agreed that", "explanation": "<b>形式主語構文</b>: 「〜ということが広く認められている」。Itは形式主語、that節が真主語。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 3,
+                text: "Today, Ehrlich's prediction has failed to become reality. Thanks to technology, when population growth increases demand for materials, improvements in production methods tend to counter its effects, or substitutes are found. While this seems like positive news, there are worries about the impact of debates like Ehrlich and Simon's. The fact that technology appears to have lessened the effects of population growth is often taken as evidence that humans will also be able to overcome environmental problems in the same way. This is not necessarily the case, however, as the climate crisis shows. Furthermore, the fact that environmental debates are set out in the same way, with extreme warnings of catastrophe, such as global warming, being countered by incredibly optimistic predictions, tends to make constructive dialogue impossible and divide people into two opposing camps.",
+                sentences: [
+                    {
+                        "id": 14,
+                        "text": "Today, Ehrlich's prediction has failed to become reality.",
+                        "translation": "今日、エーリッヒの予測は現実にはならなかった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["has failed"],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Today)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>Ehrlich's prediction</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has failed</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(to become reality)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-M'>(今日)</span>, <span class='t-S'>エーリッヒの予測は</span> <span class='t-V'>失敗した</span> <span class='t-M'>(現実になることに)</span>。",
+                            "naturalTranslation": "現在、エーリッヒの予測は実現しなかった。",
+                            "vocabulary": [
+                                { "word": "prediction", "meaning": "予測" },
+                                { "word": "fail to do", "meaning": "〜できない、〜しそこなう" },
+                                { "word": "reality", "meaning": "現実" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "has failed to become", "explanation": "<b>fail to do</b>: 「〜できない」。現在完了形で過去から現在までの結果を表す。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 15,
+                        "text": "Thanks to technology, when population growth increases demand for materials, improvements in production methods tend to counter its effects, or substitutes are found.",
+                        "translation": "技術のおかげで、人口増加が材料への需要を増やすとき、生産方法の改善がその影響に対抗するか、代替物が見つかる傾向にある。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["tend", "are found"],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Thanks to technology)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(when population growth increases demand for materials)</span><span class='tag'>M(時)</span></span>, <span class='chunk S-group'><span class='text'>improvements in production methods</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>tend to counter</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>its effects</span><span class='tag'>O</span></span>, or <span class='chunk S-group'><span class='text'>substitutes</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are found</span><span class='tag'>V</span></span>.",
+                            "translationHtml": "<span class='t-M'>(技術のおかげで)</span>, <span class='t-M'>(人口増加が材料需要を増やすとき)</span>, <span class='t-S'>生産方法の改善が</span> <span class='t-V'>対抗する傾向にある</span> <span class='t-O'>その影響に</span>, または <span class='t-S'>代替物が</span> <span class='t-V'>見つかる</span>。",
+                            "naturalTranslation": "技術の進歩により、人口増加で材料需要が高まると、生産技術の向上がその影響を相殺したり、代替品が発見されるようになっている。",
+                            "vocabulary": [
+                                { "word": "thanks to", "meaning": "〜のおかげで" },
+                                { "word": "counter", "meaning": "対抗する、打ち消す" },
+                                { "word": "substitutes", "meaning": "代替物" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "tend to counter", "explanation": "<b>tend to do</b>: 「〜する傾向がある」。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 16,
+                        "text": "While this seems like positive news, there are worries about the impact of debates like Ehrlich and Simon's.",
+                        "translation": "これは良いニュースのように思えるが、エーリッヒとサイモンのような議論の影響について懸念がある。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["are"],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(While this seems like positive news)</span><span class='tag'>M(譲歩)</span></span>, <span class='chunk V-group'><span class='text'>there are</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>worries about the impact of debates like Ehrlich and Simon's</span><span class='tag'>S</span></span>.",
+                            "translationHtml": "<span class='t-M'>(これは良いニュースのように思えるが)</span>, <span class='t-V'>ある</span> <span class='t-S'>エーリッヒとサイモンのような議論の影響についての懸念が</span>。",
+                            "naturalTranslation": "これは朗報に思えるが、エーリッヒとサイモンのような議論が及ぼす影響を懸念する声もある。",
+                            "vocabulary": [
+                                { "word": "positive news", "meaning": "良いニュース、朗報" },
+                                { "word": "worries", "meaning": "懸念、心配" },
+                                { "word": "impact", "meaning": "影響" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "While this seems like positive news", "explanation": "<b>While節（譲歩）</b>: 「〜だけれども」。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 17,
+                        "text": "The fact that technology appears to have lessened the effects of population growth is often taken as evidence that humans will also be able to overcome environmental problems in the same way.",
+                        "translation": "技術が人口増加の影響を軽減したように見えるという事実は、人間が同様に環境問題を克服できるという証拠としてしばしば受け取られる。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["is often taken"],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>The fact [that technology appears to have lessened the effects of population growth]</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is often taken</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>as evidence [that humans will also be able to overcome environmental problems in the same way]</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-S'>[技術が人口増加の影響を軽減したように見える]という事実は</span> <span class='t-V'>しばしば受け取られる</span> <span class='t-C'>[人間が同様に環境問題を克服できる]という証拠として</span>。",
+                            "naturalTranslation": "技術が人口増加の影響を緩和してきたように見えるという事実は、人類が同じ方法で環境問題も克服できるという証拠として頻繁に引き合いに出される。",
+                            "vocabulary": [
+                                { "word": "lessen", "meaning": "軽減する、減らす" },
+                                { "word": "be taken as", "meaning": "〜として受け取られる" },
+                                { "word": "evidence", "meaning": "証拠" },
+                                { "word": "overcome", "meaning": "克服する" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "The fact that technology appears to have lessened", "explanation": "<b>同格のthat節</b>: 「〜という事実」。factの内容を説明。" },
+                                { "phrase": "is often taken as evidence", "explanation": "<b>take A as B</b>: 「AをBとして受け取る」の受動態。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 18,
+                        "text": "This is not necessarily the case, however, as the climate crisis shows.",
+                        "translation": "しかし、気候危機が示すように、これは必ずしも当てはまらない。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["is"],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>This</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>not necessarily the case</span><span class='tag'>C</span></span>, <span class='chunk M-group'><span class='text'>(however)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(as the climate crisis shows)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-S'>これは</span> <span class='t-V'>である</span> <span class='t-C'>必ずしも当てはまらない</span>, <span class='t-M'>(しかし)</span>, <span class='t-M'>(気候危機が示すように)</span>。",
+                            "naturalTranslation": "しかしながら、気候危機が示しているように、これは必ずしも正しくない。",
+                            "vocabulary": [
+                                { "word": "not necessarily", "meaning": "必ずしも〜ではない" },
+                                { "word": "the case", "meaning": "事実、実情" },
+                                { "word": "climate crisis", "meaning": "気候危機" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "as the climate crisis shows", "explanation": "<b>as節</b>: 「〜が示すように」様態を表す。" }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 19,
+                        "text": "Furthermore, the fact that environmental debates are set out in the same way, with extreme warnings of catastrophe, such as global warming, being countered by incredibly optimistic predictions, tends to make constructive dialogue impossible and divide people into two opposing camps.",
+                        "translation": "さらに、環境に関する議論が同じやり方で展開され、地球温暖化などの極端な災害の警告が、信じられないほど楽観的な予測によって反論されるという事実は、建設的な対話を不可能にし、人々を対立する2つの陣営に分ける傾向がある。",
+                        "grammarAnalysis": {
+                            "mainVerbs": ["tends"],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Furthermore)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the fact [that environmental debates are set out in the same way, with extreme warnings of catastrophe, such as global warming, being countered by incredibly optimistic predictions]</span><span class='tag'>S</span></span>, <span class='chunk V-group'><span class='text'>tends to make</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>constructive dialogue impossible</span><span class='tag'>O+C</span></span> and <span class='chunk V-group'><span class='text'>divide</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>people into two opposing camps</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-M'>(さらに)</span>, <span class='t-S'>[環境議論が同じやり方で展開され、極端な警告が楽観的予測で反論される]という事実は</span>, <span class='t-V'>する傾向がある</span> <span class='t-O'>建設的対話を不可能に</span> そして <span class='t-V'>分ける</span> <span class='t-O'>人々を対立する2陣営に</span>。",
+                            "naturalTranslation": "さらに、環境問題に関する議論が同様のパターンで行われ、地球温暖化のような極端な災害警告が非常に楽観的な予測で打ち消されるという状況は、建設的な対話を不可能にし、人々を二つの対立する陣営に分断する傾向がある。",
+                            "vocabulary": [
+                                { "word": "furthermore", "meaning": "さらに" },
+                                { "word": "set out", "meaning": "述べる、展開する" },
+                                { "word": "extreme", "meaning": "極端な" },
+                                { "word": "counter", "meaning": "反論する、対抗する" },
+                                { "word": "optimistic", "meaning": "楽観的な" },
+                                { "word": "constructive dialogue", "meaning": "建設的な対話" },
+                                { "word": "opposing camps", "meaning": "対立する陣営" }
+                            ],
+                            "grammarNotes": [
+                                { "phrase": "the fact that environmental debates are set out in the same way", "explanation": "<b>同格のthat節</b>: 「〜という事実」。長い主語。" },
+                                { "phrase": "being countered by", "explanation": "<b>分詞構文（付帯状況）</b>: 「〜によって反論されながら」。" },
+                                { "phrase": "tends to make constructive dialogue impossible", "explanation": "<b>make O C</b>: 「OをCにする」+ tend to「〜する傾向がある」。" }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        questions: [
+            {
+                id: 35,
+                text: "Julian Simon bet Paul Ehrlich $1,000 because",
+                textTranslation: "Julian SimonがPaul Ehrlichに$1,000を賭けた理由は〜だから",
+                correctAnswer: 3,
+                choices: [
+                    { id: 1, text: "he did not think that the prices of certain essential goods were related to the prices of things like common metals.", translation: "彼は、特定の必需品の価格が一般的な金属のようなものの価格に関連しているとは考えていなかった。" },
+                    { id: 2, text: "he believed that the price of the metals would not be affected even if they became rare due to the increased demand.", translation: "彼は、需要が増加して金属が希少になっても、その価格は影響を受けないと信じていた。" },
+                    { id: 3, text: "he wanted to demonstrate that increases in population would not result in serious shortages of the materials that humans needed to live.", translation: "彼は、人口増加が人間が生きていくために必要な材料の深刻な不足を招かないことを実証したかった。" },
+                    { id: 4, text: "he knew that new methods of production would be invented that would lead to a decrease in the demand for goods.", translation: "彼は、商品の需要減少につながる新しい生産方法が発明されることを知っていた。" }
+                ],
+                keywords: ["Simon", "bet", "$1,000"],
+                keywordMatches: [
+                    { text: "Simon hoped the bet would attract attention to his side", sentenceId: 5, keyword: "Simon" },
+                    { text: "He bet $1,000", sentenceId: 6, keyword: "$1,000" }
+                ],
+                keywordExplanations: {
+                    "Simon": "設問の主語。第1段落でSimonの考えと賭けの目的が説明される。",
+                    "bet": "賭けた理由を問う。Simonは人間の創造性で資源問題を解決できると主張。",
+                    "$1,000": "具体的な賭け金額。10年後に金属価格が下がると予測。"
+                },
+                logic: [
+                    { type: "question", content: "Simon が $1,000 を賭けた理由は？" },
+                    { type: "text", content: "【決定要因】第1段落: 'Simon, however, did not share Ehrlich's pessimism, arguing that human creativity and intelligence would allow society to obtain the necessary resources or find alternatives.' → Simonは人口増加による資源不足は起きないと考えていた。" },
+                    { type: "text", content: "選択肢3: 'he wanted to demonstrate that increases in population would not result in serious shortages of the materials that humans needed to live.' が本文の 'arguing that human creativity and intelligence would allow society to obtain the necessary resources' と一致。" }
+                ],
+                hint: {
+                    highlightWord: "did not share",
+                    highlightWordSentenceId: 3,
+                    description: "第1段落の Simon, however, did not share Ehrlich's pessimism に注目。彼が悲観論を共有しなかった理由を考えましょう。",
+                    targetSentenceId: 3
+                }
+            },
+            {
+                id: 36,
+                text: "What is implied in the second paragraph about the bet between Simon and Ehrlich?",
+                textTranslation: "第2段落において、SimonとEhrlichの賭けについて何が示唆されているか",
+                correctAnswer: 1,
+                choices: [
+                    { id: 1, text: "The specific metals and the time period that were chosen for the bet seem to have had an effect on the result.", translation: "賭けのために選ばれた特定の金属と期間が、結果に影響を与えたようだ。" },
+                    { id: 2, text: "Although the prices of a few metals did decrease, Ehrlich was correct about the increasing shortages due to population growth.", translation: "数種類の金属の価格は下がったが、人口増加による不足の増大についてはエーリッヒが正しかった。" },
+                    { id: 3, text: "It demonstrated that neither Ehrlich nor Simon was actually correct about the long-term trends that were occurring.", translation: "それは、起こっていた長期的な傾向について、エーリッヒもサイモンも実際には正しくなかったことを示した。" },
+                    { id: 4, text: "Simon would still have won, even if the governments of countries in Eastern Europe had not had problems in the 1990s.", translation: "1990年代に東欧諸国の政府が問題を抱えていなかったとしても、サイモンは勝っていただろう。" }
+                ],
+                keywords: ["implied", "second paragraph", "bet"],
+                keywordMatches: [
+                    { text: "If different materials or starting times had been chosen", sentenceId: 10, keyword: "implied" },
+                    { text: "there would have been numerous scenarios where Simon ended up paying Ehrlich", sentenceId: 10, keyword: "bet" }
+                ],
+                keywordExplanations: {
+                    "implied": "暗示されている内容を問う。仮定法の文に注目。",
+                    "second paragraph": "第2段落が対象。Simonの勝利とその偶然性を論じている。",
+                    "bet": "賭けの結果について何が示唆されるか。"
+                },
+                logic: [
+                    { type: "question", content: "第2段落で賭けについて暗示されていることは？" },
+                    { type: "text", content: "【決定要因】第2段落: 'If different materials or starting times had been chosen, there would have been numerous scenarios where Simon ended up paying Ehrlich.' → 選ばれた金属と時期が結果に影響したことを示唆。" },
+                    { type: "text", content: "選択肢1: 'The specific metals and the time period that were chosen for the bet seem to have had an effect on the result.' が正解。" }
+                ],
+                hint: {
+                    highlightWord: "If different materials",
+                    highlightWordSentenceId: 10,
+                    description: "第2段落の If different materials or starting times had been chosen に注目。条件が変われば結果も変わった可能性を示唆しています。",
+                    targetSentenceId: 10
+                }
+            },
+            {
+                id: 37,
+                text: "According to the author of the passage, what impact do debates like the one between Simon and Ehrlich seem to have had on modern society?",
+                textTranslation: "筆者によると、SimonとEhrlichの間のような議論は、現代社会にどのような影響を与えたと思われるか",
+                correctAnswer: 4,
+                choices: [
+                    { id: 1, text: "They have made it clear that finding alternatives to common metals will become important in the very near future.", translation: "それらは、一般的な金属の代替品を見つけることが非常に近い将来重要になることを明らかにした。" },
+                    { id: 2, text: "They have made people realize that the way common metals are used has more effect on the environment than had previously been known.", translation: "それらは、一般的な金属の使用方法が、以前知られていたよりも環境に大きな影響を与えることを人々に認識させた。" },
+                    { id: 3, text: "They have increased debates about how current population increases are going to affect the supply of necessary materials in the future.", translation: "それらは、現在の人口増加が将来の必要な材料の供給にどのように影響するかについての議論を増加させた。" },
+                    { id: 4, text: "They have influenced the way that people see modern environmental problems and made it more difficult to have meaningful communication about them.", translation: "それらは、人々が現代の環境問題を見る方法に影響を与え、それらについて意味のあるコミュニケーションをとることをより難しくした。" }
+                ],
+                keywords: ["impact", "debates", "modern society"],
+                keywordMatches: [
+                    { text: "there are worries about the impact of debates like Ehrlich and Simon's", sentenceId: 16, keyword: "impact" },
+                    { text: "tends to make constructive dialogue impossible and divide people into two opposing camps", sentenceId: 19, keyword: "modern society" }
+                ],
+                keywordExplanations: {
+                    "impact": "議論の影響を問う。第3段落後半に否定的な影響が記述。",
+                    "debates": "EhrlichとSimonのような議論形式が問題。",
+                    "modern society": "現代社会への悪影響について。"
+                },
+                logic: [
+                    { type: "question", content: "著者によると、SimonとEhrlichのような議論は現代社会にどのような影響を与えたか？" },
+                    { type: "text", content: "【決定要因】第3段落: 'Furthermore, the fact that environmental debates are set out in the same way, ... tends to make constructive dialogue impossible and divide people into two opposing camps.' → 現代の環境議論も同様に対立構造になり、建設的な対話が難しくなっている。" },
+                    { type: "text", content: "選択肢4: 'They have influenced the way that people see modern environmental problems and made it more difficult to have meaningful communication about them.' が一致。" }
+                ],
+                hint: {
+                    highlightWord: "tends to make constructive dialogue impossible",
+                    highlightWordSentenceId: 19,
+                    description: "第3段落の tends to make constructive dialogue impossible に注目。同様の議論形式がもたらす負の影響について述べています。",
+                    targetSentenceId: 19
+                }
+            }
+        ],
+        summaryForInstructors: {
+            title: "The Bet (賭け)",
+            intro: "環境学者Ehrlichと経済学者Simonの資源をめぐる有名な賭けと、その結果が現代の環境議論に与えた影響について論じた文章。",
+            points: [
+                { label: "1. 賭けの背景", text: "1980年、EhrlichとSimonが人類の未来を賭けた。Ehrlichは資源枯渇を予測、Simonは人間の創造性で解決可能と主張。金属価格で勝負。" },
+                { label: "2. 賭けの結果", text: "10年後Simonが勝利（金属価格50%下落）。ただし運も良かった。東欧共産主義崩壊など外的要因の影響。時期が違えばEhrlichが勝っていた可能性も。" },
+                { label: "3. 現代への影響", text: "Ehrlichの予測は実現せず。技術が資源問題を解決。しかし環境議論が極端な楽観vs悲観に二分され、建設的対話が困難に。" }
+            ]
+        }
+    }
+    ,
+    {
+        "id": "pre1-2023-3-3-3",
+        "grade": "準1級",
+        "title": "Meritocracy",
+        "subTitle": "2023年度 第3回 準1級 大問3",
+        "images": {
+            "content": "/images/reading/pre1-2023-3-3-3-content.png",
+            "question": "/images/reading/pre1-2023-3-3-3-question.png"
+        },
+        "content": [
+            {
+                "paragraphId": 1,
+                "text": "Meritocracy, a system in which people are rewarded based on talent and effort rather than class or wealth, is widely regarded as an ideal basis for a fair society. Efforts to implement this system in the United States began with noble intentions as institutions, such as elite universities and large corporations, realized that wealthy white males enjoyed an unreasonable degree of privilege. The institutions sought to make themselves more accessible to females, minorities, and people from working-class backgrounds. While these attempts initially led to improved admission and hiring rates for disadvantaged people, there are indications that people with higher incomes have come up with ways to gain an unfair share of educational opportunities. Access to superior schools and private tutoring, after all, greatly increases the odds that their children will be admitted to an elite university, which in turn enhances their earning potential. Although things like college scholarships for minorities may create the illusion of fairness, meritocracy can often be manipulated.",
+                "sentences": [
+                    {
+                        "id": 1,
+                        "text": "Meritocracy, a system in which people are rewarded based on talent and effort rather than class or wealth, is widely regarded as an ideal basis for a fair society.",
+                        "translation": "実力主義は、人々が階級や富ではなく才能と努力に基づいて報われるシステムであり、公正な社会の理想的な基盤として広く見なされている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "is widely regarded"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Meritocracy</span><span class='tag'>S</span></span>, <span class='chunk M-group'><span class='text'>(a system in which people are rewarded based on talent and effort rather than class or wealth)</span><span class='tag'>M(同格)</span></span>, <span class='chunk V-group'><span class='text'>is <span class='verb-highlight'>widely regarded</span></span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>as an ideal basis for a fair society</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-S'>実力主義は</span>, <span class='t-M'>(人々が階級や富ではなく才能と努力に基づいて報われるシステムである)</span>, <span class='t-V'>広く見なされている</span> <span class='t-C'>公正な社会の理想的な基盤として</span>。",
+                            "naturalTranslation": "人々が階級や富ではなく才能と努力に基づいて報われるシステムである実力主義は、公正な社会の理想的な基盤として広く考えられている。",
+                            "vocabulary": [
+                                {
+                                    "word": "meritocracy",
+                                    "meaning": "実力主義、能力主義"
+                                },
+                                {
+                                    "word": "reward",
+                                    "meaning": "〜に報いる、褒美を与える"
+                                },
+                                {
+                                    "word": "talent",
+                                    "meaning": "才能"
+                                },
+                                {
+                                    "word": "regard A as B",
+                                    "meaning": "AをBとみなす"
+                                },
+                                {
+                                    "word": "basis",
+                                    "meaning": "基盤、基礎"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "a system in which...",
+                                    "explanation": "<b>Meritocracyと同格</b>の説明。関係代名詞whichが先行詞systemを修飾。"
+                                },
+                                {
+                                    "phrase": "rather than class or wealth",
+                                    "explanation": "「階級や富ではなく」。比較対象を提示。"
+                                },
+                                {
+                                    "phrase": "is widely regarded as",
+                                    "explanation": "<b>受動態 + as</b>: 「〜として広く見なされている」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "text": "Efforts to implement this system in the United States began with noble intentions as institutions, such as elite universities and large corporations, realized that wealthy white males enjoyed an unreasonable degree of privilege.",
+                        "translation": "米国でこのシステムを導入する取り組みは、エリート大学や大企業などの機関が、裕福な白人男性が不当なほどの特権を享受していることに気づいたため、崇高な意図を持って始まった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "began"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Efforts to implement this system in the United States</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>began</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(with noble intentions)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(as institutions, such as elite universities and large corporations, realized [that wealthy white males enjoyed an unreasonable degree of privilege])</span><span class='tag'>M(理由)</span></span>.",
+                            "translationHtml": "<span class='t-S'>米国でこのシステムを導入する取り組みは</span> <span class='t-V'>始まった</span> <span class='t-M'>(崇高な意図を持って)</span> <span class='t-M'>(機関などが[裕福な白人男性が不当な特権を享受している]と気づいたので)</span>。",
+                            "naturalTranslation": "米国におけるこの制度導入の取り組みは、エリート大学や大企業といった機関が、裕福な白人男性が不当に大きな特権を享受していると認識したことから、崇高な目的を持って開始された。",
+                            "vocabulary": [
+                                {
+                                    "word": "implement",
+                                    "meaning": "実行する、導入する"
+                                },
+                                {
+                                    "word": "noble",
+                                    "meaning": "高潔な、崇高な"
+                                },
+                                {
+                                    "word": "intention",
+                                    "meaning": "意図、目的"
+                                },
+                                {
+                                    "word": "institution",
+                                    "meaning": "機関、組織"
+                                },
+                                {
+                                    "word": "corporation",
+                                    "meaning": "企業"
+                                },
+                                {
+                                    "word": "privilege",
+                                    "meaning": "特権"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "Efforts to implement...",
+                                    "explanation": "<b>不定詞の形容詞的用法</b>: 「〜するための努力」。"
+                                },
+                                {
+                                    "phrase": "as institutions ... realized",
+                                    "explanation": "<b>As節（理由）</b>: 「〜なので」。"
+                                },
+                                {
+                                    "phrase": "that wealthy white males enjoyed...",
+                                    "explanation": "<b>接続詞that</b>: realizedの目的語となる名詞節を作る。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "text": "The institutions sought to make themselves more accessible to females, minorities, and people from working-class backgrounds.",
+                        "translation": "これらの機関は、女性、少数派、労働者階級出身の人々にとって、よりアクセスしやすいものになろうと努めた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "sought"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>The institutions</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>sought</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to make themselves more accessible to females, minorities, and people from working-class backgrounds</span><span class='tag'>O(不定詞)</span></span>.",
+                            "translationHtml": "<span class='t-S'>その機関は</span> <span class='t-V'>努めた(求めた)</span> <span class='t-O'>自分たちを女性や少数派、労働者階級の人々にとってより利用しやすくすることを</span>。",
+                            "naturalTranslation": "これらの機関は、自らを女性やマイノリティ、労働者階級の出身者にとってより開かれたものにしようと努めた。",
+                            "vocabulary": [
+                                {
+                                    "word": "seek",
+                                    "meaning": "努める、捜し求める (past: sought)"
+                                },
+                                {
+                                    "word": "accessible",
+                                    "meaning": "アクセスしやすい、利用しやすい"
+                                },
+                                {
+                                    "word": "minority",
+                                    "meaning": "少数派、マイノリティ"
+                                },
+                                {
+                                    "word": "working-class",
+                                    "meaning": "労働者階級の"
+                                },
+                                {
+                                    "word": "background",
+                                    "meaning": "背景、生い立ち"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "sought to do",
+                                    "explanation": "<b>seek to do</b>: 「〜しようと努める」。"
+                                },
+                                {
+                                    "phrase": "make themselves more accessible",
+                                    "explanation": "<b>make O C</b>: 「OをCにする」。themselvesは再帰代名詞。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "text": "While these attempts initially led to improved admission and hiring rates for disadvantaged people, there are indications that people with higher incomes have come up with ways to gain an unfair share of educational opportunities.",
+                        "translation": "これらの試みは当初、恵まれない人々の入学率や採用率の向上につながったが、高所得者の人々が教育機会の不公平なシェアを得る方法を考え出したという兆候がある。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "are"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(While these attempts initially led to improved admission and hiring rates for disadvantaged people)</span><span class='tag'>M(譲歩)</span></span>, <span class='chunk V-group'><span class='text'>there are</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>indications [that people with higher incomes have come up with ways to gain an unfair share of educational opportunities]</span><span class='tag'>S</span></span>.",
+                            "translationHtml": "<span class='t-M'>(これらの試みは当初は恵まれない人々の率向上につながったが)</span>, <span class='t-V'>ある</span> <span class='t-S'>兆候が[高所得の人々が教育機会の不公平な取り分を得る方法を思いついたという]</span>。",
+                            "naturalTranslation": "こうした試みは当初こそ恵まれない人々の入学・採用率改善につながったものの、高所得層が教育機会を不当に独占する方策を編み出したことを示す兆候が見られる。",
+                            "vocabulary": [
+                                {
+                                    "word": "admission",
+                                    "meaning": "入学、入会"
+                                },
+                                {
+                                    "word": "hiring",
+                                    "meaning": "雇用"
+                                },
+                                {
+                                    "word": "disadvantaged",
+                                    "meaning": "恵まれない、不利な立場にある"
+                                },
+                                {
+                                    "word": "indication",
+                                    "meaning": "兆候、しるし"
+                                },
+                                {
+                                    "word": "come up with",
+                                    "meaning": "〜を思いつく、考え出す"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "While these attempts...",
+                                    "explanation": "<b>While節（譲歩）</b>: 「〜だけれども」。"
+                                },
+                                {
+                                    "phrase": "indications that...",
+                                    "explanation": "<b>同格のthat</b>: 「〜という兆候」。"
+                                },
+                                {
+                                    "phrase": "ways to gain",
+                                    "explanation": "<b>不定詞の形容詞的用法</b>: 「〜する方法」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "text": "Access to superior schools and private tutoring, after all, greatly increases the odds that their children will be admitted to an elite university, which in turn enhances their earning potential.",
+                        "translation": "結局のところ、優れた学校や個人家庭教師へのアクセスは、彼らの子供がエリート大学に入学する確率を大幅に高め、それが結果として彼らの収入の可能性を高めるのである。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "increases"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Access to superior schools and private tutoring</span><span class='tag'>S</span></span>, <span class='chunk M-group'><span class='text'>(after all)</span><span class='tag'>M</span></span>, <span class='chunk V-group'><span class='text'>greatly increases</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the odds [that their children will be admitted to an elite university]</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(which in turn enhances their earning potential)</span><span class='tag'>M(非制限用法)</span></span>.",
+                            "translationHtml": "<span class='t-S'>優れた学校や家庭教師へのアクセスは</span>, <span class='t-M'>(結局)</span>, <span class='t-V'>大幅に高める</span> <span class='t-O'>確率を[子供がエリート大学に入学する]</span>, <span class='t-M'>(そしてそれは順番に彼らの収入の可能性を高める)</span>。",
+                            "naturalTranslation": "結局のところ、優秀な学校や家庭教師を利用できることは、子供がエリート大学に入学する確率を大幅に高め、それがひいては将来の収入増につながるのである。",
+                            "vocabulary": [
+                                {
+                                    "word": "superior",
+                                    "meaning": "優れた、上質の"
+                                },
+                                {
+                                    "word": "tutoring",
+                                    "meaning": "個人指導、家庭教師"
+                                },
+                                {
+                                    "word": "odds",
+                                    "meaning": "確率、可能性"
+                                },
+                                {
+                                    "word": "in turn",
+                                    "meaning": "今度は、同様に"
+                                },
+                                {
+                                    "word": "enhance",
+                                    "meaning": "高める、向上させる"
+                                },
+                                {
+                                    "word": "earning potential",
+                                    "meaning": "稼ぐ潜在能力、将来の収入の可能性"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "the odds that...",
+                                    "explanation": "<b>同格のthat</b>: 「〜という確率」。"
+                                },
+                                {
+                                    "phrase": "which in turn enhances...",
+                                    "explanation": "<b>関係代名詞の非制限用法</b>: 先行詞は前の文全体またはadmissionの結果。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "text": "Although things like college scholarships for minorities may create the illusion of fairness, meritocracy can often be manipulated.",
+                        "translation": "マイノリティ向けの大学奨学金のようなものは公平性の幻想を生み出すかもしれないが、実力主義はしばしば操作され得る。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "can be manipulated"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Although things like college scholarships for minorities may create the illusion of fairness)</span><span class='tag'>M(譲歩)</span></span>, <span class='chunk S-group'><span class='text'>meritocracy</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can <span class='verb-highlight'>often be manipulated</span></span><span class='tag'>V</span></span>.",
+                            "translationHtml": "<span class='t-M'>(マイノリティ向け奨学金などは公平性の幻想を作るかもしれないが)</span>, <span class='t-S'>実力主義は</span> <span class='t-V'>しばしば操作され得る</span>。",
+                            "naturalTranslation": "マイノリティ向けの奨学金などは公平な印象を与えるかもしれないが、実力主義というシステムは往々にして操作が可能なのである。",
+                            "vocabulary": [
+                                {
+                                    "word": "scholarship",
+                                    "meaning": "奨学金"
+                                },
+                                {
+                                    "word": "illusion",
+                                    "meaning": "幻想、錯覚"
+                                },
+                                {
+                                    "word": "fairness",
+                                    "meaning": "公平性"
+                                },
+                                {
+                                    "word": "manipulate",
+                                    "meaning": "操作する、操る"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "Although...",
+                                    "explanation": "<b>Although節（譲歩）</b>: 「〜だけれども」。"
+                                },
+                                {
+                                    "phrase": "can be manipulated",
+                                    "explanation": "<b>助動詞 + 受動態</b>: 「操作される可能性がある」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 2,
+                "text": "Furthermore, it appears that attempts to implement meritocracy can be problematic. In one disturbing psychological experiment, managers were shown statements about a company's values and then instructed to decide on bonus payments for employees. In cases where the statements emphasized that the company was a meritocracy, subjects awarded larger amounts to males than they did to females with identical performance evaluations. When shown statements that did not mention meritocracy, however, this phenomenon did not appear. It has been suggested that this reflects the belief that operating in an organization that emphasizes it is a meritocracy makes people neglect to examine their own behavior, and without this self-assessment, they are more likely to show bias.",
+                "sentences": [
+                    {
+                        "id": 7,
+                        "text": "Furthermore, it appears that attempts to implement meritocracy can be problematic.",
+                        "translation": "さらに、実力主義を導入しようとする試みには問題があるようだ。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "appears"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Furthermore)</span><span class='tag'>M</span></span>, <span class='chunk V-group'><span class='text'>it appears</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>[that attempts to implement meritocracy can be problematic]</span><span class='tag'>S(真主語)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(さらに)</span>, <span class='t-V'>〜のようだ</span> <span class='t-S'>[実力主義導入の試みが問題を含み得ること]は</span>。",
+                            "naturalTranslation": "さらに、実力主義を導入しようとする試み自体にも問題があるようだ。",
+                            "vocabulary": [
+                                {
+                                    "word": "furthermore",
+                                    "meaning": "さらに"
+                                },
+                                {
+                                    "word": "problematic",
+                                    "meaning": "問題のある、疑わしい"
+                                },
+                                {
+                                    "word": "attempt",
+                                    "meaning": "試み"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "it appears that...",
+                                    "explanation": "<b>形式主語構文</b>: that以下が真主語。「〜のように見える」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "text": "In one disturbing psychological experiment, managers were shown statements about a company's values and then instructed to decide on bonus payments for employees.",
+                        "translation": "ある不穏な心理学の実験で、マネージャーたちは会社の価値観に関する声明を見せられ、その後従業員のボーナス支給額を決定するよう指示された。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "were shown",
+                                "instructed"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(In one disturbing psychological experiment)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>managers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were shown</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>statements about a company's values</span><span class='tag'>O</span></span> and then <span class='chunk V-group'><span class='text'>instructed</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>to decide on bonus payments for employees</span><span class='tag'>C(不定詞)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(ある不穏な実験で)</span>, <span class='t-S'>マネージャーたちは</span> <span class='t-V'>見せられた</span> <span class='t-O'>会社の価値観に関する声明を</span> そして <span class='t-V'>指示された</span> <span class='t-C'>従業員のボーナスを決めるように</span>。",
+                            "naturalTranslation": "ある衝撃的な心理実験において、管理職らは会社の価値観に関する文書を見せられた後、従業員へのボーナス支給額を決めるよう指示された。",
+                            "vocabulary": [
+                                {
+                                    "word": "disturbing",
+                                    "meaning": "心をかき乱す、不穏な"
+                                },
+                                {
+                                    "word": "psychological",
+                                    "meaning": "心理学的な"
+                                },
+                                {
+                                    "word": "statement",
+                                    "meaning": "声明、記述"
+                                },
+                                {
+                                    "word": "instruct",
+                                    "meaning": "指示する"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "were showed",
+                                    "explanation": "<b>受動態 (第4文型)</b>: shownの後に直接目的語(statements...)が残っている。"
+                                },
+                                {
+                                    "phrase": "instructed to decide",
+                                    "explanation": "<b>instruct O to do</b>の受動態。「〜するよう指示される」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "text": "In cases where the statements emphasized that the company was a meritocracy, subjects awarded larger amounts to males than they did to females with identical performance evaluations.",
+                        "translation": "その声明が「会社は実力主義である」と強調していた場合、被験者は同じ業績評価の女性よりも男性に多額の報酬を与えた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "awarded"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(In cases where the statements emphasized that the company was a meritocracy)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>subjects</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>awarded</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>larger amounts</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>to males</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(than they did to females with identical performance evaluations)</span><span class='tag'>M(比較)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(会社が実力主義だと強調された場合)</span>, <span class='t-S'>被験者は</span> <span class='t-V'>与えた</span> <span class='t-O'>より多くの額を</span> <span class='t-M'>男性に</span> <span class='t-M'>(同じ評価の女性に与えたよりも)</span>。",
+                            "naturalTranslation": "会社は実力主義であると強調された場合、被験者は全く同じ業績評価であっても、女性より男性に高いボーナス額を提示した。",
+                            "vocabulary": [
+                                {
+                                    "word": "emphasize",
+                                    "meaning": "強調する"
+                                },
+                                {
+                                    "word": "subject",
+                                    "meaning": "被験者、対象"
+                                },
+                                {
+                                    "word": "identical",
+                                    "meaning": "同一の、うり二つの"
+                                },
+                                {
+                                    "word": "evaluation",
+                                    "meaning": "評価"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "where the statements...",
+                                    "explanation": "<b>関係副詞where</b>: 先行詞casesを修飾。「〜という場合」。"
+                                },
+                                {
+                                    "phrase": "than they did to females",
+                                    "explanation": "<b>比較構文</b>: didは代動詞(awarded amounts)。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "text": "When shown statements that did not mention meritocracy, however, this phenomenon did not appear.",
+                        "translation": "しかし、実力主義に言及していない声明を見せられた場合、この現象は現れなかった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "did not appear"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(When shown statements that did not mention meritocracy)</span><span class='tag'>M(分詞構文)</span></span>, <span class='chunk M-group'><span class='text'>(however)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>this phenomenon</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>did not appear</span><span class='tag'>V</span></span>.",
+                            "translationHtml": "<span class='t-M'>(実力主義に言及しない声明を見せられた時は)</span>, <span class='t-M'>(しかし)</span>, <span class='t-S'>この現象は</span> <span class='t-V'>現れなかった</span>。",
+                            "naturalTranslation": "しかしながら、実力主義について言及のない文書を見せた場合には、こうした現象は見られなかった。",
+                            "vocabulary": [
+                                {
+                                    "word": "mention",
+                                    "meaning": "言及する"
+                                },
+                                {
+                                    "word": "phenomenon",
+                                    "meaning": "現象"
+                                },
+                                {
+                                    "word": "appear",
+                                    "meaning": "現れる"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "When shown",
+                                    "explanation": "<b>接続詞付き分詞構文</b>: When (they were) shownの短縮形。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 11,
+                        "text": "It has been suggested that this reflects the belief that operating in an organization that emphasizes it is a meritocracy makes people neglect to examine their own behavior, and without this self-assessment, they are more likely to show bias.",
+                        "translation": "これは、実力主義を強調する組織で働くことで人々が自分の行動を省みることを怠るようになり、この自己評価なしでは偏見を示しやすくなるという信念を反映していると示唆されている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "has been suggested"
+                            ],
+                            "structureHtml": "<span class='chunk V-group'><span class='text'>It <span class='verb-highlight'>has been suggested</span></span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>[that this reflects the belief that operating in an organization that emphasizes it is a meritocracy makes people neglect to examine their own behavior...]</span><span class='tag'>S(真主語)</span></span>.",
+                            "translationHtml": "<span class='t-V'>示唆されている</span> <span class='t-S'>[これは信念を反映していると(実力主義を強調する組織で働くと自分の行動を省みなくなり、バイアスが出やすくなるという)]</span>。",
+                            "naturalTranslation": "実力主義を掲げる組織に身を置くと、人は自らの行動を省みることを怠りがちになり、そうした自己点検が欠如することで、かえって偏見を持ちやすくなるという考えが、この背景にあると指摘されている。",
+                            "vocabulary": [
+                                {
+                                    "word": "suggest",
+                                    "meaning": "示唆する、提案する"
+                                },
+                                {
+                                    "word": "reflect",
+                                    "meaning": "反映する"
+                                },
+                                {
+                                    "word": "neglect",
+                                    "meaning": "怠る、無視する"
+                                },
+                                {
+                                    "word": "self-assessment",
+                                    "meaning": "自己評価"
+                                },
+                                {
+                                    "word": "bias",
+                                    "meaning": "偏見、バイアス"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "the belief that...",
+                                    "explanation": "<b>同格のthat</b>: beliefの内容を説明。"
+                                },
+                                {
+                                    "phrase": "makes people neglect",
+                                    "explanation": "<b>使役動詞make O do</b>: 「Oに〜させる」。"
+                                },
+                                {
+                                    "phrase": "more likely to show",
+                                    "explanation": "<b>be likely to do</b>: 「〜しそうである」の比較級。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 3,
+                "text": "Critics of meritocracy, such as legal scholar Daniel Markovits, suggest that it even has negative effects on the elite. America's wealthy were once known as the \"leisure class\" because their inheritances and investments allowed them to devote most of their time to recreation. Now, however, as Markovits writes, \"those who manage to claw their way to the top must work with crushing intensity.\" They are constantly monitored and assessed, and if their performance slips, they face the threat of demotion or firing. People in the middle and lower classes are also constantly struggling to move up or maintain their position, and there is so much pressure from the fear that others will take one's place that it seems to be having an effect on people's psychological well-being in all levels of society.",
+                "sentences": [
+                    {
+                        "id": 12,
+                        "text": "Critics of meritocracy, such as legal scholar Daniel Markovits, suggest that it even has negative effects on the elite.",
+                        "translation": "法学者ダニエル・マルコヴィッツのような実力主義の批判者は、それがエリート層にさえ悪影響を及ぼすと示唆している。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "suggest"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Critics of meritocracy, such as legal scholar Daniel Markovits,</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>suggest</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[that it even has negative effects on the elite]</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-S'>実力主義の批判者は(ダニエル・マルコヴィッツのような)</span> <span class='t-V'>示唆している</span> <span class='t-O'>[それがエリートにさえ悪影響を及ぼすと]</span>。",
+                            "naturalTranslation": "法学者のダニエル・マルコヴィッツをはじめとする実力主義への批判者たちは、実力主義はエリート層にさえも悪影響を及ぼしていると指摘する。",
+                            "vocabulary": [
+                                {
+                                    "word": "critic",
+                                    "meaning": "批判者、評論家"
+                                },
+                                {
+                                    "word": "scholar",
+                                    "meaning": "学者"
+                                },
+                                {
+                                    "word": "elite",
+                                    "meaning": "エリート、選良"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "such as...",
+                                    "explanation": "<b>具体例の挿入</b>: 「〜のような」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 13,
+                        "text": "America's wealthy were once known as the \"leisure class\" because their inheritances and investments allowed them to devote most of their time to recreation.",
+                        "translation": "アメリカの富裕層はかつて「有閑階級」として知られていた。遺産や投資によって、彼らは時間の大部分を娯楽に充てることができたからだ。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "were known"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>America's wealthy</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were <span class='verb-highlight'>once known</span></span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>as the \"leisure class\"</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(because their inheritances and investments allowed them to devote most of their time to recreation)</span><span class='tag'>M(理由)</span></span>.",
+                            "translationHtml": "<span class='t-S'>米国の富裕層は</span> <span class='t-V'>かつて知られていた</span> <span class='t-C'>「有閑階級」として</span> <span class='t-M'>(遺産や投資が彼らに娯楽への時間を充てることを可能にしたので)</span>。",
+                            "naturalTranslation": "かつてアメリカの富裕層は「有閑階級」と呼ばれていた。遺産や投資収入のおかげで、彼らは時間の大部分を娯楽に費やすことができたからだ。",
+                            "vocabulary": [
+                                {
+                                    "word": "leisure class",
+                                    "meaning": "有閑階級"
+                                },
+                                {
+                                    "word": "inheritance",
+                                    "meaning": "遺産、相続"
+                                },
+                                {
+                                    "word": "investment",
+                                    "meaning": "投資"
+                                },
+                                {
+                                    "word": "devote",
+                                    "meaning": "捧げる、充てる"
+                                },
+                                {
+                                    "word": "recreation",
+                                    "meaning": "娯楽、レクリエーション"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "allowed them to devote",
+                                    "explanation": "<b>allow O to do</b>: 「Oが〜するのを可能にする、許す」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 14,
+                        "text": "Now, however, as Markovits writes, \"those who manage to claw their way to the top must work with crushing intensity.\"",
+                        "translation": "しかし今や、マルコヴィッツが書いているように、「苦労してトップに這い上がった人々は、圧倒的な激しさで働かなければならない」。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "must work"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Now)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(however)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(as Markovits writes)</span><span class='tag'>M</span></span>, \"<span class='chunk S-group'><span class='text'>those [who manage to claw their way to the top]</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>must work</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>with crushing intensity</span><span class='tag'>M</span></span>.\"",
+                            "translationHtml": "<span class='t-M'>(今はしかし)</span>, <span class='t-M'>(マルコヴィッツが書くように)</span>, \"<span class='t-S'>人々は[なんとかトップへ這い上がった]</span> <span class='t-V'>働かねばならない</span> <span class='t-M'>圧倒的な激しさで</span>\"。",
+                            "naturalTranslation": "しかし現在は、マルコヴィッツが記すように、「苦難を乗り越えてトップに上り詰めた者こそ、猛烈な勢いで働かなければならない」のである。",
+                            "vocabulary": [
+                                {
+                                    "word": "manage to",
+                                    "meaning": "なんとか〜する"
+                                },
+                                {
+                                    "word": "claw one's way",
+                                    "meaning": "苦労して進む、這い上がる"
+                                },
+                                {
+                                    "word": "crushing",
+                                    "meaning": "圧倒的な、壊滅的な"
+                                },
+                                {
+                                    "word": "intensity",
+                                    "meaning": "激しさ、強度"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "those who...",
+                                    "explanation": "<b>those who...</b>: 「〜する人々」。"
+                                },
+                                {
+                                    "phrase": "manage to do",
+                                    "explanation": "「なんとかして〜する」。困難を伴うニュアンス。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 15,
+                        "text": "They are constantly monitored and assessed, and if their performance slips, they face the threat of demotion or firing.",
+                        "translation": "彼らは常に監視され評価されており、業績が下がれば降格や解雇の脅威に直面する。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "are monitored",
+                                "assessed",
+                                "face"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are constantly <span class='verb-highlight'>monitored</span> and <span class='verb-highlight'>assessed</span></span><span class='tag'>V</span></span>, and <span class='chunk M-group'><span class='text'>(if their performance slips)</span><span class='tag'>M(条件)</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>face</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the threat of demotion or firing</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-S'>彼らは</span> <span class='t-V'>常に監視され評価される</span>, そして <span class='t-M'>(もし業績が落ちれば)</span>, <span class='t-S'>彼らは</span> <span class='t-V'>直面する</span> <span class='t-O'>降格や解雇の脅威に</span>。",
+                            "naturalTranslation": "彼らは常に監視・評価され続けており、ひとたび業績が落ちれば、降格や解雇の恐怖に直面することになる。",
+                            "vocabulary": [
+                                {
+                                    "word": "monitor",
+                                    "meaning": "監視する"
+                                },
+                                {
+                                    "word": "assess",
+                                    "meaning": "評価する"
+                                },
+                                {
+                                    "word": "slip",
+                                    "meaning": "滑る、下がる、悪化する"
+                                },
+                                {
+                                    "word": "demotion",
+                                    "meaning": "降格"
+                                },
+                                {
+                                    "word": "firing",
+                                    "meaning": "解雇"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "are monitored and assessed",
+                                    "explanation": "<b>受動態</b>: by them/othersが省略されている。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 16,
+                        "text": "People in the middle and lower classes are also constantly struggling to move up or maintain their position, and there is so much pressure from the fear that others will take one's place that it seems to be having an effect on people's psychological well-being in all levels of society.",
+                        "translation": "中流・下流階級の人々もまた、地位向上や維持のために常に奮闘しており、他者に取って代わられる恐怖からのプレッシャーがあまりに大きいため、社会のあらゆる階層の人々の精神的幸福に影響を及ぼしているようだ。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "are struggling",
+                                "is"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>People in the middle and lower classes</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are also constantly <span class='verb-highlight'>struggling</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>to move up or maintain their position</span><span class='tag'>M(目的)</span></span>, and <span class='chunk V-group'><span class='text'>there is</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>so much pressure from the fear [that others will take one's place]</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>[that it seems to be having an effect on people's psychological well-being in all levels of society]</span><span class='tag'>M(程度・結果)</span></span>.",
+                            "translationHtml": "<span class='t-S'>中下流階級の人々も</span> <span class='t-V'>常に奮闘している</span> <span class='t-M'>昇進や地位維持のために</span>, そして <span class='t-V'>ある</span> <span class='t-S'>とても大きなプレッシャーが(他者に取って代わられる恐怖からの)</span> <span class='t-M'>[その結果、社会の全階層の人々の精神的幸福に影響していると思われるほど]</span>。",
+                            "naturalTranslation": "中流・下層階級の人々もまた、地位の向上や維持のために絶えずもがき続けている。他者に取って代わられるという恐怖によるプレッシャーは凄まじく、社会のあらゆる階層で人々の精神衛生に影響を及ぼしているようである。",
+                            "vocabulary": [
+                                {
+                                    "word": "struggle",
+                                    "meaning": "奮闘する、もがく"
+                                },
+                                {
+                                    "word": "maintain",
+                                    "meaning": "維持する"
+                                },
+                                {
+                                    "word": "psychological",
+                                    "meaning": "精神的な、心理的な"
+                                },
+                                {
+                                    "word": "well-being",
+                                    "meaning": "幸福、健康"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "so much ... that ...",
+                                    "explanation": "<b>so...that構文</b>: 「非常に〜なので...だ」。"
+                                },
+                                {
+                                    "phrase": "the fear that...",
+                                    "explanation": "<b>同格のthat</b>: 「〜するという恐怖」。"
+                                },
+                                {
+                                    "phrase": "seems to be having",
+                                    "explanation": "<b>seem to be -ing</b>: 「〜しているようだ」。進行形。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 4,
+                "text": "America has long had a reputation as an immigrant nation where anyone, regardless of race or social class, could become wealthy, and surveys indicated that most Americans believed that intelligence and hard work were the primary factors that led to success. In recent years, however, surveys have indicated that some two-thirds of Americans are coming to accept that the nation's wealthy hold their position due to advantages gained early in life, while just one-third attribute the wealthy's success mainly to hard work. Furthermore, seven in ten Americans now view poverty as the result of obstacles that people have faced in life rather than a lack of effort.",
+                "sentences": [
+                    {
+                        "id": 17,
+                        "text": "America has long had a reputation as an immigrant nation where anyone, regardless of race or social class, could become wealthy, and surveys indicated that most Americans believed that intelligence and hard work were the primary factors that led to success.",
+                        "translation": "アメリカは長い間、人種や社会階級に関わらず誰もが裕福になれる移民国家としての評判を持っており、調査では大多数のアメリカ人が知性と勤勉さが成功につながる主な要因であると信じていたことが示されていた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "has had",
+                                "indicated"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>America</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has long <span class='verb-highlight'>had</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a reputation as an immigrant nation [where anyone... could become wealthy]</span><span class='tag'>O</span></span>, and <span class='chunk S-group'><span class='text'>surveys</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>indicated</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[that most Americans believed that intelligence and hard work were the primary factors...]</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-S'>アメリカは</span> <span class='t-V'>長く持っていた</span> <span class='t-O'>移民国家としての評判を[そこでは誰もが裕福になれる]</span>, そして <span class='t-S'>調査は</span> <span class='t-V'>示した</span> <span class='t-O'>[多くのアメリカ人が知性と勤勉が成功の主因だと信じていたと]</span>。",
+                            "naturalTranslation": "アメリカは長らく、人種や階級に関係なく誰もが富を築ける移民の国として知られ、調査でも大半のアメリカ人が知性と勤勉こそが成功への鍵だと信じていたことが示されていた。",
+                            "vocabulary": [
+                                {
+                                    "word": "reputation",
+                                    "meaning": "評判"
+                                },
+                                {
+                                    "word": "immigrant",
+                                    "meaning": "移民"
+                                },
+                                {
+                                    "word": "regardless of",
+                                    "meaning": "〜に関わらず"
+                                },
+                                {
+                                    "word": "primary",
+                                    "meaning": "主要な"
+                                },
+                                {
+                                    "word": "factor",
+                                    "meaning": "要因"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "where anyone...",
+                                    "explanation": "<b>関係副詞where</b>: immigrant nationを修飾。"
+                                },
+                                {
+                                    "phrase": "regardless of",
+                                    "explanation": "「〜に関係なく」。"
+                                },
+                                {
+                                    "phrase": "factors that led to",
+                                    "explanation": "<b>関係代名詞that</b>: factorsを修飾。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 18,
+                        "text": "In recent years, however, surveys have indicated that some two-thirds of Americans are coming to accept that the nation's wealthy hold their position due to advantages gained early in life, while just one-third attribute the wealthy's success mainly to hard work.",
+                        "translation": "しかし近年、調査によると、アメリカ人の約3分の2が、国内の富裕層はその地位を人生の早い段階で得た有利な条件のおかげで維持していると受け入れ始めている一方、富裕層の成功を主に勤勉さのおかげと考えるのはわずか3分の1に過ぎない。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "have indicated"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(In recent years)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(however)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>surveys</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have <span class='verb-highlight'>indicated</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[that some two-thirds of Americans are coming to accept that... while just one-third attribute...]</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-M'>(近年はしかし)</span>, <span class='t-S'>調査は</span> <span class='t-V'>示している</span> <span class='t-O'>[約2/3のアメリカ人が富裕層の地位は早期の有利条件によると受け入れ始め、一方1/3だけが勤勉のおかげとしていると]</span>。",
+                            "naturalTranslation": "しかし近年の調査では、富裕層がその地位にあるのは人生の早い段階で得た特権によるものだと考えるアメリカ人が約3分の2に達する一方、成功の主因は勤勉さにあると考える人はわずか3分の1にとどまっている。",
+                            "vocabulary": [
+                                {
+                                    "word": "two-thirds",
+                                    "meaning": "3分の2"
+                                },
+                                {
+                                    "word": "come to do",
+                                    "meaning": "〜するようになる"
+                                },
+                                {
+                                    "word": "attribute A to B",
+                                    "meaning": "AをBのおかげとする、Aの原因をBに帰する"
+                                },
+                                {
+                                    "word": "mainly",
+                                    "meaning": "主に"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "advatanges gained",
+                                    "explanation": "<b>過去分詞の後置修飾</b>: 「得られた有利な条件」。"
+                                },
+                                {
+                                    "phrase": "while just one-third...",
+                                    "explanation": "<b>While節（対比）</b>: 「〜である一方で」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 19,
+                        "text": "Furthermore, seven in ten Americans now view poverty as the result of obstacles that people have faced in life rather than a lack of effort.",
+                        "translation": "さらに、現在アメリカ人の10人に7人が、貧困は努力不足ではなく、人々が人生で直面した障害の結果であると見なしている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "view"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Furthermore)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>seven in ten Americans</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(now)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>view</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>poverty</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>as the result of obstacles [that people have faced in life] rather than a lack of effort</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-M'>(さらに)</span>, <span class='t-S'>10人中7人のアメリカ人は</span> <span class='t-M'>(今や)</span> <span class='t-V'>見なしている</span> <span class='t-O'>貧困を</span> <span class='t-C'>努力不足ではなく人生で直面した障害の結果として</span>。",
+                            "naturalTranslation": "さらに現在では、アメリカ人の10人に7人が、貧困は努力不足のせいではなく、人生において直面した障害の結果であると捉えている。",
+                            "vocabulary": [
+                                {
+                                    "word": "poverty",
+                                    "meaning": "貧困"
+                                },
+                                {
+                                    "word": "obstacle",
+                                    "meaning": "障害、妨げ"
+                                },
+                                {
+                                    "word": "view A as B",
+                                    "meaning": "AをBと見なす"
+                                },
+                                {
+                                    "word": "lack",
+                                    "meaning": "欠如、不足"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "rather than",
+                                    "explanation": "「〜ではなく」。view A as BのB部分で対比されている。"
+                                },
+                                {
+                                    "phrase": "that people have faced",
+                                    "explanation": "<b>関係代名詞that</b>: obstaclesを修飾。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "id": 38,
+                "text": "What point does the author of the passage make about education in the first paragraph?",
+                "textTranslation": "第1段落において、筆者は教育についてどのような点を指摘しているか？",
+                "correctAnswer": 1,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "Efforts to ensure that a wider range of students are able to attend elite universities have not always been successful.",
+                        "translation": "より広範な学生がエリート大学に通えるようにする取り組みは、必ずしも成功しているわけではない。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Although efforts at instituting meritocracy were unsuccessful at first, great progress has been made recently.",
+                        "translation": "実力主義を導入する取り組みは当初失敗したが、最近大きな進歩が見られる。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Efforts to make education more open to a wide variety of people have been more effective than efforts to open up companies.",
+                        "translation": "教育をより多様な人々に開かれたものにする取り組みは、企業を開放する取り組みよりも効果的であった。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Bringing the ideal of meritocracy to universities cannot be done unless it first comes to ordinary schools.",
+                        "translation": "大学に実力主義の理想を持ち込むことは、まず普通の学校にそれが導入されなければ不可能である。"
+                    }
+                ],
+                "keywords": [
+                    "education",
+                    "first paragraph",
+                    "point"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "Access to superior schools and private tutoring, after all, greatly increases the odds that their children will be admitted to an elite university",
+                        "sentenceId": 5,
+                        "keyword": "education"
+                    },
+                    {
+                        "text": "meritocracy can often be manipulated",
+                        "sentenceId": 6,
+                        "keyword": "point"
+                    }
+                ],
+                "keywordExplanations": {
+                    "education": "教育に関する記述を探す。第1段落後半の不公平な教育機会への言及に注目。",
+                    "first paragraph": "第1段落全体の内容、特に後半の「抜け穴」についての指摘。",
+                    "point": "筆者の主張点は、裕福な層がシステムを有利に利用しているという点。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "第1段落での教育に関する筆者の指摘は？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第1段落: 'there are indications that people with higher incomes have come up with ways to gain an unfair share of educational opportunities.' および 'meritocracy can often be manipulated.' → 入学率向上などの成果はあったが、富裕層による操作が可能で、完全に成功しているわけではない。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢1: 'Efforts to ensure that a wider range of students are able to attend elite universities have not always been successful.' が「必ずしも成功していない」＝「操作されている/不公平が残る」と一致。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "meritocracy can often be manipulated",
+                    "highlightWordSentenceId": 6,
+                    "description": "第1段落の結論部分 'meritocracy can often be manipulated' や、富裕層が教育機会を独占している記述に注目。",
+                    "targetSentenceId": 6
+                }
+            },
+            {
+                "id": 39,
+                "text": "What is one possible reason for people's behavior in the experiment introduced in the second paragraph?",
+                "textTranslation": "第2段落で紹介された実験における人々の行動の、考えられる理由の一つは何か？",
+                "correctAnswer": 4,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "Belief in meritocracy can cause managers to evaluate male employees more harshly than they deserve.",
+                        "translation": "実力主義への信念は、マネージャーが男性従業員を必要以上に厳しく評価する原因となり得る。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Meritocracies seem to cause significant declines in the job performance of both male and female employees.",
+                        "translation": "実力主義は、男女双方の従業員の職務遂行能力を著しく低下させるようである。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Trying to use financial rewards to encourage belief in meritocracy can have the completely opposite effect.",
+                        "translation": "金銭的報酬を使って実力主義への信念を奨励しようとすると、全く逆の効果をもたらす可能性がある。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "People are less likely to be aware of their own prejudices when they believe the company is a meritocracy.",
+                        "translation": "会社が実力主義であると信じている時、人々は自分自身の偏見に気づきにくくなる。"
+                    }
+                ],
+                "keywords": [
+                    "experiment",
+                    "reason",
+                    "behavior"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "makes people neglect to examine their own behavior",
+                        "sentenceId": 11,
+                        "keyword": "behavior"
+                    },
+                    {
+                        "text": "without this self-assessment, they are more likely to show bias",
+                        "sentenceId": 11,
+                        "keyword": "reason"
+                    }
+                ],
+                "keywordExplanations": {
+                    "experiment": "第2段落の心理実験の記述。",
+                    "reason": "バイアスが見られた理由。",
+                    "behavior": "男性に多くボーナスを与えた行動。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "実験での行動（バイアス）の理由は？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第2段落: 'operating in an organization that emphasizes it is a meritocracy makes people neglect to examine their own behavior, and without this self-assessment, they are more likely to show bias.' → 実力主義を意識すると自己点検を怠り、偏見が出やすくなる。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢4: 'People are less likely to be aware of their own prejudices when they believe the company is a meritocracy.' が 'neglect to examine their own behavior' と一致。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "neglect to examine their own behavior",
+                    "highlightWordSentenceId": 11,
+                    "description": "第2段落最後の文、実験結果の考察部分に注目。なぜバイアスが生じたのかの説明があります。",
+                    "targetSentenceId": 11
+                }
+            },
+            {
+                "id": 40,
+                "text": "According to Daniel Markovits, one disadvantage of meritocracy is that",
+                "textTranslation": "David Markovitsによると、実力主義の欠点の一つは〜である。",
+                "correctAnswer": 3,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "wealthy people have found unfair ways to ensure that they continue to maintain their position without working hard.",
+                        "translation": "富裕層は、一生懸命働かずにその地位を維持し続けるための不公平な方法を見つけた。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "the methods that are usually used to evaluate workers are often unfair, especially to members of the upper class.",
+                        "translation": "労働者を評価するのに通常使われる方法はしばしば不公平であり、特に上流階級のメンバーに対してそうである。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "it has created a sense of constant competition that can have negative effects on people's mental health.",
+                        "translation": "それは絶え間ない競争意識を生み出し、人々の精神的健康に悪影響を及ぼす可能性がある。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "the amount of resentment between members of different social classes has grown significantly because of it.",
+                        "translation": "それにより、異なる社会階級のメンバー間の憤りの量が著しく増大した。"
+                    }
+                ],
+                "keywords": [
+                    "Markovits",
+                    "disadvantage",
+                    "meritocracy"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "effect on people's psychological well-being in all levels of society",
+                        "sentenceId": 16,
+                        "keyword": "disadvantage"
+                    },
+                    {
+                        "text": "so much pressure from the fear that others will take one's place",
+                        "sentenceId": 16,
+                        "keyword": "meritocracy"
+                    }
+                ],
+                "keywordExplanations": {
+                    "Markovits": "第3段落に登場する法学者の名前。",
+                    "disadvantage": "実力主義の悪影響。エリート層へのプレッシャーなど。",
+                    "meritocracy": "ここではシステム全体がもたらす競争社会。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "Markovitsが指摘する実力主義の欠点は？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第3段落: エリート層でさえ 'must work with crushing intensity', 'constantly monitored', 'fear of demotion' に直面。中下層も 'struggling'。結論として 'having an effect on people's psychological well-being'。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢3: 'it has created a sense of constant competition that can have negative effects on people's mental health.' が 'psychological well-being' への悪影響と合致。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "effect on people's psychological well-being",
+                    "highlightWordSentenceId": 16,
+                    "description": "第3段落の最後、社会のあらゆるレベルの人々に及ぼす影響についての記述に注目。",
+                    "targetSentenceId": 16
+                }
+            },
+            {
+                "id": 41,
+                "text": "How have American views on meritocracy changed?",
+                "textTranslation": "実力主義に対するアメリカ人の見方はどのように変化したか？",
+                "correctAnswer": 1,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "More people have come to recognize that when people are poor, it may not necessarily be their fault.",
+                        "translation": "貧しいことが必ずしも本人のせいではないかもしれないと認識する人が増えてきた。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "It has caused people to change their views regarding how many immigrants should be allowed into the country.",
+                        "translation": "それは、どれだけの移民を受け入れるべきかという人々の見方を変える原因となった。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "People are slowly beginning to lose their prejudices against members of other races and social classes.",
+                        "translation": "人々は他に人種や社会階級のメンバーに対する偏見を徐々に失い始めている。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "There is more recognition of the effort that wealthy people have made to achieve their high status in life.",
+                        "translation": "富裕層が高い地位を得るために費やした努力に対する認識が高まっている。"
+                    }
+                ],
+                "keywords": [
+                    "views",
+                    "changed",
+                    "American"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "seven in ten Americans now view poverty as the result of obstacles that people have faced in life rather than a lack of effort",
+                        "sentenceId": 19,
+                        "keyword": "views"
+                    }
+                ],
+                "keywordExplanations": {
+                    "views": "貧困や成功に対する見方。",
+                    "changed": "過去（努力と才能）と比較して現在（障害や特権）の見方。",
+                    "American": "世論調査の結果。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "アメリカ人の見方はどう変わったか？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第4段落: 'seven in ten Americans now view poverty as the result of obstacles that people have faced in life rather than a lack of effort.' → 貧困は努力不足ではなく障害の結果と見る人が増えた。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢1: 'More people have come to recognize that when people are poor, it may not necessarily be their fault.' が上記の「努力不足のせいではない」という見方の変化と一致。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "rather than a lack of effort",
+                    "highlightWordSentenceId": 19,
+                    "description": "第4段落の最後、貧困の原因をどう捉えているかの変化に注目。",
+                    "targetSentenceId": 19
+                }
+            }
+        ],
+        "summaryForInstructors": {
+            "title": "Meritocracy (実力主義の功罪)",
+            "intro": "このパッセージは、実力主義（Meritocracy）という理想が、現実には富裕層による教育機会の独占や、過度な競争による精神的負担といった問題を引き起こしていることを論じています。エリート層、中下層双方にとっての弊害と、アメリカ人の意識変化を読み取ることがポイントです。",
+            "points": [
+                {
+                    "label": "1. 第1段落: 教育の不公平",
+                    "text": "実力主義は公平な理想として始まったが、実際には富裕層が教育機会を独占し、システムを操作している現状がある。"
+                },
+                {
+                    "label": "2. 第2段落: バイアスのパラドックス",
+                    "text": "組織が「実力主義」を掲げると、かえって人々は自己点検を怠り、無意識のバイアス（性差別など）が生じやすくなるという実験結果。"
+                },
+                {
+                    "label": "3. 第3段落: エリートへの悪影響",
+                    "text": "実力主義は勝者であるエリートにも過酷な労働とプレッシャーを強いており、全階層の人々の精神的幸福を損なっている。"
+                },
+                {
+                    "label": "4. 第4段落: 世論の変化",
+                    "text": "成功は努力次第というかつての信念は薄れ、貧困は本人の責任ではなく環境的障害によるものだと考えるアメリカ人が増えている。"
+                }
+            ]
+        }
+    }
+    ,
+    {
+        "id": "grade2-2023-2-3B",
+        "grade": "2級",
+        "title": "Purple Straw Wheat",
+        "subTitle": "2023年度 第2回 2級 大問3B",
+        "images": {
+            "content": "/images/reading/grade2-2023-2-3B-content.png",
+            "question": "/images/reading/grade2-2023-2-3B-question.png"
+        },
+        "content": [
+            {
+                "paragraphId": 1,
+                "text": "Wheat is an important crop in the United States, and its seeds are used for making bread, pasta, and other foods. It has been the country's main food grain since the 18th century. Wheat production in the United States, however, has faced challenges throughout its history. During the late 18th century, many types of wheat were attacked by diseases and insects that came from Europe. One type of wheat called purple straw wheat, though, was able to resist these dangers, and for a long time, it was the best choice for many farmers to plant.",
+                "sentences": [
+                    {
+                        "id": 1,
+                        "text": "Wheat is an important crop in the United States, and its seeds are used for making bread, pasta, and other foods.",
+                        "translation": "小麦は米国において重要な作物であり、その種子はパン、パスタ、その他の食品を作るために使われる。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "is",
+                                "are used"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Wheat</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>an important crop</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>in the United States</span><span class='tag'>M</span></span>, and <span class='chunk S-group'><span class='text'>its seeds</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are <span class='verb-highlight'>used</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>for making bread, pasta, and other foods</span><span class='tag'>M(目的)</span></span>.",
+                            "translationHtml": "<span class='t-S'>小麦は</span> <span class='t-V'>〜である</span> <span class='t-C'>重要な作物</span> <span class='t-M'>米国において</span>, そして <span class='t-S'>その種子は</span> <span class='t-V'>使われる</span> <span class='t-M'>パンやパスタ、他の食品を作るために</span>。",
+                            "naturalTranslation": "小麦はアメリカにおいて重要な農作物であり、その種子はパンやパスタ、その他の食品の製造に使われている。",
+                            "vocabulary": [
+                                {
+                                    "word": "wheat",
+                                    "meaning": "小麦"
+                                },
+                                {
+                                    "word": "crop",
+                                    "meaning": "作物、収穫物"
+                                },
+                                {
+                                    "word": "seed",
+                                    "meaning": "種、種子"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "are used for making",
+                                    "explanation": "<b>受動態 + 前置詞</b>: be used for -ingで「〜するために使われる」。"
+                                },
+                                {
+                                    "phrase": "making bread...",
+                                    "explanation": "<b>動名詞</b>: forの目的語としてmakingが使われている。"
+                                },
+                                {
+                                    "phrase": "and",
+                                    "explanation": "<b>等位接続詞</b>: 2つの文「Wheat is...」と「its seeds are...」を結んでいる。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "text": "It has been the country's main food grain since the 18th century.",
+                        "translation": "それは18世紀以来、この国の主要な食用穀物であり続けている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "has been"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>It</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has <span class='verb-highlight'>been</span></span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>the country's main food grain</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>since the 18th century</span><span class='tag'>M(時間)</span></span>.",
+                            "translationHtml": "<span class='t-S'>それは</span> <span class='t-V'>ずっと〜である</span> <span class='t-C'>その国の主要な食用穀物</span> <span class='t-M'>18世紀以来</span>。",
+                            "naturalTranslation": "それは18世紀以来、この国の主要な食用穀物であり続けてきた。",
+                            "vocabulary": [
+                                {
+                                    "word": "main",
+                                    "meaning": "主な、主要な"
+                                },
+                                {
+                                    "word": "grain",
+                                    "meaning": "穀物"
+                                },
+                                {
+                                    "word": "century",
+                                    "meaning": "世紀"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "has been",
+                                    "explanation": "<b>現在完了形 (継続)</b>: 「ずっと〜である」。sinceと共に使われている。"
+                                },
+                                {
+                                    "phrase": "since the 18th century",
+                                    "explanation": "「18世紀から」。継続の起点を示す。"
+                                },
+                                {
+                                    "phrase": "It",
+                                    "explanation": "前文のWheatを指す。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "text": "Wheat production in the United States, however, has faced challenges throughout its history.",
+                        "translation": "しかし、米国における小麦生産は、その歴史を通じて困難に直面してきた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "has faced"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Wheat production in the United States</span><span class='tag'>S</span></span>, <span class='chunk M-group'><span class='text'>(however)</span><span class='tag'>M</span></span>, <span class='chunk V-group'><span class='text'>has <span class='verb-highlight'>faced</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>challenges</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>throughout its history</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-S'>米国の小麦生産は</span>, <span class='t-M'>(しかし)</span>, <span class='t-V'>直面してきた</span> <span class='t-O'>困難に</span> <span class='t-M'>その歴史を通じて</span>。",
+                            "naturalTranslation": "しかしながら、アメリカの小麦生産は、その歴史を通じて様々な困難に直面してきた。",
+                            "vocabulary": [
+                                {
+                                    "word": "production",
+                                    "meaning": "生産"
+                                },
+                                {
+                                    "word": "face",
+                                    "meaning": "直面する"
+                                },
+                                {
+                                    "word": "challenge",
+                                    "meaning": "課題、困難"
+                                },
+                                {
+                                    "word": "throughout",
+                                    "meaning": "〜の間じゅうずっと、至る所に"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "has faced",
+                                    "explanation": "<b>現在完了形 (経験/継続)</b>: 歴史を通じて直面してきたこと。"
+                                },
+                                {
+                                    "phrase": "however",
+                                    "explanation": "<b>接続副詞</b>: 逆接を表す。「しかし」。挿入的に使われている。"
+                                },
+                                {
+                                    "phrase": "throughout its history",
+                                    "explanation": "「その歴史全体を通じて」。期間の広がりを強調。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "text": "During the late 18th century, many types of wheat were attacked by diseases and insects that came from Europe.",
+                        "translation": "18世紀後半、多くの種類の小麦がヨーロッパから来た病気や昆虫の被害を受けた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "were attacked"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(During the late 18th century)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>many types of wheat</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were <span class='verb-highlight'>attacked</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>by diseases and insects [that came from Europe]</span><span class='tag'>M(動作主)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(18世紀後半の間)</span>, <span class='t-S'>多くの種類の小麦が</span> <span class='t-V'>攻撃された(被害を受けた)</span> <span class='t-M'>病気や昆虫によって[ヨーロッパから来た]</span>。",
+                            "naturalTranslation": "18世紀後半には、多くの品種の小麦がヨーロッパからもたらされた病気や害虫の被害を受けた。",
+                            "vocabulary": [
+                                {
+                                    "word": "disease",
+                                    "meaning": "病気"
+                                },
+                                {
+                                    "word": "insect",
+                                    "meaning": "昆虫"
+                                },
+                                {
+                                    "word": "attack",
+                                    "meaning": "攻撃する、襲う"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "were attacked",
+                                    "explanation": "<b>受動態</b>: 「攻撃された」→「被害を受けた」。"
+                                },
+                                {
+                                    "phrase": "that came from Europe",
+                                    "explanation": "<b>関係代名詞that</b>: 先行詞diseases and insectsを修飾。[S' (that) V' (came) ...]"
+                                },
+                                {
+                                    "phrase": "during",
+                                    "explanation": "「〜の間」。特定の期間を表す。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "text": "One type of wheat called purple straw wheat, though, was able to resist these dangers, and for a long time, it was the best choice for many farmers to plant.",
+                        "translation": "しかし、パープル・ストロー・ウィートと呼ばれるある種の小麦はこれらの危険に耐えることができ、長い間、多くの農家にとって植えるのに最適な選択肢であった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "was",
+                                "was"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>One type of wheat [called purple straw wheat]</span><span class='tag'>S</span></span>, <span class='chunk M-group'><span class='text'>(though)</span><span class='tag'>M</span></span>, <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>able to resist these dangers</span><span class='tag'>C</span></span>, and <span class='chunk M-group'><span class='text'>(for a long time)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>it</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>the best choice for many farmers to plant</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-S'>ある種の小麦は[パープル・ストロー・ウィートと呼ばれる]</span>, <span class='t-M'>(しかし)</span>, <span class='t-V'>〜であった</span> <span class='t-C'>これらの危険に抵抗できた</span>, そして <span class='t-M'>(長い間)</span>, <span class='t-S'>それは</span> <span class='t-V'>〜であった</span> <span class='t-C'>多くの農家が植えるための最良の選択</span>。",
+                            "naturalTranslation": "しかし、パープル・ストロー・ウィートと呼ばれるある品種はこれらの危機に耐えることができ、長い間、多くの農家にとって作付けに最適な選択肢であった。",
+                            "vocabulary": [
+                                {
+                                    "word": "resist",
+                                    "meaning": "抵抗する、耐える"
+                                },
+                                {
+                                    "word": "danger",
+                                    "meaning": "危険"
+                                },
+                                {
+                                    "word": "choice",
+                                    "meaning": "選択"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "called purple straw wheat",
+                                    "explanation": "<b>過去分詞の後置修飾</b>: 「〜と呼ばれる」。"
+                                },
+                                {
+                                    "phrase": "was able to resist",
+                                    "explanation": "<b>be able to do</b>: 「〜できる」。couldよりも具体的な能力の実現。"
+                                },
+                                {
+                                    "phrase": "choice for many farmers to plant",
+                                    "explanation": "<b>不定詞の形容詞的用法</b>: to plantがchoiceを修飾。for many farmersは不定詞の意味上の主語。[S'(farmers)が V'(plant)するための choice]"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 2,
+                "text": "Purple straw wheat seeds can be used to make whiskey or produce soft and delicious flour that is good for making cakes and bread. It has been grown since the 18th century, especially in the southern United States. What made purple straw wheat particularly important was its ability to survive winter weather. Unlike other types, purple straw wheat could be planted in late autumn and harvested in early spring. This meant that it avoided summer diseases and insects. As a result, purple straw wheat continued to be widely grown until the mid-20th century.",
+                "sentences": [
+                    {
+                        "id": 6,
+                        "text": "Purple straw wheat seeds can be used to make whiskey or produce soft and delicious flour that is good for making cakes and bread.",
+                        "translation": "パープル・ストロー・ウィートの種は、ウイスキーを作ったり、ケーキやパンを作るのに適した柔らかくて美味しい小麦粉を作ったりするのに使うことができる。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "can be used"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Purple straw wheat seeds</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can be <span class='verb-highlight'>used</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>to make whiskey or produce soft and delicious flour [that is good for making cakes and bread]</span><span class='tag'>M(目的)</span></span>.",
+                            "translationHtml": "<span class='t-S'>パープル・ストロー・ウィートの種は</span> <span class='t-V'>使われ得る</span> <span class='t-M'>ウイスキーを作るか、柔らかく美味しい小麦粉を作るために[それはケーキやパン作りに適している]</span>。",
+                            "naturalTranslation": "パープル・ストロー・ウィートの種子は、ウイスキーの製造や、ケーキやパン作りに適した柔らかく風味豊かな小麦粉の生産に利用できる。",
+                            "vocabulary": [
+                                {
+                                    "word": "produce",
+                                    "meaning": "生産する、作る"
+                                },
+                                {
+                                    "word": "flour",
+                                    "meaning": "小麦粉"
+                                },
+                                {
+                                    "word": "delicious",
+                                    "meaning": "美味しい"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "can be used to make",
+                                    "explanation": "<b>受動態 + 不定詞</b>: 「〜するために使われることができる」。"
+                                },
+                                {
+                                    "phrase": "that is good for...",
+                                    "explanation": "<b>関係代名詞that</b>: flourを修飾。[S'(flour) is good for...]"
+                                },
+                                {
+                                    "phrase": "make ... or produce ...",
+                                    "explanation": "<b>等位接続詞or</b>: to makeと(to) produceを結んでいる。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "text": "It has been grown since the 18th century, especially in the southern United States.",
+                        "translation": "それは18世紀以来、特に米国南部で栽培されてきた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "has been grown"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>It</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has been <span class='verb-highlight'>grown</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>since the 18th century</span><span class='tag'>M(期間)</span></span>, <span class='chunk M-group'><span class='text'>especially in the southern United States</span><span class='tag'>M(場所)</span></span>.",
+                            "translationHtml": "<span class='t-S'>それは</span> <span class='t-V'>栽培されてきた</span> <span class='t-M'>18世紀以来</span>, <span class='t-M'>特に米国南部で</span>。",
+                            "naturalTranslation": "それは18世紀以来、特にアメリカ南部で栽培されてきた。",
+                            "vocabulary": [
+                                {
+                                    "word": "grown",
+                                    "meaning": "栽培される (growの過去分詞)"
+                                },
+                                {
+                                    "word": "especially",
+                                    "meaning": "特に"
+                                },
+                                {
+                                    "word": "southern",
+                                    "meaning": "南部の"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "has been grown",
+                                    "explanation": "<b>現在完了受動態</b>: 「ずっと栽培されている」。"
+                                },
+                                {
+                                    "phrase": "since the 18th century",
+                                    "explanation": "継続期間の開始点。"
+                                },
+                                {
+                                    "phrase": "It",
+                                    "explanation": "Purple straw wheatを指す。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "text": "What made purple straw wheat particularly important was its ability to survive winter weather.",
+                        "translation": "パープル・ストロー・ウィートを特に重要なものにしたのは、冬の天候を生き抜く能力であった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "was"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>[What made purple straw wheat particularly important]</span><span class='tag'>S(関係代名詞節)</span></span> <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>its ability to survive winter weather</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-S'>[パープル・ストロー・ウィートを特に重要にしたこと]は</span> <span class='t-V'>〜であった</span> <span class='t-C'>冬の天候を生き抜くその能力</span>。",
+                            "naturalTranslation": "パープル・ストロー・ウィートをとりわけ重要な存在にしたのは、冬の気候に耐えうるその能力であった。",
+                            "vocabulary": [
+                                {
+                                    "word": "particularly",
+                                    "meaning": "特に、とりわけ"
+                                },
+                                {
+                                    "word": "ability",
+                                    "meaning": "能力"
+                                },
+                                {
+                                    "word": "survive",
+                                    "meaning": "生き残る、耐える"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "What made...",
+                                    "explanation": "<b>関係代名詞What</b>: 「〜するもの・こと」。主語節を作る。"
+                                },
+                                {
+                                    "phrase": "made ... important",
+                                    "explanation": "<b>make O C</b>: 「OをCにする」。"
+                                },
+                                {
+                                    "phrase": "ability to survive",
+                                    "explanation": "<b>不定詞の形容詞的用法</b>: abilityを修飾。「〜する能力」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "text": "Unlike other types, purple straw wheat could be planted in late autumn and harvested in early spring.",
+                        "translation": "他の種類と異なり、パープル・ストロー・ウィートは晩秋に植えられ、早春に収穫することができた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "could be planted",
+                                "harvested"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Unlike other types)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>purple straw wheat</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>could be <span class='verb-highlight'>planted</span> in late autumn and <span class='verb-highlight'>harvested</span> in early spring</span><span class='tag'>V</span></span>.",
+                            "translationHtml": "<span class='t-M'>(他の種類と違って)</span>, <span class='t-S'>パープル・ストロー・ウィートは</span> <span class='t-V'>晩秋に植えられ、早春に収穫されることができた</span>。",
+                            "naturalTranslation": "他の品種とは異なり、パープル・ストロー・ウィートは晩秋に作付けし、早春に収穫することが可能であった。",
+                            "vocabulary": [
+                                {
+                                    "word": "unlike",
+                                    "meaning": "〜と違って"
+                                },
+                                {
+                                    "word": "autumn",
+                                    "meaning": "秋"
+                                },
+                                {
+                                    "word": "harvest",
+                                    "meaning": "収穫する"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "could be planted",
+                                    "explanation": "<b>助動詞 + 受動態</b>: 「植えられることができた（可能だった）」。"
+                                },
+                                {
+                                    "phrase": "and harvested",
+                                    "explanation": "could be harvestedの省略。等位接続詞andによる並列。"
+                                },
+                                {
+                                    "phrase": "late autumn / early spring",
+                                    "explanation": "「晩秋」「早春」。季節の時期を表す表現。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "text": "This meant that it avoided summer diseases and insects.",
+                        "translation": "これは、それが夏の病気や昆虫を避けることを意味した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "meant"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>This</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>meant</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[that it avoided summer diseases and insects]</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-S'>これは</span> <span class='t-V'>意味した</span> <span class='t-O'>[それが夏の病気や昆虫を避けたということを]</span>。",
+                            "naturalTranslation": "つまり、夏の病気や害虫を回避できるということであった。",
+                            "vocabulary": [
+                                {
+                                    "word": "meant",
+                                    "meaning": "意味した (meanの過去形)"
+                                },
+                                {
+                                    "word": "avoid",
+                                    "meaning": "避ける、回避する"
+                                },
+                                {
+                                    "word": "disease",
+                                    "meaning": "病気"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "meant that...",
+                                    "explanation": "<b>接続詞that</b>: meantの目的語となる名詞節を作る。"
+                                },
+                                {
+                                    "phrase": "This",
+                                    "explanation": "前文の内容（晩秋に植えて早春に収穫できること）を指す。"
+                                },
+                                {
+                                    "phrase": "it",
+                                    "explanation": "purple straw wheatを指す。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 11,
+                        "text": "As a result, purple straw wheat continued to be widely grown until the mid-20th century.",
+                        "translation": "その結果、パープル・ストロー・ウィートは20世紀半ばまで広く栽培され続けた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "continued"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(As a result)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>purple straw wheat</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>continued</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to be widely grown</span><span class='tag'>O(不定詞)</span></span> <span class='chunk M-group'><span class='text'>until the mid-20th century</span><span class='tag'>M(期間)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(結果として)</span>, <span class='t-S'>パープル・ストロー・ウィートは</span> <span class='t-V'>続けた</span> <span class='t-O'>広く栽培されることを</span> <span class='t-M'>20世紀半ばまで</span>。",
+                            "naturalTranslation": "その結果、パープル・ストロー・ウィートは20世紀半ばまで広く栽培され続けた。",
+                            "vocabulary": [
+                                {
+                                    "word": "as a result",
+                                    "meaning": "結果として"
+                                },
+                                {
+                                    "word": "continue",
+                                    "meaning": "続ける"
+                                },
+                                {
+                                    "word": "widely",
+                                    "meaning": "広く"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "continued to be grown",
+                                    "explanation": "<b>continue to do</b>: 「〜し続ける」。to以下は受動態。"
+                                },
+                                {
+                                    "phrase": "until",
+                                    "explanation": "「〜まで（ずっと）」。継続の終了点。"
+                                },
+                                {
+                                    "phrase": "mid-20th century",
+                                    "explanation": "「20世紀半ば」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 3,
+                "text": "In the 1960s, scientists developed new types of wheat by mixing the genes of existing ones. These new types produced more seeds per plant and were better able to resist diseases. By using modern farming technology, chemicals that kill insects, and these new types of wheat, farmers could produce large quantities of wheat seeds more cheaply than before. Although flour from purple straw wheat is tastier and healthier, this type of wheat almost completely went out of use.",
+                "sentences": [
+                    {
+                        "id": 12,
+                        "text": "In the 1960s, scientists developed new types of wheat by mixing the genes of existing ones.",
+                        "translation": "1960年代、科学者たちは既存の小麦の遺伝子を交配させることで、新しい種類の小麦を開発した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "developed"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(In the 1960s)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>scientists</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>developed</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>new types of wheat</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>by mixing the genes of existing ones</span><span class='tag'>M(手段)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(1960年代に)</span>, <span class='t-S'>科学者たちは</span> <span class='t-V'>開発した</span> <span class='t-O'>新しい種類の小麦を</span> <span class='t-M'>既存のものの遺伝子を混ぜることによって</span>。",
+                            "naturalTranslation": "1960年代、科学者は既存品種の遺伝子を掛け合わせることで、新しい小麦の品種を開発した。",
+                            "vocabulary": [
+                                {
+                                    "word": "scientist",
+                                    "meaning": "科学者"
+                                },
+                                {
+                                    "word": "develop",
+                                    "meaning": "開発する"
+                                },
+                                {
+                                    "word": "gene",
+                                    "meaning": "遺伝子"
+                                },
+                                {
+                                    "word": "exist",
+                                    "meaning": "存在する"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "by mixing",
+                                    "explanation": "<b>前置詞by + 動名詞</b>: 「〜することによって」。手段を表す。"
+                                },
+                                {
+                                    "phrase": "existing ones",
+                                    "explanation": "onesはtypes of wheatを指す代名詞。existingは現在分詞の形容詞的用法。"
+                                },
+                                {
+                                    "phrase": "In the 1960s",
+                                    "explanation": "「1960年代に」。sがつくと年代を表す。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 13,
+                        "text": "These new types produced more seeds per plant and were better able to resist diseases.",
+                        "translation": "これらの新しい種類は、1株あたりの種子の生産量が多く、病気に対する抵抗力も強かった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "produced",
+                                "were"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>These new types</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>produced</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>more seeds per plant</span><span class='tag'>O</span></span> and <span class='chunk V-group'><span class='text'>were</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>better able to resist diseases</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-S'>これらの新しい種類は</span> <span class='t-V'>生産した</span> <span class='t-O'>1株あたりより多くの種を</span>, そして <span class='t-V'>〜であった</span> <span class='t-C'>病気によりよく抵抗できた</span>。",
+                            "naturalTranslation": "これらの新品種は1株あたりの収穫量が多く、病気への抵抗力も高かった。",
+                            "vocabulary": [
+                                {
+                                    "word": "produce",
+                                    "meaning": "生産する"
+                                },
+                                {
+                                    "word": "per",
+                                    "meaning": "〜につき、〜あたり"
+                                },
+                                {
+                                    "word": "resist",
+                                    "meaning": "抵抗する"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "better able to",
+                                    "explanation": "<b>be able toの比較級</b>: 「より〜できる能力がある」。"
+                                },
+                                {
+                                    "phrase": "per plant",
+                                    "explanation": "「植物1つにつき」。単位を表す。"
+                                },
+                                {
+                                    "phrase": "and",
+                                    "explanation": "producedとwereを結ぶ。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 14,
+                        "text": "By using modern farming technology, chemicals that kill insects, and these new types of wheat, farmers could produce large quantities of wheat seeds more cheaply than before.",
+                        "translation": "近代的な農業技術、昆虫を殺す化学薬品、そしてこれらの新しい種類の小麦を使用することで、農家は以前よりも安価に大量の小麦種子を生産できるようになった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "could produce"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(By using modern farming technology, chemicals [that kill insects], and these new types of wheat)</span><span class='tag'>M(手段)</span></span>, <span class='chunk S-group'><span class='text'>farmers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>could <span class='verb-highlight'>produce</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>large quantities of wheat seeds</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>more cheaply than before</span><span class='tag'>M(比較)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(近代農法、[虫を殺す]薬品、そしてこれら新品種を使うことで)</span>, <span class='t-S'>農家は</span> <span class='t-V'>生産できた</span> <span class='t-O'>大量の小麦の種を</span> <span class='t-M'>以前より安く</span>。",
+                            "naturalTranslation": "近代的な農業技術、殺虫剤、そしてこれらの新品種を活用することで、農家は以前より低コストで大量の小麦を生産できるようになった。",
+                            "vocabulary": [
+                                {
+                                    "word": "modern",
+                                    "meaning": "現代の、近代的な"
+                                },
+                                {
+                                    "word": "quantity",
+                                    "meaning": "量"
+                                },
+                                {
+                                    "word": "cheaply",
+                                    "meaning": "安く"
+                                },
+                                {
+                                    "word": "chemical",
+                                    "meaning": "化学薬品"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "chemicals that kill insects",
+                                    "explanation": "<b>関係代名詞that</b>: chemicalsを修飾。[S'(drugs) V'(kill) O'(insects)]"
+                                },
+                                {
+                                    "phrase": "more cheaply than before",
+                                    "explanation": "<b>副詞の比較級</b>: 「以前よりも安く」。"
+                                },
+                                {
+                                    "phrase": "large quantities of",
+                                    "explanation": "「大量の〜」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 15,
+                        "text": "Although flour from purple straw wheat is tastier and healthier, this type of wheat almost completely went out of use.",
+                        "translation": "パープル・ストロー・ウィートから作られる小麦粉の方が風味豊かで健康的であるが、この種の小麦はほぼ完全に使われなくなった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "went"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Although flour from purple straw wheat is tastier and healthier)</span><span class='tag'>M(譲歩)</span></span>, <span class='chunk S-group'><span class='text'>this type of wheat</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(almost completely)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>went</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>out of use</span><span class='tag'>C(熟語の一部とみなす)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(パープル・ストロー・ウィートの粉の方が美味しく健康的だが)</span>, <span class='t-S'>この種類の小麦は</span> <span class='t-M'>(ほぼ完全に)</span> <span class='t-V'>廃れた(使われなくなった)</span>。",
+                            "naturalTranslation": "パープル・ストロー・ウィートから作られる小麦粉の方が美味しく健康的であるにもかかわらず、この品種はほとんど姿を消してしまった。",
+                            "vocabulary": [
+                                {
+                                    "word": "although",
+                                    "meaning": "〜だけれども"
+                                },
+                                {
+                                    "word": "tasty",
+                                    "meaning": "美味しい (comp: tastier)"
+                                },
+                                {
+                                    "word": "healthy",
+                                    "meaning": "健康的な (comp: healthier)"
+                                },
+                                {
+                                    "word": "completely",
+                                    "meaning": "完全に"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "Although...",
+                                    "explanation": "<b>譲歩の接続詞</b>: 「〜であるけれども」。"
+                                },
+                                {
+                                    "phrase": "go out of use",
+                                    "explanation": "「使われなくなる、廃れる」。go out of fashion (流行遅れになる) と似た表現。"
+                                },
+                                {
+                                    "phrase": "tastier and healthier",
+                                    "explanation": "形容詞の比較級。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 4,
+                "text": "Some researchers wanted to bring back purple straw wheat. However, its seeds were not easy to obtain because there were only a few sources. The researchers finally managed to get a few grams of purple straw wheat seeds and planted them at Clemson University in South Carolina. They have been gradually increasing the amount of wheat that they can produce, although it is still not enough to make and sell flour. Many chefs, bakers, and whiskey makers are looking forward to being able to use purple straw wheat in their products.",
+                "sentences": [
+                    {
+                        "id": 16,
+                        "text": "Some researchers wanted to bring back purple straw wheat.",
+                        "translation": "一部の研究者はパープル・ストロー・ウィートを復活させたいと考えた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "wanted"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Some researchers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>wanted</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to bring back purple straw wheat</span><span class='tag'>O(不定詞)</span></span>.",
+                            "translationHtml": "<span class='t-S'>一部の研究者は</span> <span class='t-V'>望んだ</span> <span class='t-O'>パープル・ストロー・ウィートを復活させることを</span>。",
+                            "naturalTranslation": "パープル・ストロー・ウィートを復活させようと考えた研究者もいた。",
+                            "vocabulary": [
+                                {
+                                    "word": "researcher",
+                                    "meaning": "研究者"
+                                },
+                                {
+                                    "word": "bring back",
+                                    "meaning": "持ち帰る、復活させる"
+                                },
+                                {
+                                    "word": "want to",
+                                    "meaning": "〜したいと思う"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "wanted to bring back",
+                                    "explanation": "<b>不定詞の名詞的用法</b>: wantedの目的語。「〜することを望んだ」。"
+                                },
+                                {
+                                    "phrase": "bring back",
+                                    "explanation": "「元に戻す、復活させる」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 17,
+                        "text": "However, its seeds were not easy to obtain because there were only a few sources.",
+                        "translation": "しかし、入手源がわずかにしかなかったため、その種子を入手するのは容易ではなかった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "were"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>its seeds</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were</span><span class='tag'>V</span></span> not <span class='chunk C-group'><span class='text'>easy to obtain</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(because there were only a few sources)</span><span class='tag'>M(理由)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(しかし)</span>, <span class='t-S'>その種は</span> <span class='t-V'>〜ではなかった</span> <span class='t-C'>入手するのが簡単</span> <span class='t-M'>(情報源/供給源がわずかしかなかったので)</span>。",
+                            "naturalTranslation": "しかし、種子の入手先が限られていたため、手に入れるのは困難であった。",
+                            "vocabulary": [
+                                {
+                                    "word": "obtain",
+                                    "meaning": "入手する、手に入れる"
+                                },
+                                {
+                                    "word": "source",
+                                    "meaning": "源、情報源、入手先"
+                                },
+                                {
+                                    "word": "easy",
+                                    "meaning": "簡単な"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "easy to obtain",
+                                    "explanation": "<b>不定詞の副詞的用法</b>: 形容詞easyを修飾。「入手するのが難しい」。"
+                                },
+                                {
+                                    "phrase": "because there were...",
+                                    "explanation": "<b>理由の接続詞because</b>: 「〜なので」。"
+                                },
+                                {
+                                    "phrase": "a few",
+                                    "explanation": "「少数の（少しはある）」。肯定的なニュアンスだが、onlyがついて「ほんのわずか」と強調されている。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 18,
+                        "text": "The researchers finally managed to get a few grams of purple straw wheat seeds and planted them at Clemson University in South Carolina.",
+                        "translation": "研究者たちはついに数グラムのパープル・ストロー・ウィートの種子を手に入れ、サウスカロライナ州のクレムソン大学に植えた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "managed",
+                                "planted"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>The researchers</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(finally)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>managed</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to get a few grams of purple straw wheat seeds</span><span class='tag'>O(不定詞)</span></span> and <span class='chunk V-group'><span class='text'>planted</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>them</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>at Clemson University in South Carolina</span><span class='tag'>M(場所)</span></span>.",
+                            "translationHtml": "<span class='t-S'>研究者たちは</span> <span class='t-M'>(ついに)</span> <span class='t-V'>なんとかした</span> <span class='t-O'>数グラムのパープル・ストロー・ウィートの種を手に入れることを</span> そして <span class='t-V'>植えた</span> <span class='t-O'>それらを</span> <span class='t-M'>サウスカロライナのクレムソン大学に</span>。",
+                            "naturalTranslation": "研究者たちはようやく数グラムの種を手に入れ、サウスカロライナ州のクレムソン大学に植え付けた。",
+                            "vocabulary": [
+                                {
+                                    "word": "finally",
+                                    "meaning": "ついに、ようやく"
+                                },
+                                {
+                                    "word": "manage to",
+                                    "meaning": "なんとか〜する"
+                                },
+                                {
+                                    "word": "plant",
+                                    "meaning": "植える"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "managed to get",
+                                    "explanation": "<b>manage to do</b>: 「苦労して〜する、なんとか〜する」。"
+                                },
+                                {
+                                    "phrase": "planted them",
+                                    "explanation": "themはseedsを指す。managed...とplanted...がandで結ばれている。"
+                                },
+                                {
+                                    "phrase": "a few grams of",
+                                    "explanation": "「数グラムの」。微量であることを示している。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 19,
+                        "text": "They have been gradually increasing the amount of wheat that they can produce, although it is still not enough to make and sell flour.",
+                        "translation": "彼らは生産できる小麦の量を徐々に増やしているが、小麦粉を作って販売するにはまだ十分ではない。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "have been increasing"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have been gradually <span class='verb-highlight'>increasing</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the amount of wheat [that they can produce]</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(although it is still not enough to make and sell flour)</span><span class='tag'>M(譲歩)</span></span>.",
+                            "translationHtml": "<span class='t-S'>彼らは</span> <span class='t-V'>徐々に増やしている</span> <span class='t-O'>小麦の量を[彼らが生産できる]</span>, <span class='t-M'>(まだ粉を作って売るには十分ではないが)</span>。",
+                            "naturalTranslation": "彼らは生産可能な小麦の量を徐々に増やしてはいるが、小麦粉として製造・販売するにはまだ十分な量ではない。",
+                            "vocabulary": [
+                                {
+                                    "word": "gradually",
+                                    "meaning": "徐々に"
+                                },
+                                {
+                                    "word": "increase",
+                                    "meaning": "増やす、増加する"
+                                },
+                                {
+                                    "word": "enough",
+                                    "meaning": "十分な"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "have been increasing",
+                                    "explanation": "<b>現在完了進行形</b>: 「（これまでずっと）増やし続けている」。"
+                                },
+                                {
+                                    "phrase": "wheat that they can produce",
+                                    "explanation": "<b>関係代名詞that</b>: wheatを修飾。[S'(they) can produce O'(that/wheat)]"
+                                },
+                                {
+                                    "phrase": "enough to make",
+                                    "explanation": "<b>enough to do</b>: 「〜するのに十分な」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 20,
+                        "text": "Many chefs, bakers, and whiskey makers are looking forward to being able to use purple straw wheat in their products.",
+                        "translation": "多くのシェフ、パン職人、ウイスキー製造者が、自社の製品にパープル・ストロー・ウィートを使えるようになることを楽しみにしている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "are looking forward to"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Many chefs, bakers, and whiskey makers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are <span class='verb-highlight'>looking forward to</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>being able to use purple straw wheat in their products</span><span class='tag'>O(動名詞)</span></span>.",
+                            "translationHtml": "<span class='t-S'>多くのシェフ、パン屋、ウイスキー生産者は</span> <span class='t-V'>楽しみにしている</span> <span class='t-O'>パープル・ストロー・ウィートを製品に使えるようになることを</span>。",
+                            "naturalTranslation": "多くのシェフやパン職人、ウイスキーメーカーが、彼らの製品にパープル・ストロー・ウィートを使用できる日を心待ちにしている。",
+                            "vocabulary": [
+                                {
+                                    "word": "look forward to",
+                                    "meaning": "〜を楽しみに待つ"
+                                },
+                                {
+                                    "word": "baker",
+                                    "meaning": "パン職人、パン屋"
+                                },
+                                {
+                                    "word": "product",
+                                    "meaning": "製品"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "look forward to -ing",
+                                    "explanation": "<b>基本的慣用句</b>: toは前置詞なので、後ろには動名詞(being)が来る。"
+                                },
+                                {
+                                    "phrase": "being able to use",
+                                    "explanation": "be able to use（使える）の動名詞化。「使えるようになること」。"
+                                },
+                                {
+                                    "phrase": "in their products",
+                                    "explanation": "「彼らの製品において」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "id": 30,
+                "text": "What happened in the late 18th century in the United States?",
+                "textTranslation": "18世紀後半の米国で何が起こったか？",
+                "correctAnswer": 2,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "Farmers developed a type of wheat that produced better flour.",
+                        "translation": "農家はより良い小麦粉を作る小麦の品種を開発した。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Diseases and insects that affected wheat plants arrived from overseas.",
+                        "translation": "小麦の植物に影響を与える病気や昆虫が海外から到来した。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "A lack of wheat meant that it had to be imported from Europe.",
+                        "translation": "小麦不足は、ヨーロッパから輸入しなければならないことを意味した。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "People started to use grains other than wheat to make bread.",
+                        "translation": "人々はパンを作るために小麦以外の穀物を使い始めた。"
+                    }
+                ],
+                "keywords": [
+                    "late 18th century",
+                    "United States",
+                    "happened"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "many types of wheat were attacked by diseases and insects that came from Europe",
+                        "sentenceId": 4,
+                        "keyword": "happened"
+                    }
+                ],
+                "keywordExplanations": {
+                    "late 18th century": "第1段落の 'During the late 18th century' を探す。",
+                    "happened": "その時期に起きた出来事（病気や虫の被害）に注目。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "18世紀後半に何が起きたか？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第1段落: 'During the late 18th century, many types of wheat were attacked by diseases and insects that came from Europe.'"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢2: 'Diseases and insects that affected wheat plants arrived from overseas.' が 'came from Europe' (海外から到来) と一致。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "attacked by diseases and insects that came from Europe",
+                    "highlightWordSentenceId": 4,
+                    "description": "第1段落中盤、18世紀後半の記述に注目。",
+                    "targetSentenceId": 4
+                }
+            },
+            {
+                "id": 31,
+                "text": "What was one reason that purple straw wheat was better than other types of wheat?",
+                "textTranslation": "パープル・ストロー・ウィートが他の種類の小麦より優れていた一つの理由は何か？",
+                "correctAnswer": 1,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "It could be grown during the coldest part of the year.",
+                        "translation": "それは一年で最も寒い時期に栽培することができた。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "It could be used to make new kinds of foods and drinks.",
+                        "translation": "それは新しい種類の食品や飲み物を作るために使うことができた。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "It could survive the hot summers in the southern United States.",
+                        "translation": "それは米国南部の暑い夏を生き抜くことができた。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "It could grow in fields that had low-quality soil.",
+                        "translation": "それは質の悪い土壌の畑でも育つことができた。"
+                    }
+                ],
+                "keywords": [
+                    "reason",
+                    "better",
+                    "other types"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "What made purple straw wheat particularly important was its ability to survive winter weather",
+                        "sentenceId": 8,
+                        "keyword": "reason"
+                    },
+                    {
+                        "text": "purple straw wheat could be planted in late autumn and harvested in early spring",
+                        "sentenceId": 9,
+                        "keyword": "better"
+                    }
+                ],
+                "keywordExplanations": {
+                    "reason": "優れていた理由＝重要だった理由。",
+                    "better": "他より優れている点（冬を越せる、病気を避けられる）。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "なぜパープル・ストロー・ウィートは他より優れていたのか？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第2段落: 'ability to survive winter weather' と 'planted in late autumn and harvested in early spring'。これにより 'avoided summer diseases'。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢1: 'It could be grown during the coldest part of the year.' が「冬の天候を生き抜く」「晩秋〜早春に栽培」と言い換えられている。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "ability to survive winter weather",
+                    "highlightWordSentenceId": 8,
+                    "description": "第2段落、特に 'ability to survive winter weather' に注目。",
+                    "targetSentenceId": 8
+                }
+            },
+            {
+                "id": 32,
+                "text": "Why did people stop growing purple straw wheat in the 20th century?",
+                "textTranslation": "なぜ人々は20世紀にパープル・ストロー・ウィートの栽培をやめたのか？",
+                "correctAnswer": 2,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "It was not suitable for use with modern farming technology.",
+                        "translation": "それは近代的な農業技術での使用に適していなかった。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Scientists created types of wheat that gave greater numbers of seeds.",
+                        "translation": "科学者が、より多くの種子を生産する種類の小麦を作り出した。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "People wanted to buy flour that tasted better and was healthier.",
+                        "translation": "人々はより美味しく健康的な小麦粉を買いたがった。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Chemicals that kill insects destroyed many purple straw wheat plants.",
+                        "translation": "昆虫を殺す化学薬品が多くのパープル・ストロー・ウィートを枯らせてしまった。"
+                    }
+                ],
+                "keywords": [
+                    "stop growing",
+                    "20th century",
+                    "why"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "These new types produced more seeds per plant",
+                        "sentenceId": 13,
+                        "keyword": "why"
+                    },
+                    {
+                        "text": "farmers could produce large quantities of wheat seeds more cheaply than before",
+                        "sentenceId": 14,
+                        "keyword": "why"
+                    }
+                ],
+                "keywordExplanations": {
+                    "why": "栽培しなくなった理由。新品種の登場とそのメリット。",
+                    "stop growing": "went out of use（使われなくなった）に対応。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "なぜ栽培されなくなったのか？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第3段落: 科学者が新品種を開発し、それらは 'produced more seeds per plant' であり、これにより 'produce large quantities... more cheaply' となった。その結果 'went out of use'。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢2: 'Scientists created types of wheat that gave greater numbers of seeds.' が 'produced more seeds per plant' と完全に一致。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "produced more seeds per plant",
+                    "highlightWordSentenceId": 13,
+                    "description": "第3段落、新しい小麦の特徴と、それがもたらした結果に注目。",
+                    "targetSentenceId": 13
+                }
+            },
+            {
+                "id": 33,
+                "text": "Researchers who have been growing purple straw wheat",
+                "textTranslation": "パープル・ストロー・ウィートを栽培している研究者たちは",
+                "correctAnswer": 1,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "could only get a small amount of purple straw wheat seeds.",
+                        "translation": "パープル・ストロー・ウィートの種子を少量しか入手できなかった。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "tested it in several different locations in the United States.",
+                        "translation": "米国のいくつかの異なる場所でそれをテストした。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "offered flour made from the wheat to chefs, bakers, and whiskey makers.",
+                        "translation": "その小麦から作った粉をシェフ、パン職人、ウイスキー製造者に提供した。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "were surprised at how quickly they were able to produce enough to sell.",
+                        "translation": "販売するのに十分な量をいかに早く生産できたかに驚いた。"
+                    }
+                ],
+                "keywords": [
+                    "Researchers",
+                    "growing"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "its seeds were not easy to obtain because there were only a few sources",
+                        "sentenceId": 17,
+                        "keyword": "growing"
+                    },
+                    {
+                        "text": "managed to get a few grams of purple straw wheat seeds",
+                        "sentenceId": 18,
+                        "keyword": "Researchers"
+                    }
+                ],
+                "keywordExplanations": {
+                    "Researchers": "第4段落の研究者たちの行動。",
+                    "growing": "復活に向けた栽培の過程での困難。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "パープル・ストロー・ウィートを栽培している研究者はどうだったか？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第4段落: 'its seeds were not easy to obtain' であり、'finally managed to get a few grams'（やっと数グラム入手できた）。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢1: 'could only get a small amount of purple straw wheat seeds.' が 'get a few grams' と一致。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "managed to get a few grams",
+                    "highlightWordSentenceId": 18,
+                    "description": "第4段落、研究者たちが種を入手する際の記述に注目。",
+                    "targetSentenceId": 18
+                }
+            }
+        ],
+        "summaryForInstructors": {
+            "title": "Purple Straw Wheat (奇跡の小麦の復活)",
+            "intro": "このパッセージは、かつてアメリカ南部で広く栽培されていた「パープル・ストロー・ウィート」という小麦の歴史、衰退、そして復活への取り組み描いています。時代ごとの小麦の課題と、それに対する品種の特徴を捉えることがポイントです。",
+            "points": [
+                {
+                    "label": "1. 第1段落: 歴史的背景",
+                    "text": "18世紀後半、欧州からの病害虫で多くの小麦が被害を受けたが、パープル・ストロー・ウィートだけは耐性があり、農家に選ばれた。"
+                },
+                {
+                    "label": "2. 第2段落: 特性と成功",
+                    "text": "この品種は冬越しが可能（晩秋植え・早春収穫）で、夏の病害虫を回避できたため、20世紀半ばまで広く栽培された。"
+                },
+                {
+                    "label": "3. 第3段落: 衰退の理由",
+                    "text": "1960年代に多収量で病気に強い新品種が開発され、近代農法と組み合わせて安価に大量生産できるようになり、伝統品種は廃れた。"
+                },
+                {
+                    "label": "4. 第4段落: 復活への道",
+                    "text": "入手困難だった種を研究者が苦労して入手し、栽培を再開。まだ商業規模ではないが、シェフや職人から期待されている。"
+                }
+            ]
+        }
+    }
+    ,
+    {
+        "id": "grade2-2023-3-3B",
+        "grade": "2級",
+        "title": "Keeping Up-to-Date",
+        "subTitle": "2023年度 第3回 2級 大問3B",
+        "images": {
+            "content": "/images/reading/grade2-2023-3-3B-content.png",
+            "question": "/images/reading/grade2-2023-3-3B-question.png"
+        },
+        "content": [
+            {
+                "paragraphId": 1,
+                "text": "English is used by people in many parts of the world. Like other languages, new words are often added to English. These come from technological, social, or other developments. At the same time, other words stop being used because they no longer help people express their ideas. The people who create dictionaries need to constantly check which words are being used and how they are being used to make dictionaries that reflect the current state of the English language.",
+                "sentences": [
+                    {
+                        "id": 1,
+                        "text": "English is used by people in many parts of the world.",
+                        "translation": "英語は世界の多くの地域の人々によって使われている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "is used"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>English</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is <span class='verb-highlight'>used</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>by people in many parts of the world</span><span class='tag'>M(動作主)</span></span>.",
+                            "translationHtml": "<span class='t-S'>英語は</span> <span class='t-V'>使われている</span> <span class='t-M'>世界の多くの地域の人々によって</span>。",
+                            "naturalTranslation": "英語は世界の多くの地域で人々に使われている。",
+                            "vocabulary": [
+                                {
+                                    "word": "part",
+                                    "meaning": "地域、部分"
+                                },
+                                {
+                                    "word": "language",
+                                    "meaning": "言語"
+                                },
+                                {
+                                    "word": "world",
+                                    "meaning": "世界"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "is used",
+                                    "explanation": "<b>受動態</b>: be動詞 + 過去分詞。「使われる」。"
+                                },
+                                {
+                                    "phrase": "by people",
+                                    "explanation": "受動態の動作主を表すby。"
+                                },
+                                {
+                                    "phrase": "in many parts of",
+                                    "explanation": "「〜の多くの地域で」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "text": "Like other languages, new words are often added to English.",
+                        "translation": "他の言語と同様に、新しい単語がしばしば英語に加えられる。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "are added"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Like other languages)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>new words</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are <span class='verb-highlight'>often added</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>to English</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-M'>(他の言語と同様に)</span>, <span class='t-S'>新しい単語が</span> <span class='t-V'>しばしば加えられる</span> <span class='t-M'>英語に</span>。",
+                            "naturalTranslation": "他の言語と同じく、英語にも頻繁に新しい単語が追加される。",
+                            "vocabulary": [
+                                {
+                                    "word": "add",
+                                    "meaning": "加える、追加する"
+                                },
+                                {
+                                    "word": "often",
+                                    "meaning": "しばしば、よく"
+                                },
+                                {
+                                    "word": "like",
+                                    "meaning": "〜のように"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "are added",
+                                    "explanation": "<b>受動態</b>: 「加えられる」。"
+                                },
+                                {
+                                    "phrase": "to English",
+                                    "explanation": "add A to B（AをBに加える）の受動態。A is added to B。"
+                                },
+                                {
+                                    "phrase": "Like",
+                                    "explanation": "前置詞。「〜と同様に」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "text": "These come from technological, social, or other developments.",
+                        "translation": "これらは技術的、社会的、あるいはその他の発展から生じる。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "come"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>These</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>come</span> from</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>technological, social, or other developments</span><span class='tag'>O(前置詞の目的語)</span></span>.",
+                            "translationHtml": "<span class='t-S'>これらは</span> <span class='t-V'>〜から来る(生じる)</span> <span class='t-O'>技術的、社会的、その他の発展(から)</span>。",
+                            "naturalTranslation": "これらは技術的、社会的、あるいはその他の進歩に由来する。",
+                            "vocabulary": [
+                                {
+                                    "word": "technological",
+                                    "meaning": "技術的な"
+                                },
+                                {
+                                    "word": "social",
+                                    "meaning": "社会的な"
+                                },
+                                {
+                                    "word": "development",
+                                    "meaning": "発展、開発"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "come from",
+                                    "explanation": "「〜から来る、〜に由来する」。"
+                                },
+                                {
+                                    "phrase": "These",
+                                    "explanation": "前文の「new words」を指す。"
+                                },
+                                {
+                                    "phrase": "A, B, or C",
+                                    "explanation": "3つ以上の要素を列挙する場合の接続詞orの使い方。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "text": "At the same time, other words stop being used because they no longer help people express their ideas.",
+                        "translation": "同時に、他の単語は人々が考えを表現するのに役立たなくなるため、使われなくなる。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "stop"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(At the same time)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>other words</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>stop</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>being used</span><span class='tag'>O(動名詞)</span></span> <span class='chunk M-group'><span class='text'>(because they no longer help people express their ideas)</span><span class='tag'>M(理由)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(同時に)</span>, <span class='t-S'>他の単語は</span> <span class='t-V'>やめる</span> <span class='t-O'>使われることを</span> <span class='t-M'>(もはや人々が考えを表現するのを助けないので)</span>。",
+                            "naturalTranslation": "同時に、人々の思考表現に役立たなくなった単語は使われなくなっていく。",
+                            "vocabulary": [
+                                {
+                                    "word": "express",
+                                    "meaning": "表現する"
+                                },
+                                {
+                                    "word": "no longer",
+                                    "meaning": "もはや〜ない"
+                                },
+                                {
+                                    "word": "idea",
+                                    "meaning": "考え"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "stop being used",
+                                    "explanation": "<b>stop -ing</b>: 「〜するのをやめる」。being usedは受動態の動名詞。"
+                                },
+                                {
+                                    "phrase": "help people express",
+                                    "explanation": "<b>help O do</b>: 「Oが〜するのを助ける」。原形不定詞expressが使われている。"
+                                },
+                                {
+                                    "phrase": "At the same time",
+                                    "explanation": "「同時に」。対比的な事象を導入する。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "text": "The people who create dictionaries need to constantly check which words are being used and how they are being used to make dictionaries that reflect the current state of the English language.",
+                        "translation": "辞書を作る人々は、英語の現状を反映した辞書を作るために、どの単語が使われているか、どのように使われているかを絶えず確認する必要がある。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "need"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>The people [who create dictionaries]</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>need</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to constantly check [which words are being used and how they are being used]</span><span class='tag'>O(不定詞)</span></span> <span class='chunk M-group'><span class='text'>to make dictionaries [that reflect the current state of the English language]</span><span class='tag'>M(目的)</span></span>.",
+                            "translationHtml": "<span class='t-S'>人々は[辞書を作る]</span> <span class='t-V'>必要がある</span> <span class='t-O'>絶えず確認することが[どの語が使われ、どう使われているかを]</span> <span class='t-M'>辞書を作るために[英語の現状を反映した]</span>。",
+                            "naturalTranslation": "辞書編集者は、現在の英語の状態を反映した辞書を作るため、どの単語がどのように使用されているかを常にチェックする必要がある。",
+                            "vocabulary": [
+                                {
+                                    "word": "constantly",
+                                    "meaning": "絶えず、常に"
+                                },
+                                {
+                                    "word": "reflect",
+                                    "meaning": "反映する"
+                                },
+                                {
+                                    "word": "state",
+                                    "meaning": "状態"
+                                },
+                                {
+                                    "word": "current",
+                                    "meaning": "現在の"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "who create dictionaries",
+                                    "explanation": "<b>関係代名詞who</b>: peopleを修飾。「辞書を作る人々」。"
+                                },
+                                {
+                                    "phrase": "need to check",
+                                    "explanation": "need to do。「〜する必要がある」。"
+                                },
+                                {
+                                    "phrase": "which words are being used",
+                                    "explanation": "<b>間接疑問文</b>: checkの目的語。「どの単語が使われているか」。"
+                                },
+                                {
+                                    "phrase": "to make dictionaries",
+                                    "explanation": "<b>不定詞の副詞的用法</b>: 「〜するために」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 2,
+                "text": "For a new word to be considered by dictionary editors, it must first be used widely. Dictionary editors and their assistants read books, news articles, and other sources of English to look for new words. These days, dictionary editors use computers to help them check sources more quickly and more accurately. The next step is to check the meaning of the new word. If the new word is being used by a lot of people to mean the same thing, there is a good chance that it will be added to dictionaries.",
+                "sentences": [
+                    {
+                        "id": 6,
+                        "text": "For a new word to be considered by dictionary editors, it must first be used widely.",
+                        "translation": "新しい単語が辞書編集者に検討されるためには、まず広く使われていなければならない。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "must be used"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>[For a new word to be considered by dictionary editors]</span><span class='tag'>M(目的)</span></span>, <span class='chunk S-group'><span class='text'>it</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>must first be <span class='verb-highlight'>used</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>widely</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-M'>[新しい単語が辞書編集者に考慮されるためには]</span>, <span class='t-S'>それは</span> <span class='t-V'>まず使われなければならない</span> <span class='t-M'>広く</span>。",
+                            "naturalTranslation": "新語が辞書編集者の検討対象となるには、まず広く使われている必要がある。",
+                            "vocabulary": [
+                                {
+                                    "word": "consider",
+                                    "meaning": "検討する、考慮する"
+                                },
+                                {
+                                    "word": "editor",
+                                    "meaning": "編集者"
+                                },
+                                {
+                                    "word": "widely",
+                                    "meaning": "広く"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "For a new word to be...",
+                                    "explanation": "<b>不定詞の意味上の主語</b>: For A to do。「Aが〜するために」。"
+                                },
+                                {
+                                    "phrase": "be considered",
+                                    "explanation": "受動態。「検討される」。"
+                                },
+                                {
+                                    "phrase": "must be used",
+                                    "explanation": "<b>助動詞+受動態</b>: 「使われなければならない」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "text": "Dictionary editors and their assistants read books, news articles, and other sources of English to look for new words.",
+                        "translation": "辞書編集者とその助手は、新しい単語を探すために、本、ニュース記事、その他の英語の情報源を読む。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "read"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Dictionary editors and their assistants</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>read</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>books, news articles, and other sources of English</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>to look for new words</span><span class='tag'>M(目的)</span></span>.",
+                            "translationHtml": "<span class='t-S'>辞書編集者とその助手は</span> <span class='t-V'>読む</span> <span class='t-O'>本、ニュース記事、その他の英語の情報源を</span> <span class='t-M'>新しい単語を探すために</span>。",
+                            "naturalTranslation": "辞書編集者とアシスタントは、新語を見つけるために書籍や記事など様々な英語のソースを読み込む。",
+                            "vocabulary": [
+                                {
+                                    "word": "assistant",
+                                    "meaning": "助手、アシスタント"
+                                },
+                                {
+                                    "word": "article",
+                                    "meaning": "記事"
+                                },
+                                {
+                                    "word": "source",
+                                    "meaning": "源、情報源"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "editors and their assistants",
+                                    "explanation": "複数形の主語。"
+                                },
+                                {
+                                    "phrase": "to look for",
+                                    "explanation": "<b>不定詞の副詞的用法</b>: 「〜するために」。look forは「探す」。"
+                                },
+                                {
+                                    "phrase": "sources of English",
+                                    "explanation": "「英語の情報源（英語が使われている場所）」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "text": "These days, dictionary editors use computers to help them check sources more quickly and more accurately.",
+                        "translation": "今日では、辞書編集者は情報源をより速く、より正確に確認するためにコンピュータを使用している。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "use"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(These days)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>dictionary editors</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>use</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>computers</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>to help them check sources more quickly and more accurately</span><span class='tag'>M(目的)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(最近では)</span>, <span class='t-S'>辞書編集者は</span> <span class='t-V'>使う</span> <span class='t-O'>コンピュータを</span> <span class='t-M'>彼らがソースを確認するのを助けるために[より速く正確に]</span>。",
+                            "naturalTranslation": "最近では、編集者はコンピュータを使って、より迅速かつ正確に情報源をチェックしている。",
+                            "vocabulary": [
+                                {
+                                    "word": "accurately",
+                                    "meaning": "正確に"
+                                },
+                                {
+                                    "word": "quickly",
+                                    "meaning": "速く"
+                                },
+                                {
+                                    "word": "check",
+                                    "meaning": "確認する"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "These days",
+                                    "explanation": "「最近、今日では」。"
+                                },
+                                {
+                                    "phrase": "to help them check",
+                                    "explanation": "<b>help O do</b>: 「Oが〜するのを助ける」。themは編集者。"
+                                },
+                                {
+                                    "phrase": "more quickly and more accurately",
+                                    "explanation": "副詞の比較級。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "text": "The next step is to check the meaning of the new word.",
+                        "translation": "次のステップは、その新しい単語の意味を確認することである。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "is"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>The next step</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>to check the meaning of the new word</span><span class='tag'>C(不定詞)</span></span>.",
+                            "translationHtml": "<span class='t-S'>次の段階は</span> <span class='t-V'>〜である</span> <span class='t-C'>その新しい単語の意味を確認すること</span>。",
+                            "naturalTranslation": "次の段階は、その新語の意味を確認することだ。",
+                            "vocabulary": [
+                                {
+                                    "word": "step",
+                                    "meaning": "段階、ステップ"
+                                },
+                                {
+                                    "word": "meaning",
+                                    "meaning": "意味"
+                                },
+                                {
+                                    "word": "check",
+                                    "meaning": "確認する"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "is to check",
+                                    "explanation": "<b>be to do / 不定詞の名詞的用法</b>: ここでは補語として「〜することである」。"
+                                },
+                                {
+                                    "phrase": "meaning of",
+                                    "explanation": "「〜の意味」。"
+                                },
+                                {
+                                    "phrase": "The next step",
+                                    "explanation": "手順の順序を示す表現。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "text": "If the new word is being used by a lot of people to mean the same thing, there is a good chance that it will be added to dictionaries.",
+                        "translation": "もしその新しい単語が多くの人々によって同じ意味で使われているなら、それが辞書に加えられる可能性は高い。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "is"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(If the new word is being used by a lot of people to mean the same thing)</span><span class='tag'>M(条件)</span></span>, <span class='chunk V-group'><span class='text'>there <span class='verb-highlight'>is</span></span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>a good chance [that it will be added to dictionaries]</span><span class='tag'>S</span></span>.",
+                            "translationHtml": "<span class='t-M'>(もしその新語が多くの人に同じ意味で使われているなら)</span>, <span class='t-V'>ある</span> <span class='t-S'>高い可能性が[それが辞書に加えられる]</span>。",
+                            "naturalTranslation": "もしその新語が多くの人々の間で同じ意味で使われているのであれば、辞書に掲載される可能性は高い。",
+                            "vocabulary": [
+                                {
+                                    "word": "chance",
+                                    "meaning": "機会、可能性"
+                                },
+                                {
+                                    "word": "mean",
+                                    "meaning": "意味する"
+                                },
+                                {
+                                    "word": "same",
+                                    "meaning": "同じ"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "is being used",
+                                    "explanation": "<b>現在進行形の受動態</b>: 「使われている最中である（日常的に使われている）」。"
+                                },
+                                {
+                                    "phrase": "to mean",
+                                    "explanation": "不定詞の副詞的用法（結果、または目的）。「〜を意味するように」。"
+                                },
+                                {
+                                    "phrase": "there is a good chance that...",
+                                    "explanation": "<b>同格のthat</b>: chanceの内容を説明。「〜という十分な可能性がある」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 3,
+                "text": "In some cases, completely new words are added to the dictionary, but in other cases, new meanings are added to existing words. For example, the word \"cookie\" used to have a single meaning: a kind of baked snack. In the late 20th century, the same word started to be used to refer to special computer files that store information about how people use websites on the Internet. Within a few years, the use of this meaning of the word had become so widespread that dictionary editors decided to add the meaning to their dictionaries.",
+                "sentences": [
+                    {
+                        "id": 11,
+                        "text": "In some cases, completely new words are added to the dictionary, but in other cases, new meanings are added to existing words.",
+                        "translation": "完全に新しい単語が辞書に加えられる場合もあるが、既存の単語に新しい意味が加えられる場合もある。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "are added",
+                                "are added"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(In some cases)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>completely new words</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are <span class='verb-highlight'>added</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>to the dictionary</span><span class='tag'>M</span></span>, but <span class='chunk M-group'><span class='text'>(in other cases)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>new meanings</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are <span class='verb-highlight'>added</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>to existing words</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-M'>(ある場合には)</span>, <span class='t-S'>完全に新しい単語が</span> <span class='t-V'>加えられる</span> <span class='t-M'>辞書に</span>, しかし <span class='t-M'>(他の場合には)</span>, <span class='t-S'>新しい意味が</span> <span class='t-V'>加えられる</span> <span class='t-M'>既存の単語に</span>。",
+                            "naturalTranslation": "全く新しい単語が辞書に追加されることもあれば、既存の単語に新しい意味が追加されることもある。",
+                            "vocabulary": [
+                                {
+                                    "word": "completely",
+                                    "meaning": "完全に"
+                                },
+                                {
+                                    "word": "existing",
+                                    "meaning": "既存の"
+                                },
+                                {
+                                    "word": "case",
+                                    "meaning": "場合"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "In some cases... in other cases",
+                                    "explanation": "「ある場合は〜、またある場合は〜」。対比の表現。"
+                                },
+                                {
+                                    "phrase": "are added to",
+                                    "explanation": "受動態。「〜に加えられる」。"
+                                },
+                                {
+                                    "phrase": "existing words",
+                                    "explanation": "「存在する単語(既存語)」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 12,
+                        "text": "For example, the word \"cookie\" used to have a single meaning: a kind of baked snack.",
+                        "translation": "例えば、「クッキー」という単語はかつて、焼いたスナックの一種という一つの意味しか持っていなかった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "used to have"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(For example)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the word \"cookie\"</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>used to have</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a single meaning</span><span class='tag'>O</span></span>: <span class='chunk C-group'><span class='text'>a kind of baked snack</span><span class='tag'>C(同格)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(例えば)</span>, <span class='t-S'>「クッキー」という語は</span> <span class='t-V'>かつて持っていた</span> <span class='t-O'>たった一つの意味を</span>: <span class='t-C'>焼いたスナックの一種(という)</span>。",
+                            "naturalTranslation": "例えば、「クッキー」という単語は、かつては「焼き菓子の一種」という一つの意味しか持っていなかった。",
+                            "vocabulary": [
+                                {
+                                    "word": "single",
+                                    "meaning": "ただ一つの"
+                                },
+                                {
+                                    "word": "snack",
+                                    "meaning": "軽食、スナック"
+                                },
+                                {
+                                    "word": "bake",
+                                    "meaning": "焼く"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "used to do",
+                                    "explanation": "<b>助動詞的表現</b>: 「以前は〜だった（今は違う）」。過去の習慣や状態。"
+                                },
+                                {
+                                    "phrase": "baked snack",
+                                    "explanation": "bakedは過去分詞でsnackを修飾。「焼かれた軽食」。"
+                                },
+                                {
+                                    "phrase": ": (colon)",
+                                    "explanation": "具体的な内容を説明する記号。meaning = a kind..."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 13,
+                        "text": "In the late 20th century, the same word started to be used to refer to special computer files that store information about how people use websites on the Internet.",
+                        "translation": "20世紀後半、同じ単語が、人々がインターネット上のウェブサイトをどのように利用しているかという情報を保存する特別なコンピュータファイルを指すために使われ始めた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "started"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(In the late 20th century)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the same word</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>started</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to be used to refer to special computer files [that store information about how people use websites on the Internet]</span><span class='tag'>O(不定詞)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(20世紀後半に)</span>, <span class='t-S'>同じ単語が</span> <span class='t-V'>始まった</span> <span class='t-O'>使われることが(〜を指すために)[それは情報を保存する特別なファイル]</span>。",
+                            "naturalTranslation": "20世紀後半には、同じ単語が、インターネットでのウェブサイト利用情報を保存する特別なコンピュータファイルを指して使われるようになった。",
+                            "vocabulary": [
+                                {
+                                    "word": "refer to",
+                                    "meaning": "言及する、指す"
+                                },
+                                {
+                                    "word": "store",
+                                    "meaning": "保存する"
+                                },
+                                {
+                                    "word": "information",
+                                    "meaning": "情報"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "started to be used",
+                                    "explanation": "begin/start to do。「〜され始めた」。"
+                                },
+                                {
+                                    "phrase": "refer to",
+                                    "explanation": "「〜を指す、呼ぶ」。"
+                                },
+                                {
+                                    "phrase": "files that store...",
+                                    "explanation": "<b>関係代名詞that</b>: filesを修飾。[S'(files) V'(store)...]"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 14,
+                        "text": "Within a few years, the use of this meaning of the word had become so widespread that dictionary editors decided to add the meaning to their dictionaries.",
+                        "translation": "数年のうちに、この単語のこの意味での使用は非常に広まり、辞書編集者はその意味を辞書に追加することを決定した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "had become"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Within a few years)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the use of this meaning of the word</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>had <span class='verb-highlight'>become</span></span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>so widespread</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>[that dictionary editors decided to add the meaning to their dictionaries]</span><span class='tag'>M(程度)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(数年のうちに)</span>, <span class='t-S'>その単語のこの意味での使用は</span> <span class='t-V'>〜になった</span> <span class='t-C'>とても広まった</span> <span class='t-M'>[その結果、編集者が追加を決めるほど]</span>。",
+                            "naturalTranslation": "数年のうちに、この意味での使用法が非常に広まったため、辞書編集者はその定義を辞書に追加することに決めた。",
+                            "vocabulary": [
+                                {
+                                    "word": "widespread",
+                                    "meaning": "広まった、普及した"
+                                },
+                                {
+                                    "word": "decide",
+                                    "meaning": "決定する"
+                                },
+                                {
+                                    "word": "within",
+                                    "meaning": "〜以内に"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "had become",
+                                    "explanation": "<b>過去完了形</b>: 過去のある時点（decided）よりも前に完了・状態化していた。"
+                                },
+                                {
+                                    "phrase": "so ... that ...",
+                                    "explanation": "「とても〜なので...だ」。程度・結果を表す構文。"
+                                },
+                                {
+                                    "phrase": "decided to add",
+                                    "explanation": "decide to do。「〜することを決める」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 4,
+                "text": "Dictionary editors consider changes to dictionaries very carefully before making them. Each suggestion to add a new word or meaning or remove an old word or meaning is looked at by many editors. If enough of them agree that a change should be made, they will ask their dictionary's senior editors for their approval. Sometimes, the senior editors will decide that there is not enough evidence to support the suggested change. In this case, the information collected by editors and their assistants will be stored in a database so that it can be reviewed later.",
+                "sentences": [
+                    {
+                        "id": 15,
+                        "text": "Dictionary editors consider changes to dictionaries very carefully before making them.",
+                        "translation": "辞書編集者は、変更を加える前に、辞書への変更を非常に慎重に検討する。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "consider"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Dictionary editors</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>consider</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>changes to dictionaries</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>very carefully</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>before making them</span><span class='tag'>M(時間)</span></span>.",
+                            "translationHtml": "<span class='t-S'>辞書編集者は</span> <span class='t-V'>検討する</span> <span class='t-O'>辞書への変更を</span> <span class='t-M'>とても慎重に</span> <span class='t-M'>それらを行う前に</span>。",
+                            "naturalTranslation": "辞書編集者は、実際に変更を加える前に、その変更について非常に慎重に検討を行う。",
+                            "vocabulary": [
+                                {
+                                    "word": "carefully",
+                                    "meaning": "慎重に"
+                                },
+                                {
+                                    "word": "consider",
+                                    "meaning": "よく考える、検討する"
+                                },
+                                {
+                                    "word": "change",
+                                    "meaning": "変更"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "changes to",
+                                    "explanation": "「〜への変更」。change inとも言うが、ここではto。"
+                                },
+                                {
+                                    "phrase": "before making",
+                                    "explanation": "前置詞before + 動名詞。「〜する前に」。"
+                                },
+                                {
+                                    "phrase": "them",
+                                    "explanation": "changesを指す。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 16,
+                        "text": "Each suggestion to add a new word or meaning or remove an old word or meaning is looked at by many editors.",
+                        "translation": "新しい単語や意味を追加する、あるいは古い単語や意味を削除するという各提案は、多くの編集者によって検討される。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "is looked at"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Each suggestion [to add a new word or meaning or remove an old word or meaning]</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is <span class='verb-highlight'>looked at</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>by many editors</span><span class='tag'>M(動作主)</span></span>.",
+                            "translationHtml": "<span class='t-S'>各提案は[新しい語や意味を追加したり、古いのを削除したりする]</span> <span class='t-V'>見られる(検討される)</span> <span class='t-M'>多くの編集者によって</span>。",
+                            "naturalTranslation": "新語や新語義の追加、あるいは旧語や旧語義の削除に関する提案はすべて、多くの編集者によって吟味される。",
+                            "vocabulary": [
+                                {
+                                    "word": "suggestion",
+                                    "meaning": "提案"
+                                },
+                                {
+                                    "word": "remove",
+                                    "meaning": "取り除く、削除する"
+                                },
+                                {
+                                    "word": "look at",
+                                    "meaning": "見る、検討する"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "suggestion to add",
+                                    "explanation": "不定詞の形容詞的用法。「〜するという提案」。"
+                                },
+                                {
+                                    "phrase": "is looked at",
+                                    "explanation": "<b>群動詞の受動態</b>: look at A → A is looked at。「検討される」。"
+                                },
+                                {
+                                    "phrase": "Each",
+                                    "explanation": "単数扱い。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 17,
+                        "text": "If enough of them agree that a change should be made, they will ask their dictionary's senior editors for their approval.",
+                        "translation": "もし彼らの十分な数が変更すべきであると同意すれば、彼らは辞書の上級編集者に承認を求める。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "will ask"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(If enough of them agree that a change should be made)</span><span class='tag'>M(条件)</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>will <span class='verb-highlight'>ask</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>their dictionary's senior editors</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>for their approval</span><span class='tag'>M(目的)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(もし彼らの十分な数が変更がなされるべきだと同意すれば)</span>, <span class='t-S'>彼らは</span> <span class='t-V'>頼む(求める)</span> <span class='t-O'>辞書のシニア編集者に</span> <span class='t-M'>彼らの承認を</span>。",
+                            "naturalTranslation": "十分な数の編集者が変更すべきだと同意した場合、彼らはシニアエディター（上級編集者）に承認を求める。",
+                            "vocabulary": [
+                                {
+                                    "word": "agree",
+                                    "meaning": "同意する"
+                                },
+                                {
+                                    "word": "senior",
+                                    "meaning": "上級の、年長の"
+                                },
+                                {
+                                    "word": "approval",
+                                    "meaning": "承認"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "agree that...",
+                                    "explanation": "接続詞that。「〜ということに同意する」。"
+                                },
+                                {
+                                    "phrase": "should be made",
+                                    "explanation": "受動態。「（変更が）なされるべき」。"
+                                },
+                                {
+                                    "phrase": "ask A for B",
+                                    "explanation": "「AにBを求める/頼む」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 18,
+                        "text": "Sometimes, the senior editors will decide that there is not enough evidence to support the suggested change.",
+                        "translation": "時々、上級編集者は提案された変更を裏付ける十分な証拠がないと判断することがある。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "will decide"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Sometimes)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the senior editors</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>will <span class='verb-highlight'>decide</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[that there is not enough evidence to support the suggested change]</span><span class='tag'>O(名詞節)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(時には)</span>, <span class='t-S'>シニア編集者は</span> <span class='t-V'>判断するだろう</span> <span class='t-O'>[十分な証拠がないと(提案された変更を支持する)]</span>。",
+                            "naturalTranslation": "時には、提案された変更を支持するだけの十分な根拠がないと上級編集者が判断することもある。",
+                            "vocabulary": [
+                                {
+                                    "word": "evidence",
+                                    "meaning": "証拠"
+                                },
+                                {
+                                    "word": "support",
+                                    "meaning": "支持する、裏付ける"
+                                },
+                                {
+                                    "word": "suggested",
+                                    "meaning": "提案された"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "decide that...",
+                                    "explanation": "「〜と判断する、決定する」。"
+                                },
+                                {
+                                    "phrase": "evidence to support",
+                                    "explanation": "不定詞の形容詞的用法。「支持するための証拠」。"
+                                },
+                                {
+                                    "phrase": "enough",
+                                    "explanation": "形容詞。「十分な」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 19,
+                        "text": "In this case, the information collected by editors and their assistants will be stored in a database so that it can be reviewed later.",
+                        "translation": "この場合、編集者と助手が収集した情報はデータベースに保存され、後で見直すことができるようにされる。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "will be stored"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(In this case)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the information [collected by editors and their assistants]</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>will be <span class='verb-highlight'>stored</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>in a database</span><span class='tag'>M(場所)</span></span> <span class='chunk M-group'><span class='text'>[so that it can be reviewed later]</span><span class='tag'>M(目的)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(この場合)</span>, <span class='t-S'>情報は[編集者らによって集められた]</span> <span class='t-V'>保存されるだろう</span> <span class='t-M'>データベースに</span> <span class='t-M'>[それが後で見直され得るように]</span>。",
+                            "naturalTranslation": "その場合、編集者やアシスタントが集めた情報は、後で再検討できるようにデータベースに保存される。",
+                            "vocabulary": [
+                                {
+                                    "word": "collect",
+                                    "meaning": "集める"
+                                },
+                                {
+                                    "word": "store",
+                                    "meaning": "保存する"
+                                },
+                                {
+                                    "word": "review",
+                                    "meaning": "見直す、再検討する"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "information collected by...",
+                                    "explanation": "<b>過去分詞の後置修飾</b>: 「〜によって集められた情報」。"
+                                },
+                                {
+                                    "phrase": "will be stored",
+                                    "explanation": "受動態の未来形。「保存されるだろう」。"
+                                },
+                                {
+                                    "phrase": "so that S can V",
+                                    "explanation": "「SがVできるように」。目的を表す構文。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "id": 30,
+                "text": "What is one thing that the creators of English dictionaries must do?",
+                "textTranslation": "英語の辞書の作成者がしなければならないことの1つは何か？",
+                "correctAnswer": 1,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "Keep an eye on how words are used in the English language.",
+                        "translation": "英語という言語の中で単語がどのように使われているかを注視すること。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Decide how to spell the new words that are added to English.",
+                        "translation": "英語に加えられる新しい単語の綴りをどうするか決めること。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Check for technological developments that could help their work.",
+                        "translation": "彼らの仕事に役立つかもしれない技術的な進歩を確認すること。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Make changes to words that people have difficulty expressing.",
+                        "translation": "人々が表現するのに苦労している単語に変更を加えること。"
+                    }
+                ],
+                "keywords": [
+                    "creators",
+                    "dictionaries",
+                    "must do"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "The people who create dictionaries need to constantly check which words are being used",
+                        "sentenceId": 5,
+                        "keyword": "must do"
+                    }
+                ],
+                "keywordExplanations": {
+                    "must do": "本文の 'need to constantly check' (絶えず確認する必要がある) が義務・必要性を表す。",
+                    "creators": "people who create dictionaries"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "辞書作成者がしなければならないことは？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第1段落最終文: 'need to constantly check which words are being used and how they are being used'."
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢1: 'Keep an eye on how words are used' が 'check ... how they are being used' の言い換えになっている。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "check which words are being used and how they are being used",
+                    "highlightWordSentenceId": 5,
+                    "description": "第1段落の最後、辞書を作る人々の「必要性(need)」についての記述に注目。",
+                    "targetSentenceId": 5
+                }
+            },
+            {
+                "id": 31,
+                "text": "A new word may be added to a dictionary if",
+                "textTranslation": "新しい単語は、〜の場合に辞書に加えられるかもしれない。",
+                "correctAnswer": 3,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "sources in which the word is used are found to be accurate.",
+                        "translation": "その単語が使われている情報源が正確であるとわかった場合。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "the word is also being used in languages other than English.",
+                        "translation": "その単語が英語以外の言語でも使われている場合。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "a large number of people are using the word in the same way.",
+                        "translation": "多数の人々がその単語を同じ方法で使っている場合。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "dictionary editors and their assistants think the word will be useful.",
+                        "translation": "辞書編集者とその助手が、その単語が役に立つだろうと考えた場合。"
+                    }
+                ],
+                "keywords": [
+                    "new word",
+                    "added",
+                    "if"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "If the new word is being used by a lot of people to mean the same thing",
+                        "sentenceId": 10,
+                        "keyword": "if"
+                    }
+                ],
+                "keywordExplanations": {
+                    "if": "条件を表す文を探す。第2段落最後の 'If...' に対応。",
+                    "added": "added to dictionaries"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "新語が辞書に追加される条件は？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第2段落最終文: 'If the new word is being used by a lot of people to mean the same thing, there is a good chance that it will be added...'"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢3: 'a large number of people' (a lot of people) が 'using the word in the same way' (mean the same thing) する場合、と一致する。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "being used by a lot of people to mean the same thing",
+                    "highlightWordSentenceId": 10,
+                    "description": "第2段落の最後、辞書に追加される条件(If...)を探す。",
+                    "targetSentenceId": 10
+                }
+            },
+            {
+                "id": 32,
+                "text": "The word \"cookie\" is an example of an English word that",
+                "textTranslation": "「クッキー」という単語は、〜な英単語の一例である。",
+                "correctAnswer": 4,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "came from a word that was used in another language.",
+                        "translation": "他の言語で使われていた単語から来た。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "people can spell in a variety of different ways.",
+                        "translation": "人々が様々な異なる方法で綴ることができる。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "was rejected by dictionary editors for many years.",
+                        "translation": "長年、辞書編集者によって拒否されていた。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "has gained a different meaning from its original one.",
+                        "translation": "元の意味とは異なる意味を獲得した。"
+                    }
+                ],
+                "keywords": [
+                    "cookie",
+                    "example"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "new meanings are added to existing words",
+                        "sentenceId": 11,
+                        "keyword": "example"
+                    },
+                    {
+                        "text": "started to be used to refer to special computer files",
+                        "sentenceId": 13,
+                        "keyword": "cookie"
+                    }
+                ],
+                "keywordExplanations": {
+                    "example": "第3段落の 'For example' 以降は、その前の文（既存語への新意味追加）の例。",
+                    "cookie": "元々はbaked snackだが、後にcomputer filesを指すようになった。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "「クッキー」はどのような単語の例か？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第3段落冒頭: 'new meanings are added to existing words' の例として挙げられている。かつては 'single meaning' だったが、20世紀後半に 'started to be used to refer to special computer files'。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢4: 'gained a different meaning from its original one' が、新しい意味（コンピュータ用語）が加わったことを表している。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "new meanings are added to existing words",
+                    "highlightWordSentenceId": 11,
+                    "description": "第3段落、「クッキー」が何の例(example)として挙げられているか、直前の文を確認。",
+                    "targetSentenceId": 11
+                }
+            },
+            {
+                "id": 33,
+                "text": "What is one of the roles of a dictionary's senior editors?",
+                "textTranslation": "辞書の上級編集者の役割の1つは何か？",
+                "correctAnswer": 4,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "To review data about the words that people most often look for in the dictionary.",
+                        "translation": "人々が辞書で最もよく探す単語に関するデータを見直すこと。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "To remove old information from a database so that new information can be added.",
+                        "translation": "新しい情報を追加できるように、データベースから古い情報を削除すること。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "To come up with ideas to make the dictionary easier for people to use.",
+                        "translation": "人々にとって辞書を使いやすくするためのアイデアを思いつくこと。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "To make the final decision about changes to the content of the dictionary.",
+                        "translation": "辞書の内容の変更について最終決定を下すこと。"
+                    }
+                ],
+                "keywords": [
+                    "roles",
+                    "senior editors"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "they will ask their dictionary's senior editors for their approval",
+                        "sentenceId": 17,
+                        "keyword": "senior editors"
+                    },
+                    {
+                        "text": "senior editors will decide that there is not enough evidence",
+                        "sentenceId": 18,
+                        "keyword": "senior editors"
+                    }
+                ],
+                "keywordExplanations": {
+                    "senior editors": "第4段落に登場。approval（承認）を求められ、decide（決定）する立場。",
+                    "roles": "彼らが何をするか（承認する、決定する）。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "シニアエディターの役割は？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第4段落: 多くの編集者が同意した後、'ask their dictionary's senior editors for their approval' (承認を求める)。時には 'senior editors will decide...' (決定を下す)。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢4: 'Make the final decision about changes' が、承認や決定を行う役割と一致する。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "ask their dictionary's senior editors for their approval",
+                    "highlightWordSentenceId": 17,
+                    "description": "第4段落、シニアエディターが何を求められているか（approval）に注目。",
+                    "targetSentenceId": 17
+                }
+            }
+        ],
+        "summaryForInstructors": {
+            "title": "Keeping Up-to-Date (辞書の更新と新語)",
+            "intro": "このパッセージは、言語の変化に伴い辞書がどのように更新されていくか、そのプロセスを描いています。新語の採用基準や、編集者たちの厳格な審査プロセスがポイントです。",
+            "points": [
+                {
+                    "label": "1. 第1段落: 言語の変化",
+                    "text": "社会や技術の変化と共に英語も変化し、辞書作成者は常に現状(current state)をチェックする必要がある。"
+                },
+                {
+                    "label": "2. 第2段落: 新語の採用プロセス",
+                    "text": "新語が辞書に載る条件は「広く使われていること(widely used)」。編集者は様々なソースを読み、コンピュータを使って使用状況を確認する。"
+                },
+                {
+                    "label": "3. 第3段落: 既存語への新しい意味",
+                    "text": "「Cookie」の例のように、全く新しい単語だけでなく、既存の単語に新しい意味が加わる場合もある。"
+                },
+                {
+                    "label": "4. 第4段落: 慎重な決定",
+                    "text": "変更は多くの編集者に検討され、最終的にシニアエディターの承認(approval)が必要となる厳格なプロセス。"
+                }
+            ]
+        }
+    }
+    ,
+    {
+        "id": "grade2-2023-2-3C",
+        "grade": "2級",
+        "title": "Venice's Books",
+        "subTitle": "2023年度 第2回 2級 大問3C",
+        "images": {
+            "content": "/images/reading/grade2-2023-2-3C-content.png",
+            "question": "/images/reading/grade2-2023-2-3C-question.png"
+        },
+        "content": [
+            {
+                "paragraphId": 1,
+                "text": "During the Middle Ages, the Italian city of Venice was famous for international trade. Not only was the city's location important, but also there were fewer laws controlling people's behavior than in other parts of Europe. This freedom attracted writers, artists, and craftspeople to the city. Following the invention of printing machines in the 15th century, these people combined their abilities to make Venice the center of the printing and bookmaking industry in Europe. This tradition of making high-quality books by hand survives in the city to this day.",
+                "sentences": [
+                    {
+                        "id": 1,
+                        "text": "During the Middle Ages, the Italian city of Venice was famous for international trade.",
+                        "translation": "中世の間、イタリアの都市ヴェネツィアは国際貿易で有名だった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "was"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(During the Middle Ages)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the Italian city of Venice</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>famous for international trade</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-M'>(中世の間)</span>, <span class='t-S'>イタリアの都市ヴェネツィアは</span> <span class='t-V'>〜であった</span> <span class='t-C'>国際貿易で有名な</span>。",
+                            "naturalTranslation": "中世において、イタリアの都市ヴェネツィアは国際貿易で有名であった。",
+                            "vocabulary": [
+                                {
+                                    "word": "Middle Ages",
+                                    "meaning": "中世"
+                                },
+                                {
+                                    "word": "famous",
+                                    "meaning": "有名な"
+                                },
+                                {
+                                    "word": "trade",
+                                    "meaning": "貿易、取引"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "famous for",
+                                    "explanation": "be famous for 〜: 「〜で有名である」。"
+                                },
+                                {
+                                    "phrase": "During",
+                                    "explanation": "前置詞。「〜の間」。"
+                                },
+                                {
+                                    "phrase": "city of Venice",
+                                    "explanation": "「ヴェネツィアという都市」。同格のof。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "text": "Not only was the city's location important, but also there were fewer laws controlling people's behavior than in other parts of Europe.",
+                        "translation": "その都市の立地が重要であっただけでなく、ヨーロッパの他の地域よりも人々の行動を統制する法律が少なかった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "was",
+                                "were"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>Not only</span><span class='tag'>M(相関接続詞)</span></span> <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V(倒置)</span></span> <span class='chunk S-group'><span class='text'>the city's location</span><span class='tag'>S</span></span> <span class='chunk C-group'><span class='text'>important</span><span class='tag'>C</span></span>, <span class='chunk M-group'><span class='text'>but also</span><span class='tag'>M(相関接続詞)</span></span> <span class='chunk V-group'><span class='text'>there <span class='verb-highlight'>were</span></span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>fewer laws [controlling people's behavior]</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>than in other parts of Europe</span><span class='tag'>M(比較)</span></span>.",
+                            "translationHtml": "<span class='t-M'>〜だけでなく</span>, <span class='t-V'>〜であった</span> <span class='t-S'>その都市の場所は</span> <span class='t-C'>重要な</span>, <span class='t-M'>また〜でもあった</span>, <span class='t-V'>あった</span> <span class='t-S'>より少ない法律が[人々の行動を統制する]</span> <span class='t-M'>ヨーロッパの他の地域よりも</span>。",
+                            "naturalTranslation": "その都市の立地が重要であっただけでなく、人々の行動を制限する法律もヨーロッパの他地域より少なかった。",
+                            "vocabulary": [
+                                {
+                                    "word": "location",
+                                    "meaning": "場所、立地"
+                                },
+                                {
+                                    "word": "law",
+                                    "meaning": "法律"
+                                },
+                                {
+                                    "word": "behavior",
+                                    "meaning": "行動、振る舞い"
+                                },
+                                {
+                                    "word": "control",
+                                    "meaning": "統制する、管理する"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "Not only ... but also",
+                                    "explanation": "「〜だけでなく...もまた」。"
+                                },
+                                {
+                                    "phrase": "Not only was...",
+                                    "explanation": "<b>倒置</b>: 否定語Not onlyが文頭に来たため、VSの順になっている。"
+                                },
+                                {
+                                    "phrase": "laws controlling...",
+                                    "explanation": "現在分詞の後置修飾。「〜を統制している法律」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "text": "This freedom attracted writers, artists, and craftspeople to the city.",
+                        "translation": "この自由が作家、芸術家、職人をその都市に惹きつけた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "attracted"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>This freedom</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>attracted</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>writers, artists, and craftspeople</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>to the city</span><span class='tag'>M(方向)</span></span>.",
+                            "translationHtml": "<span class='t-S'>この自由は</span> <span class='t-V'>惹きつけた</span> <span class='t-O'>作家、芸術家、職人らを</span> <span class='t-M'>その都市へ</span>。",
+                            "naturalTranslation": "この自由な環境が、作家や芸術家、職人たちをこの街に呼び寄せた。",
+                            "vocabulary": [
+                                {
+                                    "word": "attract",
+                                    "meaning": "惹きつける、呼び寄せる"
+                                },
+                                {
+                                    "word": "craftspeople",
+                                    "meaning": "職人たち"
+                                },
+                                {
+                                    "word": "freedom",
+                                    "meaning": "自由"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "This freedom",
+                                    "explanation": "前文の「法律が少ないこと」を指す。"
+                                },
+                                {
+                                    "phrase": "attract A to B",
+                                    "explanation": "「AをBに惹きつける」。"
+                                },
+                                {
+                                    "phrase": "writers, artists, and craftspeople",
+                                    "explanation": "3つの名詞の並列。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "text": "Following the invention of printing machines in the 15th century, these people combined their abilities to make Venice the center of the printing and bookmaking industry in Europe.",
+                        "translation": "15世紀の印刷機の発明に続いて、これらの人々は自分たちの能力を結合させ、ヴェネツィアをヨーロッパにおける印刷・製本産業の中心地にした。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "combined"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Following the invention of printing machines in the 15th century)</span><span class='tag'>M(時間)</span></span>, <span class='chunk S-group'><span class='text'>these people</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>combined</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>their abilities</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>to make Venice the center of the printing and bookmaking industry in Europe</span><span class='tag'>M(目的/結果)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(15世紀の印刷機の発明に続いて)</span>, <span class='t-S'>これらの人々は</span> <span class='t-V'>結合させた</span> <span class='t-O'>彼らの能力を</span> <span class='t-M'>ヴェネツィアを〜の中心にするために[ヨーロッパの印刷・製本産業の]</span>。",
+                            "naturalTranslation": "15世紀に印刷機が発明されると、彼らはそれぞれの能力を結集し、ヴェネツィアをヨーロッパの印刷・製本産業の中心地へと成長させた。",
+                            "vocabulary": [
+                                {
+                                    "word": "invention",
+                                    "meaning": "発明"
+                                },
+                                {
+                                    "word": "combine",
+                                    "meaning": "結合させる、合わせる"
+                                },
+                                {
+                                    "word": "industry",
+                                    "meaning": "産業"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "Following",
+                                    "explanation": "前置詞的に。「〜に続いて、〜の後で」。"
+                                },
+                                {
+                                    "phrase": "to make Venice the center",
+                                    "explanation": "不定詞の副詞的用法。make O C (OをCにする)。"
+                                },
+                                {
+                                    "phrase": "printing and bookmaking",
+                                    "explanation": "印刷と製本。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "text": "This tradition of making high-quality books by hand survives in the city to this day.",
+                        "translation": "高品質な本を手作業で作るこの伝統は、今日までその都市に残っている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "survives"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>This tradition [of making high-quality books by hand]</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>survives</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>in the city</span><span class='tag'>M(場所)</span></span> <span class='chunk M-group'><span class='text'>to this day</span><span class='tag'>M(時間)</span></span>.",
+                            "translationHtml": "<span class='t-S'>この伝統は[高品質な本を手で作るという]</span> <span class='t-V'>生き残っている(存続している)</span> <span class='t-M'>その都市で</span> <span class='t-M'>今日まで</span>。",
+                            "naturalTranslation": "手作業で高品質な本を作るというこの伝統は、今日までこの街に息づいている。",
+                            "vocabulary": [
+                                {
+                                    "word": "tradition",
+                                    "meaning": "伝統"
+                                },
+                                {
+                                    "word": "survive",
+                                    "meaning": "生き残る、存続する"
+                                },
+                                {
+                                    "word": "high-quality",
+                                    "meaning": "高品質な"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "tradition of -ing",
+                                    "explanation": "ofは同格。「〜するという伝統」。"
+                                },
+                                {
+                                    "phrase": "by hand",
+                                    "explanation": "「手作業で」。"
+                                },
+                                {
+                                    "phrase": "to this day",
+                                    "explanation": "「今日まで」。現在まで続いていることを強調。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 2,
+                "text": "Paolo Olbi is helping to keep this tradition alive. He makes use of techniques that have existed for centuries to produce beautiful books, diaries, and photo albums. The paper inside them is cut by hand, and their covers are made of hand-printed paper, leather, wood, and even a kind of Italian glass called Murano. When Olbi began learning his craft in 1962, there were about 20 bookstores in Venice that made handmade books. Now, though, Olbi's store is one of only three such places that remain.",
+                "sentences": [
+                    {
+                        "id": 6,
+                        "text": "Paolo Olbi is helping to keep this tradition alive.",
+                        "translation": "Paolo Olbiはこの伝統を存続させる手助けをしている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "is helping"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Paolo Olbi</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is <span class='verb-highlight'>helping</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to keep this tradition alive</span><span class='tag'>O(不定詞)</span></span>.",
+                            "translationHtml": "<span class='t-S'>パオロ・オルビは</span> <span class='t-V'>助けている</span> <span class='t-O'>この伝統を生かし続けることを</span>。",
+                            "naturalTranslation": "パオロ・オルビは、この伝統を守り続ける活動に尽力している。",
+                            "vocabulary": [
+                                {
+                                    "word": "alive",
+                                    "meaning": "生きている、存続して"
+                                },
+                                {
+                                    "word": "tradition",
+                                    "meaning": "伝統"
+                                },
+                                {
+                                    "word": "help",
+                                    "meaning": "助ける"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "is helping",
+                                    "explanation": "現在進行形。"
+                                },
+                                {
+                                    "phrase": "help to do",
+                                    "explanation": "help (to) do。「〜するのを手伝う」。toは省略可能だがここでは入っていると解釈できる。"
+                                },
+                                {
+                                    "phrase": "keep O C",
+                                    "explanation": "keep this tradition alive。「この伝統を生きたままにする（存続させる）」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "text": "He makes use of techniques that have existed for centuries to produce beautiful books, diaries, and photo albums.",
+                        "translation": "彼は何世紀も存在してきた技術を利用して、美しい本、日記、フォトアルバムを作っている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "makes use of"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>He</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>makes use of</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>techniques [that have existed for centuries]</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>to produce beautiful books, diaries, and photo albums</span><span class='tag'>M(目的)</span></span>.",
+                            "translationHtml": "<span class='t-S'>彼は</span> <span class='t-V'>利用する</span> <span class='t-O'>技術を[何世紀も存在してきた]</span> <span class='t-M'>美しい本、日記、フォトアルバムを作るために</span>。",
+                            "naturalTranslation": "彼は何世紀にもわたって受け継がれてきた技術を駆使し、美しい書籍や日記、フォトアルバムを制作している。",
+                            "vocabulary": [
+                                {
+                                    "word": "make use of",
+                                    "meaning": "利用する"
+                                },
+                                {
+                                    "word": "exist",
+                                    "meaning": "存在する"
+                                },
+                                {
+                                    "word": "century",
+                                    "meaning": "世紀"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "makes use of",
+                                    "explanation": "<b>熟語</b>: useと同義だが、より「活用する」というニュアンス。"
+                                },
+                                {
+                                    "phrase": "that have existed",
+                                    "explanation": "関係代名詞that。先行詞はtechniques。"
+                                },
+                                {
+                                    "phrase": "for centuries",
+                                    "explanation": "「何世紀もの間」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "text": "The paper inside them is cut by hand, and their covers are made of hand-printed paper, leather, wood, and even a kind of Italian glass called Murano.",
+                        "translation": "中の紙は手で裁断され、表紙は手刷りの紙、革、木、さらにはムラーノと呼ばれる一種のイタリア製ガラスで作られている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "is cut",
+                                "are made"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>The paper inside them</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is <span class='verb-highlight'>cut</span></span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>by hand</span><span class='tag'>M(手段)</span></span>, and <span class='chunk S-group'><span class='text'>their covers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are <span class='verb-highlight'>made</span> of</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>hand-printed paper, leather, wood, and even a kind of Italian glass [called Murano]</span><span class='tag'>O(材料)</span></span>.",
+                            "translationHtml": "<span class='t-S'>中の紙は</span> <span class='t-V'>切られる</span> <span class='t-M'>手作業で</span>, そして <span class='t-S'>それらの表紙は</span> <span class='t-V'>〜で作られている</span> <span class='t-O'>手刷りの紙、革、木、さらに〜なイタリアガラス[ムラーノと呼ばれる]でも</span>。",
+                            "naturalTranslation": "中身の紙は手作業で裁断され、表紙には手刷りの紙や革、木材、さらにはムラーノガラスと呼ばれるイタリア製のガラスまでもが使われている。",
+                            "vocabulary": [
+                                {
+                                    "word": "leather",
+                                    "meaning": "革"
+                                },
+                                {
+                                    "word": "cover",
+                                    "meaning": "表紙、カバー"
+                                },
+                                {
+                                    "word": "even",
+                                    "meaning": "〜でさえ"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "is cut / are made",
+                                    "explanation": "受動態。"
+                                },
+                                {
+                                    "phrase": "be made of",
+                                    "explanation": "「〜で作られている（材料）」。"
+                                },
+                                {
+                                    "phrase": "called Murano",
+                                    "explanation": "過去分詞の後置修飾。「ムラーノと呼ばれる」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "text": "When Olbi began learning his craft in 1962, there were about 20 bookstores in Venice that made handmade books.",
+                        "translation": "Olbiが1962年に自身の工芸を学び始めたとき、ヴェネツィアには手製本を作る書店が約20軒あった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "were"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(When Olbi began learning his craft in 1962)</span><span class='tag'>M(時)</span></span>, <span class='chunk V-group'><span class='text'>there <span class='verb-highlight'>were</span></span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>about 20 bookstores in Venice [that made handmade books]</span><span class='tag'>S</span></span>.",
+                            "translationHtml": "<span class='t-M'>(オルビが1962年に工芸を学び始めた時)</span>, <span class='t-V'>あった</span> <span class='t-S'>ヴェネツィアに約20の書店が[手作りの本を作る]</span>。",
+                            "naturalTranslation": "オルビが1962年にこの仕事を学び始めた頃、ヴェネツィアには手製本を扱う店が20軒ほどあった。",
+                            "vocabulary": [
+                                {
+                                    "word": "began",
+                                    "meaning": "始めた (beginの過去形)"
+                                },
+                                {
+                                    "word": "craft",
+                                    "meaning": "工芸、職人技"
+                                },
+                                {
+                                    "word": "handmade",
+                                    "meaning": "手作りの"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "When S V",
+                                    "explanation": "接続詞。「SがVする時」。"
+                                },
+                                {
+                                    "phrase": "began learning",
+                                    "explanation": "begin doing。「〜し始める」。"
+                                },
+                                {
+                                    "phrase": "that made handmade books",
+                                    "explanation": "関係代名詞that。bookstoresを修飾。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "text": "Now, though, Olbi's store is one of only three such places that remain.",
+                        "translation": "しかし今では、Olbiの店は残っているそのような場所のわずか3つのうちの1つである。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "is"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Now, though)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>Olbi's store</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>one of only three such places [that remain]</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-M'>(しかし今は)</span>, <span class='t-S'>オルビの店は</span> <span class='t-V'>〜である</span> <span class='t-C'>わずか3つのそのような場所の一つ[残っている]</span>。",
+                            "naturalTranslation": "しかし今となっては、彼の店は現存するわずか3軒のうちの1つになってしまった。",
+                            "vocabulary": [
+                                {
+                                    "word": "remain",
+                                    "meaning": "残る、とどまる"
+                                },
+                                {
+                                    "word": "such",
+                                    "meaning": "そのような"
+                                },
+                                {
+                                    "word": "though",
+                                    "meaning": "しかし（副詞的用法）"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "one of ...",
+                                    "explanation": "「〜のうちの一つ」。"
+                                },
+                                {
+                                    "phrase": "places that remain",
+                                    "explanation": "関係代名詞that。remainは「残っている」。"
+                                },
+                                {
+                                    "phrase": "though",
+                                    "explanation": "文中で使われ、逆接を表す。「しかし」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 3,
+                "text": "One of Olbi's heroes is a man called Aldus Manutius. Manutius founded a printing company in 1494 that became one of the most famous printing companies in Venice. Until the late 15th century, books were large, heavy, and very expensive. They were mostly about religion and law. Manutius developed techniques to produce smaller, lighter, and cheaper books. Moreover, he printed novels and books about art and philosophy. These developments made books more popular and easier to buy for ordinary people.",
+                "sentences": [
+                    {
+                        "id": 11,
+                        "text": "One of Olbi's heroes is a man called Aldus Manutius.",
+                        "translation": "Olbiの英雄の一人は、アルド・マヌーツィオと呼ばれる男である。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "is"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>One of Olbi's heroes</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>a man [called Aldus Manutius]</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-S'>オルビの英雄の一人は</span> <span class='t-V'>〜である</span> <span class='t-C'>男[アルド・マヌーツィオと呼ばれる]</span>。",
+                            "naturalTranslation": "オルビが尊敬する英雄の一人に、アルド・マヌーツィオという人物がいる。",
+                            "vocabulary": [
+                                {
+                                    "word": "hero",
+                                    "meaning": "英雄、憧れの人"
+                                },
+                                {
+                                    "word": "called",
+                                    "meaning": "〜と呼ばれる"
+                                },
+                                {
+                                    "word": "one of",
+                                    "meaning": "〜の一人"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "One of ... is",
+                                    "explanation": "主語はOneなので動詞は単数形is。"
+                                },
+                                {
+                                    "phrase": "called ...",
+                                    "explanation": "過去分詞の後置修飾。「〜と呼ばれる」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 12,
+                        "text": "Manutius founded a printing company in 1494 that became one of the most famous printing companies in Venice.",
+                        "translation": "マヌーツィオは1494年に印刷会社を設立し、それはヴェネツィアで最も有名な印刷会社の一つになった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "founded"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Manutius</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>founded</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a printing company</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>in 1494</span><span class='tag'>M(時)</span></span> <span class='chunk M-group'><span class='text'>[that became one of the most famous printing companies in Venice]</span><span class='tag'>M(関係代名詞節)</span></span>.",
+                            "translationHtml": "<span class='t-S'>マヌーツィオは</span> <span class='t-V'>設立した</span> <span class='t-O'>ある印刷会社を</span> <span class='t-M'>1494年に</span> <span class='t-M'>[それはヴェネツィアで最も有名な印刷会社の一つになった]</span>。",
+                            "naturalTranslation": "マヌーツィオは1494年に印刷会社を設立したが、それは後にヴェネツィアで最も有名な印刷会社の一つとなった。",
+                            "vocabulary": [
+                                {
+                                    "word": "found",
+                                    "meaning": "設立する (founded-founded)"
+                                },
+                                {
+                                    "word": "company",
+                                    "meaning": "会社"
+                                },
+                                {
+                                    "word": "famous",
+                                    "meaning": "有名な"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "founded",
+                                    "explanation": "「設立する」。find（見つける）の過去形foundとは別語（found-founded-founded）。"
+                                },
+                                {
+                                    "phrase": "that became...",
+                                    "explanation": "関係代名詞that。先行詞はa printing company。"
+                                },
+                                {
+                                    "phrase": "one of the most famous",
+                                    "explanation": "「最も〜なものの一つ」。最上級表現。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 13,
+                        "text": "Until the late 15th century, books were large, heavy, and very expensive.",
+                        "translation": "15世紀後半まで、本は大きく、重く、そして非常に高価だった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "were"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Until the late 15th century)</span><span class='tag'>M(期間)</span></span>, <span class='chunk S-group'><span class='text'>books</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>large, heavy, and very expensive</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-M'>(15世紀後半まで)</span>, <span class='t-S'>本は</span> <span class='t-V'>〜であった</span> <span class='t-C'>大きく、重く、とても高価</span>。",
+                            "naturalTranslation": "15世紀後半まで、書物というものは大きく重く、そして極めて高価なものであった。",
+                            "vocabulary": [
+                                {
+                                    "word": "heavy",
+                                    "meaning": "重い"
+                                },
+                                {
+                                    "word": "expensive",
+                                    "meaning": "高価な"
+                                },
+                                {
+                                    "word": "late",
+                                    "meaning": "後半の、遅い"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "Until",
+                                    "explanation": "前置詞。「〜まで（ずっと）」。"
+                                },
+                                {
+                                    "phrase": "large, heavy, and ...",
+                                    "explanation": "形容詞の並列。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 14,
+                        "text": "They were mostly about religion and law.",
+                        "translation": "それらは主に宗教と法律に関するものだった。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "were"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>mostly about religion and law</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-S'>それらは</span> <span class='t-V'>〜であった</span> <span class='t-C'>主に宗教と法律について</span>。",
+                            "naturalTranslation": "その内容は主に宗教や法律に関するものであった。",
+                            "vocabulary": [
+                                {
+                                    "word": "mostly",
+                                    "meaning": "主に"
+                                },
+                                {
+                                    "word": "religion",
+                                    "meaning": "宗教"
+                                },
+                                {
+                                    "word": "law",
+                                    "meaning": "法律"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "They",
+                                    "explanation": "前文のbooksを指す。"
+                                },
+                                {
+                                    "phrase": "about",
+                                    "explanation": "前置詞。「〜について」。ここではC（補語）の位置で働いている。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 15,
+                        "text": "Manutius developed techniques to produce smaller, lighter, and cheaper books.",
+                        "translation": "マヌーツィオは、より小さく、より軽く、より安い本を作る技術を開発した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "developed"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Manutius</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>developed</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>techniques</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>to produce smaller, lighter, and cheaper books</span><span class='tag'>M(目的/形容詞的)</span></span>.",
+                            "translationHtml": "<span class='t-S'>マヌーツィオは</span> <span class='t-V'>開発した</span> <span class='t-O'>技術を</span> <span class='t-M'>より小さく、軽く、安い本を作るための</span>。",
+                            "naturalTranslation": "マヌーツィオは、より小さく、軽量で、安価な本を生産する技術を開発した。",
+                            "vocabulary": [
+                                {
+                                    "word": "develop",
+                                    "meaning": "開発する"
+                                },
+                                {
+                                    "word": "produce",
+                                    "meaning": "生産する"
+                                },
+                                {
+                                    "word": "cheap",
+                                    "meaning": "安い"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "to produce",
+                                    "explanation": "不定詞。「作るための（技術）」。"
+                                },
+                                {
+                                    "phrase": "smaller, lighter, and cheaper",
+                                    "explanation": "比較級の並列。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 16,
+                        "text": "Moreover, he printed novels and books about art and philosophy.",
+                        "translation": "さらに、彼は小説や、芸術や哲学に関する本も印刷した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "printed"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Moreover)</span><span class='tag'>M(接続副詞)</span></span>, <span class='chunk S-group'><span class='text'>he</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>printed</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>novels and books about art and philosophy</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-M'>(さらに)</span>, <span class='t-S'>彼は</span> <span class='t-V'>印刷した</span> <span class='t-O'>小説や、芸術・哲学に関する本を</span>。",
+                            "naturalTranslation": "さらに、彼は小説や、芸術・哲学に関する書籍も出版した。",
+                            "vocabulary": [
+                                {
+                                    "word": "moreover",
+                                    "meaning": "その上、さらに"
+                                },
+                                {
+                                    "word": "novel",
+                                    "meaning": "小説"
+                                },
+                                {
+                                    "word": "philosophy",
+                                    "meaning": "哲学"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "Moreover",
+                                    "explanation": "情報を追加する接続副詞。"
+                                },
+                                {
+                                    "phrase": "books about ...",
+                                    "explanation": "「〜についての本」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 17,
+                        "text": "These developments made books more popular and easier to buy for ordinary people.",
+                        "translation": "これらの進展が、本をより人気があり、一般の人々にとって買いやすいものにした。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "made"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>These developments</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>made</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>books</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>more popular and easier to buy for ordinary people</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-S'>これらの発展は</span> <span class='t-V'>〜にした</span> <span class='t-O'>本を</span> <span class='t-C'>より人気があり、一般の人々にとって買いやすく</span>。",
+                            "naturalTranslation": "こうした進展により、本はより人気を博し、一般庶民でも手軽に購入できるものとなった。",
+                            "vocabulary": [
+                                {
+                                    "word": "popular",
+                                    "meaning": "人気のある"
+                                },
+                                {
+                                    "word": "ordinary",
+                                    "meaning": "一般の、普通の"
+                                },
+                                {
+                                    "word": "development",
+                                    "meaning": "発展、進展"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "made books C",
+                                    "explanation": "make O C: 「OをC（の状態）にする」。"
+                                },
+                                {
+                                    "phrase": "easier to buy",
+                                    "explanation": "「買うのがより簡単な」。to buyは形容詞easierを修飾する副詞的用法。"
+                                },
+                                {
+                                    "phrase": "for ordinary people",
+                                    "explanation": "「一般の人々にとって」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 4,
+                "text": "Olbi has a picture of Manutius on the wall of his store. Like Manutius, he loves books and believes they should be beautiful. Over the years, Olbi has taught his skills to many people. In 2018, a former student invited Olbi to display his books at an exhibition of handmade objects. This gave Olbi a chance to get more people interested in traditional bookmaking. Olbi wants to expand his store into a cultural center where tourists can see how he makes books and young people can learn his techniques. By doing so, he hopes to prevent the tradition of bookmaking in Venice from being lost.",
+                "sentences": [
+                    {
+                        "id": 18,
+                        "text": "Olbi has a picture of Manutius on the wall of his store.",
+                        "translation": "Olbiは店の壁にマヌーツィオの絵を飾っている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "has"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Olbi</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>has</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a picture of Manutius</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>on the wall of his store</span><span class='tag'>M(場所)</span></span>.",
+                            "translationHtml": "<span class='t-S'>オルビは</span> <span class='t-V'>持っている(飾っている)</span> <span class='t-O'>マヌーツィオの絵を</span> <span class='t-M'>彼の店の壁に</span>。",
+                            "naturalTranslation": "オルビの店には、壁にマヌーツィオの肖像画が飾られている。",
+                            "vocabulary": [
+                                {
+                                    "word": "picture",
+                                    "meaning": "絵、写真"
+                                },
+                                {
+                                    "word": "wall",
+                                    "meaning": "壁"
+                                },
+                                {
+                                    "word": "store",
+                                    "meaning": "店"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "picture of",
+                                    "explanation": "「〜の絵（写真）」。"
+                                },
+                                {
+                                    "phrase": "on the wall",
+                                    "explanation": "「壁に」。接触を表すon。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 19,
+                        "text": "Like Manutius, he loves books and believes they should be beautiful.",
+                        "translation": "マヌーツィオのように、彼は本を愛し、本は美しくあるべきだと信じている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "loves",
+                                "believes"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Like Manutius)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>he</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>loves</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>books</span><span class='tag'>O</span></span> and <span class='chunk V-group'><span class='text'><span class='verb-highlight'>believes</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[they should be beautiful]</span><span class='tag'>O(接続詞省略)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(マヌーツィオのように)</span>, <span class='t-S'>彼は</span> <span class='t-V'>愛している</span> <span class='t-O'>本を</span>, そして <span class='t-V'>信じている</span> <span class='t-O'>[それらは美しくあるべきだと]</span>。",
+                            "naturalTranslation": "マヌーツィオ同様、彼も本を愛しており、本は美しいものであるべきだと信じている。",
+                            "vocabulary": [
+                                {
+                                    "word": "believe",
+                                    "meaning": "信じる"
+                                },
+                                {
+                                    "word": "should",
+                                    "meaning": "〜すべきだ、〜であるはずだ"
+                                },
+                                {
+                                    "word": "beautiful",
+                                    "meaning": "美しい"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "Like",
+                                    "explanation": "前置詞。「〜のように」。"
+                                },
+                                {
+                                    "phrase": "believes (that)...",
+                                    "explanation": "that節のthatが省略されている。"
+                                },
+                                {
+                                    "phrase": "and",
+                                    "explanation": "lovesとbelievesを結ぶ。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 20,
+                        "text": "Over the years, Olbi has taught his skills to many people.",
+                        "translation": "長年にわたり、Olbiは多くの人々に自身の技術を教えてきた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "has taught"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Over the years)</span><span class='tag'>M(期間)</span></span>, <span class='chunk S-group'><span class='text'>Olbi</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has <span class='verb-highlight'>taught</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>his skills</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>to many people</span><span class='tag'>M(対象)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(長年にわたり)</span>, <span class='t-S'>オルビは</span> <span class='t-V'>教えてきた</span> <span class='t-O'>彼の技術を</span> <span class='t-M'>多くの人々に</span>。",
+                            "naturalTranslation": "長年にわたり、オルビは自分の技術を多くの人々に伝えてきた。",
+                            "vocabulary": [
+                                {
+                                    "word": "teach",
+                                    "meaning": "教える (taught-taught)"
+                                },
+                                {
+                                    "word": "skill",
+                                    "meaning": "技術"
+                                },
+                                {
+                                    "word": "over the years",
+                                    "meaning": "長年にわたり"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "has taught",
+                                    "explanation": "現在完了形「ずっと教えてきた」。"
+                                },
+                                {
+                                    "phrase": "teach A to B",
+                                    "explanation": "「AをBに教える」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 21,
+                        "text": "In 2018, a former student invited Olbi to display his books at an exhibition of handmade objects.",
+                        "translation": "2018年、かつての教え子が、手作り品の展覧会に本を展示するようOlbiを招待した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "invited"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(In 2018)</span><span class='tag'>M(時)</span></span>, <span class='chunk S-group'><span class='text'>a former student</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>invited</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>Olbi</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>to display his books at an exhibition of handmade objects</span><span class='tag'>C(不定詞)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(2018年に)</span>, <span class='t-S'>かつての生徒が</span> <span class='t-V'>招待した</span> <span class='t-O'>オルビに</span> <span class='t-C'>本を展示するように[手作り品の展覧会で]</span>。",
+                            "naturalTranslation": "2018年、かつての教え子のひとりが、手工芸品の展覧会で本を展示しないかとオルビを招待した。",
+                            "vocabulary": [
+                                {
+                                    "word": "former",
+                                    "meaning": "かつての、前の"
+                                },
+                                {
+                                    "word": "display",
+                                    "meaning": "展示する"
+                                },
+                                {
+                                    "word": "exhibition",
+                                    "meaning": "展覧会、展示会"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "invite O to do",
+                                    "explanation": "「Oに〜するように招く/依頼する」。This pattern follows SVOC logic."
+                                },
+                                {
+                                    "phrase": "exhibition of",
+                                    "explanation": "「〜の展覧会」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 22,
+                        "text": "This gave Olbi a chance to get more people interested in traditional bookmaking.",
+                        "translation": "これはOlbiに、伝統的な製本にもっと多くの人々に興味を持ってもらう機会を与えた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "gave"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>This</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>gave</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>Olbi</span><span class='tag'>O1</span></span> <span class='chunk O-group'><span class='text'>a chance [to get more people interested in traditional bookmaking]</span><span class='tag'>O2</span></span>.",
+                            "translationHtml": "<span class='t-S'>これは</span> <span class='t-V'>与えた</span> <span class='t-O'>オルビに</span> <span class='t-O'>機会を[より多くの人に伝統的製本に興味を持ってもらう]</span>。",
+                            "naturalTranslation": "これはオルビにとって、より多くの人々に伝統的な製本技術への関心を持ってもらう好機となった。",
+                            "vocabulary": [
+                                {
+                                    "word": "chance",
+                                    "meaning": "機会"
+                                },
+                                {
+                                    "word": "traditional",
+                                    "meaning": "伝統的な"
+                                },
+                                {
+                                    "word": "interested",
+                                    "meaning": "興味がある"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "gave A B",
+                                    "explanation": "give O1 O2。「AにBを与える」。"
+                                },
+                                {
+                                    "phrase": "chance to get...",
+                                    "explanation": "to get以下はchanceを修飾する不定詞の形容詞的用法。"
+                                },
+                                {
+                                    "phrase": "get O C",
+                                    "explanation": "get people interested。「人々を（〜に）興味がある状態にする」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 23,
+                        "text": "Olbi wants to expand his store into a cultural center where tourists can see how he makes books and young people can learn his techniques.",
+                        "translation": "Olbiは、観光客が彼が本を作る様子を見られ、若者が彼の技術を学べる文化センターへと自身の店を拡張したいと考えている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "wants"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Olbi</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>wants</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to expand his store into a cultural center [where tourists can see how he makes books and young people can learn his techniques]</span><span class='tag'>O(不定詞)</span></span>.",
+                            "translationHtml": "<span class='t-S'>オルビは</span> <span class='t-V'>望んでいる</span> <span class='t-O'>彼の店を文化センターへと拡張することを[そこでは観光客が本作りを見られ、若者が技術を学べる]</span>。",
+                            "naturalTranslation": "オルビは、観光客が製本工程を見学でき、若者が技術を学べるような文化センターへと、自分の店を広げたいと考えている。",
+                            "vocabulary": [
+                                {
+                                    "word": "expand",
+                                    "meaning": "拡張する"
+                                },
+                                {
+                                    "word": "tourist",
+                                    "meaning": "観光客"
+                                },
+                                {
+                                    "word": "cultural center",
+                                    "meaning": "文化センター"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "expand A into B",
+                                    "explanation": "「AをBに拡張する」。"
+                                },
+                                {
+                                    "phrase": "where ...",
+                                    "explanation": "関係副詞。cultural centerを修飾する。"
+                                },
+                                {
+                                    "phrase": "see how he makes",
+                                    "explanation": "how以下はseeの目的語（間接疑問文）。「どのように作るかを見る」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 24,
+                        "text": "By doing so, he hopes to prevent the tradition of bookmaking in Venice from being lost.",
+                        "translation": "そうすることで、彼はヴェネツィアの製本の伝統が失われるのを防ぎたいと願っている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "hopes"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(By doing so)</span><span class='tag'>M(手段)</span></span>, <span class='chunk S-group'><span class='text'>he</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'><span class='verb-highlight'>hopes</span></span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to prevent the tradition of bookmaking in Venice from being lost</span><span class='tag'>O(不定詞)</span></span>.",
+                            "translationHtml": "<span class='t-M'>(そうすることで)</span>, <span class='t-S'>彼は</span> <span class='t-V'>望んでいる</span> <span class='t-O'>ヴェネツィアの製本の伝統が失われるのを防ぐことを</span>。",
+                            "naturalTranslation": "そうすることで、彼はヴェネツィアにおける製本の伝統が失われてしまうのを防ぎたいと考えている。",
+                            "vocabulary": [
+                                {
+                                    "word": "prevent",
+                                    "meaning": "防ぐ"
+                                },
+                                {
+                                    "word": "lost",
+                                    "meaning": "失われる (loseの過去分詞)"
+                                },
+                                {
+                                    "word": "hope",
+                                    "meaning": "望む"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "By doing so",
+                                    "explanation": "「そうすることによって」。前文の「文化センターへの拡張」を指す。"
+                                },
+                                {
+                                    "phrase": "prevent A from -ing",
+                                    "explanation": "「Aが〜するのを防ぐ」。"
+                                },
+                                {
+                                    "phrase": "being lost",
+                                    "explanation": "受動態の動名詞。「失われること」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "id": 34,
+                "text": "What is one reason that writers, artists, and craftspeople were attracted to Venice?",
+                "textTranslation": "作家、芸術家、職人がヴェネツィアに惹きつけられた一つの理由は何か？",
+                "correctAnswer": 4,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "They could get part-time jobs in the bookmaking industry.",
+                        "translation": "彼らは製本産業でアルバイトを得ることができた。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "They could sell their work at higher prices in the city.",
+                        "translation": "彼らはその都市で作品をより高い値段で売ることができた。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "The city's location provided inspiration for their work.",
+                        "translation": "その都市の立地が彼らの作品にインスピレーションを与えた。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "The city allowed people to live more freely than other places.",
+                        "translation": "その都市は他の場所よりも人々がより自由に生きることを許した。"
+                    }
+                ],
+                "keywords": [
+                    "reason",
+                    "attracted",
+                    "Venice"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "there were fewer laws controlling people's behavior than in other parts of Europe",
+                        "sentenceId": 2,
+                        "keyword": "reason"
+                    },
+                    {
+                        "text": "This freedom attracted writers, artists, and craftspeople",
+                        "sentenceId": 3,
+                        "keyword": "attracted"
+                    }
+                ],
+                "keywordExplanations": {
+                    "reason": "attractedされた原因（This freedom）。",
+                    "attracted": "This freedom attracted ...の文に直結。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "なぜ彼らはヴェネツィアに惹かれたのか？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第1段落: 'fewer laws controlling people's behavior' であり 'This freedom attracted...' とある。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢4: 'The city allowed people to live more freely' が 'fewer laws' / 'freedom' の言い換え。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "fewer laws controlling people's behavior",
+                    "highlightWordSentenceId": 2,
+                    "description": "第1段落、人々を惹きつけた'freedom'(自由)の具体的な中身に注目。",
+                    "targetSentenceId": 2
+                }
+            },
+            {
+                "id": 35,
+                "text": "Paolo Olbi is a bookmaker who",
+                "textTranslation": "パオロ・オルビは〜する製本家である。",
+                "correctAnswer": 1,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "uses traditional methods to make his products.",
+                        "translation": "製品を作るために伝統的な方法を使う。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "owns about 20 bookstores in the city of Venice.",
+                        "translation": "ヴェネツィア市内に約20の書店を所有している。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "has developed a new technique for printing on glass.",
+                        "translation": "ガラスに印刷するための新しい技術を開発した。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "tries to use recycled materials to produce books.",
+                        "translation": "本を作るためにリサイクル素材を使おうとしている。"
+                    }
+                ],
+                "keywords": [
+                    "Olbi",
+                    "bookmaker",
+                    "who"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "makes use of techniques that have existed for centuries",
+                        "sentenceId": 7,
+                        "keyword": "who"
+                    },
+                    {
+                        "text": "paper inside them is cut by hand",
+                        "sentenceId": 8,
+                        "keyword": "who"
+                    }
+                ],
+                "keywordExplanations": {
+                    "who": "Olbiが行っていること（techniques that have existed for centuries）。",
+                    "Olbi": "第2段落の主人公。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "オルビはどのような製本家か？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第2段落: 'makes use of techniques that have existed for centuries' (何世紀も続く技術を使う) / 'cut by hand'。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢1: 'uses traditional methods' が 'techniques that have existed for centuries' と一致。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "techniques that have existed for centuries",
+                    "highlightWordSentenceId": 7,
+                    "description": "第2段落、オルビがどのような技術を使っているか(techniques)に注目。",
+                    "targetSentenceId": 7
+                }
+            },
+            {
+                "id": 36,
+                "text": "Aldus Manutius helped to increase the popularity of books by",
+                "textTranslation": "アルド・マヌーツィオは〜することによって本の人気を高めるのに貢献した。",
+                "correctAnswer": 4,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "opening schools in Venice where people could learn to read.",
+                        "translation": "人々が読み書きを学べる学校をヴェネツィアに開くこと。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "printing more and more books about topics such as religion and law.",
+                        "translation": "宗教や法律のような話題に関する本をますます多く印刷すること。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "writing a series of novels about artists and philosophers in Venice.",
+                        "translation": "ヴェネツィアの芸術家や哲学者に関する一連の小説を書くこと。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "finding ways to reduce the size, weight, and prices of books.",
+                        "translation": "本のサイズ、重さ、価格を減らす方法を見つけること。"
+                    }
+                ],
+                "keywords": [
+                    "popularity",
+                    "Manutius",
+                    "by"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "Manutius developed techniques to produce smaller, lighter, and cheaper books",
+                        "sentenceId": 15,
+                        "keyword": "by"
+                    },
+                    {
+                        "text": "These developments made books more popular",
+                        "sentenceId": 17,
+                        "keyword": "popularity"
+                    }
+                ],
+                "keywordExplanations": {
+                    "by": "人気を高めた手段。developed techniques...",
+                    "popularity": "made books more popular"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "どのようにして本の人気を高めたか？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第3段落: 'produce smaller, lighter, and cheaper books' -> 'These developments made books more popular'。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢4: 'reduce the size, weight, and prices' が 'smaller, lighter, and cheaper' の完全な言い換え。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "produce smaller, lighter, and cheaper books",
+                    "highlightWordSentenceId": 15,
+                    "description": "第3段落、マヌーツィオが開発した技術によって本がどう変わったかを確認。",
+                    "targetSentenceId": 15
+                }
+            },
+            {
+                "id": 37,
+                "text": "What is one thing that Olbi would like to do?",
+                "textTranslation": "オルビがしたいと思っている一つのことは何か？",
+                "correctAnswer": 3,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "Find a picture of Manutius that was lost many years ago.",
+                        "translation": "何年も前に失われたマヌーツィオの絵を見つけること。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Meet his former students to find out what they have been doing.",
+                        "translation": "教え子たちが何をしているか知るために彼らに会うこと。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Create a place where more people can learn about bookmaking.",
+                        "translation": "より多くの人が製本について学べる場所を作ること。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Write a book about the life and achievements of Manutius.",
+                        "translation": "マヌーツィオの人生と功績についての本を書くこと。"
+                    }
+                ],
+                "keywords": [
+                    "Olbi",
+                    "would like to",
+                    "do"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "Olbi wants to expand his store into a cultural center",
+                        "sentenceId": 23,
+                        "keyword": "would like to"
+                    },
+                    {
+                        "text": "young people can learn his techniques",
+                        "sentenceId": 23,
+                        "keyword": "do"
+                    }
+                ],
+                "keywordExplanations": {
+                    "would like to": "wants to expand...",
+                    "do": "expand ... where ... young people can learn"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "オルビがしたいことは？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第4段落: 'wants to expand his store into a cultural center where ... young people can learn'。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢3: 'Create a place where more people can learn' が 'expand his store into a cultural center' の意図と一致。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "expand his store into a cultural center",
+                    "highlightWordSentenceId": 23,
+                    "description": "第4段落、オルビの願望(wants to...)に注目。",
+                    "targetSentenceId": 23
+                }
+            },
+            {
+                "id": 38,
+                "text": "Which of the following statements is true?",
+                "textTranslation": "次の記述のうち、正しいものはどれか？",
+                "correctAnswer": 1,
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "One of the most famous printing companies in Venice was established in 1494.",
+                        "translation": "ヴェネツィアで最も有名な印刷会社の一つは1494年に設立された。"
+                    },
+                    {
+                        "id": 2,
+                        "text": "The number of stores in Venice making handmade books has increased since 1962.",
+                        "translation": "ヴェネツィアの手製本を作る店の数は1962年以来増加している。"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Olbi holds an annual exhibition in Venice to display the work of his students.",
+                        "translation": "オルビは生徒の作品を展示するためにヴェネツィアで毎年展覧会を開いている。"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Laws to stop international trade were introduced in Venice in the Middle Ages.",
+                        "translation": "中世のヴェネツィアで国際貿易を止めるための法律が導入された。"
+                    }
+                ],
+                "keywords": [
+                    "true",
+                    "statements"
+                ],
+                "keywordMatches": [
+                    {
+                        "text": "Manutius founded a printing company in 1494 that became one of the most famous printing companies in Venice",
+                        "sentenceId": 12,
+                        "keyword": "true"
+                    }
+                ],
+                "keywordExplanations": {
+                    "true": "選択肢1の内容が本文(Sentence 12)と一致。",
+                    "statements": "正しい文を選ぶ。"
+                },
+                "logic": [
+                    {
+                        "type": "question",
+                        "content": "正しい記述は？"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【決定要因】第3段落: 'Manutius founded a printing company in 1494 that became one of the most famous...'"
+                    },
+                    {
+                        "type": "text",
+                        "content": "選択肢1: 記述通り。他は、店は減少（選択肢2誤り）、展覧会は生徒に招かれた（選択肢3誤り）、貿易で有名だった（選択肢4誤り）。"
+                    }
+                ],
+                "hint": {
+                    "highlightWord": "founded a printing company in 1494",
+                    "highlightWordSentenceId": 12,
+                    "description": "第3段落、印刷会社の設立年とその後どうなったかを確認。",
+                    "targetSentenceId": 12
+                }
+            }
+        ],
+        "summaryForInstructors": {
+            "title": "Venice's Books (ヴェネツィアの本の伝統)",
+            "intro": "このパッセージは、ヴェネツィアにおける製本産業の歴史と、その伝統を現代に守り継ぐ職人パオロ・オルビの物語です。歴史的背景と個人の情熱を結びつけて理解することが鍵です。",
+            "points": [
+                {
+                    "label": "1. 第1段落: 歴史的背景",
+                    "text": "中世ヴェネツィアは自由な気風で芸術家を集め、印刷機発明後は欧州の出版の中心地となった。"
+                },
+                {
+                    "label": "2. 第2段落: 現代の職人",
+                    "text": "パオロ・オルビは伝統技法を守る数少ない職人の一人。手作業と高級素材にこだわっている。"
+                },
+                {
+                    "label": "3. 第3段落: 偉大な先人",
+                    "text": "アルド・マヌーツィオ（15世紀）は、本を小型化・軽量化・安価にし、一般大衆に普及させた英雄。"
+                },
+                {
+                    "label": "4. 第4段落: 未来への展望",
+                    "text": "オルビは店を「後継者育成の場」にしたいと考えており、ヴェネツィアの製本文化の消滅を防ごうとしている。"
+                }
             ]
         }
     }

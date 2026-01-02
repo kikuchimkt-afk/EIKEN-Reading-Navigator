@@ -239,7 +239,7 @@ export function TechniquePanel({ questions, activeQuestionId, onSelectQuestion, 
                             {activeQuestion.choices.map((choice) => {
                                 let statusClass = '';
                                 if (showAnswerLogic) {
-                                    if (choice.isCorrect) statusClass = 'correct';
+                                    if (choice.isCorrect || choice.id === activeQuestion.correctAnswer) statusClass = 'correct';
                                     else if (selectedChoiceId === choice.id) statusClass = 'wrong';
                                 } else if (selectedChoiceId === choice.id) {
                                     statusClass = 'selected';
