@@ -1,5 +1,2825 @@
 export const readingData = [
     {
+        id: "pre2-2023-3-4B",
+        grade: "準2級",
+        title: "Feel the Heat",
+        subTitle: "2023年度 第3回 大問4B",
+        images: {
+            content: "/images/reading/pre2-2023-3-4B-content.png",
+            question: "/images/reading/pre2-2023-3-4B-question.png"
+        },
+        content: [
+            {
+                paragraphId: 1,
+                sentences: [
+                    {
+                        id: 1,
+                        text: "Although people usually avoid pain, there are some situations where people seem to enjoy it.",
+                        translation: "人々は普段は痛みを避けますが、それを楽しんでいるように見える状況もいくつかあります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are", "seem"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Although people usually avoid pain)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>there</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>some situations <span class='modifier'>[where people seem to enjoy it]</span></span><span class='tag'>S</span></span>.",
+                            translationHtml: "<span class='t-M'>(人々は普段痛みを避けますが)</span>、<span class='t-V'>あります</span> <span class='t-S'>いくつかの状況が <span class='t-M'>[人々がそれを楽しんでいるように見える]</span></span>。",
+                            naturalTranslation: "普段、人は痛みを避けるものですが、痛みを楽しんでいるように見える場面もあります。",
+                            vocabulary: [
+                                { word: "avoid", meaning: "避ける" },
+                                { word: "situation", meaning: "状況" },
+                                { word: "seem to do", meaning: "〜するように見える" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "where", explanation: "<b>関係副詞</b>: situationsを修飾。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 2,
+                        text: "For example, some people really like eating spicy foods with chili peppers.",
+                        translation: "例えば、唐辛子の入った辛い食べ物を食べるのが本当に好きな人たちがいます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["like"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(For example)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>some people</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(really)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>like</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>eating spicy foods <span class='modifier'>(with chili peppers)</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(例えば)</span>、<span class='t-S'>一部の人々は</span> <span class='t-V'>好みます</span> <span class='t-O'>辛い食べ物を食べることを <span class='t-M'>(唐辛子入りの)</span></span>。",
+                            naturalTranslation: "例えば、唐辛子の入った激辛料理を好んで食べる人たちがいます。",
+                            vocabulary: [
+                                { word: "spicy", meaning: "辛い、香辛料の効いた" },
+                                { word: "chili pepper", meaning: "唐辛子" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "eating", explanation: "<b>動名詞</b>: likeの目的語。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 3,
+                        text: "Eating chili peppers can make people's mouths feel like they are burning.",
+                        translation: "唐辛子を食べると、口の中が燃えているように感じることがあります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["make"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Eating chili peppers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can make</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>people's mouths</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>feel <span class='modifier'>(like they are burning)</span></span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>唐辛子を食べることは</span> <span class='t-V'>させることがあります</span> <span class='t-O'>人々の口を</span> <span class='t-C'>感じるように <span class='t-M'>(それらが燃えているかのように)</span></span>。",
+                            naturalTranslation: "唐辛子を食べると、口の中が燃えているような感覚に陥ることがあります。",
+                            vocabulary: [
+                                { word: "burn", meaning: "燃える、焼ける" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "make + O + do", explanation: "<b>使役動詞make</b>: 「Oに〜させる」。feelは原形不定詞。" },
+                                { phrase: "feel like", explanation: "「〜のように感じる」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 4,
+                        text: "Chili peppers can also make people sweat and cry.",
+                        translation: "唐辛子はまた、人々に汗をかかせたり、涙を出させたりすることもあります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["make"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Chili peppers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can <span class='modifier'>(also)</span> make</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>people</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>sweat and cry</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>唐辛子は</span> <span class='t-V'>させることもあります</span> <span class='t-O'>人々を</span> <span class='t-C'>汗をかき、泣くように</span>。",
+                            naturalTranslation: "また、唐辛子を食べると汗が出たり、涙が出たりすることもあります。",
+                            vocabulary: [
+                                { word: "sweat", meaning: "汗をかく" },
+                                { word: "cry", meaning: "泣く、涙が出る" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "make + O + do", explanation: "<b>使役動詞</b>。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 5,
+                        text: "However, they are very popular, and they have become an important part of the food culture in places such as Mexico, India, and Korea.",
+                        translation: "しかし、それらは非常に人気があり、メキシコ、インド、韓国などの場所では食文化の重要な一部になっています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are", "have become"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>very popular</span><span class='tag'>C</span></span>, and <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have become</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>an important part <span class='modifier'>(of the food culture in places such as Mexico, India, and Korea)</span></span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-M'>(しかし)</span>、<span class='t-S'>それらは</span> <span class='t-V'>です</span> <span class='t-C'>とても人気</span>、そして <span class='t-S'>それらは</span> <span class='t-V'>なりました</span> <span class='t-C'>重要な一部に <span class='t-M'>(食文化の、メキシコ、インド、韓国のような場所における)</span></span>。",
+                            naturalTranslation: "しかし、唐辛子は非常に人気があり、メキシコ、インド、韓国などでは食文化の重要な一部となっています。",
+                            vocabulary: [
+                                { word: "culture", meaning: "文化" },
+                                { word: "such as", meaning: "〜のような" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "have become", explanation: "<b>現在完了形</b>。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 2,
+                sentences: [
+                    {
+                        id: 6,
+                        text: "There are a variety of shapes, colors, and sizes of chili peppers.",
+                        translation: "唐辛子にはさまざまな形、色、大きさがあります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>There</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>a variety of shapes, colors, and sizes <span class='modifier'>(of chili peppers)</span></span><span class='tag'>S</span></span>.",
+                            translationHtml: "<span class='t-V'>あります</span> <span class='t-S'>さまざまな形、色、大きさが <span class='t-M'>(唐辛子の)</span></span>。",
+                            naturalTranslation: "唐辛子には、さまざまな形、色、大きさのものがあります。",
+                            vocabulary: [
+                                { word: "a variety of", meaning: "さまざまな" },
+                                { word: "shape", meaning: "形" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 7,
+                        text: "Some kinds of chili peppers, such as poblano peppers, are not very spicy at all.",
+                        translation: "ポブラノ・ペッパーなどのいくつかの種類の唐辛子は、全く辛くありません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Some kinds <span class='modifier'>(of chili peppers, such as poblano peppers)</span></span><span class='tag'>S</span></span>, <span class='chunk V-group'><span class='text'>are not</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>very spicy <span class='modifier'>(at all)</span></span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>いくつかの種類は <span class='t-M'>(唐辛子の、ポブラノのような)</span></span> <span class='t-V'>ありません</span> <span class='t-C'>あまり辛く <span class='t-M'>(全く)</span></span>。",
+                            naturalTranslation: "ポブラノのような種類の唐辛子は、全く辛くありません。",
+                            vocabulary: [
+                                { word: "not ... at all", meaning: "全く〜ない" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 8,
+                        text: "Other kinds of chili peppers, such as habanero peppers, are really spicy.",
+                        translation: "ハバネロなどの他の種類の唐辛子は、本当に辛いです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Other kinds <span class='modifier'>(of chili peppers, such as habanero peppers)</span></span><span class='tag'>S</span></span>, <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>really spicy</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>他の種類は <span class='t-M'>(唐辛子の、ハバネロのような)</span></span> <span class='t-V'>です</span> <span class='t-C'>本当に辛い</span>。",
+                            naturalTranslation: "ハバネロのような他の種類の唐辛子は、本当に辛いです。",
+                            vocabulary: [],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 9,
+                        text: "Even a small amount of such peppers can be too much for most people.",
+                        translation: "そのような（辛い）唐辛子は、ごく少量でもほとんどの人にとってはきつすぎるかもしれません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["can be"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Even a small amount <span class='modifier'>(of such peppers)</span></span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can be</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>too much</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(for most people)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>少量の〜でさえ <span class='t-M'>(そのような唐辛子の)</span></span> <span class='t-V'>ありえます</span> <span class='t-C'>過剰すぎると</span> <span class='t-M'>(ほとんどの人にとって)</span>。",
+                            naturalTranslation: "そうした唐辛子は、ほんの少しでも、たいていの人には刺激が強すぎることがあります。",
+                            vocabulary: [
+                                { word: "amount", meaning: "量" },
+                                { word: "too much", meaning: "過剰な、耐えられない" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "Even", explanation: "「〜でさえ」。強調。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 10,
+                        text: "Chili peppers are spicy because they contain a chemical called capsaicin.",
+                        translation: "唐辛子が辛いのは、カプサイシンと呼ばれる化学物質を含んでいるからです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Chili peppers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>spicy</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(because they contain a chemical called capsaicin)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>唐辛子は</span> <span class='t-V'>です</span> <span class='t-C'>辛い</span> <span class='t-M'>(なぜならそれらがカプサイシンと呼ばれる化学物質を含むから)</span>。",
+                            naturalTranslation: "唐辛子が辛いのは、カプサイシンという化学物質を含んでいるからです。",
+                            vocabulary: [
+                                { word: "contain", meaning: "含む" },
+                                { word: "chemical", meaning: "化学物質" },
+                                { word: "called", meaning: "〜と呼ばれる（過去分詞）" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 11,
+                        text: "Most of the capsaicin is in the white parts inside a chili pepper that hold the pepper's seeds.",
+                        translation: "カプサイシンの大部分は、唐辛子の種を保持している内側の白い部分にあります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Most of the capsaicin</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(in the white parts inside a chili pepper <span class='modifier'>[that hold the pepper's seeds]</span>)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>カプサイシンの大部分は</span> <span class='t-V'>あります</span> <span class='t-M'>(唐辛子の内部の白い部分に <span class='t-M'>[その種を保持している]</span>)</span>。",
+                            naturalTranslation: "カプサイシンの大部分は、種がついている唐辛子の内部の白い部分に含まれています。",
+                            vocabulary: [
+                                { word: "seed", meaning: "種" },
+                                { word: "hold", meaning: "保持する、支える" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "that hold", explanation: "<b>関係代名詞that</b>: 先行詞はparts。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 3,
+                sentences: [
+                    {
+                        id: 12,
+                        text: "Scientists guess that chili peppers produce capsaicin to protect their seeds.",
+                        translation: "科学者たちは、唐辛子は種を守るためにカプサイシンを作り出しているのではないかと推測しています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["guess"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Scientists</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>guess</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that chili peppers produce capsaicin <span class='modifier'>(to protect their seeds)</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>科学者は</span> <span class='t-V'>推測します</span> <span class='t-O'>唐辛子がカプサイシンを作り出すと <span class='t-M'>(種を守るために)</span></span>。",
+                            naturalTranslation: "科学者たちは、唐辛子が種を守るためにカプサイシンを作り出していると考えています。",
+                            vocabulary: [
+                                { word: "guess", meaning: "推測する" },
+                                { word: "produce", meaning: "生産する、作り出す" },
+                                { word: "protect", meaning: "守る" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "to protect", explanation: "<b>不定詞の副詞的用法</b>: 目的。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 13,
+                        text: "Animals like mice damage the seeds when they eat chili peppers, but capsaicin is too spicy for such animals.",
+                        translation: "ネズミのような動物は唐辛子を食べるときに種を傷つけてしまいますが、カプサイシンはそのような動物にとっては辛すぎます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["damage", "is"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Animals like mice</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>damage</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the seeds</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(when they eat chili peppers)</span><span class='tag'>M</span></span>, but <span class='chunk S-group'><span class='text'>capsaicin</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>too spicy</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(for such animals)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>ネズミのような動物は</span> <span class='t-V'>傷つけます</span> <span class='t-O'>種を</span> <span class='t-M'>(彼らが唐辛子を食べるとき)</span>、しかし <span class='t-S'>カプサイシンは</span> <span class='t-V'>です</span> <span class='t-C'>辛すぎます</span> <span class='t-M'>(そのような動物にとって)</span>。",
+                            naturalTranslation: "ネズミなどの動物が唐辛子を食べると種を傷つけてしまいますが、カプサイシンはそうした動物には辛すぎます。",
+                            vocabulary: [
+                                { word: "damage", meaning: "傷つける、損害を与える" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 14,
+                        text: "However, birds do not damage the seeds when they eat chili peppers, and capsaicin has no effect on birds.",
+                        translation: "しかし、鳥は唐辛子を食べても種を傷つけず、またカプサイシンは鳥には何の影響も与えません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["do not damage", "has"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>birds</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>do not damage</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the seeds</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(when they eat chili peppers)</span><span class='tag'>M</span></span>, and <span class='chunk S-group'><span class='text'>capsaicin</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>no effect</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(on birds)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(しかし)</span>、<span class='t-S'>鳥は</span> <span class='t-V'>傷つけません</span> <span class='t-O'>種を</span> <span class='t-M'>(彼らが唐辛子を食べるとき)</span>、そして <span class='t-S'>カプサイシンは</span> <span class='t-V'>持っています</span> <span class='t-O'>何の効果も〜ない</span> <span class='t-M'>(鳥に対して)</span>。",
+                            naturalTranslation: "しかし、鳥は唐辛子を食べても種を傷つけませんし、カプサイシンは鳥に全く効きません。",
+                            vocabulary: [
+                                { word: "effect", meaning: "効果、影響" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "have an effect on", explanation: "「〜に影響を与える」。ここではno effectなので「影響を与えない」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 15,
+                        text: "Humans can eat chili peppers because they mix the peppers with other foods so that they are not too spicy.",
+                        translation: "人間は、あまり辛くならないように唐辛子を他の食べ物と混ぜるので、唐辛子を食べることができます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["can eat", "mix"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Humans</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can eat</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>chili peppers</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(because they mix the peppers with other foods so that they are not too spicy)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>人間は</span> <span class='t-V'>食べることができます</span> <span class='t-O'>唐辛子を</span> <span class='t-M'>(辛くなりすぎないように他の食べ物と混ぜるから)</span>。",
+                            naturalTranslation: "人間は、辛くなりすぎないように他の食べ物と混ぜるため、唐辛子を食べることができます。",
+                            vocabulary: [
+                                { word: "mix", meaning: "混ぜる" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "so that", explanation: "「〜するように、〜するために」。目的や結果を表す。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 16,
+                        text: "They also discovered that adding small amounts of chili pepper improved the flavor of their food and kept it fresh for longer.",
+                        translation: "また、少量の唐辛子を加えると食べ物の風味が良くなり、より長く新鮮に保てることも発見しました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["discovered"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(also)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>discovered</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that <span class='modifier'>[adding small amounts of chili pepper]</span> improved the flavor of their food and kept it fresh <span class='modifier'>(for longer)</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>彼らは</span> <span class='t-M'>(また)</span> <span class='t-V'>発見しました</span> <span class='t-O'><span class='t-M'>[少量の唐辛子を加えること]</span>が食べ物の風味を良くし、それを<span class='t-M'>(より長く)</span>新鮮に保つことを</span>。",
+                            naturalTranslation: "また、人々は少量の唐辛子を加えることで料理の風味が増し、保存性が高まることも発見しました。",
+                            vocabulary: [
+                                { word: "improve", meaning: "良くする、改善する" },
+                                { word: "flavor", meaning: "風味、味" },
+                                { word: "fresh", meaning: "新鮮な" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "adding", explanation: "<b>動名詞</b>: that節内の主語。「〜すること」。" },
+                                { phrase: "keep + O + C", explanation: "「OをC（の状態）に保つ」。kept it (food) fresh (新鮮な状態に)。" },
+                                { phrase: "improved ... and kept", explanation: "that節内の2つの動詞がandで結ばれている。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 4,
+                sentences: [
+                    {
+                        id: 17,
+                        text: "People have been growing and eating chili peppers in South America for thousands of years.",
+                        translation: "南米では、何千年もの間、人々は唐辛子を栽培し、食べてきました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have been growing and eating"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>People</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have been growing and eating</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>chili peppers</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(in South America)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(for thousands of years)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>人々は</span> <span class='t-V'>育て、食べ続けてきました</span> <span class='t-O'>唐辛子を</span> <span class='t-M'>(南米で)</span> <span class='t-M'>(何千年も)</span>。",
+                            naturalTranslation: "南米では何千年もの間、人々は唐辛子を栽培し、食べてきました。",
+                            vocabulary: [
+                                { word: "grow", meaning: "育てる、栽培する" },
+                                { word: "thousands of", meaning: "何千もの" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "have been doing", explanation: "<b>現在完了進行形</b>: 「ずっと〜し続けている」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 18,
+                        text: "European explorers first took chili peppers from South America to Europe over 400 years ago.",
+                        translation: "ヨーロッパの探検家たちが、400年以上前に初めて南米からヨーロッパに唐辛子を持ち込みました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["took"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>European explorers</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(first)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>took</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>chili peppers</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(from South America to Europe)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(over 400 years ago)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>ヨーロッパの探検家たちは</span> <span class='t-M'>(最初に)</span> <span class='t-V'>持って行きました</span> <span class='t-O'>唐辛子を</span> <span class='t-M'>(南米からヨーロッパへ)</span> <span class='t-M'>(400年以上前に)</span>。",
+                            naturalTranslation: "400年以上前、ヨーロッパの探検家たちが初めて南米からヨーロッパへ唐辛子を持ち込みました。",
+                            vocabulary: [
+                                { word: "explorer", meaning: "探検家" },
+                                { word: "take A to B", meaning: "AをBへ持って行く/連れて行く" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 19,
+                        text: "They soon became popular there.",
+                        translation: "それらはすぐにそこで人気になりました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["became"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(soon)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>became</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>popular</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(there)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>それらは</span> <span class='t-M'>(すぐに)</span> <span class='t-V'>なりました</span> <span class='t-C'>人気に</span> <span class='t-M'>(そこで)</span>。",
+                            naturalTranslation: "唐辛子は、ヨーロッパですぐに人気が出ました。",
+                            vocabulary: [],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 20,
+                        text: "As chili peppers were traded for goods around the world, their popularity spread to Asia and Africa, too.",
+                        translation: "唐辛子が世界中で商品と交換されるにつれて、その人気はアジアやアフリカにも広がりました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["were traded", "spread"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(As chili peppers were traded for goods around the world)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>their popularity</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>spread</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(to Asia and Africa, too)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(唐辛子が世界中で商品として取引されるにつれて)</span>、<span class='t-S'>それらの人気は</span> <span class='t-V'>広がりました</span> <span class='t-M'>(アジアやアフリカへも)</span>。",
+                            naturalTranslation: "唐辛子が交易品として世界中で取引されるようになると、その人気はアジアやアフリカにも広がりました。",
+                            vocabulary: [
+                                { word: "trade", meaning: "貿易する、交換する" },
+                                { word: "spread", meaning: "広がる" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "As", explanation: "「〜するにつれて」。比例・推移。" }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        questions: [
+            {
+                id: 34,
+                text: "Eating spicy foods with chili peppers",
+                textTranslation: "唐辛子入りの辛い食べ物を食べることは、",
+                keywords: ["Eating", "chili peppers"],
+                keywordExplanations: {
+                    "popular": "第1段落のHowever, they are very popular..."
+                },
+                keywordMatches: [
+                    { sentenceId: 5, text: "become an important part of the food culture in places such as Mexico, India, and Korea", keyword: "popular" }
+                ],
+                choiceAdvice: "「世界のいくつかの地域で人気」という内容が、本文の「メキシコ、インド、韓国などで食文化の重要な一部になった」と一致する。",
+                choices: [
+                    { id: 1, text: "is recommended by doctors in some situations.", translation: "いくつかの状況で医者によって推奨されている。", isCorrect: false },
+                    { id: 2, text: "has become very popular in some parts of the world.", translation: "世界の一部の地域で非常に人気になっている。", isCorrect: true, highlight: "become very popular in some parts of the world" },
+                    { id: 3, text: "usually helps people to avoid feeling pain.", translation: "通常、人々が痛みを感じるのを避けるのに役立つ。", isCorrect: false },
+                    { id: 4, text: "makes people sweat less when the weather is hot.", translation: "暑い天気の時に人々が汗をかくのを減らす。", isCorrect: false }
+                ],
+                paragraphStrategy: "英検の長文問題では、設問順と段落順が一致することが多いです。(34)は最初の設問なので、まずは【第1段落】を集中的に探しましょう。",
+                hint: {
+                    paragraphId: 1,
+                    description: "第1段落の最後。「they ... have become an important part of the food culture in places such as Mexico, India, and Korea（メキシコ、インド、韓国などの場所で食文化の重要な一部になっている）」という記述に注目。",
+                    targetSentenceId: 5,
+                    highlightWord: "become an important part of the food culture",
+                    highlightWordSentenceId: 5
+                },
+                logic: [
+                    { type: "text", content: "本文: \"they have become an important part of the food culture in places such as Mexico, India, and Korea.\"" },
+                    { type: "arrow", content: "「特定の地域で食文化の一部＝人気がある」" },
+                    { type: "text", content: "選択肢2: \"has become very popular in some parts of the world.\"" },
+                    { type: "conclusion", content: "正解: 2" }
+                ]
+            },
+            {
+                id: 35,
+                text: "What is one difference between poblano peppers and habanero peppers?",
+                textTranslation: "ポブラノペッパーとハバネロペッパーの1つの違いは何ですか？",
+                keywords: ["difference", "poblano", "habanero"],
+                keywordExplanations: {
+                    "poblano": "not very spicy at all（全く辛くない）",
+                    "habanero": "really spicy（本当に辛い）"
+                },
+                keywordMatches: [
+                    { sentenceId: 7, text: "poblano peppers, are not very spicy at all", keyword: "poblano" },
+                    { sentenceId: 8, text: "habanero peppers, are really spicy", keyword: "habanero" },
+                    { sentenceId: 10, text: "spicy because they contain a chemical called capsaicin", keyword: "capsaicin" }
+                ],
+                choiceAdvice: "辛さの違いは「カプサイシンの量」に由来する。Poblanoは辛くない＝カプサイシンが少ない。",
+                choices: [
+                    { id: 1, text: "Habanero peppers are much larger than poblano peppers.", translation: "ハバネロはポブラノよりもはるかに大きい。", isCorrect: false },
+                    { id: 2, text: "Habanero peppers contain a smaller number of seeds.", translation: "ハバネロはより少ない数の種を含んでいる。", isCorrect: false },
+                    { id: 3, text: "Poblano peppers are available in a wider variety of colors.", translation: "ポブラノはより多様な色で手に入る。", isCorrect: false },
+                    { id: 4, text: "Poblano peppers have less capsaicin than habanero peppers.", translation: "ポブラノはハバネロよりもカプサイシンが少ない。", isCorrect: true, highlight: "have less capsaicin than habanero peppers" }
+                ],
+                paragraphStrategy: "英検の長文問題では、設問順と段落順が一致することが多いです。(35)は2番目の設問なので、次は【第2段落】を集中的に探しましょう。",
+                hint: {
+                    paragraphId: 2,
+                    description: "第2段落。Poblanoは「not very spicy」、Habaneroは「really spicy」。そして辛さの原因は「capsaicin」。つまり...",
+                    targetSentenceId: 10,
+                    highlightWord: "spicy because they contain a chemical called capsaicin",
+                    highlightWordSentenceId: 10
+                },
+                logic: [
+                    { type: "text", content: "本文: Poblano = \"not very spicy\", Habanero = \"really spicy\". spicy = \"contain capsaicin\"" },
+                    { type: "arrow", content: "辛くない＝カプサイシンが少ない" },
+                    { type: "text", content: "選択肢4: \"Poblano peppers have less capsaicin than habanero peppers.\"" },
+                    { type: "conclusion", content: "正解: 4" }
+                ]
+            },
+            {
+                id: 36,
+                text: "Why do chili peppers probably make capsaicin?",
+                textTranslation: "なぜ唐辛子はおそらくカプサイシンを作るのですか？",
+                keywords: ["Why", "make capsaicin"],
+                keywordExplanations: {
+                    "make": "produceの言い換え",
+                    "reason": "to protect their seeds"
+                },
+                keywordMatches: [
+                    { sentenceId: 12, text: "produce capsaicin to protect their seeds", keyword: "Why" }
+                ],
+                choiceAdvice: "「種を守るため (to protect their seeds)」という記述をそのまま選ぶ。",
+                choices: [
+                    { id: 1, text: "Because humans grow chili peppers with other foods.", translation: "人間が他の食べ物と一緒に唐辛子を育てるから。", isCorrect: false },
+                    { id: 2, text: "Because their original flavor did not attract many birds.", translation: "元々の味が多くの鳥を引きつけなかったから。", isCorrect: false },
+                    { id: 3, text: "So that the peppers stay fresh for a longer period of time.", translation: "唐辛子がより長い期間新鮮でいられるように。", isCorrect: false },
+                    { id: 4, text: "So that their seeds will not be damaged by animals.", translation: "種が動物によって傷つけられないように。", isCorrect: true, highlight: "seeds will not be damaged by animals" }
+                ],
+                paragraphStrategy: "英検の長文問題では、設問順と段落順が一致することが多いです。(36)は3番目の設問なので、その次は【第3段落】を集中的に探しましょう。",
+                hint: {
+                    paragraphId: 3,
+                    description: "第3段落の最初の文。「produce capsaicin to protect their seeds（種を守るためにカプサイシンを作る）」が直接の答えです。",
+                    targetSentenceId: 12,
+                    highlightWord: "produce capsaicin to protect their seeds",
+                    highlightWordSentenceId: 12
+                },
+                logic: [
+                    { type: "text", content: "本文: \"produce capsaicin to protect their seeds.\"" },
+                    { type: "arrow", content: "「種を守るため」＝「動物に傷つけられないように」" },
+                    { type: "text", content: "選択肢4: \"So that their seeds will not be damaged by animals.\"" },
+                    { type: "conclusion", content: "正解: 4" }
+                ]
+            },
+            {
+                id: 37,
+                text: "When did chili peppers become popular in Europe?",
+                textTranslation: "いつヨーロッパで唐辛子は人気になりましたか？",
+                keywords: ["When", "Europe", "popular"],
+                keywordExplanations: {
+                    "popular": "They soon became popular thereのthereはEurope。"
+                },
+                keywordMatches: [
+                    { sentenceId: 18, text: "European explorers first took chili peppers ... over 400 years ago", keyword: "When" },
+                    { sentenceId: 19, text: "They soon became popular there", keyword: "popular" }
+                ],
+                choiceAdvice: "「探検家が持ち帰った直後 (soon after)」という時系列を読み取る。",
+                choices: [
+                    { id: 1, text: "After it became possible to trade them for goods around the world.", translation: "世界中で商品と交換できるようになった後。", isCorrect: false },
+                    { id: 2, text: "Since they were first grown and eaten there thousands of years ago.", translation: "何千年も前にそこで初めて栽培され食べられて以来。", isCorrect: false },
+                    { id: 3, text: "Over 400 years after they were first taken to Asia and Africa.", translation: "アジアやアフリカに初めて持ち込まれてから400年以上経って。", isCorrect: false },
+                    { id: 4, text: "Soon after explorers brought them back from South America.", translation: "探検家たちが南米から持ち帰ったすぐ後。", isCorrect: true, highlight: "Soon after explorers brought them back from South America" }
+                ],
+                paragraphStrategy: "英検の長文問題では、設問順と段落順が一致することが多いです。(37)は最後の設問なので、最後は【第4段落】を集中的に探しましょう。",
+                hint: {
+                    paragraphId: 4,
+                    description: "第4段落。「European explorers first took chili peppers ... to Europe ... They soon became popular there（ヨーロッパの探検家が持ち込み...すぐに人気になった）」という流れを確認。",
+                    targetSentenceId: 19,
+                    highlightWord: "They soon became popular there",
+                    highlightWordSentenceId: 19
+                },
+                logic: [
+                    { type: "text", content: "本文: Explorers took them to Europe -> \"They soon became popular there.\"" },
+                    { type: "arrow", content: "「探検家が持ち込んだすぐ後に」" },
+                    { type: "text", content: "選択肢4: \"Soon after explorers brought them back from South America.\"" },
+                    { type: "conclusion", content: "正解: 4" }
+                ]
+            }
+        ],
+        summaryForInstructors: {
+            title: "Feel the Heat (辛さを感じて)",
+            intro: "唐辛子の辛さの秘密（カプサイシン）と、それがなぜ存在するのか（種の保護）、そしてどのように世界に広まったのかを解説する科学的・歴史的パッセージ。",
+            points: [
+                { label: "1. 辛さの正体", text: "カプサイシンという化学物質が原因。種を守るための進化と考えられる。" },
+                { label: "2. 鳥と哺乳類の違い", text: "哺乳類（ネズミなど）は種を噛み砕くため辛さを感じるが、種を丸呑みする鳥は辛さを感じない。" },
+                { label: "3. 歴史的伝播", text: "南米原産で、ヨーロッパの探検家によって世界中に広められた。" }
+            ]
+        }
+    },
+
+    {
+        id: "pre2-2024-1-4B",
+        grade: "準2級",
+        title: "Local Newspapers",
+        subTitle: "2024年度 第1回 大問4B",
+        images: {
+            content: "/images/reading/pre2-2024-1-4B-content.png",
+            question: "/images/reading/pre2-2024-1-4B-question.png"
+        },
+        content: [
+            {
+                paragraphId: 1,
+                sentences: [
+                    {
+                        id: 1,
+                        text: "In the past, many people regularly read local newspapers.",
+                        translation: "過去には、多くの人々が定期的に地元の新聞を読んでいました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["read"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(In the past)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>many people</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(regularly)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>read</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>local newspapers</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(過去には)</span>、<span class='t-S'>多くの人々が</span> <span class='t-M'>(定期的に)</span> <span class='t-V'>読みました</span> <span class='t-O'>地元の新聞を</span>。",
+                            naturalTranslation: "昔は、多くの人が地元の新聞を定期的に読んでいました。",
+                            vocabulary: [
+                                { word: "regularly", meaning: "定期的に" },
+                                { word: "local", meaning: "地元の、地域の" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "read", explanation: "<b>過去形</b>: 文脈がIn the pastなので、発音は[red]。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 2,
+                        text: "Local newspapers are newspapers that give information about important events in the areas where they are made.",
+                        translation: "地元の新聞とは、それらが作られた地域における重要な出来事についての情報を与える新聞のことです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Local newspapers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>newspapers <span class='modifier'>[that give information about important events in the areas where they are made]</span></span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>地元の新聞は</span> <span class='t-V'>です</span> <span class='t-C'>新聞 <span class='t-M'>[重要な出来事についての情報を与える(それらが作られた地域の)]</span></span>。",
+                            naturalTranslation: "地方新聞とは、その新聞が作られている地域の重要な出来事についての情報を提供する新聞です。",
+                            vocabulary: [
+                                { word: "event", meaning: "出来事、行事" },
+                                { word: "area", meaning: "地域" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "that give", explanation: "<b>関係代名詞that</b>: 先行詞はnewspapers。「情報を与える新聞」。" },
+                                { phrase: "where they are made", explanation: "<b>関係副詞where</b>: 先行詞はthe areas。「それら（新聞）が作られる地域」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 3,
+                        text: "Companies that make local newspapers need workers to write articles, take photographs, put these things together, and print the newspapers.",
+                        translation: "地元の新聞を作る会社は、記事を書き、写真を撮り、これらをまとめ、そして新聞を印刷するための労働者を必要とします。",
+                        grammarAnalysis: {
+                            mainVerbs: ["need"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Companies <span class='modifier'>[that make local newspapers]</span></span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>need</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>workers <span class='modifier'>(to write ..., take ..., put ..., and print ...)</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>会社は <span class='t-M'>[地元の新聞を作る]</span></span> <span class='t-V'>必要とします</span> <span class='t-O'>労働者を <span class='t-M'>(記事を書き、写真を撮り、まとめ、印刷するための)</span></span>。",
+                            naturalTranslation: "地方新聞を作る会社は、記事を書き、写真を撮り、それらをまとめ、新聞を印刷する働き手を必要としています。",
+                            vocabulary: [
+                                { word: "article", meaning: "記事" },
+                                { word: "photograph", meaning: "写真" },
+                                { word: "print", meaning: "印刷する" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "to write ...", explanation: "<b>不定詞の形容詞的用法</b>: workersを修飾。「〜する（ための）労働者」。" },
+                                { phrase: "put ... together", explanation: "<b>put together</b>: 「まとめる、組み立てる」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 4,
+                        text: "They also need workers to deliver the newspapers to shops and people's homes.",
+                        translation: "彼らはまた、店や人々の家に新聞を配達するための労働者も必要とします。",
+                        grammarAnalysis: {
+                            mainVerbs: ["need"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(also)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>need</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>workers <span class='modifier'>(to deliver the newspapers to shops and people's homes)</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>彼らは</span> <span class='t-M'>(また)</span> <span class='t-V'>必要とします</span> <span class='t-O'>労働者を <span class='t-M'>(店や人々の家に新聞を配達するための)</span></span>。",
+                            naturalTranslation: "彼らはまた、店や各家庭に新聞を配達する働き手も必要とします。",
+                            vocabulary: [
+                                { word: "deliver", meaning: "配達する" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "to deliver", explanation: "<b>不定詞の形容詞的用法</b>: workersを修飾。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 5,
+                        text: "Local newspapers are important sources of news about their communities.",
+                        translation: "地元の新聞は、その地域社会についてのニュースの重要な情報源です。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Local newspapers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>important sources <span class='modifier'>(of news about their communities)</span></span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>地元の新聞は</span> <span class='t-V'>です</span> <span class='t-C'>重要な情報源 <span class='t-M'>(彼らの地域社会についてのニュースの)</span></span>。",
+                            naturalTranslation: "地方新聞は、その地域社会に関するニュースの重要な情報源です。",
+                            vocabulary: [
+                                { word: "source", meaning: "源、情報源" },
+                                { word: "community", meaning: "地域社会、コミュニティ" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 6,
+                        text: "At the same time, they are also important sources of jobs.",
+                        translation: "同時に、それらは仕事の重要な供給源でもあります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(At the same time)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(also)</span><span class='tag'>M</span></span> <span class='chunk C-group'><span class='text'>important sources <span class='modifier'>(of jobs)</span></span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-M'>(同時に)</span>、<span class='t-S'>それらは</span> <span class='t-V'>です</span> <span class='t-M'>(また)</span> <span class='t-C'>重要な源 <span class='t-M'>(仕事の)</span></span>。",
+                            naturalTranslation: "同時に、それらは重要な雇用の源でもあります。",
+                            vocabulary: [
+                                { word: "at the same time", meaning: "同時に" }
+                            ],
+                            grammarNotes: []
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 2,
+                sentences: [
+                    {
+                        id: 7,
+                        text: "Since around the mid-2000s, more and more people have stopped buying local newspapers and started reading the news online.",
+                        translation: "2000年代半ば頃から、ますます多くの人々が地元の新聞を買うのをやめ、オンラインでニュースを読み始めました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have stopped", "started"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Since around the mid-2000s)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>more and more people</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have stopped buying ... and started reading ...</span><span class='tag'>V</span></span>.",
+                            translationHtml: "<span class='t-M'>(2000年代半ば頃から)</span>、<span class='t-S'>ますます多くの人々が</span> <span class='t-V'>買うのをやめて、読み始めました</span>。",
+                            naturalTranslation: "2000年代半ば頃から、ますます多くの人が地方新聞の購入をやめ、オンラインでニュースを読み始めました。",
+                            vocabulary: [
+                                { word: "mid-2000s", meaning: "2000年代半ば" },
+                                { word: "online", meaning: "オンラインで" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "have stopped", explanation: "<b>現在完了形</b>: 継続的変化。" },
+                                { phrase: "stopped buying", explanation: "<b>stop doing</b>: 「〜するのをやめる」。buyingは動名詞。" },
+                                { phrase: "started reading", explanation: "<b>start doing</b>: 「〜し始める」。readingは動名詞。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 8,
+                        text: "They do this because news websites are more convenient than newspapers.",
+                        translation: "ニュースウェブサイトは新聞よりも便利なので、彼らはそうするのです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["do"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>do</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>this</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(because news websites are more convenient than newspapers)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>彼らは</span> <span class='t-V'>そうします</span> <span class='t-M'>(なぜならニュースウェブサイトの方が新聞より便利だから)</span>。",
+                            naturalTranslation: "ニュースサイトの方が新聞より便利だから、彼らはそうするのです。",
+                            vocabulary: [
+                                { word: "convenient", meaning: "便利な" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "more convenient", explanation: "<b>比較級</b>: 「より便利な」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 9,
+                        text: "Also, many news websites are free.",
+                        translation: "また、多くのニュースウェブサイトは無料です。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Also)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>many news websites</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>free</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-M'>(また)</span>、<span class='t-S'>多くのニュースウェブサイトは</span> <span class='t-V'>です</span> <span class='t-C'>無料</span>。",
+                            naturalTranslation: "また、多くのニュースサイトは無料です。",
+                            vocabulary: [
+                                { word: "free", meaning: "無料の" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 10,
+                        text: "However, the most popular ones focus on national and international news.",
+                        translation: "しかし、最も人気のあるものは、国内および国際的なニュースに焦点を当てています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["focus"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the most popular ones</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>focus</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(on national and international news)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(しかし)</span>、<span class='t-S'>最も人気のあるものは</span> <span class='t-V'>焦点を当てています</span> <span class='t-M'>(国内と国際的なニュースに)</span>。",
+                            naturalTranslation: "しかし、最も人気のあるサイトは、国内や海外のニュースを中心に扱っています。",
+                            vocabulary: [
+                                { word: "focus on", meaning: "〜に焦点を合わせる、〜を中心にする" },
+                                { word: "national", meaning: "国の、全国的な" },
+                                { word: "international", meaning: "国際的な" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "ones", explanation: "<b>代名詞one</b>: websitesを指す。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 11,
+                        text: "They have few local news stories or none at all.",
+                        translation: "それらには、地元のニュース記事はほとんどないか、全くありません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>few local news stories or none <span class='modifier'>(at all)</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>それらは</span> <span class='t-V'>持っています</span> <span class='t-O'>ほとんどない地元のニュース記事、あるいは何もないのを</span>。",
+                            naturalTranslation: "それらには、地元のニュース記事はほとんど、あるいは全く掲載されていません。",
+                            vocabulary: [
+                                { word: "few", meaning: "ほとんどない（数えられる名詞について）" },
+                                { word: "none at all", meaning: "全くない" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 12,
+                        text: "As a result, an increasing number of people do not know much about what is happening in the areas where they live.",
+                        translation: "その結果、自分たちが住んでいる地域で何が起きているかについて、あまり知らない人々が増えています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["do not know"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(As a result)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>an increasing number <span class='modifier'>(of people)</span></span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>do not know</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>much</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(about [what is happening in the areas where they live])</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(結果として)</span>、<span class='t-S'>ますます多くの人々が</span> <span class='t-V'>知りません</span> <span class='t-O'>多くを</span> <span class='t-M'>([自分たちが住む地域で何が起きているか]について)</span>。",
+                            naturalTranslation: "その結果、自分の住む地域で何が起きているのかよく知らない人が増えています。",
+                            vocabulary: [
+                                { word: "as a result", meaning: "結果として" },
+                                { word: "increasing", meaning: "増加している" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "an increasing number of", explanation: "「ますます多くの〜」。" },
+                                { phrase: "what is happening", explanation: "<b>間接疑問文</b>: aboutの目的語。「何が起きているか」。" },
+                                { phrase: "where they live", explanation: "<b>関係副詞where</b>: areasを修飾。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 3,
+                sentences: [
+                    {
+                        id: 13,
+                        text: "Many local newspaper companies have tried to make their own news websites.",
+                        translation: "多くの地方新聞社が、独自のニュースウェブサイトを作ろうとしてきました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have tried"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Many local newspaper companies</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have tried</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to make their own news websites</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>多くの地方新聞社が</span> <span class='t-V'>試みてきました</span> <span class='t-O'>彼ら自身のニュースウェブサイトを作ることを</span>。",
+                            naturalTranslation: "多くの地方新聞社が、独自のニュースサイトを作ろうと試みてきました。",
+                            vocabulary: [
+                                { word: "try to do", meaning: "〜しようとする" },
+                                { word: "own", meaning: "自身の" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "have tried", explanation: "<b>現在完了形</b>: 完了・継続。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 14,
+                        text: "However, it can be expensive and difficult to do this.",
+                        translation: "しかし、これを行うのは費用がかかり、難しい場合があります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["can be"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>it</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can be</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>expensive and difficult</span><span class='tag'>C</span></span> <span class='chunk S-group'><span class='text'>to do this</span><span class='tag'>S'</span></span>.",
+                            translationHtml: "<span class='t-M'>(しかし)</span>、<span class='t-S'>それは</span> <span class='t-V'>ありえます</span> <span class='t-C'>高価で難しいと</span> <span class='t-S'>これをするのは</span>。",
+                            naturalTranslation: "しかし、そうするのは費用がかかり、困難なこともあります。",
+                            vocabulary: [
+                                { word: "expensive", meaning: "高価な" },
+                                { word: "difficult", meaning: "難しい" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "it ... to do", explanation: "<b>形式主語構文</b>: itはto do thisを指す。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 15,
+                        text: "They often need to hire specialists to help them.",
+                        translation: "彼らはしばしば、手助けをしてくれる専門家を雇う必要があります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["need"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(often)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>need to hire</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>specialists <span class='modifier'>(to help them)</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>彼らは</span> <span class='t-M'>(しばしば)</span> <span class='t-V'>雇う必要があります</span> <span class='t-O'>専門家を <span class='t-M'>(彼らを助けるための)</span></span>。",
+                            naturalTranslation: "彼らは、助力となる専門家を雇わなければならないことがよくあります。",
+                            vocabulary: [
+                                { word: "hire", meaning: "雇う" },
+                                { word: "specialist", meaning: "専門家" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "to help", explanation: "<b>不定詞の形容詞的用法</b>: specialistsを修飾。「助けてくれる専門家」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 16,
+                        text: "At the same time, these companies are making less money because fewer people are buying their newspapers.",
+                        translation: "同時に、新聞を買う人が減っているため、これらの会社の利益は減っています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are making"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(At the same time)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>these companies</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are making</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>less money</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(because fewer people are buying their newspapers)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(同時に)</span>、<span class='t-S'>これらの会社は</span> <span class='t-V'>稼いでいます</span> <span class='t-O'>より少ないお金を</span> <span class='t-M'>(なぜならより少ない人々が新聞を買っているから)</span>。",
+                            naturalTranslation: "同時に、新聞を買う人が減っているため、こうした企業の収益は減少しています。",
+                            vocabulary: [
+                                { word: "less", meaning: "より少ない" },
+                                { word: "fewer", meaning: "より少ない（数えられる名詞について）" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "make money", explanation: "「お金を稼ぐ、利益を得る」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 17,
+                        text: "Because of this, many local newspaper companies have closed, and their workers have lost their jobs.",
+                        translation: "このため、多くの地方新聞社が廃業し、従業員は職を失っています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have closed", "have lost"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Because of this)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>many local newspaper companies</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have closed</span><span class='tag'>V</span></span>, and <span class='chunk S-group'><span class='text'>their workers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have lost</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>their jobs</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(このため)</span>、<span class='t-S'>多くの地方新聞社が</span> <span class='t-V'>閉鎖しました</span>、そして <span class='t-S'>彼らの従業員は</span> <span class='t-V'>失いました</span> <span class='t-O'>彼らの仕事を</span>。",
+                            naturalTranslation: "このことが原因で、多くの地方新聞社が廃業し、従業員たちが職を失っています。",
+                            vocabulary: [
+                                { word: "because of", meaning: "〜のために、〜が原因で" },
+                                { word: "close", meaning: "閉じる、廃業する" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "have closed / have lost", explanation: "<b>現在完了形</b>: 結果・完了。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 4,
+                sentences: [
+                    {
+                        id: 18,
+                        text: "Local newspapers are also very important to local businesses.",
+                        translation: "地元の新聞は、地元の企業にとっても非常に重要です。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Local newspapers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(also)</span><span class='tag'>M</span></span> <span class='chunk C-group'><span class='text'>very important</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(to local businesses)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>地元の新聞は</span> <span class='t-V'>です</span> <span class='t-M'>(また)</span> <span class='t-C'>とても重要</span> <span class='t-M'>(地元のビジネスにとって)</span>。",
+                            naturalTranslation: "地方新聞は、地元の企業にとっても非常に重要です。",
+                            vocabulary: [
+                                { word: "business", meaning: "企業、事業" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 19,
+                        text: "A small, local business can advertise its products or services in a local newspaper at a low price.",
+                        translation: "小さな地元企業は、地元の新聞に製品やサービスを低価格で宣伝できます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["can advertise"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>A small, local business</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can advertise</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>its products or services</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(in a local newspaper)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(at a low price)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>小さな地元企業は</span> <span class='t-V'>宣伝できます</span> <span class='t-O'>その製品やサービスを</span> <span class='t-M'>(地元の新聞で)</span> <span class='t-M'>(低い価格で)</span>。",
+                            naturalTranslation: "地元の零細企業でも、地方新聞なら低価格で製品やサービスを宣伝できます。",
+                            vocabulary: [
+                                { word: "advertise", meaning: "宣伝する、広告を出す" },
+                                { word: "product", meaning: "製品" },
+                                { word: "service", meaning: "サービス" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "at a ... price", explanation: "「〜な価格で」。前置詞はat。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 20,
+                        text: "By doing so, the business can get new customers.",
+                        translation: "そうすることで、その企業は新しい顧客を獲得できます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["can get"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(By doing so)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the business</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can get</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>new customers</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(そうすることによって)</span>、<span class='t-S'>その企業は</span> <span class='t-V'>得ることができます</span> <span class='t-O'>新しい顧客を</span>。",
+                            naturalTranslation: "そうすることで、企業は新規顧客を獲得することができます。",
+                            vocabulary: [
+                                { word: "customer", meaning: "顧客、客" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "by doing", explanation: "「〜することによって」。手段を表す。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 21,
+                        text: "It costs a lot of money to put an advertisement in a national newspaper or on a popular news website.",
+                        translation: "全国紙や人気のあるニュースウェブサイトに広告を出すには、多くのお金がかかります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["costs"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>It</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>costs</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a lot of money</span><span class='tag'>O</span></span> <span class='chunk S-group'><span class='text'>to put an advertisement ...</span><span class='tag'>S'</span></span>.",
+                            translationHtml: "<span class='t-S'>それは</span> <span class='t-V'>費用がかかります</span> <span class='t-O'>多くのお金が</span> <span class='t-S'>広告を出すことは</span>。",
+                            naturalTranslation: "全国紙や人気のニュースサイトに広告を出すには、多額の費用がかかります。",
+                            vocabulary: [
+                                { word: "cost", meaning: "（費用が）かかる" },
+                                { word: "advertisement", meaning: "広告" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "it costs ... to do", explanation: "<b>形式主語構文</b>: 「〜するのにお金がかかる」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 22,
+                        text: "Without local newspapers, it is hard for small, local businesses to advertise.",
+                        translation: "地元の新聞がなければ、小さな地元企業が宣伝をするのは難しいです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Without local newspapers)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>it</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>hard</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(for small, local businesses)</span><span class='tag'>M</span></span> <span class='chunk S-group'><span class='text'>to advertise</span><span class='tag'>S'</span></span>.",
+                            translationHtml: "<span class='t-M'>(地元の新聞なしでは)</span>、<span class='t-S'>それは</span> <span class='t-V'>です</span> <span class='t-C'>難しい</span> <span class='t-M'>(小さな地元企業にとって)</span> <span class='t-S'>宣伝することは</span>。",
+                            naturalTranslation: "地方新聞がなければ、地元の零細企業が広告を出すのは困難です。",
+                            vocabulary: [
+                                { word: "without", meaning: "〜なしで" },
+                                { word: "hard", meaning: "難しい" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "it is ... for A to do", explanation: "<b>不定詞の意味上の主語</b>: Aが〜するのは...だ。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 23,
+                        text: "Just like local newspaper companies, many of these businesses have been facing difficult times.",
+                        translation: "地元の新聞社と同じように、これらの企業の多くも困難な時期に直面しています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have been facing"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Just like local newspaper companies)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>many of these businesses</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have been facing</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>difficult times</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(地方新聞社とちょうど同じように)</span>、<span class='t-S'>これらの企業の多くは</span> <span class='t-V'>直面し続けています</span> <span class='t-O'>困難な時期に</span>。",
+                            naturalTranslation: "地方新聞社と同様に、こうした企業の多くも苦境に立たされています。",
+                            vocabulary: [
+                                { word: "just like", meaning: "〜とちょうど同じように" },
+                                { word: "face", meaning: "直面する" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "have been facing", explanation: "<b>現在完了進行形</b>: 「ずっと直面している」。" }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        questions: [
+            {
+                id: 26,
+                text: "What is one thing that local newspapers do for their communities?",
+                textTranslation: "地元の新聞が地域社会のためにしていることの一つは何ですか？",
+                keywords: ["do", "communities"],
+                keywordExplanations: {
+                    "communities": "第1段落のabout their communitiesに注目。"
+                },
+                keywordMatches: [
+                    { sentenceId: 6, text: "important sources of jobs", keyword: "do" }
+                ],
+                choiceAdvice: "「ニュース」だけでなく「仕事（雇用）」の源でもあるという点を探す。",
+                choices: [
+                    { id: 1, text: "They teach local people how to write articles and take photographs.", translation: "地元の人々に記事の書き方とい写真の撮り方を教えている。", isCorrect: false },
+                    { id: 2, text: "They regularly organize events for people who live in the area.", translation: "その地域に住む人々のために定期的にイベントを企画している。", isCorrect: false },
+                    { id: 3, text: "They give information about what is happening around the world.", translation: "世界中で起きていることについての情報を提供している。", isCorrect: false },
+                    { id: 4, text: "They offer chances to work for people who live in the area.", translation: "その地域に住む人々に働く機会（仕事）を提供している。", isCorrect: true, highlight: "offer chances to work" }
+                ],
+                hint: {
+                    paragraphId: 1,
+                    description: "第1段落の最後。「they are also important sources of jobs（それらは仕事の重要な源でもある）」という文に注目。",
+                    targetSentenceId: 6,
+                    highlightWord: "important sources of jobs",
+                    highlightWordSentenceId: 6
+                },
+                logic: [
+                    { type: "text", content: "本文: \"they are also important sources of jobs.\"" },
+                    { type: "arrow", content: "「仕事の重要な源である」" },
+                    { type: "text", content: "選択肢4: \"They offer chances to work for people who live in the area.\"" },
+                    { type: "conclusion", content: "正解: 4" }
+                ]
+            },
+            {
+                id: 27,
+                text: "Because more people read the news online these days,",
+                textTranslation: "最近はオンラインでニュースを読む人が増えたため...",
+                keywords: ["more people", "online"],
+                keywordExplanations: {
+                    "online": "第2段落の話題。national and international newsに偏っていることがポイント。"
+                },
+                keywordMatches: [
+                    { sentenceId: 7, text: "more and more people ... started reading the news online", keyword: "online" },
+                    { sentenceId: 12, text: "As a result, an increasing number of people do not know much about what is happening in the areas where they live", keyword: "Because" }
+                ],
+                choiceAdvice: "オンラインニュースは「全国・国際ニュース」が中心 → 「地元のニュース」が知られなくなる、という因果関係。",
+                choices: [
+                    { id: 1, text: "the number of news stories that they read has decreased.", translation: "彼らが読むニュース記事の数が減った。", isCorrect: false },
+                    { id: 2, text: "people have less time to do other important activities.", translation: "人々は他の重要な活動をする時間が減った。", isCorrect: false },
+                    { id: 3, text: "fewer people know about things that are happening nearby.", translation: "近くで起きていることについて知っている人が減った。", isCorrect: true, highlight: "fewer people know about things that are happening nearby" },
+                    { id: 4, text: "the number of local newspapers has gone up since the 1990s.", translation: "1990年代以降、地方新聞の数が増えた。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 2,
+                    description: "第2段落の最後。「As a result（結果として）」の後の文を確認しましょう。",
+                    targetSentenceId: 12,
+                    highlightWord: "do not know much about what is happening in the areas where they live",
+                    highlightWordSentenceId: 12
+                },
+                logic: [
+                    { type: "text", content: "本文: \"an increasing number of people do not know much about what is happening in the areas where they live.\"" },
+                    { type: "arrow", content: "「自分が住む地域で起きていることを知らない人が増えている」" },
+                    { type: "text", content: "選択肢3: \"fewer people know about things that are happening nearby.\"" },
+                    { type: "conclusion", content: "正解: 3" }
+                ]
+            },
+            {
+                id: 28,
+                text: "Local newspaper companies have found it hard to create news websites because",
+                textTranslation: "地方新聞社がニュースサイトを作るのを難しいと感じている理由は...",
+                keywords: ["hard", "create news websites"],
+                keywordExplanations: {
+                    "hard": "difficultやexpensiveの言い換え。",
+                    "create": "makeの言い換え。"
+                },
+                keywordMatches: [
+                    { sentenceId: 15, text: "need to hire specialists", keyword: "because" }
+                ],
+                choiceAdvice: "「専門家を雇う必要がある（=自分たちだけではできない）」という記述を探す。",
+                choices: [
+                    { id: 1, text: "they have to stay open twenty-four hours every day.", translation: "彼らは毎日24時間営業していなければならない。", isCorrect: false },
+                    { id: 2, text: "they often cannot do it without the help of experts.", translation: "彼らはしばしば、専門家の助けなしではそれを行えない。", isCorrect: true, highlight: "cannot do it without the help of experts" },
+                    { id: 3, text: "many of their workers have left their jobs.", translation: "彼らの従業員の多くが仕事を辞めてしまった。", isCorrect: false },
+                    { id: 4, text: "many of their readers are not able to use the Internet.", translation: "彼らの読者の多くがインターネットを使えない。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 3,
+                    description: "第3段落。「They often need to hire specialists to help them（彼らはしばしば、助けてくれる専門家を雇う必要がある）」という文がヒントです。",
+                    targetSentenceId: 15,
+                    highlightWord: "need to hire specialists to help them",
+                    highlightWordSentenceId: 15
+                },
+                logic: [
+                    { type: "text", content: "本文: \"need to hire specialists to help them.\"" },
+                    { type: "arrow", content: "「専門家の助けが必要」＝「助けなしではできない」" },
+                    { type: "text", content: "選択肢2: \"they often cannot do it without the help of experts.\"" },
+                    { type: "conclusion", content: "正解: 2" }
+                ]
+            },
+            {
+                id: 29,
+                text: "What is one thing that has changed for small, local businesses?",
+                textTranslation: "小さな地元企業にとって変わったことの一つは何ですか？",
+                keywords: ["changed", "small, local businesses"],
+                keywordExplanations: {
+                    "changed": "現在の状況（It is hard...）と過去の対比。",
+                    "small, local businesses": "第4段落の主語。"
+                },
+                keywordMatches: [
+                    { sentenceId: 22, text: "Without local newspapers, it is hard ... to advertise", keyword: "changed" },
+                    { sentenceId: 23, text: "have been facing difficult times", keyword: "changed" }
+                ],
+                choiceAdvice: "地方新聞が減ったことで「安価な広告手段がなくなった」＝「以前ほど簡単に宣伝できない」。",
+                choices: [
+                    { id: 1, text: "They are not able to advertise as easily as they did in the past.", translation: "彼らは過去ほど簡単には宣伝ができなくなっている。", isCorrect: true, highlight: "not able to advertise as easily as they did in the past" },
+                    { id: 2, text: "They cannot sell the same kinds of products as they used to.", translation: "彼らは以前と同じ種類の製品を売ることができない。", isCorrect: false },
+                    { id: 3, text: "They have found many more customers by setting up websites.", translation: "彼らはウェブサイトを開設することで、より多くの顧客を見つけた。", isCorrect: false },
+                    { id: 4, text: "They have become very important sources of local news.", translation: "彼らは地域のニュースの非常に重要な情報源となった。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 4,
+                    description: "第4段落の後半。「Without local newspapers, it is hard for small, local businesses to advertise（地方新聞がなければ、小さな地元企業が宣伝をするのは難しい）」から判断します。",
+                    targetSentenceId: 22,
+                    highlightWord: "it is hard for small, local businesses to advertise",
+                    highlightWordSentenceId: 22
+                },
+                logic: [
+                    { type: "text", content: "本文: \"Without local newspapers, it is hard ... to advertise.\"" },
+                    { type: "arrow", content: "「地方新聞なしでは宣伝が難しい」＝「以前ほど簡単ではない」" },
+                    { type: "text", content: "選択肢1: \"They are not able to advertise as easily as they did in the past.\"" },
+                    { type: "conclusion", content: "正解: 1" }
+                ]
+            }
+        ],
+        summaryForInstructors: {
+            title: "Local Newspapers (地方新聞)",
+            intro: "インターネットの普及による地方新聞の衰退と、それが地域社会や地元企業に与える影響について論じたパッセージ。",
+            points: [
+                { label: "1. 地方新聞の役割", text: "地域のニュースだけでなく、雇用の提供という面でも重要。" },
+                { label: "2. 衰退の影響", text: "オンラインニュースへの移行により、住民が地域の出来事を知らなくなっている。" },
+                { label: "3. 地元企業への打撃", text: "安価な広告媒体であった地方新聞がなくなることで、地元企業の宣伝活動が困難になっている。" }
+            ]
+        }
+    },
+
+    {
+        id: "pre2-2024-2-4B",
+        grade: "準2級",
+        title: "Circles in the Sand",
+        subTitle: "2024年度 第2回 大問4B",
+        images: {
+            content: "/images/reading/pre2-2024-2-4B-content.png",
+            question: "/images/reading/pre2-2024-2-4B-question.png"
+        },
+        content: [
+            {
+                paragraphId: 1,
+                sentences: [
+                    {
+                        id: 1,
+                        text: "In 1995, divers swimming in the ocean near southern Japan discovered something unusual.",
+                        translation: "1995年、南日本の近くの海で泳いでいたダイバーたちが、何か珍しいものを発見しました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["discovered"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(In 1995)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>divers <span class='modifier'>[swimming in the ocean near southern Japan]</span></span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>discovered</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>something unusual</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(1995年に)</span>、<span class='t-S'>ダイバーたちが <span class='t-M'>[南日本の近くの海で泳いでいた]</span></span> <span class='t-V'>発見しました</span> <span class='t-O'>何か珍しいものを</span>。",
+                            naturalTranslation: "1995年、南日本の近くの海で泳いでいたダイバーたちが、何か珍しいものを発見しました。",
+                            vocabulary: [
+                                { word: "diver", meaning: "ダイバー" },
+                                { word: "discover", meaning: "発見する" },
+                                { word: "unusual", meaning: "珍しい、普通でない" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "swimming", explanation: "<b>現在分詞の形容詞的用法</b>: diversを修飾。" },
+                                { phrase: "something unusual", explanation: "<b>形容詞の後置修飾</b>: -thingで終わる名詞は形容詞が後ろに来る。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 2,
+                        text: "They saw large circles drawn in the sand at the bottom of the sea.",
+                        translation: "彼らは、海底の砂に描かれた大きな円を見ました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["saw"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>saw</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>large circles <span class='modifier'>[drawn in the sand at the bottom of the sea]</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>彼らは</span> <span class='t-V'>見ました</span> <span class='t-O'>大きな円を <span class='t-M'>[海の底の砂に描かれた]</span></span>。",
+                            naturalTranslation: "彼らは、海底の砂に描かれた大きな円を見ました。",
+                            vocabulary: [
+                                { word: "draw", meaning: "描く" },
+                                { word: "bottom", meaning: "底" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "drawn", explanation: "<b>過去分詞の形容詞的用法</b>: circlesを修飾。「描かれた円」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 3,
+                        text: "The divers did not know what had caused these circles.",
+                        translation: "ダイバーたちは、何がこれらの円を作ったのか分かりませんでした。",
+                        grammarAnalysis: {
+                            mainVerbs: ["did not know"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>The divers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>did not know</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[what had caused these circles]</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>ダイバーたちは</span> <span class='t-V'>知りませんでした</span> <span class='t-O'>[何がこれらの円を引き起こしたのか]を</span>。",
+                            naturalTranslation: "ダイバーたちは、何がこれらの円を作ったのか分かりませんでした。",
+                            vocabulary: [
+                                { word: "cause", meaning: "引き起こす、原因となる" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "what had caused", explanation: "<b>間接疑問文</b>: whatが主語。「何が〜させたか」。" },
+                                { phrase: "had caused", explanation: "<b>過去完了形</b>: 発見した時点（過去）よりも前に起きたこと。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 4,
+                        text: "However, the mystery was eventually solved by some scientists who saw the circles being drawn.",
+                        translation: "しかし、その謎は最終的に、円が描かれているところを見た科学者たちによって解明されました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["was solved"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the mystery</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was <span class='modifier'>(eventually)</span> solved</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>by some scientists <span class='modifier'>[who saw the circles being drawn]</span></span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(しかし)</span>、<span class='t-S'>その謎は</span> <span class='t-V'>解明されました</span> <span class='t-M'>科学者たちによって <span class='t-M'>[円が描かれているのを見た]</span></span>。",
+                            naturalTranslation: "しかし、その謎は最終的に、円が描かれる様子を目撃した科学者たちによって解明されました。",
+                            vocabulary: [
+                                { word: "mystery", meaning: "謎" },
+                                { word: "eventually", meaning: "ついに、結局は" },
+                                { word: "solve", meaning: "解決する" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "was solved", explanation: "<b>受動態</b>: 「解明された」。" },
+                                { phrase: "saw the circles being drawn", explanation: "<b>知覚動詞+O+doing(受動)</b>: 「円が描かれているのを見る」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 5,
+                        text: "The artist was a male fish called a puffer fish.",
+                        translation: "その芸術家は、フグと呼ばれるオスの魚でした。",
+                        grammarAnalysis: {
+                            mainVerbs: ["was"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>The artist</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>a male fish <span class='modifier'>(called a puffer fish)</span></span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>その芸術家は</span> <span class='t-V'>でした</span> <span class='t-C'>オスの魚 <span class='t-M'>(フグと呼ばれる)</span></span>。",
+                            naturalTranslation: "その芸術家は、フグと呼ばれるオスの魚でした。",
+                            vocabulary: [
+                                { word: "male", meaning: "オスの（対義語: female）" },
+                                { word: "puffer fish", meaning: "フグ" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "called", explanation: "<b>過去分詞の形容詞的用法</b>: fishを修飾。「〜と呼ばれる」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 6,
+                        text: "He was using different parts of his body to create the circles.",
+                        translation: "彼は円を作るために、体の異なる部分を使っていました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["was using"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>He</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was using</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>different parts <span class='modifier'>(of his body)</span></span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(to create the circles)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>彼は</span> <span class='t-V'>使っていました</span> <span class='t-O'>異なる部分を <span class='t-M'>(彼の体の)</span></span> <span class='t-M'>(円を作るために)</span>。",
+                            naturalTranslation: "彼は円を作るために、体の様々な部分を使っていました。",
+                            vocabulary: [
+                                { word: "create", meaning: "創造する、作る" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "to create", explanation: "<b>不定詞の副詞的用法</b>: 目的を表す。「〜するために」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 7,
+                        text: "When his work was complete, a female came and laid her eggs in the center.",
+                        translation: "彼の作業が完了すると、メスがやってきて中央に卵を産みました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["came", "laid"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(When his work was complete)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>a female</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>came and laid</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>her eggs</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(in the center)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(彼の作業が完了した時)</span>、<span class='t-S'>メスが</span> <span class='t-V'>やってきて産みました</span> <span class='t-O'>彼女の卵を</span> <span class='t-M'>(中央に)</span>。",
+                            naturalTranslation: "彼の作業が完了すると、メスがやってきて中央に卵を産みました。",
+                            vocabulary: [
+                                { word: "complete", meaning: "完了した" },
+                                { word: "female", meaning: "メス" },
+                                { word: "lay", meaning: "（卵を）産む、置く" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "laid", explanation: "<b>動詞layの過去形</b>: lie（横たわる）の過去形layと混同注意。ここでは「産む」の他動詞。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 2,
+                sentences: [
+                    {
+                        id: 8,
+                        text: "The puffer fish is not the only animal that creates beautiful art.",
+                        translation: "美しい芸術を作り出す動物はフグだけではありません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>The puffer fish</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is not</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>the only animal <span class='modifier'>[that creates beautiful art]</span></span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>フグは</span> <span class='t-V'>ではありません</span> <span class='t-C'>唯一の動物 <span class='t-M'>[美しい芸術を作る]</span></span>。",
+                            naturalTranslation: "美しい芸術を作り出す動物はフグだけではありません。",
+                            vocabulary: [
+                                { word: "only", meaning: "唯一の" },
+                                { word: "art", meaning: "芸術" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "that creates", explanation: "<b>関係代名詞that</b>: animalを修飾。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 9,
+                        text: "A bird called the bowerbird is another example.",
+                        translation: "ニワシドリと呼ばれる鳥もその一例です。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>A bird <span class='modifier'>(called the bowerbird)</span></span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>another example</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>鳥は <span class='t-M'>(ニワシドリと呼ばれる)</span></span> <span class='t-V'>です</span> <span class='t-C'>もう一つの例</span>。",
+                            naturalTranslation: "ニワシドリと呼ばれる鳥もその一例です。",
+                            vocabulary: [
+                                { word: "bowerbird", meaning: "ニワシドリ" },
+                                { word: "example", meaning: "例" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 10,
+                        text: "They gather colorful objects to build a structure called a \"bower.\"",
+                        translation: "彼らは「バウアー（あずまや）」と呼ばれる構造物を作るために、色とりどりの物体を集めます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["gather"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>gather</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>colorful objects</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(to build a structure called a \"bower\")</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>彼らは</span> <span class='t-V'>集めます</span> <span class='t-O'>色とりどりの物体を</span> <span class='t-M'>([バウアー]と呼ばれる構造物を作るために)</span>。",
+                            naturalTranslation: "彼らは「バウアー（あずまや）」と呼ばれるものを作るために、色とりどりの物体を集めます。",
+                            vocabulary: [
+                                { word: "gather", meaning: "集める" },
+                                { word: "colorful", meaning: "色彩豊かな" },
+                                { word: "structure", meaning: "構造物" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "to build", explanation: "<b>不定詞の副詞的用法</b>: 目的。" },
+                                { phrase: "called", explanation: "<b>過去分詞の形容詞的用法</b>: structureを修飾。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 11,
+                        text: "This structure looks like a nest.",
+                        translation: "この構造物は巣のように見えます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["looks"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>This structure</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>looks</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(like a nest)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>この構造物は</span> <span class='t-V'>見えます</span> <span class='t-M'>(巣のように)</span>。",
+                            naturalTranslation: "この構造物は巣のように見えます。",
+                            vocabulary: [
+                                { word: "nest", meaning: "巣" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "look like", explanation: "<b>look like + 名詞</b>: 「〜のように見える」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 12,
+                        text: "Other animals perform \"art\" that looks like songs or dances.",
+                        translation: "他の動物は、歌やダンスのように見える「芸術」を演じます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["perform"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Other animals</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>perform</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>\"art\" <span class='modifier'>[that looks like songs or dances]</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>他の動物たちは</span> <span class='t-V'>演じます</span> <span class='t-O'>「芸術」を <span class='t-M'>[歌やダンスのように見える]</span></span>。",
+                            naturalTranslation: "他の動物は、歌やダンスのような「芸術」を行います。",
+                            vocabulary: [
+                                { word: "perform", meaning: "演じる、行う" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "that looks", explanation: "<b>関係代名詞that</b>: artを修飾。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 13,
+                        text: "These animals do not make art for pleasure.",
+                        translation: "これらの動物は、楽しみのために芸術を作るのではありません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["do not make"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>These animals</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>do not make</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>art</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(for pleasure)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>これらの動物は</span> <span class='t-V'>作りません</span> <span class='t-O'>芸術を</span> <span class='t-M'>(楽しみのために)</span>。",
+                            naturalTranslation: "これらの動物は、楽しみのために芸術を作るのではありません。",
+                            vocabulary: [
+                                { word: "pleasure", meaning: "楽しみ、喜び" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 14,
+                        text: "The purpose is to attract a partner.",
+                        translation: "その目的は、パートナーを引きつけるためです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>The purpose</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>to attract a partner</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>その目的は</span> <span class='t-V'>です</span> <span class='t-C'>パートナーを引きつけること</span>。",
+                            naturalTranslation: "その目的は、パートナーを引きつけることです。",
+                            vocabulary: [
+                                { word: "purpose", meaning: "目的" },
+                                { word: "attract", meaning: "引きつける、魅了する" },
+                                { word: "partner", meaning: "パートナー、つがい" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "to attract", explanation: "<b>不定詞の名詞的用法</b>: 補語（C）になっている。「〜すること」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 15,
+                        text: "There is a risk for animals doing this because it can attract attention from dangerous animals.",
+                        translation: "危険な動物からの注意を引いてしまう可能性があるため、これを行う動物にはリスクがあります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is", "can attract"],
+                            structureHtml: "<span class='chunk V-group'><span class='text'>There is</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>a risk</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(for animals doing this)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(because it can attract attention from dangerous animals)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-V'>あります</span> <span class='t-S'>リスクが</span> <span class='t-M'>(これを行う動物にとっての)</span> <span class='t-M'>(なぜならそれが危険な動物の注意を引きうるから)</span>。",
+                            naturalTranslation: "危険な動物の注意を引いてしまう可能性があるため、これを行う動物にはリスクがあります。",
+                            vocabulary: [
+                                { word: "risk", meaning: "危険、リスク" },
+                                { word: "attention", meaning: "注意" },
+                                { word: "dangerous", meaning: "危険な" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "There is", explanation: "<b>There is構文</b>: 「〜がある」。" },
+                                { phrase: "animals doing this", explanation: "<b>現在分詞の形容詞的用法</b>: animalsを修飾。「これを行っている動物」。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 3,
+                sentences: [
+                    {
+                        id: 16,
+                        text: "It is almost always males that perform these behaviors rather than females.",
+                        translation: "これらの行動を行うのは、メスではなくほとんど常にオスです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["perform"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>It is almost always males</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>[that perform these behaviors]</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(rather than females)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>それはほとんど常にオスです</span> <span class='t-V'>[これらの行動を行うのは]</span> <span class='t-M'>(メスよりもむしろ)</span>。",
+                            naturalTranslation: "これらの行動を行うのは、メスではなくほとんど常にオスです。",
+                            vocabulary: [
+                                { word: "behavior", meaning: "行動" },
+                                { word: "rather than", meaning: "〜というよりは、〜ではなく" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "It is ... that ...", explanation: "<b>強調構文</b>: malewsを強調している。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 17,
+                        text: "Instead, the female watches the male perform and decides whether to choose him as a partner.",
+                        translation: "その代わり、メスはオスが演じるのを見て、彼をパートナーとして選ぶかどうかを決めます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["watches", "decides"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Instead)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the female</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>watches</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the male <span class='modifier'>(perform)</span></span><span class='tag'>O</span></span> and <span class='chunk V-group'><span class='text'>decides</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[whether to choose him as a partner]</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(その代わりに)</span>、<span class='t-S'>メスは</span> <span class='t-V'>見ます</span> <span class='t-O'>オスが <span class='t-M'>(演じるのを)</span></span> そして <span class='t-V'>決めます</span> <span class='t-O'>[彼をパートナーとして選ぶかどうかを]</span>。",
+                            naturalTranslation: "代わりに、メスはオスが演じるのを見て、彼をパートナーとして選ぶかどうかを決めます。",
+                            vocabulary: [
+                                { word: "wether", meaning: "〜かどうか" },
+                                { word: "choose", meaning: "選ぶ" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "watch ... perform", explanation: "<b>知覚動詞watch + O + 原形不定詞</b>: 「Oが〜するのを見る」。performは動詞の原形。" },
+                                { phrase: "whether to choose", explanation: "<b>whether to do</b>: 「〜すべきかどうか」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 18,
+                        text: "That is because scientists believe that the quality of a male animal's art or performance is often a good way for the female to select the healthiest male.",
+                        translation: "それは、科学者たちが、オスの動物の芸術やパフォーマンスの質は、メスが最も健康なオスを選ぶための良い方法であることが多いと信じているからです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is", "believe"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>That</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>because scientists believe [that the quality ... is a good way ...]</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>それは</span> <span class='t-V'>です</span> <span class='t-C'>科学者たちが[〜と]信じているから</span>。",
+                            naturalTranslation: "それは、オスの芸術やパフォーマンスの質が、メスにとって最も健康なオスを選ぶ良い手段であると科学者が考えているからです。",
+                            vocabulary: [
+                                { word: "quality", meaning: "質" },
+                                { word: "performance", meaning: "演技、パフォーマンス" },
+                                { word: "select", meaning: "選ぶ" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "That is because ...", explanation: "<b>That is because ...</b>: 「それは〜だからだ」。理由を説明する。" },
+                                { phrase: "way for the female to select", explanation: "<b>for A to do</b>: 不定詞to selectの意味上の主語がthe female。「メスが選ぶための方法」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 19,
+                        text: "Females want to choose healthy males because their babies will be stronger and healthier, too.",
+                        translation: "メスは健康なオスを選びたいと思っています。なぜなら、それによって子供たちもより強く、より健康になるからです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["want"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Females</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>want to choose</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>healthy males</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(because their babies will be stronger and healthier, too)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>メスは</span> <span class='t-V'>選びたいと望みます</span> <span class='t-O'>健康なオスを</span> <span class='t-M'>(なぜらな彼女たちの赤ちゃんもより強く健康的になるから)</span>。",
+                            naturalTranslation: "メスは健康なオスを選びたいと望みます。そうすれば子供たちも丈夫で健康になるからです。",
+                            vocabulary: [
+                                { word: "healthy", meaning: "健康な" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "stronger and healthier", explanation: "<b>比較級</b>: 「より強く、より健康に」。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 4,
+                sentences: [
+                    {
+                        id: 20,
+                        text: "In the case of the puffer fish, scientists still do not really know how females choose the best males.",
+                        translation: "フグの場合、科学者たちはメスがどのようにして最良のオスを選んでいるのか、まだよくわかっていません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["do not know"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(In the case of the puffer fish)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>scientists</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>still do not <span class='modifier'>(really)</span> know</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[how females choose the best males]</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(フグの場合)</span>、<span class='t-S'>科学者たちは</span> <span class='t-V'>まだよくわかりません</span> <span class='t-O'>[どのようにしてメスが最良のオスを選ぶか]を</span>。",
+                            naturalTranslation: "フグの場合、メスがどうやって最良のオスを選んでいるのか、科学者にもまだよく分かっていません。",
+                            vocabulary: [
+                                { word: "still", meaning: "まだ" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "how ... choose", explanation: "<b>間接疑問文</b>: knowの目的語。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 21,
+                        text: "Perhaps they choose the most beautiful circle or the circle on the softest sand.",
+                        translation: "おそらく彼女たちは、最も美しい円や、最も柔らかい砂の上にある円を選んでいるのでしょう。",
+                        grammarAnalysis: {
+                            mainVerbs: ["choose"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Perhaps)</span><span class='tag'>M</span></span> <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>choose</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the most beautiful circle or the circle <span class='modifier'>(on the softest sand)</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(おそらく)</span> <span class='t-S'>彼女たちは</span> <span class='t-V'>選びます</span> <span class='t-O'>最も美しい円、あるいは円を <span class='t-M'>(最も柔らかい砂の上の)</span></span>。",
+                            naturalTranslation: "おそらく、最も美しい円や、一番柔らかい砂の上にある円を選んでいるのでしょう。",
+                            vocabulary: [
+                                { word: "beautiful", meaning: "美しい" },
+                                { word: "soft", meaning: "柔らかい" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "most beautiful", explanation: "<b>最上級</b>: 「最も美しい」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 22,
+                        text: "One idea is that the circles provide ideal conditions for puffer fish eggs to grow.",
+                        translation: "一つの考えは、その円がフグの卵が育つのに理想的な条件を提供しているというものです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>One idea</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>[that the circles provide ideal conditions for puffer fish eggs to grow]</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>一つの考えは</span> <span class='t-V'>です</span> <span class='t-C'>[円が理想的な条件を提供しているというもの]</span>。",
+                            naturalTranslation: "その円がフグの卵の成長に理想的な環境を提供している、という説もあります。",
+                            vocabulary: [
+                                { word: "provide", meaning: "提供する" },
+                                { word: "ideal", meaning: "理想的な" },
+                                { word: "condition", meaning: "条件、環境" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "provide", explanation: "<b>provide</b>: 「与える、提供する」。" },
+                                { phrase: "for ... to grow", explanation: "<b>不定詞の意味上の主語</b>: 「卵が育つための」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 23,
+                        text: "Sadly, the circles do not last long.",
+                        translation: "悲しいことに、その円は長くは続きません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["do not last"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Sadly)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the circles</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>do not last</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(long)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(悲しいことに)</span>、<span class='t-S'>円は</span> <span class='t-V'>続きません</span> <span class='t-M'>(長くは)</span>。",
+                            naturalTranslation: "悲しいことに、その円は長持ちしません。",
+                            vocabulary: [
+                                { word: "sadly", meaning: "悲しいことに" },
+                                { word: "last", meaning: "続く、持続する" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 24,
+                        text: "They always make a new circle each time they look for a partner.",
+                        translation: "彼らはパートナーを探すたびに、いつも新しい円を作ります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["make"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(always)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>make</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a new circle</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(each time they look for a partner)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>彼らは</span> <span class='t-V'>作ります</span> <span class='t-O'>新しい円を</span> <span class='t-M'>(パートナーを探すたびに)</span>。",
+                            naturalTranslation: "彼らはパートナーを探すたびに、毎回新しい円を作ります。",
+                            vocabulary: [
+                                { word: "each time", meaning: "〜するたびに" },
+                                { word: "look for", meaning: "探す" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "each time ...", explanation: "<b>接続詞的用法</b>: 「〜する時はいつでも」。" }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        questions: [
+            {
+                id: 26,
+                text: "Divers who were swimming in Japan found",
+                textTranslation: "日本で泳いでいたダイバーが発見したのは...",
+                keywords: ["Divers", "Japan found"],
+                keywordExplanations: {
+                    "Divers": "第1段落冒頭の登場人物。",
+                    "found": "discovered (発見した) の言い換え。"
+                },
+                keywordMatches: [
+                    { sentenceId: 1, text: "divers ... discovered", keyword: "Divers" },
+                    { sentenceId: 2, text: "saw large circles drawn in the sand", keyword: "Japan found" }
+                ],
+                choiceAdvice: "「魚そのもの」ではなく「円」を見つけたことに注意。",
+                choices: [
+                    { id: 1, text: "a new type of sea creature called a puffer fish.", translation: "フグと呼ばれる新種の海の生物。", isCorrect: false },
+                    { id: 2, text: "strange circle patterns at the bottom of the ocean.", translation: "海底の奇妙な円形の模様。", isCorrect: true, highlight: "strange circle patterns" },
+                    { id: 3, text: "marks in the sand that were made by the motion of seawater.", translation: "海水の動きによって作られた砂の跡。", isCorrect: false },
+                    { id: 4, text: "fish eggs that Japanese scientists had never seen before.", translation: "日本の科学者がこれまで見たこともない魚の卵。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 1,
+                    description: "第1段落。「discovered something unusual」の直後の文に、具体的に何を見たかが書かれています。",
+                    targetSentenceId: 2,
+                    highlightWord: "large circles drawn in the sand",
+                    highlightWordSentenceId: 2
+                },
+                logic: [
+                    { type: "text", content: "本文: \"They saw large circles drawn in the sand\"" },
+                    { type: "arrow", content: "「砂に描かれた大きな円を見た」" },
+                    { type: "text", content: "選択肢2: \"strange circle patterns at the bottom of the ocean\"" },
+                    { type: "conclusion", content: "正解: 2" }
+                ]
+            },
+            {
+                id: 27,
+                text: "Why do some animals make or perform \"art\"?",
+                textTranslation: "なぜ一部の動物は「芸術」を作ったり演じたりするのですか？",
+                keywords: ["Why", "art"],
+                keywordExplanations: {
+                    "Why": "理由を問う問題。purpose (目的) という単語を探す。",
+                    "art": "第2段落の内容。"
+                },
+                keywordMatches: [
+                    { sentenceId: 14, text: "purpose is to attract a partner", keyword: "Why" }
+                ],
+                choiceAdvice: "「楽しむため」ではなく「パートナーを引きつけるため」であるという記述を見つける。",
+                choices: [
+                    { id: 1, text: "To avoid other dangerous animals living nearby.", translation: "近くに住む他の危険な動物を避けるため。", isCorrect: false },
+                    { id: 2, text: "To make other animals interested in becoming their partner.", translation: "他の動物に、パートナーになることに興味を持ってもらうため。", isCorrect: true, highlight: "make other animals interested in becoming their partner" },
+                    { id: 3, text: "They are trying to improve their creative skills.", translation: "創造的なスキルを向上させようとしている。", isCorrect: false },
+                    { id: 4, text: "They enjoy the pleasure of making nests to live in.", translation: "住むための巣作りを楽しんでいる。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 2,
+                    description: "第2段落の終わり。「These animals do not make art for pleasure」の次の文を見てください。",
+                    targetSentenceId: 14,
+                    highlightWord: "The purpose is to attract a partner",
+                    highlightWordSentenceId: 14
+                },
+                logic: [
+                    { type: "text", content: "本文: \"The purpose is to attract a partner.\"" },
+                    { type: "arrow", content: "「目的はパートナーを引きつけること」" },
+                    { type: "text", content: "選択肢2: \"To make other animals interested in becoming their partner.\"" },
+                    { type: "conclusion", content: "正解: 2" }
+                ]
+            },
+            {
+                id: 28,
+                text: "In nature, female animals are usually",
+                textTranslation: "自然界では、メスの動物は通常...",
+                keywords: ["female", "usually"],
+                keywordExplanations: {
+                    "female": "第3段落の役割分担についての記述。"
+                },
+                keywordMatches: [
+                    { sentenceId: 17, text: "the female watches ... and decides", keyword: "female" },
+                    { sentenceId: 19, text: "Females want to choose healthy males", keyword: "female" }
+                ],
+                choiceAdvice: "オスが演じ、メスは「選ぶ側」であるという関係性を理解する。",
+                choices: [
+                    { id: 1, text: "better at creating art than males.", translation: "オスよりも芸術を作るのが上手。", isCorrect: false },
+                    { id: 2, text: "stronger than most other partners they can find.", translation: "彼女たちが見つけられる他のパートナーよりも強い。", isCorrect: false },
+                    { id: 3, text: "the ones who select partners.", translation: "パートナーを選ぶ側である。", isCorrect: true, highlight: "the ones who select partners" },
+                    { id: 4, text: "chosen by stronger and healthier male partners.", translation: "より強く健康なオスのパートナーによって選ばれる。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 3,
+                    description: "第3段落。「decides whether to choose him」や「want to choose healthy males」といった表現に注目。",
+                    targetSentenceId: 17,
+                    highlightWord: "decides whether to choose him",
+                    highlightWordSentenceId: 17
+                },
+                logic: [
+                    { type: "text", content: "本文: \"decides whether to choose him as a partner\" / \"want to choose healthy males\"" },
+                    { type: "arrow", content: "「メスが選択権を持っている」" },
+                    { type: "text", content: "選択肢3: \"the ones who select partners.\"" },
+                    { type: "conclusion", content: "正解: 3" }
+                ]
+            },
+            {
+                id: 29,
+                text: "What is one thing we know for sure about puffer fish circles?",
+                textTranslation: "フグの円について、私たちが確実に知っていることは何ですか？",
+                keywords: ["sure", "puffer fish circles"],
+                keywordExplanations: {
+                    "sure": "推測（Perhaps, One idea）ではなく、事実として述べられていること（alwaysなど）。"
+                },
+                keywordMatches: [
+                    { sentenceId: 24, text: "always make a new circle each time", keyword: "sure" }
+                ],
+                choiceAdvice: "最終段落の最後の一文を確認。使い回しではなく「毎回新しく作る」ことが書かれている。",
+                choices: [
+                    { id: 1, text: "Only one puffer fish egg can fit in a circle.", translation: "一つの円には一つの卵しか入らない。", isCorrect: false },
+                    { id: 2, text: "The newest circles are chosen by the females.", translation: "最も新しい円がメスによって選ばれる。", isCorrect: false },
+                    { id: 3, text: "The circles are always made in the softest sand.", translation: "円は常に最も柔らかい砂の上に作られる。", isCorrect: false },
+                    { id: 4, text: "Males make new circles when trying to find new partners.", translation: "オスは新しいパートナーを探そうとする時、新しい円を作る。", isCorrect: true, highlight: "Males make new circles" }
+                ],
+                hint: {
+                    paragraphId: 4,
+                    description: "第4段落の最後の文。「They always make a new circle each time...」を確認しましょう。",
+                    targetSentenceId: 24,
+                    highlightWord: "always make a new circle each time",
+                    highlightWordSentenceId: 24
+                },
+                logic: [
+                    { type: "text", content: "本文: \"They always make a new circle each time they look for a partner.\"" },
+                    { type: "arrow", content: "「パートナーを探すたびに新しい円を作る」" },
+                    { type: "text", content: "選択肢4: \"Males make new circles when trying to find new partners.\"" },
+                    { type: "conclusion", content: "正解: 4" }
+                ]
+            }
+        ],
+        summaryForInstructors: {
+            title: "Circles in the Sand (砂の円)",
+            intro: "海底のミステリーサークルを作るフグと、動物の求愛行動としての「芸術」をテーマにしたパッセージ。",
+            points: [
+                { label: "1. 芸術家", text: "海底の円はフグのオスが体を使って作ったもので、メスが卵を産むための場所となる。" },
+                { label: "2. 目的", text: "ニワシドリなども含め、動物のアート作成はパートナー（メス）を引きつけ、選んでもらうための手段。" },
+                { label: "3. メスの選択", text: "メスはオスのアートの質を見て、健康的で遺伝的に優れたパートナーかどうかを判断する。" }
+            ]
+        }
+    },
+
+    {
+        id: "pre2-2024-3-4B",
+        grade: "準2級",
+        title: "The Abilities of Trees",
+        subTitle: "2024年度 第3回 大問4B",
+        images: {
+            content: "/images/reading/pre2-2024-3-4B-content.png",
+            question: "/images/reading/pre2-2024-3-4B-question.png"
+        },
+        content: [
+            {
+                paragraphId: 1,
+                sentences: [
+                    {
+                        id: 1,
+                        text: "Like humans, trees have several abilities that are necessary to survive.",
+                        translation: "人間のように、木は生き残るために必要な能力をいくつか持っています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Like humans)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>trees</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>several abilities <span class='modifier'>[that are necessary to survive]</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(人間のように)</span>、<span class='t-S'>木は</span> <span class='t-V'>持っています</span> <span class='t-O'>いくつかの能力を <span class='t-M'>[生き残るために必要な]</span></span>。",
+                            naturalTranslation: "人間と同じように、木は生き残るために必要な能力をいくつか持っています。",
+                            vocabulary: [
+                                { word: "ability", meaning: "能力" },
+                                { word: "necessary", meaning: "必要な" },
+                                { word: "survive", meaning: "生き残る" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "that are necessary", explanation: "<b>関係代名詞that</b>: abilitiesを修飾。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 2,
+                        text: "This includes the ability to have memories.",
+                        translation: "これには記憶を持つ能力が含まれます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["includes"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>This</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>includes</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the ability <span class='modifier'>(to have memories)</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>これ（＝前述の能力）は</span> <span class='t-V'>含みます</span> <span class='t-O'>能力を <span class='t-M'>(記憶を持つ)</span></span>。",
+                            naturalTranslation: "これには記憶を持つ能力が含まれます。",
+                            vocabulary: [
+                                { word: "include", meaning: "含む" },
+                                { word: "memory", meaning: "記憶" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "to have memories", explanation: "<b>不定詞の形容詞的用法</b>: abilityを修飾。「記憶を持つ能力」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 3,
+                        text: "Humans have brains for memories, but trees do not.",
+                        translation: "人間は記憶のために脳を持っていますが、木は持っていません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have", "do"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Humans</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>brains</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(for memories)</span><span class='tag'>M</span></span>, but <span class='chunk S-group'><span class='text'>trees</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>do not</span><span class='tag'>V</span></span>.",
+                            translationHtml: "<span class='t-S'>人間は</span> <span class='t-V'>持っています</span> <span class='t-O'>脳を</span> <span class='t-M'>(記憶のために)</span>、しかし <span class='t-S'>木は</span> <span class='t-V'>持っていません</span>。",
+                            naturalTranslation: "人間は記憶するための脳を持っていますが、木は持っていません。",
+                            vocabulary: [
+                                { word: "brain", meaning: "脳" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "do not", explanation: "<b>省略</b>: do not have brains の省略形。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 4,
+                        text: "However, they can remember some events related to surviving.",
+                        translation: "しかし、彼らは生き残ることに関連するいくつかの出来事を覚えていることができます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["can remember"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can remember</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>some events <span class='modifier'>(related to surviving)</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(しかし)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>覚えていることができます</span> <span class='t-O'>いくつかの出来事を <span class='t-M'>(生き残ることに関連した)</span></span>。",
+                            naturalTranslation: "しかし、木は生き残ることに関連したいくつかの出来事を記憶できます。",
+                            vocabulary: [
+                                { word: "event", meaning: "出来事" },
+                                { word: "related to", meaning: "〜に関連した" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "related to", explanation: "<b>過去分詞の形容詞的用法</b>: eventsを修飾。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 5,
+                        text: "For example, some research shows that trees can remember long and hard times with little rain or situations caused by insects harmful to the trees.",
+                        translation: "例えば、ある研究によると、木は雨がほとんど降らない長く厳しい時期や、木に害を与える昆虫によって引き起こされる状況を覚えていることができるとしています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["shows"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(For example)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>some research</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>shows</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[that trees can remember long and hard times... or situations...]</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(例えば)</span>、<span class='t-S'>ある研究は</span> <span class='t-V'>示しています</span> <span class='t-O'>[木が長く厳しい時期、あるいは状況を記憶できること]を</span>。",
+                            naturalTranslation: "例えばある研究は、木が雨の少ない厳しい時期や、害虫による被害状況を記憶できることを示しています。",
+                            vocabulary: [
+                                { word: "research", meaning: "研究" },
+                                { word: "with little rain", meaning: "雨がほとんどない" },
+                                { word: "harmful", meaning: "有害な" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "remember ... times ... or situations ...", explanation: "<b>目的語の並列</b>: times と situations がorで結ばれている。" },
+                                { phrase: "caused by", explanation: "<b>過去分詞の形容詞的用法</b>: situationsを修飾。「〜によって引き起こされた状況」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 6,
+                        text: "Then, they can use these memories to survive the next time something similar happens.",
+                        translation: "そして、次に似たようなことが起きた時に、生き残るためにこれらの記憶を使うことができます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["can use"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Then)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can use</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>these memories</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(to survive)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(the next time [something similar happens])</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(それから)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>使えます</span> <span class='t-O'>これらの記憶を</span> <span class='t-M'>(生き残るために)</span> <span class='t-M'>(次回 [似たようなことが起きるとき])</span>。",
+                            naturalTranslation: "そして、次に似たようなことが起きた際、生き残るためにこれらの記憶を使うことができます。",
+                            vocabulary: [
+                                { word: "similar", meaning: "似ている" },
+                                { word: "happen", meaning: "起きる" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "the next time ...", explanation: "<b>接続詞的に働く名詞句</b>: 「次回〜する時」。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 2,
+                sentences: [
+                    {
+                        id: 7,
+                        text: "It is also believed that trees can feel a touch.",
+                        translation: "木は触覚を感じることができるとも信じられています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is believed"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>It</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is <span class='modifier'>(also)</span> believed</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>[that trees can feel a touch]</span><span class='tag'>S</span></span>.",
+                            translationHtml: "<span class='t-S'>それは</span> <span class='t-V'>信じられています</span> <span class='t-S'>[木が接触を感じることができると]</span>。",
+                            naturalTranslation: "木は接触を感じることができるとも信じられています。",
+                            vocabulary: [
+                                { word: "believe", meaning: "信じる" },
+                                { word: "touch", meaning: "接触、触れること" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "It is believed that...", explanation: "<b>仮主語構文</b>: Itは形式主語。that節が真の主語。「〜であると信じられている」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 8,
+                        text: "For example, some trees react to the touch of an object, such as human hands.",
+                        translation: "例えば、人間の手のような物体の接触に反応する木もあります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["react"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(For example)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>some trees</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>react</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(to the touch of an object, such as human hands)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(例えば)</span>、<span class='t-S'>いくつかの木は</span> <span class='t-V'>反応します</span> <span class='t-M'>(物体の接触に、人間の手のような)</span>。",
+                            naturalTranslation: "例えば、人間の手などの物体が触れると反応する木もあります。",
+                            vocabulary: [
+                                { word: "react to", meaning: "〜に反応する" },
+                                { word: "object", meaning: "物体" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "such as", explanation: "<b>such as</b>: 「〜のような」。objectの具体例。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 9,
+                        text: "Even the light touch of a human finger on their leaves can affect their growth.",
+                        translation: "人間の指が葉に軽く触れるだけでも、成長に影響を与えることがあります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["can affect"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Even the light touch <span class='modifier'>(of a human finger on their leaves)</span></span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can affect</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>their growth</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>軽い接触でさえも <span class='t-M'>(人間の指の、葉への)</span></span> <span class='t-V'>影響を与え得ます</span> <span class='t-O'>それらの成長に</span>。",
+                            naturalTranslation: "人間の指が葉に軽く触れるだけでも、木の成長に影響を与えることがあります。",
+                            vocabulary: [
+                                { word: "affect", meaning: "影響を与える" },
+                                { word: "growth", meaning: "成長" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "Even", explanation: "<b>Even</b>: 「〜でさえ」。強調。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 10,
+                        text: "In addition, some studies point out that trees react to sound, too.",
+                        translation: "さらに、木は音にも反応すると指摘する研究もあります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["point out"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(In addition)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>some studies</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>point out</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[that trees react to sound, too]</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(さらに)</span>、<span class='t-S'>いくつかの研究は</span> <span class='t-V'>指摘しています</span> <span class='t-O'>[木が音にも反応することを]</span>。",
+                            naturalTranslation: "さらに、木は音にも反応すると指摘する研究もあります。",
+                            vocabulary: [
+                                { word: "point out", meaning: "指摘する" },
+                                { word: "sound", meaning: "音" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "react to", explanation: "<b>react to</b>: 「〜に反応する」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 11,
+                        text: "Sound creates air vibrations, a kind of shaking of the air, and trees can sense these vibrations of human voices or music.",
+                        translation: "音は空気の振動、つまり空気の揺れのようなものを作り出し、木は人間の声や音楽のこれらの振動を感じ取ることができます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["creates", "can sense"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Sound</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>creates</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>air vibrations <span class='modifier'>(, a kind of shaking of the air)</span></span><span class='tag'>O</span></span>, and <span class='chunk S-group'><span class='text'>trees</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can sense</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>these vibrations <span class='modifier'>(of human voices or music)</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>音は</span> <span class='t-V'>作り出します</span> <span class='t-O'>空気の振動を <span class='t-M'>(空気の揺れの一種である)</span></span>、そして <span class='t-S'>木は</span> <span class='t-V'>感じ取れます</span> <span class='t-O'>これらの振動を <span class='t-M'>(人間の声や音楽の)</span></span>。",
+                            naturalTranslation: "音は空気の揺れの一種である空気振動を作り出し、木は人間の声や音楽によるこれらの振動を感じ取ることができます。",
+                            vocabulary: [
+                                { word: "vibration", meaning: "振動" },
+                                { word: "shake", meaning: "揺れる（shaking: 揺れ）" },
+                                { word: "scan", meaning: "（ここはsense）感じる" }, // senseですね
+                                { word: "sense", meaning: "感じる、感知する" }
+                            ],
+                            grammarNotes: [
+                                { phrase: ", a kind of ...", explanation: "<b>同格</b>: air vibrationsを説明している。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 12,
+                        text: "This could lead to changes in tree growth.",
+                        translation: "これは木の成長の変化につながる可能性があります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["could lead"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>This</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>could lead</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(to changes in tree growth)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>これは</span> <span class='t-V'>つながる可能性があります</span> <span class='t-M'>(木の成長の変化に)</span>。",
+                            naturalTranslation: "これは木の成長の変化につながる可能性があります。",
+                            vocabulary: [
+                                { word: "lead to", meaning: "〜につながる、もたらす" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "could", explanation: "<b>可能性のcould</b>: 「〜かもしれない」。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 3,
+                sentences: [
+                    {
+                        id: 13,
+                        text: "Another surprising ability that trees have is that they can sense each other.",
+                        translation: "木が持つもう一つの驚くべき能力は、お互いを感じ取ることができるということです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Another surprising ability <span class='modifier'>[that trees have]</span></span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>[that they can sense each other]</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>もう一つの驚くべき能力は <span class='t-M'>[木が持っている]</span></span> <span class='t-V'>です</span> <span class='t-C'>[彼らがお互いを感じ取れるということ]</span>。",
+                            naturalTranslation: "木が持つもう一つの驚くべき能力は、お互いを感じ取ることができるということです。",
+                            vocabulary: [
+                                { word: "each other", meaning: "お互い" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "ability that trees have", explanation: "<b>関係代名詞that(目的格)</b>: abilityを修飾。" },
+                                { phrase: "is that ...", explanation: "<b>補語のthat節</b>: 「（事実は）〜ということだ」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 14,
+                        text: "Perhaps people may have wondered why trees in the forest or small backyards somehow grow without touching each other too much.",
+                        translation: "おそらく人々は、森や小さな裏庭の木が、なぜかお互いにあまり触れ合わずに成長するのか不思議に思ったことがあるかもしれません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["may have wondered"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Perhaps)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>people</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>may have wondered</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[why trees ... somehow grow without touching ...]</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(おそらく)</span>、<span class='t-S'>人々は</span> <span class='t-V'>不思議に思ったかもしれません</span> <span class='t-O'>[なぜ木が...お互いに触れすぎずに成長するのか]を</span>。",
+                            naturalTranslation: "おそらく人々は、森や裏庭の木が、なぜお互いに触れ合うことなく成長するのか不思議に思ったことがあるでしょう。",
+                            vocabulary: [
+                                { word: "wonder", meaning: "不思議に思う" },
+                                { word: "backyard", meaning: "裏庭" },
+                                { word: "somehow", meaning: "どういうわけか、なんとなく" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "may have wondered", explanation: "<b>may have + 過去分詞</b>: 「〜したかもしれない（過去の推量）」。" },
+                                { phrase: "why trees ... grow", explanation: "<b>間接疑問文</b>: wonderの目的語。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 15,
+                        text: "This indicates that each leaf on a tree can sense the other trees.",
+                        translation: "これは、木の上のそれぞれの葉が他の木を感じ取ることができることを示しています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["indicates"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>This</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>indicates</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[that each leaf on a tree can sense the other trees]</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>これは</span> <span class='t-V'>示しています</span> <span class='t-O'>[それぞれの葉が他の木を感じ取れること]を</span>。",
+                            naturalTranslation: "これは、木の一つ一つの葉が他の木を感知できることを示しています。",
+                            vocabulary: [
+                                { word: "indicate", meaning: "示す、指摘する" },
+                                { word: "leaf", meaning: "葉" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "each leaf", explanation: "<b>each + 単数名詞</b>: 「それぞれの葉」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 16,
+                        text: "They try to avoid other trees or leaves as they grow.",
+                        translation: "彼らは成長するにつれて、他の木や葉を避けようとします。",
+                        grammarAnalysis: {
+                            mainVerbs: ["try"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>try</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to avoid other trees or leaves</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(as they grow)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>彼らは</span> <span class='t-V'>試みます</span> <span class='t-O'>他の木や葉を避けることを</span> <span class='t-M'>(成長するにつれて)</span>。",
+                            naturalTranslation: "それらは成長するにつれ、他の木や葉を避けようとします。",
+                            vocabulary: [
+                                { word: "avoid", meaning: "避ける" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "try to avoid", explanation: "<b>try to do</b>: 「〜しようとする」。" },
+                                { phrase: "as they grow", explanation: "<b>接続詞as</b>: 「〜するにつれて」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 17,
+                        text: "With this ability, they do not harm each other.",
+                        translation: "この能力によって、彼らはお互いを傷つけません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["do not harm"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(With this ability)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>do not harm</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>each other</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(この能力によって)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>傷つけません</span> <span class='t-O'>お互いを</span>。",
+                            naturalTranslation: "この能力によって、彼らはお互いを傷つけることはありません。",
+                            vocabulary: [
+                                { word: "harm", meaning: "害を与える、傷つける" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "With ...", explanation: "<b>手段・原因のwith</b>: 「〜のおかげで」「〜を使って」。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 4,
+                sentences: [
+                    {
+                        id: 18,
+                        text: "Generally, we tend to think that plants do not have these abilities.",
+                        translation: "一般的に、私たちは植物にはこれらの能力がないと考えがちです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["tend"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Generally)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>we</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>tend to think</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[that plants do not have these abilities]</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(一般的に)</span>、<span class='t-S'>私たちは</span> <span class='t-V'>考える傾向があります</span> <span class='t-O'>[植物はこれらの能力を持っていないと]</span>。",
+                            naturalTranslation: "一般的に、私たちは植物にはこのような能力はないと考えがちです。",
+                            vocabulary: [
+                                { word: "generally", meaning: "一般的に" },
+                                { word: "tend to", meaning: "〜する傾向がある" },
+                                { word: "plant", meaning: "植物" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "tend to think", explanation: "<b>tend to do</b>: 「〜する傾向がある」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 19,
+                        text: "However, now surprising abilities of trees have been found out.",
+                        translation: "しかし、今では木の驚くべき能力が発見されています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have been found out"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(now)</span><span class='tag'>M</span></span> <span class='chunk S-group'><span class='text'>surprising abilities of trees</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have been found out</span><span class='tag'>V</span></span>.",
+                            translationHtml: "<span class='t-M'>(しかし)</span>、<span class='t-M'>(今や)</span> <span class='t-S'>木の驚くべき能力が</span> <span class='t-V'>発見されています</span>。",
+                            naturalTranslation: "しかし今、木の驚くべき能力が明らかになってきています。",
+                            vocabulary: [
+                                { word: "surprising", meaning: "驚くべき" },
+                                { word: "find out", meaning: "発見する、解明する" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "have been found out", explanation: "<b>現在完了受動態</b>: 「発見されている」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 20,
+                        text: "More research will be done in the future to examine how intelligent trees are, what kinds of parts are related to each ability, and so on.",
+                        translation: "将来、木がどれほど知的か、どのような部分が各能力に関連しているかなどを調べるために、さらなる研究が行われるでしょう。",
+                        grammarAnalysis: {
+                            mainVerbs: ["will be done"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>More research</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>will be done</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(in the future)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(to examine [how intelligent trees are], [what kinds of parts...], and so on)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>さらなる研究が</span> <span class='t-V'>行われるでしょう</span> <span class='t-M'>(将来)</span> <span class='t-M'>(〜を調査するために)</span>。",
+                            naturalTranslation: "木がどれほど知的か、どのような部分が各能力に関係しているかなどを調べるために、今後さらなる研究が行われるでしょう。",
+                            vocabulary: [
+                                { word: "examine", meaning: "調査する" },
+                                { word: "intelligent", meaning: "知的な、賢い" },
+                                { word: "and so on", meaning: "〜など" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "to examine", explanation: "<b>不定詞の副詞的用法</b>: 目的を表す。「調査するために」。" },
+                                { phrase: "how intelligent trees are", explanation: "<b>間接疑問文</b>: examineの目的語その1。" },
+                                { phrase: "what kinds of parts...", explanation: "<b>間接疑問文</b>: examineの目的語その2。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 21,
+                        text: "For a long time, trees have learned various abilities to adapt to their growing environment.",
+                        translation: "長い間、木は生育環境に適応するために様々な能力を学んできました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have learned"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(For a long time)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>trees</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have learned</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>various abilities</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(to adapt to their growing environment)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(長い間)</span>、<span class='t-S'>木は</span> <span class='t-V'>学んできました</span> <span class='t-O'>様々な能力を</span> <span class='t-M'>(生育環境に適応するために)</span>。",
+                            naturalTranslation: "長い間、木は生育環境に適応するために様々な能力を身につけてきました。",
+                            vocabulary: [
+                                { word: "various", meaning: "様々な" },
+                                { word: "adapt to", meaning: "〜に適応する" },
+                                { word: "environment", meaning: "環境" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "have learned", explanation: "<b>現在完了形</b>: 継続を表す。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 22,
+                        text: "Like trees, humans may have to change the way they live to adapt to the changing global environment.",
+                        translation: "木のように、人間も変化する地球環境に適応するために生き方を変えなければならないかもしれません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["may have to change"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Like trees)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>humans</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>may have to change</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the way <span class='modifier'>[they live]</span></span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(to adapt to the changing global environment)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(木のように)</span>、<span class='t-S'>人間は</span> <span class='t-V'>変えなければならないかもしれません</span> <span class='t-O'>方法を <span class='t-M'>[生きる]</span></span> <span class='t-M'>(変化する地球環境に適応するために)</span>。",
+                            naturalTranslation: "木と同じように、人間も変化する地球環境に適応するために生き方を変えなければならないかもしれません。",
+                            vocabulary: [
+                                { word: "global", meaning: "地球の、世界的な" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "may have to", explanation: "<b>助動詞</b>: 「〜しなければならないかもしれない」。" }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        questions: [
+            {
+                id: 26,
+                text: "According to some research, trees can",
+                textTranslation: "ある研究によると、木は〜できると言われています。",
+                keywords: ["research", "trees can"],
+                keywordExplanations: {
+                    "research": "第1段落の 'some research shows' に続く内容を確認。",
+                    "trees can": "木の能力について述べている箇所を探す。"
+                },
+                keywordMatches: [
+                    { sentenceId: 5, text: "trees can remember", keyword: "trees can" },
+                    { sentenceId: 6, text: "use these memories to survive", keyword: "trees can" }
+                ],
+                choiceAdvice: "選択肢の内容（remember, keep, grow, learn）と本文の記述（remember long and hard times）を照らし合わせる。",
+                choices: [
+                    { id: 1, text: "remember everything that is happening around them.", translation: "周囲で起きているすべてのことを記憶することができる。", isCorrect: false },
+                    { id: 2, text: "keep their memories to survive in tough situations.", translation: "厳しい状況で生き残るために記憶を保持することができる。", isCorrect: true, highlight: "keep their memories to survive" },
+                    { id: 3, text: "grow to keep insects safe from harmful animals.", translation: "有害な動物から昆虫を守るために成長する。", isCorrect: false },
+                    { id: 4, text: "learn to survive for a long time, even with no rain.", translation: "雨が全くなくても長期間生き残ることを学ぶ。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 1,
+                    description: "第1段落の後半。「use these memories to survive」という内容と一致する選択肢を選びましょう。",
+                    targetSentenceId: 6,
+                    highlightWord: "use these memories to survive",
+                    highlightWordSentenceId: 6
+                },
+                logic: [
+                    { type: "text", content: "本文: \"trees can remember long and hard times ... use these memories to survive\"" },
+                    { type: "arrow", content: "「厳しい時期を記憶し、生き残るためにその記憶を使う」" },
+                    { type: "text", content: "選択肢2: \"keep their memories to survive in tough situations.\"" },
+                    { type: "conclusion", content: "正解: 2" }
+                ]
+            },
+            {
+                id: 27,
+                text: "Trees can feel human voices or music because",
+                textTranslation: "木は人間の声や音楽を感じることができます、なぜなら〜",
+                keywords: ["human voices", "music", "because"],
+                keywordExplanations: {
+                    "human voices or music": "第2段落後半のキーワード。音との関連を探す。"
+                },
+                keywordMatches: [
+                    { sentenceId: 11, text: "sense these vibrations of human voices or music", keyword: "human voices" }
+                ],
+                choiceAdvice: "「音＝振動」という説明が本文にある点に注目。",
+                choices: [
+                    { id: 1, text: "human voices are too loud for them.", translation: "人間の声は彼らにとって大きすぎるから。", isCorrect: false },
+                    { id: 2, text: "voices or music have a relaxing effect on them.", translation: "声や音楽は彼らにリラックス効果を与えるから。", isCorrect: false },
+                    { id: 3, text: "they have some parts to listen to the sounds.", translation: "彼らは音を聞くための器官を持っているから。", isCorrect: false },
+                    { id: 4, text: "they sense the vibrations produced by humans.", translation: "彼らは人間によって生み出される振動を感じ取るから。", isCorrect: true, highlight: "sense the vibrations" }
+                ],
+                hint: {
+                    paragraphId: 2,
+                    description: "第2段落。「Sound creates air vibrations」とあり、木がそれを感知するという記述を探す。",
+                    targetSentenceId: 11,
+                    highlightWord: "sense these vibrations",
+                    highlightWordSentenceId: 11
+                },
+                logic: [
+                    { type: "text", content: "本文: \"trees can sense these vibrations of human voices or music\"" },
+                    { type: "arrow", content: "「木は人間の声や音楽の振動を感知できる」" },
+                    { type: "text", content: "選択肢4: \"sense the vibrations produced by humans\"" },
+                    { type: "conclusion", content: "正解: 4" }
+                ]
+            },
+            {
+                id: 28,
+                text: "Why do the trees in the forest not touch each other too much?",
+                textTranslation: "なぜ森の木々はお互いにあまり触れ合わないのですか？",
+                keywords: ["not touch each other", "Why"],
+                keywordExplanations: {
+                    "not touch each other": "第3段落の現象。Crown shyness（樹冠の遠慮）として知られる現象の説明を探す。"
+                },
+                keywordMatches: [
+                    { sentenceId: 14, text: "grow without touching each other", keyword: "not touch each other" },
+                    { sentenceId: 15, text: "can sense the other trees", keyword: "Why" }
+                ],
+                choiceAdvice: "「お互いを感じ取れるから」避けている、という因果関係をつかむ。",
+                choices: [
+                    { id: 1, text: "Some animals help them grow without touching.", translation: "動物たちが触れ合わずに成長するのを助けている。", isCorrect: false },
+                    { id: 2, text: "Some harmful things are released when they touch.", translation: "触れると有害な物質が放出される。", isCorrect: false },
+                    { id: 3, text: "They can feel the other trees or leaves.", translation: "彼らは他の木や葉を感じることができる。", isCorrect: true, highlight: "feel the other trees" },
+                    { id: 4, text: "They try to avoid getting diseases from other trees.", translation: "他の木から病気をもらうのを避けようとしている。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 3,
+                    description: "第3段落。「each leaf on a tree can sense the other trees」という文が理由になっています。",
+                    targetSentenceId: 15,
+                    highlightWord: "can sense the other trees",
+                    highlightWordSentenceId: 15
+                },
+                logic: [
+                    { type: "text", content: "本文: \"each leaf on a tree can sense the other trees. They try to avoid other trees\"" },
+                    { type: "arrow", content: "「他の木を感じ取れるため、避けようとする」" },
+                    { type: "text", content: "選択肢3: \"They can feel the other trees or leaves.\"" },
+                    { type: "conclusion", content: "正解: 3" }
+                ]
+            },
+            {
+                id: 29,
+                text: "What kind of research will be done on trees in the future?",
+                textTranslation: "将来、木についてどのような研究が行われるでしょうか？",
+                keywords: ["research", "future"],
+                keywordExplanations: {
+                    "future": "第4段落の 'More research will be done in the future' 以降の内容。"
+                },
+                keywordMatches: [
+                    { sentenceId: 20, text: "what kinds of parts are related to each ability", keyword: "research" }
+                ],
+                choiceAdvice: "文中で列挙されている研究テーマ（intelligent, parts related to ability）と一致するものを選ぶ。",
+                choices: [
+                    { id: 1, text: "Research about the connection between parts of plants and their abilities.", translation: "植物の部位とその能力との関連についての研究。", isCorrect: true, highlight: "connection between parts ... and their abilities" },
+                    { id: 2, text: "Research about how hard the changing global environment is.", translation: "変化する地球環境がいかに過酷かについての研究。", isCorrect: false },
+                    { id: 3, text: "Research about the person who found their abilities.", translation: "その能力を発見した人物についての研究。", isCorrect: false },
+                    { id: 4, text: "Research about the area where trees grow.", translation: "木が生育する地域についての研究。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 4,
+                    description: "第4段落。「what kinds of parts are related to each ability」という箇所を探してください。",
+                    targetSentenceId: 20,
+                    highlightWord: "what kinds of parts are related to each ability",
+                    highlightWordSentenceId: 20
+                },
+                logic: [
+                    { type: "text", content: "本文: \"examine ... what kinds of parts are related to each ability\"" },
+                    { type: "arrow", content: "「どのような部位が各能力に関連しているかを調べる」" },
+                    { type: "text", content: "選択肢1: \"Research about the connection between parts of plants and their abilities.\"" },
+                    { type: "conclusion", content: "正解: 1" }
+                ]
+            }
+        ],
+        summaryForInstructors: {
+            title: "The Abilities of Trees (木の能力)",
+            intro: "木が持つ驚くべき能力（記憶、触覚、聴覚、他個体感知）についての科学的発見を解説したパッセージ。",
+            points: [
+                { label: "1. 記憶する能力", text: "木は脳を持たないが、過去の厳しい環境（干ばつや害虫被害）を記憶し、次の生存に役立てる。" },
+                { label: "2. 感じる能力", text: "触覚や振動（音）を感じ取ることができ、それが成長に影響を与えることもある。" },
+                { label: "3. 譲り合う能力", text: "隣り合う木や葉を感知し、お互いに触れすぎないように成長する（クラウン・シャイネス現象）。" }
+            ]
+        }
+    },
+
+    {
+        id: "pre2-2025-1-4B",
+        grade: "準2級",
+        title: "A Unique Italian Village",
+        subTitle: "2025年度 第1回 大問4B",
+        images: {
+            content: "/images/reading/pre2-2025-1-4B-content.png",
+            question: "/images/reading/pre2-2025-1-4B-question.png"
+        },
+        content: [
+            {
+                paragraphId: 1,
+                sentences: [
+                    {
+                        id: 1,
+                        text: "There is a village called Chamois in the north of Italy.",
+                        translation: "イタリア北部にシャモアと呼ばれる村があります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk V-group'><span class='text'>There is</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>a village <span class='modifier'>(called Chamois)</span></span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(in the north of Italy)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-V'>あります</span> <span class='t-S'>村が <span class='t-M'>(シャモアと呼ばれる)</span></span> <span class='t-M'>(イタリア北部に)</span>。",
+                            naturalTranslation: "イタリア北部にシャモアと呼ばれる村があります。",
+                            vocabulary: [
+                                { word: "village", meaning: "村" },
+                                { word: "called", meaning: "〜と呼ばれる（過去分詞）" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "There is", explanation: "<b>There is/are構文</b>: 「〜がある」。存在を表す。" },
+                                { phrase: "called Chamois", explanation: "<b>過去分詞の形容詞的用法</b>: villageを後ろから修飾。「シャモアと呼ばれる村」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 2,
+                        text: "It is known as the only village in the country that people cannot get to by car.",
+                        translation: "それは車で行くことができない国内唯一の村として知られています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is known"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>It</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is known</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(as the only village in the country [that people cannot get to by car])</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>それは</span> <span class='t-V'>知られています</span> <span class='t-M'>(国内唯一の村として [人々が車で行くことのできない])</span>。",
+                            naturalTranslation: "それは車で行くことができない国内唯一の村として知られています。",
+                            vocabulary: [
+                                { word: "be known as", meaning: "〜として知られている" },
+                                { word: "get to", meaning: "〜に着く、行く" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "is known as", explanation: "<b>be known as</b>: 「〜として知られている」。" },
+                                { phrase: "that people cannot get to", explanation: "<b>関係代名詞that</b>: villageを修飾。「人々がたどり着けない村」。by car（車で）が続く。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 3,
+                        text: "Because it is surrounded by mountains, many tourists who love nature visit this village all year round.",
+                        translation: "山々に囲まれているため、自然を愛する多くの観光客が一年中この村を訪れます。",
+                        grammarAnalysis: {
+                            mainVerbs: ["visit"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Because it is surrounded by mountains)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>many tourists <span class='modifier'>[who love nature]</span></span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>visit</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>this village</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(all year round)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(山々に囲まれているため)</span>、<span class='t-S'>多くの観光客は <span class='t-M'>[自然を愛する]</span></span> <span class='t-V'>訪れます</span> <span class='t-O'>この村を</span> <span class='t-M'>(一年中)</span>。",
+                            naturalTranslation: "山々に囲まれているため、自然を愛する多くの観光客が一年中この村を訪れます。",
+                            vocabulary: [
+                                { word: "surround", meaning: "囲む" },
+                                { word: "tourist", meaning: "観光客" },
+                                { word: "all year round", meaning: "一年中" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "is surrounded by", explanation: "<b>受動態</b>: 「〜によって囲まれている」。" },
+                                { phrase: "who love nature", explanation: "<b>関係代名詞who</b>: touristsを修飾。「自然を愛する観光客」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 4,
+                        text: "However, only about one hundred people live there.",
+                        translation: "しかし、そこには約100人しか住んでいません。",
+                        grammarAnalysis: {
+                            mainVerbs: ["live"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>only about one hundred people</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>live</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(there)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(しかし)</span>、<span class='t-S'>約100人の人々だけが</span> <span class='t-V'>住んでいます</span> <span class='t-M'>(そこに)</span>。",
+                            naturalTranslation: "しかし、そこには約100人しか住んでいません。",
+                            vocabulary: [
+                                { word: "however", meaning: "しかし" },
+                                { word: "only", meaning: "〜だけ、ほんの" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 5,
+                        text: "In fact, throughout the history of the village, only a small number of people have lived there at any time.",
+                        translation: "実際、村の歴史を通じて、いつの時代も少数の人々しかそこには住んでいませんでした。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have lived"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(In fact)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(throughout the history of the village)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>only a small number of people</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have lived</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(there)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(at any time)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(実際)</span>、<span class='t-M'>(村の歴史を通じて)</span>、<span class='t-S'>少数の人々だけが</span> <span class='t-V'>住んでいました（住み続けてきた）</span> <span class='t-M'>(そこに)</span> <span class='t-M'>(どんな時も)</span>。",
+                            naturalTranslation: "実際、村の歴史を通じて、いつの時代も少数の人々しかそこには住んでいませんでした。",
+                            vocabulary: [
+                                { word: "throughout", meaning: "〜の間中ずっと、〜の至る所に" },
+                                { word: "a small number of", meaning: "少数の" },
+                                { word: "at any time", meaning: "どんな時も、いつでも" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "have lived", explanation: "<b>現在完了形</b>: 過去から現在まで継続して「住んでいる」。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 2,
+                sentences: [
+                    {
+                        id: 6,
+                        text: "The ways to get to the village have been limited for a long time.",
+                        translation: "村へ行く方法は長い間限られていました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["have been limited"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>The ways <span class='modifier'>(to get to the village)</span></span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have been limited</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(for a long time)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>方法 <span class='t-M'>(村へ行くための)</span></span> <span class='t-V'>限られていました</span> <span class='t-M'>(長い間)</span>。",
+                            naturalTranslation: "村へ行く方法は長い間限られていました。",
+                            vocabulary: [
+                                { word: "way", meaning: "方法、道" },
+                                { word: "limit", meaning: "制限する" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "to get to the village", explanation: "<b>不定詞の形容詞的用法</b>: waysを修飾。「村へ行くための方法」。" },
+                                { phrase: "have been limited", explanation: "<b>現在完了受動態</b>: 「制限されてきた」。過去からずっと限られている。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 7,
+                        text: "As Italy's economy improved in the early 1960s, the country's road system also got better.",
+                        translation: "1960年代初頭にイタリアの経済が改善するにつれて、国の道路網も良くなりました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["improved", "got"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(As Italy's economy improved in the early 1960s)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the country's road system</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(also)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>got</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>better</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-M'>(1960年代初頭にイタリアの経済が改善するにつれて)</span>、<span class='t-S'>国の道路網も</span> <span class='t-V'>なりました</span> <span class='t-C'>より良く</span>。",
+                            naturalTranslation: "1960年代初頭にイタリアの経済が改善するにつれて、国の道路網も良くなりました。",
+                            vocabulary: [
+                                { word: "economy", meaning: "経済" },
+                                { word: "improve", meaning: "改善する、良くなる" },
+                                { word: "road system", meaning: "道路網" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "As ... improved", explanation: "<b>接続詞As</b>: 「〜するにつれて」。比例を表す。" },
+                                { phrase: "got better", explanation: "<b>get + 形容詞比較級</b>: 「〜になる」。状態の変化を表す。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 8,
+                        text: "At that time, Chamois was connected with other areas by roads that people went through only by bicycle or on foot.",
+                        translation: "当時、シャモアは人々が自転車か徒歩でしか通れない道によって他の地域とつながっていました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["was connected"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(At that time)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>Chamois</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was connected</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(with other areas)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(by roads [that people went through only by bicycle or on foot])</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(当時)</span>、<span class='t-S'>シャモアは</span> <span class='t-V'>つながっていました</span> <span class='t-M'>(他の地域と)</span> <span class='t-M'>(道によって [人々が自転車か徒歩でしか通れない])</span>。",
+                            naturalTranslation: "当時、シャモアは人々が自転車か徒歩でしか通れない道によって他の地域とつながっていました。",
+                            vocabulary: [
+                                { word: "connect", meaning: "つなぐ" },
+                                { word: "go through", meaning: "通り抜ける、通る" },
+                                { word: "on foot", meaning: "徒歩で" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "was connected with", explanation: "<b>受動態</b>: 「〜とつながっていた」。" },
+                                { phrase: "roads that people went through", explanation: "<b>関係代名詞that</b>: roadsを修飾。「人々が通る道」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 9,
+                        text: "With the better road system in the country, the village people were asked if they wanted to build new roads for cars.",
+                        translation: "国の道路網が良くなるにつれ、村の人々は車のための新しい道路を作りたいかどうか尋ねられました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["were asked"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(With the better road system in the country)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the village people</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were asked</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[if they wanted to build new roads for cars]</span><span class='tag'>O(保留受動態のため実質O)</span></span>.",
+                            translationHtml: "<span class='t-M'>(国の道路網の改善とともに)</span>、<span class='t-S'>村の人々は</span> <span class='t-V'>尋ねられました</span> <span class='t-O'>[車のための新しい道路を作りたいかどうか]</span>。",
+                            naturalTranslation: "国の道路網が良くなるにつれ、村の人々は車のための新しい道路を作りたいかどうか尋ねられました。",
+                            vocabulary: [
+                                { word: "build", meaning: "建設する、作る" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "With ...", explanation: "<b>With (付帯状況・理由)</b>: 「〜があったので」「〜とともに」。" },
+                                { phrase: "were asked if", explanation: "<b>ask O if (Oに〜かどうか尋ねる) の受動態</b>: 「〜かどうか尋ねられた」。if節が続く。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 10,
+                        text: "Yet, roads were never built because most of the local people were against the idea.",
+                        translation: "しかし、地元の人々のほとんどがその考えに反対したため、道路が建設されることはありませんでした。",
+                        grammarAnalysis: {
+                            mainVerbs: ["were built", "were"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Yet)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>roads</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were <span class='modifier'>(never)</span> built</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(because most of the local people were against the idea)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(しかし)</span>、<span class='t-S'>道路は</span> <span class='t-V'>決して作られませんでした</span> <span class='t-M'>(地元の人々のほとんどがその考えに反対だったため)</span>。",
+                            naturalTranslation: "しかし、地元の人々のほとんどがその考えに反対したため、道路が建設されることはありませんでした。",
+                            vocabulary: [
+                                { word: "yet", meaning: "しかし、それにもかかわらず" },
+                                { word: "local", meaning: "地元の" },
+                                { word: "against", meaning: "〜に反対して" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "were never built", explanation: "<b>受動態 + 否定語</b>: 「決して作られなかった」。" },
+                                { phrase: "were against", explanation: "<b>be against</b>: 「〜に反対している」。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 3,
+                sentences: [
+                    {
+                        id: 11,
+                        text: "However, this did not mean people wanted to completely stay away from the other cities.",
+                        translation: "しかし、これは人々が他の都市から完全に離れていたいと思っていたことを意味するわけではありませんでした。",
+                        grammarAnalysis: {
+                            mainVerbs: ["did not mean"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>this</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>did not mean</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[(that) people wanted to completely stay away from the other cities]</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(しかし)</span>、<span class='t-S'>これは</span> <span class='t-V'>意味しませんでした</span> <span class='t-O'>[人々が他の都市から完全に離れていたいと望んでいたこと]を</span>。",
+                            naturalTranslation: "しかし、これは人々が他の都市から完全に離れていたいと思っていたことを意味するわけではありませんでした。",
+                            vocabulary: [
+                                { word: "mean", meaning: "意味する" },
+                                { word: "completely", meaning: "完全に" },
+                                { word: "stay away from", meaning: "〜から離れている" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "did not mean (that)", explanation: "<b>接続詞thatの省略</b>: meanの目的語となる名詞節。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 12,
+                        text: "Instead of building roads for cars, they wanted to have cable cars that would travel through the air.",
+                        translation: "車のための道路を作る代わりに、彼らは空中を移動するケーブルカーを持ちたいと思いました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["wanted"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Instead of building roads for cars)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>wanted</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>to have cable cars <span class='modifier'>[that would travel through the air]</span></span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-M'>(車のための道路を作る代わりに)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>望みました</span> <span class='t-O'>ケーブルカーを持つことを <span class='t-M'>[空中を移動する]</span></span>。",
+                            naturalTranslation: "車のための道路を作る代わりに、彼らは空中を移動するケーブルカーの導入を望みました。",
+                            vocabulary: [
+                                { word: "run/travel", meaning: "移動する、走る" },
+                                { word: "instead of", meaning: "〜の代わりに" },
+                                { word: "through the air", meaning: "空中を" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "Instead of -ing", explanation: "<b>Instead of + 動名詞</b>: 「〜する代わりに」。" },
+                                { phrase: "that would travel", explanation: "<b>関係代名詞that</b>: cable carsを修飾。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 13,
+                        text: "This is because they thought cable cars were a fast and useful way of transport and could avoid damaging the nature of the area.",
+                        translation: "これは、彼らがケーブルカーは速くて便利な移動手段であり、地域の自然を傷つけるのを避けられると考えたからです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>This</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>because they thought [cable cars were... and could avoid...]</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>これは</span> <span class='t-V'>です</span> <span class='t-C'>彼らが [ケーブルカーは...であり、...を避けられる] と考えたから</span>。",
+                            naturalTranslation: "これは、彼らがケーブルカーは速くて便利な移動手段であり、地域の自然を傷つけるのを避けられると考えたからです。",
+                            vocabulary: [
+                                { word: "transport", meaning: "輸送、交通" },
+                                { word: "damage", meaning: "傷つける、損なう" },
+                                { word: "avoid", meaning: "避ける" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "This is because", explanation: "<b>This is because...</b>: 「これは〜だからである」。理由を説明する定型表現。" },
+                                { phrase: "avoid damaging", explanation: "<b>avoid -ing</b>: 「〜するのを避ける」。avoidは動名詞を目的語にとる。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 14,
+                        text: "They thought they could reach the nearest village by cable car and go to other areas from there.",
+                        translation: "彼らは、ケーブルカーで一番近い村まで行き、そこから他の地域へ行けると考えました。",
+                        grammarAnalysis: {
+                            mainVerbs: ["thought"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>thought</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>[(that) they could reach... and go...]</span><span class='tag'>O</span></span>.",
+                            translationHtml: "<span class='t-S'>彼らは</span> <span class='t-V'>考えました</span> <span class='t-O'>[到達でき...そして行けると]</span>。",
+                            naturalTranslation: "彼らは、ケーブルカーで一番近い村まで行き、そこから他の地域へ行けると考えました。",
+                            vocabulary: [
+                                { word: "reach", meaning: "着く、到達する" },
+                                { word: "nearest", meaning: "最も近い" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "could reach ... and go", explanation: "<b>助動詞could + 動詞の並列</b>: reachとgoがandで結ばれている。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 4,
+                sentences: [
+                    {
+                        id: 15,
+                        text: "The fact that the village cannot be reached by car makes this village environmentally friendly.",
+                        translation: "車で村に行けないという事実は、この村を環境に優しいものにしています。",
+                        grammarAnalysis: {
+                            mainVerbs: ["makes"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>The fact <span class='modifier'>[that the village cannot be reached by car]</span></span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>makes</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>this village</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>environmentally friendly</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>事実 <span class='t-M'>[車で村に到達できないという]</span>は</span> <span class='t-V'>しています</span> <span class='t-O'>この村を</span> <span class='t-C'>環境に優しいものに</span>。",
+                            naturalTranslation: "車で村に行けないという事実は、この村を環境に優しいものにしています。",
+                            vocabulary: [
+                                { word: "fact", meaning: "事実" },
+                                { word: "environmentally friendly", meaning: "環境に優しい" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "fact that ...", explanation: "<b>同格のthat</b>: 「〜という事実」。factの内容を説明。" },
+                                { phrase: "make O C", explanation: "<b>SVOC文型</b>: 「OをCにする」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 16,
+                        text: "Because of the small size of the village and its rich nature, it is a good place to perform eco-friendly projects.",
+                        translation: "村の規模が小さく自然が豊かなため、環境に優しいプロジェクトを実行するのに良い場所です。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Because of the small size... and its rich nature)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>it</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>a good place</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(to perform eco-friendly projects)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(村の小ささと豊かな自然のために)</span>、<span class='t-S'>それは</span> <span class='t-V'>です</span> <span class='t-C'>良い場所</span> <span class='t-M'>(エコなプロジェクトを実行するための)</span>。",
+                            naturalTranslation: "村の規模が小さく自然が豊かなため、環境に優しいプロジェクトを実行するのに適した場所です。",
+                            vocabulary: [
+                                { word: "because of", meaning: "〜のために（理由）" },
+                                { word: "perform", meaning: "実行する、行う" },
+                                { word: "project", meaning: "プロジェクト、計画" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "Because of + 名詞", explanation: "<b>Because of (前置詞句)</b>: 「〜のせいで」「〜のおかげで」。理由を表す。" },
+                                { phrase: "to perform", explanation: "<b>不定詞の形容詞的用法</b>: placeを修飾。「実行するための場所」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 17,
+                        text: "Chamois is one of the nineteen places that make up the \"Alpine Pearls.\"",
+                        translation: "シャモアは「アルパイン・パールズ」を構成する19の場所の1つです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Chamois</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>one of the nineteen places [that make up the \"Alpine Pearls\"]</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>シャモアは</span> <span class='t-V'>です</span> <span class='t-C'>「アルパイン・パールズ」を構成する19の場所の1つ</span>。",
+                            naturalTranslation: "シャモアは「アルパイン・パールズ」を構成する19の場所の1つです。",
+                            vocabulary: [
+                                { word: "make up", meaning: "構成する、作り上げる" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "one of ...", explanation: "<b>one of + 複数名詞</b>: 「〜の1つ」。" },
+                                { phrase: "that make up", explanation: "<b>関係代名詞that</b>: placesを修飾。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 18,
+                        text: "It is a group of places that are working on projects that protect the beauty of nature, such as road systems with climate-friendly options.",
+                        translation: "それは、自然の美しさを守るプロジェクトに取り組んでいる場所のグループであり、例えば気候に優しい選択肢を持つ道路システムなどがあります。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>It</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>a group of places [that are working on projects [that protect the beauty of nature, such as...]]</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>それは</span> <span class='t-V'>です</span> <span class='t-C'>場所のグループ [プロジェクトに取り組んでいる [自然の美しさを守る、〜のような]]</span>。",
+                            naturalTranslation: "それは、気候に優しい交通システムのような、自然の美しさを守るプロジェクトに取り組んでいる場所のグループです。",
+                            vocabulary: [
+                                { word: "work on", meaning: "〜に取り組む" },
+                                { word: "protect", meaning: "守る、保護する" },
+                                { word: "beauty", meaning: "美しさ" },
+                                { word: "climate-friendly", meaning: "気候（環境）に優しい" },
+                                { word: "option", meaning: "選択肢" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "that are working on", explanation: "<b>関係代名詞that</b>: placesを修飾。" },
+                                { phrase: "that protect", explanation: "<b>関係代名詞that</b>: projectsを修飾。" },
+                                { phrase: "such as", explanation: "<b>such as</b>: 「〜などの」「例えば〜」。具体例を挙げる。" }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        questions: [
+            {
+                id: 26,
+                text: "Which is correct to describe Chamois?",
+                textTranslation: "シャモアを説明するとして正しいのはどれですか？",
+                keywords: ["correct", "describe", "Chamois"],
+                keywordExplanations: {
+                    "describe": "「説明する、記述する」。",
+                    "Chamois": "主語である「シャモア」全体の特徴を第1段落から探します。"
+                },
+                keywordMatches: [
+                    { sentenceId: 3, text: "many tourists ... visit this village all year round", keyword: "Chamois" }
+                ],
+                choiceAdvice: "第1段落全体の内容、特に観光客や村の特徴に関する文と照らし合わせましょう。",
+                choices: [
+                    { id: 1, text: "The fastest way to get to the village is by car.", translation: "村へ行く最も速い方法は車である。", isCorrect: false },
+                    { id: 2, text: "The nature of the village is gradually decreasing.", translation: "村の自然は徐々に減少している。", isCorrect: false },
+                    { id: 3, text: "The village used to be a big city with many people.", translation: "その村はかつて多くの人がいる大都市だった。", isCorrect: false },
+                    { id: 4, text: "The village welcomes many visitors throughout the year.", translation: "その村は一年中多くの訪問者を歓迎している。", isCorrect: true, highlight: "welcomes many visitors throughout the year" }
+                ],
+                hint: {
+                    paragraphId: 1,
+                    description: "第1段落で「visit this village all year round」という表現を探してください。",
+                    targetSentenceId: 3,
+                    highlightWord: "many tourists who love nature visit this village all year round",
+                    highlightWordSentenceId: 3
+                },
+                logic: [
+                    { type: "text", content: "本文: \"many tourists who love nature visit this village all year round\"" },
+                    { type: "arrow", content: "「多くの観光客が一年中この村を訪れる」" },
+                    { type: "text", content: "選択肢4: \"welcomes many visitors throughout the year\"" },
+                    { type: "conclusion", content: "正解: 4" }
+                ]
+            },
+            {
+                id: 27,
+                text: "In the early 1960s, people in Chamois",
+                textTranslation: "1960年代初頭、シャモアの人々は",
+                keywords: ["early 1960s", "people in Chamois"],
+                keywordExplanations: {
+                    "early 1960s": "第2段落の時系列キーワード。この時期の状況を探します。",
+                    "people in Chamois": "当時の住民の行動や移動手段に注目。"
+                },
+                keywordMatches: [
+                    { sentenceId: 7, text: "early 1960s", keyword: "early 1960s" },
+                    { sentenceId: 8, text: "only by bicycle or on foot", keyword: "people in Chamois" }
+                ],
+                choiceAdvice: "当時の移動手段について書かれている文（roads that people went through only by...）を確認しましょう。",
+                choices: [
+                    { id: 1, text: "used many ways to move around in the village.", translation: "村の中を移動するために多くの方法を使った。", isCorrect: false },
+                    { id: 2, text: "had streets they could go through to other villages by car.", translation: "車で他の村へ行ける通りがあった。", isCorrect: false },
+                    { id: 3, text: "needed to walk or ride a bicycle to visit other villages.", translation: "他の村を訪れるには歩くか自転車に乗る必要があった。", isCorrect: true, highlight: "walk or ride a bicycle to visit" },
+                    { id: 4, text: "agreed to build roads between the village and other villages.", translation: "村と他の村の間に道路を作ることに同意した。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 2,
+                    description: "第2段落の中程、「only by bicycle or on foot」という箇所に注目。",
+                    targetSentenceId: 8,
+                    highlightWord: "went through only by bicycle or on foot",
+                    highlightWordSentenceId: 8
+                },
+                logic: [
+                    { type: "text", content: "本文: \"by roads that people went through only by bicycle or on foot\"" },
+                    { type: "arrow", content: "「自転車か徒歩でしか通れない道」" },
+                    { type: "text", content: "選択肢3: \"needed to walk or ride a bicycle\"" },
+                    { type: "conclusion", content: "正解: 3" }
+                ]
+            },
+            {
+                id: 28,
+                text: "Why did the people of Chamois want cable cars?",
+                textTranslation: "なぜシャモアの人々はケーブルカーを欲しがったのですか？",
+                keywords: ["Why", "want cable cars"],
+                keywordExplanations: {
+                    "want cable cars": "ケーブルカー導入の理由。第3段落の「This is because...」以降に注目。"
+                },
+                keywordMatches: [
+                    { sentenceId: 12, text: "wanted to have cable cars", keyword: "want cable cars" },
+                    { sentenceId: 13, text: "avoid damaging the nature", keyword: "Why" }
+                ],
+                choiceAdvice: "ケーブルカー導入のメリット（fast, useful, avoid damaging nature）の中で、選択肢にある内容を選びましょう。",
+                choices: [
+                    { id: 1, text: "To keep the nature of the village.", translation: "村の自然を守る（保つ）ため。", isCorrect: true, highlight: "keep the nature" },
+                    { id: 2, text: "To enjoy the view of the village.", translation: "村の景色を楽しむため。", isCorrect: false },
+                    { id: 3, text: "To accept more tourists to the village.", translation: "より多くの観光客を村に受け入れるため。", isCorrect: false },
+                    { id: 4, text: "To carry the older people easily.", translation: "お年寄りを簡単に運ぶため。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 3,
+                    description: "第3段落の理由説明部分「could avoid damaging the nature」が言い換えられています。",
+                    targetSentenceId: 13,
+                    highlightWord: "avoid damaging the nature",
+                    highlightWordSentenceId: 13
+                },
+                logic: [
+                    { type: "text", content: "本文: \"could avoid damaging the nature of the area\"" },
+                    { type: "arrow", content: "「地域の自然を傷つけるのを避ける」=「自然を守る」" },
+                    { type: "text", content: "選択肢1: \"To keep the nature of the village.\"" },
+                    { type: "conclusion", content: "正解: 1" }
+                ]
+            },
+            {
+                id: 29,
+                text: "What is true about Chamois today?",
+                textTranslation: "今日、シャモアについて正しいのはどれですか？",
+                keywords: ["true", "Chamois", "today"],
+                keywordExplanations: {
+                    "today": "現在の状況。第4段落の内容、特に「Alpine Pearls」や「eco-friendly projects」について確認します。"
+                },
+                keywordMatches: [
+                    { sentenceId: 15, text: "environmentally friendly", keyword: "true" },
+                    { sentenceId: 18, text: "projects that protect the beauty of nature", keyword: "true" }
+                ],
+                choiceAdvice: "現在取り組んでいるプロジェクト（road systems with climate-friendly options）や環境への配慮に関する記述を探しましょう。",
+                choices: [
+                    { id: 1, text: "It is a disappearing village due to its small number of people.", translation: "人口が少ないために消滅しつつある村である。", isCorrect: false },
+                    { id: 2, text: "It has been removed from the group of the “Alpine Pearls.”", translation: "「アルパイン・パールズ」のグループから外された。", isCorrect: false },
+                    { id: 3, text: "It is making its transportation system eco-friendly without cars.", translation: "車を使わずに交通システムを環境に優しいものにしている。", isCorrect: true, highlight: "transportation system eco-friendly" },
+                    { id: 4, text: "It is solving problems caused by its poor natural environment.", translation: "劣悪な自然環境によって引き起こされる問題を解決している。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 4,
+                    description: "第4段落の最後。「projects ... such as road systems with climate-friendly options」に注目。",
+                    targetSentenceId: 18,
+                    highlightWord: "road systems with climate-friendly options",
+                    highlightWordSentenceId: 18
+                },
+                logic: [
+                    { type: "text", content: "本文: \"projects that protect the beauty of nature, such as road systems with climate-friendly options\"" },
+                    { type: "arrow", content: "「気候に優しい選択肢を持つ道路システム（交通システム）」" },
+                    { type: "text", content: "選択肢3: \"making its transportation system eco-friendly\"" },
+                    { type: "conclusion", content: "正解: 3" }
+                ]
+            }
+        ],
+        summaryForInstructors: {
+            title: "A Unique Italian Village (ユニークなイタリアの村)",
+            intro: "イタリアにある車でアクセスできない村「シャモア」について、その歴史、交通手段の変遷（道路建設の拒否とケーブルカーの導入）、そして現在の環境保護への取り組みを紹介するパッセージ。",
+            points: [
+                { label: "1. 村の特徴", text: "北イタリアに位置し、車で行けない唯一の村。山に囲まれ、自然豊かな観光地だが人口は約100人と少ない。" },
+                { label: "2. 交通の歴史", text: "1960年代に道路建設の提案があったが、住民は反対。代わりに環境に優しく便利なケーブルカーを導入した。" },
+                { label: "3. 現在の取り組み", text: "「アルパイン・パールズ」の一員として、気候に配慮した道路システムなど、自然を守るプロジェクトを推進している。" }
+            ]
+        }
+    },
+
+    {
         id: "pre2-2025-2-4B",
         grade: "準2級",
         title: "Salt",
@@ -470,6 +3290,7 @@ export const readingData = [
             {
                 id: 26,
                 text: "What did people think about salt in the past?",
+                textTranslation: "過去において、人々は塩についてどう考えていましたか？",
                 keywords: ["in the past", "think about salt"],
                 keywordExplanations: {
                     "in the past": "時を表すキーワードです。本文中でも同じ表現が使われている箇所を探します。",
@@ -505,6 +3326,7 @@ export const readingData = [
             {
                 id: 27,
                 text: "People in the past used salt as",
+                textTranslation: "過去の人々は、塩を〜として使いました。",
                 keywords: ["in the past", "used salt as"],
                 keywordExplanations: {
                     "in the past": "第2段落の冒頭 'In the past' に注目して、過去の事例を探します。",
@@ -539,6 +3361,7 @@ export const readingData = [
             {
                 id: 28,
                 text: "What is true about the impact of salt in the past?",
+                textTranslation: "過去における塩の影響について正しいのはどれですか？",
                 keywords: ["impact of salt", "in the past"],
                 keywordExplanations: {
                     "impact of salt": "塩が人々に与えた影響。本文第3段落の 'linked to money'（お金と結びついていた）や、都市・道路の建設などの具体例を探します。",
@@ -573,6 +3396,7 @@ export const readingData = [
             {
                 id: 29,
                 text: "How does salt help people's lives today?",
+                textTranslation: "今日、塩はどのように人々の生活を助けていますか？",
                 keywords: ["help people's lives", "today"],
                 keywordExplanations: {
                     "help people's lives": "人々の生活を助けること。本文第4段落で、具体的な用途（cooking, medicine, cleanerなど）を探します。",

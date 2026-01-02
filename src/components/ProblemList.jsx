@@ -138,7 +138,15 @@ export function ProblemList({ onSelectPassage, activeGrade, onGradeChange }) {
     const currentGradeConfig = GRADE_CONFIG.find(g => g.id === activeGrade) || GRADE_CONFIG[0];
 
     // 現在の級の問題をフィルタ
-    const filteredPassages = readingData.filter(p => p.grade === currentGradeConfig.filter);
+    // 現在の級の問題をフィルタし、IDの降順（新しい順）にソート
+    const filteredPassages = readingData
+        .filter(p => p.grade === currentGradeConfig.filter)
+        .sort((a, b) => {
+            // IDで降順ソート（新しい年度・回が先頭に来るように）
+            if (a.id < b.id) return 1;
+            if (a.id > b.id) return -1;
+            return 0;
+        });
 
     return (
         <div style={{
