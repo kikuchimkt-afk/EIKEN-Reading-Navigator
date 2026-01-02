@@ -5,7 +5,7 @@ import { GrammarAnalysisLayout } from './GrammarAnalysisLayout';
 import { BookOpen, ArrowLeft, Microscope, School, ClipboardPen } from 'lucide-react';
 import { verifyGrammarData } from '../utils/grammarValidator';
 
-export function ReadingPage({ passage, onBack }) {
+export function ReadingPage({ passage, onBack, isStudentMode = false }) {
     // 状態管理
     const [activeQuestionId, setActiveQuestionId] = useState(passage.questions[0].id);
     const [targetSentenceId, setTargetSentenceId] = useState(null);
@@ -15,6 +15,7 @@ export function ReadingPage({ passage, onBack }) {
     const [step1Keywords, setStep1Keywords] = useState([]); // Step 1 キーワード用
     const [showGrammarMode, setShowGrammarMode] = useState(false); // 隠しモード（英文解釈）
     const [showInstructorSummary, setShowInstructorSummary] = useState(false); // 指導者用要約モード
+    const [showHomeworkModal, setShowHomeworkModal] = useState(false); // 宿題モーダル
 
     // passageが変更された場合に状態をリセット
     useEffect(() => {
@@ -222,29 +223,31 @@ export function ReadingPage({ passage, onBack }) {
             {/* ヘッダー */}
             <header className="app-header">
                 <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
-                    <button
-                        onClick={onBack}
-                        style={{
-                            background: 'rgba(255, 255, 255, 0.1)',
-                            border: 'none',
-                            cursor: 'pointer',
-                            color: 'white',
-                            padding: '0',
-                            borderRadius: '50%',
-                            display: 'flex',
-                            alignItems: 'center',
-                            justifyContent: 'center',
-                            transition: 'background 0.2s',
-                            marginRight: '1rem',
-                            width: '40px',
-                            height: '40px'
-                        }}
-                        onMouseEnter={e => e.currentTarget.style.background = 'rgba(255, 255, 255, 0.2)'}
-                        onMouseLeave={e => e.currentTarget.style.background = 'rgba(255, 255, 255, 0.1)'}
-                        title="問題一覧に戻る"
-                    >
-                        <ArrowLeft size={24} />
-                    </button>
+                    {!isStudentMode && (
+                        <button
+                            onClick={onBack}
+                            style={{
+                                background: 'rgba(255, 255, 255, 0.1)',
+                                border: 'none',
+                                cursor: 'pointer',
+                                color: 'white',
+                                padding: '0',
+                                borderRadius: '50%',
+                                display: 'flex',
+                                alignItems: 'center',
+                                justifyContent: 'center',
+                                transition: 'background 0.2s',
+                                marginRight: '1rem',
+                                width: '40px',
+                                height: '40px'
+                            }}
+                            onMouseEnter={e => e.currentTarget.style.background = 'rgba(255, 255, 255, 0.2)'}
+                            onMouseLeave={e => e.currentTarget.style.background = 'rgba(255, 255, 255, 0.1)'}
+                            title="問題一覧に戻る"
+                        >
+                            <ArrowLeft size={24} />
+                        </button>
+                    )}
                     <div>
                         <div className="app-title">
                             <BookOpen size={24} />
@@ -286,35 +289,38 @@ export function ReadingPage({ passage, onBack }) {
                         Study (詳細指導)
                     </button>
                     <span className="badge">{passage.subTitle}</span>
-                    <button
-                        style={{
-                            background: 'linear-gradient(135deg, #f59e0b 0%, #d97706 100%)',
-                            border: 'none',
-                            color: 'white',
-                            padding: '8px 16px',
-                            borderRadius: '8px',
-                            cursor: 'pointer',
-                            display: 'flex',
-                            alignItems: 'center',
-                            gap: '6px',
-                            fontSize: '0.9rem',
-                            fontWeight: 'bold',
-                            boxShadow: '0 2px 4px rgba(245, 158, 11, 0.3)',
-                            transition: 'transform 0.1s, box-shadow 0.1s',
-                            marginLeft: '8px'
-                        }}
-                        onMouseEnter={e => {
-                            e.currentTarget.style.transform = 'translateY(-1px)';
-                            e.currentTarget.style.boxShadow = '0 4px 6px rgba(245, 158, 11, 0.4)';
-                        }}
-                        onMouseLeave={e => {
-                            e.currentTarget.style.transform = 'translateY(0)';
-                            e.currentTarget.style.boxShadow = '0 2px 4px rgba(245, 158, 11, 0.3)';
-                        }}
-                    >
-                        <ClipboardPen size={18} />
-                        宿題
-                    </button>
+                    {!isStudentMode && (
+                        <button
+                            onClick={() => setShowHomeworkModal(true)}
+                            style={{
+                                background: 'linear-gradient(135deg, #f59e0b 0%, #d97706 100%)',
+                                border: 'none',
+                                color: 'white',
+                                padding: '8px 16px',
+                                borderRadius: '8px',
+                                cursor: 'pointer',
+                                display: 'flex',
+                                alignItems: 'center',
+                                gap: '6px',
+                                fontSize: '0.9rem',
+                                fontWeight: 'bold',
+                                boxShadow: '0 2px 4px rgba(245, 158, 11, 0.3)',
+                                transition: 'transform 0.1s, box-shadow 0.1s',
+                                marginLeft: '8px'
+                            }}
+                            onMouseEnter={e => {
+                                e.currentTarget.style.transform = 'translateY(-1px)';
+                                e.currentTarget.style.boxShadow = '0 4px 6px rgba(245, 158, 11, 0.4)';
+                            }}
+                            onMouseLeave={e => {
+                                e.currentTarget.style.transform = 'translateY(0)';
+                                e.currentTarget.style.boxShadow = '0 2px 4px rgba(245, 158, 11, 0.3)';
+                            }}
+                        >
+                            <ClipboardPen size={18} />
+                            宿題
+                        </button>
+                    )}
                 </div>
             </header>
 
@@ -394,6 +400,291 @@ export function ReadingPage({ passage, onBack }) {
 
             {/* モーダル表示 */}
             {showInstructorSummary && <InstructorSummaryModal />}
+            {showHomeworkModal && (
+                <HomeworkModal
+                    passage={passage}
+                    onClose={() => setShowHomeworkModal(false)}
+                />
+            )}
+        </div>
+    );
+}
+
+// Homework Modal Component
+function HomeworkModal({ passage, onClose }) {
+    const [teacherName, setTeacherName] = useState('');
+    const [studentName, setStudentName] = useState('');
+    const [deadline, setDeadline] = useState(() => {
+        const nextWeek = new Date();
+        nextWeek.setDate(nextWeek.getDate() + 7);
+        return nextWeek.toISOString().split('T')[0];
+    });
+    const [comment, setComment] = useState('頑張ってね！');
+
+    const formatDate = (dateStr) => {
+        const date = new Date(dateStr);
+        return `${date.getFullYear()}年${date.getMonth() + 1}月${date.getDate()}日`;
+    };
+
+    const handlePrint = () => {
+        // Vercelの本番環境URLを指定
+        const baseUrl = 'https://eiken-reading-navigator.vercel.app';
+
+        // URLSearchParamsを使用してパラメータを構築（エンコード漏れ防止）
+        const params = new URLSearchParams();
+        params.set('id', passage.id);
+        params.set('mode', 'student');
+
+        const quizUrl = `${baseUrl}/?${params.toString()}`;
+        const todayStr = formatDate(new Date().toISOString().split('T')[0]);
+        const deadlineStr = deadline ? formatDate(deadline) : '未設定';
+
+        // Generate answer rows
+        let answerRows = '';
+        passage.questions.forEach(q => {
+            answerRows += `<tr><td style="font-weight: bold; padding: 15px;">(${q.id})</td><td style="padding: 15px;"></td><td style="padding: 15px;"></td></tr>`;
+        });
+
+        const printWindow = window.open('', '_blank');
+        printWindow.document.write(`
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <title>解答用紙 - ${passage.title}</title>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+                <style>
+                    body { 
+                        font-family: 'Yu Gothic', 'Hiragino Sans', sans-serif; 
+                        padding: 30px;
+                        max-width: 600px;
+                        margin: 0 auto;
+                    }
+                    .header {
+                        text-align: center;
+                        border-bottom: 2px solid #333;
+                        padding-bottom: 15px;
+                        margin-bottom: 20px;
+                    }
+                    .title { font-size: 1.5rem; font-weight: 700; margin-bottom: 8px; }
+                    .subtitle { font-size: 1rem; color: #666; }
+                    .info-grid {
+                        display: grid;
+                        grid-template-columns: 1fr 1fr;
+                        gap: 10px;
+                        margin-bottom: 20px;
+                        padding: 15px;
+                        background: #f8fafc;
+                        border-radius: 8px;
+                    }
+                    .info-item { display: flex; gap: 8px; }
+                    .info-label { font-weight: 700; color: #555; }
+                    .comment-box {
+                        background: #fff3cd;
+                        padding: 15px;
+                        border-radius: 8px;
+                        margin-bottom: 20px;
+                        border-left: 4px solid #ffc107;
+                    }
+                    .comment-label { font-weight: 700; color: #856404; margin-bottom: 5px; }
+                    .answer-table {
+                        width: 100%;
+                        border-collapse: collapse;
+                        margin-bottom: 20px;
+                    }
+                    .answer-table th, .answer-table td {
+                        border: 2px solid #333;
+                        text-align: center;
+                    }
+                    .answer-table th { background: #e2e8f0; padding: 12px; }
+                    .qr-section {
+                        display: flex;
+                        align-items: center;
+                        gap: 20px;
+                        padding: 15px;
+                        background: #f0f9ff;
+                        border-radius: 8px;
+                        margin-top: 20px;
+                    }
+                    .qr-text { font-size: 0.9rem; color: #0369a1; }
+                    @media print {
+                        .info-grid { background: #f8f8f8 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+                        .comment-box { background: #fffbe6 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+                        .qr-section { background: #f0f9ff !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+                        button { display: none; }
+                    }
+                </style>
+            </head>
+            <body>
+                <div class="header">
+                    <div class="title">${passage.grade} 長文空所補充問題 解答用紙</div>
+                    <div class="subtitle">📖 ${passage.title}</div>
+                </div>
+
+                <div class="info-grid">
+                    <div class="info-item">
+                        <span class="info-label">📅 出題日:</span>
+                        <span>${todayStr}</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">⏰ 提出期限:</span>
+                        <span>${deadlineStr}</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">👨‍🏫 担当講師:</span>
+                        <span>${teacherName || '未設定'}</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">📝 生徒名:</span>
+                        <span>${studentName || '________________'}</span>
+                    </div>
+                </div>
+
+                <div class="comment-box">
+                    <div class="comment-label">💬 先生からのメッセージ</div>
+                    <div>${comment}</div>
+                </div>
+
+                <h3 style="margin-bottom: 10px;">📝 解答欄</h3>
+                <table class="answer-table">
+                    <thead>
+                        <tr>
+                            <th style="width: 100px;">問題番号</th>
+                            <th style="width: 150px;">あなたの解答</th>
+                            <th style="width: 100px;">正誤</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${answerRows}
+                    </tbody>
+                </table>
+
+                <div class="qr-section">
+                    <div id="qrcode"></div>
+                    <div class="qr-text">
+                        <strong>📱 解説を確認</strong><br>
+                        このQRコードをスマホでスキャンすると、<br>
+                        解説アプリを開くことができます。
+                    </div>
+                </div>
+
+                <script>
+                    new QRCode(document.getElementById('qrcode'), {
+                        text: '${quizUrl}',
+                        width: 100,
+                        height: 100,
+                        colorDark: "#0369a1",
+                        colorLight: "#ffffff",
+                    });
+                    setTimeout(() => { window.print(); }, 500);
+                </script>
+            </body>
+            </html>
+        `);
+        printWindow.document.close();
+    };
+
+    return (
+        <div style={{
+            position: 'fixed',
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            backgroundColor: 'rgba(0,0,0,0.5)',
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+            zIndex: 3000
+        }} onClick={onClose}>
+            <div style={{
+                backgroundColor: 'white',
+                borderRadius: '8px',
+                padding: '24px',
+                width: '90%',
+                maxWidth: '500px',
+                boxShadow: '0 4px 6px rgba(0,0,0,0.1)'
+            }} onClick={e => e.stopPropagation()}>
+                <div style={{
+                    display: 'flex',
+                    justifyContent: 'space-between',
+                    alignItems: 'center',
+                    marginBottom: '20px',
+                    borderBottom: '1px solid #e5e7eb',
+                    paddingBottom: '10px'
+                }}>
+                    <h2 style={{ margin: 0, fontSize: '1.25rem', color: '#1f2937' }}>📝 宿題プリント作成</h2>
+                    <button onClick={onClose} style={{
+                        background: 'none',
+                        border: 'none',
+                        fontSize: '1.5rem',
+                        cursor: 'pointer',
+                        color: '#6b7280'
+                    }}>×</button>
+                </div>
+                <div style={{ marginBottom: '15px' }}>
+                    <label style={{ display: 'block', marginBottom: '5px', fontWeight: 'bold', color: '#374151' }}>👨‍🏫 担当講師名</label>
+                    <input
+                        type="text"
+                        value={teacherName}
+                        onChange={(e) => setTeacherName(e.target.value)}
+                        placeholder="例：山田先生"
+                        style={{ width: '100%', padding: '8px', borderRadius: '4px', border: '1px solid #d1d5db', backgroundColor: 'white', color: '#374151' }}
+                    />
+                </div>
+                <div style={{ marginBottom: '15px' }}>
+                    <label style={{ display: 'block', marginBottom: '5px', fontWeight: 'bold', color: '#374151' }}>📝 生徒名</label>
+                    <input
+                        type="text"
+                        value={studentName}
+                        onChange={(e) => setStudentName(e.target.value)}
+                        placeholder="例：田中太郎（空欄可）"
+                        style={{ width: '100%', padding: '8px', borderRadius: '4px', border: '1px solid #d1d5db', backgroundColor: 'white', color: '#374151' }}
+                    />
+                </div>
+                <div style={{ marginBottom: '15px' }}>
+                    <label style={{ display: 'block', marginBottom: '5px', fontWeight: 'bold', color: '#374151' }}>📅 提出期限</label>
+                    <input
+                        type="date"
+                        value={deadline}
+                        onChange={(e) => setDeadline(e.target.value)}
+                        style={{ width: '100%', padding: '8px', borderRadius: '4px', border: '1px solid #d1d5db', backgroundColor: 'white', color: '#374151' }}
+                    />
+                </div>
+                <div style={{ marginBottom: '20px' }}>
+                    <label style={{ display: 'block', marginBottom: '5px', fontWeight: 'bold', color: '#374151' }}>💬 応援のコメント</label>
+                    <textarea
+                        value={comment}
+                        onChange={(e) => setComment(e.target.value)}
+                        placeholder="頑張ってね！"
+                        rows={3}
+                        style={{ width: '100%', padding: '8px', borderRadius: '4px', border: '1px solid #d1d5db', backgroundColor: 'white', color: '#374151' }}
+                    />
+                </div>
+                <div style={{ display: 'flex', justifyContent: 'flex-end', gap: '10px' }}>
+                    <button onClick={onClose} style={{
+                        padding: '8px 16px',
+                        borderRadius: '4px',
+                        border: '1px solid #d1d5db',
+                        background: 'white',
+                        cursor: 'pointer',
+                        color: '#374151'
+                    }}>キャンセル</button>
+                    <button onClick={handlePrint} style={{
+                        padding: '8px 16px',
+                        borderRadius: '4px',
+                        border: 'none',
+                        background: '#2563EB',
+                        cursor: 'pointer',
+                        color: 'white',
+                        fontWeight: 'bold',
+                        display: 'flex',
+                        alignItems: 'center',
+                        gap: '6px'
+                    }}>
+                        🖨️ 印刷する
+                    </button>
+                </div>
+            </div>
         </div>
     );
 }
