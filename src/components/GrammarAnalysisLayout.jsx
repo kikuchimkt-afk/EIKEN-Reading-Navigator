@@ -69,9 +69,9 @@ export function GrammarAnalysisLayout({ passage, onClose }) {
                         // Single word: simple word boundary match
                         return `\\b${escapeRegExp(v)}\\b`;
                     } else {
-                        // Multi-word: allow optional words between (e.g., "are [now] exhibited")
-                        // Match each word with word boundaries, with optional words in between
-                        return words.map(w => `\\b${escapeRegExp(w)}\\b`).join('(?:\\s+\\w+)*\\s+');
+                        // Multi-word: allow at most 1 optional word between (e.g., "are [now] exhibited")
+                        // Match each word with word boundaries, with max 1 word in between
+                        return words.map(w => `\\b${escapeRegExp(w)}\\b`).join('(?:\\s+\\w+)?\\s+');
                     }
                 });
 
@@ -85,9 +85,12 @@ export function GrammarAnalysisLayout({ passage, onClose }) {
                 const verbsLower = verbs.map(v => v.toLowerCase());
 
                 return parts.map((part, i) => {
-                    const partLower = part.toLowerCase();
-                    const isVerb = verbsLower.some(v => partLower === v || partLower.includes(v));
-                    return isVerb ? <span key={i} className="verb-highlight">{part}</span> : part;
+                    // Test if this part matches any of the verb patterns
+                    const matchesVerb = patterns.some(p => {
+                        const testRegex = new RegExp(`^${p}$`, 'i');
+                        return testRegex.test(part.trim());
+                    });
+                    return matchesVerb ? <span key={i} className="verb-highlight">{part}</span> : part;
                 });
             } catch (e) {
                 return sent.text;

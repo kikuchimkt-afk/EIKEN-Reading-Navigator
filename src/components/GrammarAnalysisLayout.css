@@ -180,6 +180,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
+    max-width: 100%;
+    /* Prevent overflow */
 }
 
 .chunk .text {
@@ -187,6 +189,9 @@
     margin-bottom: 4px;
     border-bottom: 2px solid transparent;
     /* 下線予約 */
+    white-space: normal;
+    /* Ensure text wraps */
+    text-align: center;
 }
 
 .chunk .tag {
@@ -246,6 +251,88 @@
 
 .M-group .tag {
     background-color: #64748b;
+}
+
+/* Subordinate clause elements (S', V', O', C') - lighter colors */
+.Sp-group .text {
+    border-bottom-color: rgba(248, 113, 113, 0.3);
+    /* red-400 lighter */
+}
+
+.Sp-group .tag {
+    background-color: #f87171;
+    /* red-400 */
+}
+
+.Vp-group .text {
+    border-bottom-color: rgba(74, 222, 128, 0.3);
+    /* green-400 lighter */
+}
+
+.Vp-group .tag {
+    background-color: #4ade80;
+    /* green-400 */
+}
+
+.Op-group .text {
+    border-bottom-color: rgba(96, 165, 250, 0.3);
+    /* blue-400 lighter */
+}
+
+.Op-group .tag {
+    background-color: #60a5fa;
+    /* blue-400 */
+}
+
+.Cp-group .text {
+    border-bottom-color: rgba(250, 204, 21, 0.3);
+    /* yellow-400 lighter */
+}
+
+.Cp-group .tag {
+    background-color: #facc15;
+    /* yellow-400 */
+}
+
+.Mp-group .text {
+    border-bottom-color: rgba(148, 163, 184, 0.3);
+    /* slate-400 lighter */
+}
+
+.Mp-group .tag {
+    background-color: #94a3b8;
+    /* slate-400 */
+}
+
+/* Translation spans for subordinate clauses - lighter colors */
+.t-Sp {
+    color: #f87171;
+    /* red-400 */
+    font-weight: 600;
+}
+
+.t-Vp {
+    color: #4ade80;
+    /* green-400 */
+    font-weight: 600;
+}
+
+.t-Op {
+    color: #60a5fa;
+    /* blue-400 */
+    font-weight: 600;
+}
+
+.t-Cp {
+    color: #facc15;
+    /* yellow-400 */
+    font-weight: 600;
+}
+
+.t-Mp {
+    color: #94a3b8;
+    /* slate-400 */
+    font-weight: 600;
 }
 
 
@@ -385,4 +472,10 @@
     /* Sky 600 */
     font-weight: bold;
     font-size: 1.1em;
+}
+.plain-text {
+    display: inline;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.6;
 }
