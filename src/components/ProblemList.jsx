@@ -45,6 +45,8 @@ const extractYear = (subTitle) => {
 
 // 回と大問を抽出するヘルパー関数
 const extractExamInfo = (subTitle) => {
+    // 形式: "2023年度 第3回 準1級 大問3" -> "第3回-3"
+    // 形式: "2023年度 第3回 2級 大問3B" -> "第3回-3B"
     const match = subTitle?.match(/第(\d+)回.*?大問?([\w\d-]+)/);
     if (match) {
         return `第${match[1]}回-${match[2]}`;
@@ -75,23 +77,8 @@ export function ProblemList({ onSelectPassage, activeGrade, onGradeChange }) {
     }, []);
 
     const handlePrint = (passage) => {
-        const origin = window.location.origin;
-
-        // コンテンツ画像の配列対応処理
-        let contentImages = [];
-        if (passage.images?.content) {
-            if (Array.isArray(passage.images.content)) {
-                contentImages = passage.images.content.map(path => `${origin}${path}`);
-            } else {
-                contentImages = [`${origin}${passage.images.content}`];
-            }
-        } else {
-            contentImages = ['https://placehold.co/800x600?text=Problem+Image+Not+Found'];
-        }
-
-        const questionImage = passage.images?.question
-            ? `${origin}${passage.images.question}`
-            : 'https://placehold.co/800x600?text=Question+Image+Not+Found';
+        // 準1級、2級、準2級、準2級+、3級の全問題にテキストベースの印刷レイアウトを適用
+        const isTargetExam = ['準1級', '2級', '準2級', '準2級プラス', '3級'].includes(passage.grade);
 
         const printWindow = window.open('', '_blank');
         if (!printWindow) {
@@ -99,50 +86,242 @@ export function ProblemList({ onSelectPassage, activeGrade, onGradeChange }) {
             return;
         }
 
-        const htmlContent = `
-            <!DOCTYPE html>
-            <html>
-            <head>
-                <title>印刷プレビュー - ${passage.title}</title>
-                <style>
-                    @page { size: A4 landscape; margin: 1cm; }
-                    body { margin: 0; padding: 0; font-family: "Noto Sans JP", sans-serif; background-color: #f3f4f6; }
-                    .page-container { width: 277mm; height: 190mm; margin: 0 auto; display: flex; gap: 15px; background-color: white; box-sizing: border-box; }
-                    .panel { flex: 1; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; border: 1px solid #e5e7eb; background-color: #fff; overflow: hidden; position: relative; }
-                    /* 画像のスタイル：複数枚ある場合は高さを分け合う */
-                    .panel img { 
-                        max-width: 100%; 
-                        max-height: 100%; 
-                        object-fit: contain; 
-                        flex: 1; 
-                        min-height: 0; 
-                    }
-                    @media print { body { background-color: white; } .page-container { width: 100%; height: 100vh; border: none; } .panel { border: none; } }
-                </style>
-            </head>
-            <body>
-                <div class="page-container">
-                    <div class="panel">
-                        ${contentImages.map(img => `<img src="${img}" alt="問題本文">`).join('')}
+        if (isTargetExam) {
+            // テキストベースのレイアウト生成
+            const htmlContent = `
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <title>印刷プレビュー - ${passage.title}</title>
+                    <style>
+                        @page { size: A4 landscape; margin: 15mm 8mm 8mm 8mm; }
+                        body { 
+                            margin: 0; 
+                            padding: 0; 
+                            font-family: "Times New Roman", "Hiragino Mincho ProN", serif; 
+                            font-size: 9pt;
+                            line-height: 1.3;
+                            color: #000;
+                            box-sizing: border-box;
+                        }
+                        .page-container {
+                            width: 281mm;
+                            height: 187mm; /* 210mm - 15mm(top) - 8mm(bottom) */
+                            display: grid;
+                            grid-template-columns: 1fr 1fr;
+                            gap: 10mm;
+                            margin: 0 auto;
+                        }
+                        .column {
+                            height: 100%;
+                            display: flex;
+                            flex-direction: column;
+                        }
+                        .left-column {
+                            border-right: 1px dashed #ccc;
+                            padding-right: 5mm;
+                        }
+                        .right-column {
+                            padding-left: 0; /* Reset padding for sidebar layout */
+                        }
+                        h1 {
+                            font-size: 14pt;
+                            text-align: center;
+                            margin-bottom: 3mm;
+                            font-family: sans-serif;
+                            line-height: 1.1;
+                        }
+                        .passage-text p {
+                            text-indent: 1em;
+                            margin-bottom: 1.5mm;
+                            text-align: justify;
+                        }
+                        
+                        /* Question Layout */
+                        .question-item {
+                            display: flex;
+                            border-bottom: 1px dashed #ccc;
+                            margin-bottom: 0;
+                            break-inside: avoid;
+                        }
+                        .question-item:last-child {
+                            border-bottom: none;
+                        }
+                        .q-sidebar {
+                            width: 8mm;
+                            background-color: #e5e7eb;
+                            display: flex;
+                            justify-content: center;
+                            padding-top: 2mm;
+                            font-weight: bold;
+                            font-size: 9pt;
+                            border-right: 1px solid #d1d5db;
+                            flex-shrink: 0;
+                        }
+                        .q-content {
+                            flex: 1;
+                            padding: 2mm 3mm;
+                        }
+                        .question-text {
+                            font-weight: bold;
+                            margin-bottom: 2mm;
+                        }
+                        .choices-list {
+                            display: flex;
+                            flex-direction: column;
+                            gap: 1mm;
+                        }
+                        .choice-item {
+                            font-size: 9pt;
+                            display: flex;
+                            gap: 2mm;
+                        }
+                        .choice-label {
+                            font-weight: bold;
+                        }
+                        
+                        .answer-footer {
+                            margin-top: auto;
+                            text-align: right;
+                            font-size: 9pt;
+                            border-top: 1px solid #000;
+                            padding-top: 2mm;
+                            display: flex;
+                            justify-content: flex-end;
+                            gap: 4mm;
+                        }
+                    </style>
+                </head>
+                <body>
+                    <div class="page-container">
+                        <!-- 左カラム：本文 -->
+                        <div class="column left-column">
+                            <div class="header-info">${passage.subTitle}</div>
+                            <h1>${passage.title}</h1>
+                            <div class="passage-text">
+                                ${passage.content.map(para => `
+                                    <p>${para.sentences.map(s => s.text).join(' ')}</p>
+                                `).join('')}
+                            </div>
+                        </div>
+
+                        <!-- 右カラム：設問 -->
+                        <div class="column right-column">
+                            <div class="header-info">Questions</div>
+                            <div class="questions-list">
+                                ${passage.questions.map((q, idx) => `
+                                    <div class="question-item">
+                                        <div class="q-sidebar">
+                                            (${q.id || idx + 1})
+                                        </div>
+                                        <div class="q-content">
+                                            <div class="question-text">
+                                                ${q.text}
+                                            </div>
+                                            <div class="choices-list">
+                                                ${q.choices.map((c, cIdx) => `
+                                                    <div class="choice-item">
+                                                        <span class="choice-label">${cIdx + 1}</span>
+                                                        <span>${c.text}</span>
+                                                    </div>
+                                                `).join('')}
+                                            </div>
+                                        </div>
+                                    </div>
+                                `).join('')}
+                            </div>
+                            <!-- 正解の表示 -->
+                            <div class="answer-footer">
+                                <b>正解:</b>
+                                ${passage.questions.map((q, idx) => {
+                const correctIndex = q.choices.findIndex(c => c.isCorrect) + 1;
+                return `<span>(${q.id || idx + 1}) ${correctIndex}</span>`;
+            }).join('')}
+                            </div>
+                        </div>
                     </div>
-                    <div class="panel"><img src="${questionImage}" alt="設問"></div>
-                </div>
-            </body>
-            </html>
-        `;
-        printWindow.document.write(htmlContent);
-        printWindow.document.close();
+                </body>
+                </html>
+            `;
+            printWindow.document.write(htmlContent);
+            printWindow.document.close();
+        } else {
+            // 既存の画像ベースのレイアウト
+            const origin = window.location.origin;
+
+            // コンテンツ画像の配列対応処理
+            let contentImages = [];
+            if (passage.images?.content) {
+                if (Array.isArray(passage.images.content)) {
+                    contentImages = passage.images.content.map(path => `${origin}${path}`);
+                } else {
+                    contentImages = [`${origin}${passage.images.content}`];
+                }
+            } else {
+                contentImages = ['https://placehold.co/800x600?text=Problem+Image+Not+Found'];
+            }
+
+            const questionImage = passage.images?.question
+                ? `${origin}${passage.images.question}`
+                : 'https://placehold.co/800x600?text=Question+Image+Not+Found';
+
+            const htmlContent = `
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <title>印刷プレビュー - ${passage.title}</title>
+                    <style>
+                        @page { size: A4 landscape; margin: 1cm; }
+                        body { margin: 0; padding: 0; font-family: "Noto Sans JP", sans-serif; background-color: #f3f4f6; }
+                        .page-container { width: 277mm; height: 190mm; margin: 0 auto; display: flex; gap: 15px; background-color: white; box-sizing: border-box; }
+                        .panel { flex: 1; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; border: 1px solid #e5e7eb; background-color: #fff; overflow: hidden; position: relative; }
+                        /* 画像のスタイル：複数枚ある場合は高さを分け合う */
+                        .panel img { 
+                            max-width: 100%; 
+                            max-height: 100%; 
+                            object-fit: contain; 
+                            flex: 1; 
+                            min-height: 0; 
+                        }
+                        @media print { body { background-color: white; } .page-container { width: 100%; height: 100vh; border: none; } .panel { border: none; } }
+                    </style>
+                </head>
+                <body>
+                    <div class="page-container">
+                        <div class="panel">
+                            ${contentImages.map(img => `<img src="${img}" alt="問題本文">`).join('')}
+                        </div>
+                        <div class="panel"><img src="${questionImage}" alt="設問"></div>
+                    </div>
+                </body>
+                </html>
+            `;
+            printWindow.document.write(htmlContent);
+            printWindow.document.close();
+        }
     };
 
     // 現在選択中の級の設定
     const currentGradeConfig = GRADE_CONFIG.find(g => g.id === activeGrade) || GRADE_CONFIG[0];
 
     // 現在の級の問題をフィルタ
-    // 現在の級の問題をフィルタし、IDの降順（新しい順）にソート
+    // 現在の級の問題をフィルタし、年度・回・IDの順でソート（新しい順）
     const filteredPassages = readingData
         .filter(p => p.grade === currentGradeConfig.filter)
         .sort((a, b) => {
-            // IDで降順ソート（新しい年度・回が先頭に来るように）
+            // 1. 年度で比較 (降順)
+            const yearA = parseInt(extractYear(a.subTitle)) || 0;
+            const yearB = parseInt(extractYear(b.subTitle)) || 0;
+            if (yearA !== yearB) return yearB - yearA;
+
+            // 2. 回で比較 (降順)
+            const sessionMatchA = a.subTitle?.match(/第(\d+)回/);
+            const sessionMatchB = b.subTitle?.match(/第(\d+)回/);
+            const sessionA = sessionMatchA ? parseInt(sessionMatchA[1]) : 0;
+            const sessionB = sessionMatchB ? parseInt(sessionMatchB[1]) : 0;
+            if (sessionA !== sessionB) return sessionB - sessionA;
+
+            // 3. IDで比較 (降順 - 念のため)
             if (a.id < b.id) return 1;
             if (a.id > b.id) return -1;
             return 0;
