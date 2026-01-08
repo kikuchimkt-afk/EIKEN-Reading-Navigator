@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英検®合格保証カリキュラム - Luxury</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,600..96,900;1,6..96,400&family=Noto+Sans+JP:wght@300;400;500&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background: #f5f5f5;
+            min-height: 100vh;
+            color: #111;
+            -webkit-print-color-adjust: exact;
+        }
+
+        .page {
+            width: 210mm;
+            height: 297mm;
+            margin: 20px auto;
+            background: #fff;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            padding: 60px;
+        }
+
+        /* Design accent lines */
+        .line-top {
+            position: absolute;
+            top: 40px;
+            left: 40px;
+            right: 40px;
+            height: 1px;
+            background: #b87333;
+            /* Copper */
+        }
+
+        .line-bottom {
+            position: absolute;
+            bottom: 40px;
+            left: 40px;
+            right: 40px;
+            height: 1px;
+            background: #b87333;
+        }
+
+        /* Typography */
+        h1 {
+            font-family: 'Bodoni Moda', serif;
+            font-size: 80px;
+            line-height: 0.8;
+            font-weight: 900;
+            letter-spacing: -0.05em;
+            margin-bottom: 20px;
+            color: #111;
+        }
+
+        h1 span {
+            font-size: 24px;
+            font-family: 'Noto Sans JP', sans-serif;
+            font-weight: 300;
+            letter-spacing: 0.2em;
+            display: block;
+            margin-bottom: 10px;
+            color: #b87333;
+        }
+
+        .lead {
+            font-size: 14px;
+            line-height: 2;
+            text-align: justify;
+            margin-bottom: 50px;
+            padding-left: 100px;
+            /* Indent looking vibe */
+            border-left: 2px solid #b87333;
+            color: #444;
+        }
+
+        /* The 3 Apps - Minimalist List */
+        .apps-list {
+            margin-bottom: 60px;
+        }
+
+        .app-item {
+            display: flex;
+            align-items: baseline;
+            justify-content: space-between;
+            border-bottom: 1px solid #eee;
+            padding: 15px 0;
+        }
+
+        .app-item:first-child {
+            border-top: 1px solid #111;
+        }
+
+        .app-item:last-child {
+            border-bottom: 1px solid #111;
+        }
+
+        .app-title {
+            font-family: 'Bodoni Moda', serif;
+            font-size: 28px;
+            font-style: italic;
+            width: 30%;
+        }
+
+        .app-detail {
+            font-size: 12px;
+            width: 65%;
+            color: #555;
+        }
+
+        /* Offer Area */
+        .offer-area {
+            background: #111;
+            color: #fff;
+            padding: 40px;
+            position: relative;
+            margin-top: auto;
+        }
+
+        .offer-area::after {
+            content: '';
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            right: 10px;
+            bottom: 10px;
+            border: 1px solid rgba(184, 115, 51, 0.5);
+            pointer-events: none;
+        }
+
+        .offer-label {
+            font-size: 10px;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: #b87333;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        .price-display {
+            font-family: 'Bodoni Moda', serif;
+            font-size: 48px;
+            line-height: 1;
+            margin-bottom: 5px;
+        }
+
+        .price-display span {
+            font-size: 20px;
+            font-style: italic;
+        }
+
+        .offer-desc {
+            font-size: 12px;
+            color: #aaa;
+            margin-top: 10px;
+        }
+
+        /* Footer */
+        .brand-footer {
+            margin-top: 30px;
+            text-align: right;
+            font-family: 'Bodoni Moda', serif;
+            font-weight: 700;
+            font-size: 14px;
+            letter-spacing: 0.1em;
+        }
+
+        .contact {
+            text-align: right;
+            font-size: 10px;
+            color: #888;
+            margin-top: 5px;
+        }
+
+        @media print {
+            body {
+                background: none;
+            }
+
+            .page {
+                margin: 0;
+                box-shadow: none;
+                padding: 40px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <div class="line-top"></div>
+
+        <header>
+            <h1>
+                <span>PREMIUM CURRICULUM</span>
+                EIKEN<br>MASTERY
+            </h1>
+        </header>
+
+        <div class="lead">
+            <p>
+                選ばれた環境で、最上の結果を。<br>
+                ベテラン講師の経験則と、最新技術の融合。<br>
+                最短で合格へと導く、至高の読解メソッド。<br>
+                それは、単なる学習ではなく、知的財産の獲得です。
+            </p>
+        </div>
+
+        <div class="apps-list">
+            <div class="app-item">
+                <div class="app-title">01. Vocabulary</div>
+                <div class="app-detail">文脈内定着による、語彙力の完全な再構築。</div>
+            </div>
+            <div class="app-item">
+                <div class="app-title">02. Context</div>
+                <div class="app-detail">論理的思考による、空所補充問題の攻略。</div>
+            </div>
+            <div class="app-item">
+                <div class="app-title">03. Reading</div>
+                <div class="app-detail">構造解析による、長文読解の視覚化と理解。</div>
+            </div>
+        </div>
+
+        <div class="offer-area">
+            <span class="offer-label">Exclusive Invitation</span>
+            <div class="price-display">
+                Free Access <span>until March 2026</span>
+            </div>
+            <div class="offer-desc">
+                対象: 個別指導受講生 (月額 ¥19,600〜)<br>
+                通常アプリ利用料 (¥4,235〜) が期間限定で無料となります。
+            </div>
+        </div>
+
+        <div class="brand-footer">
+            ECC BESTONE <span style="font-weight:400; color:#b87333;">//</span> Aizumi & Kitajima
+        </div>
+        <div class="contact">
+            Contact: 088-660-5561 (Enrollment Fee May Apply)
+        </div>
+
+        <div class="line-bottom"></div>
+    </div>
+</body>
+
+</html>

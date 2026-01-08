@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 
-export function PassagePanel({ content, title, targetSentenceId, keywordMatches, isTargetHighlighted, manualHighlightId, onSentenceClick, hintHighlightWord, hintHighlightSentenceId }) {
+export function PassagePanel({ content, title, targetSentenceId, keywordMatches, isTargetHighlighted, manualHighlightId, onSentenceClick, hintHighlightWord, hintHighlightSentenceId, similarProblems }) {
     const sectionRefs = useRef({});
     const [popupInfo, setPopupInfo] = useState(null);
 
@@ -149,6 +149,34 @@ export function PassagePanel({ content, title, targetSentenceId, keywordMatches,
                     })}
                 </div>
             ))}
+
+            {similarProblems && (
+                <div className="similar-problems" style={{
+                    marginTop: '2rem',
+                    paddingTop: '1rem',
+                    borderTop: '1px solid #e2e8f0',
+                    fontSize: '0.9rem',
+                    color: '#64748b',
+                    fontFamily: '"Noto Sans JP", sans-serif',
+                    textAlign: 'right'
+                }}>
+                    <span style={{
+                        fontWeight: '700',
+                        color: '#334155',
+                        marginRight: '0.5em'
+                    }}>類題：</span>
+                    {typeof similarProblems === 'string' ? (
+                        similarProblems
+                    ) : (
+                        <>
+                            {similarProblems.exam}
+                            <span style={{ marginLeft: '0.5em', fontStyle: 'italic' }}>
+                                {similarProblems.title}
+                            </span>
+                        </>
+                    )}
+                </div>
+            )}
 
             {popupInfo && (
                 <div

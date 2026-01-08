@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英検®合格保証カリキュラム - Smart</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700;900&family=Noto+Sans+JP:wght@300;400;500;700;900&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background: #f0f2f5;
+            min-height: 100vh;
+            color: #1d1d1f;
+            -webkit-print-color-adjust: exact;
+        }
+
+        .page {
+            width: 297mm;
+            height: 210mm;
+            margin: 20px auto;
+            background: #fff;
+            position: relative;
+            overflow: hidden;
+            display: grid;
+            grid-template-columns: 35% 65%;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Left Sidebar */
+        .sidebar {
+            background: linear-gradient(145deg, #10b981, #059669);
+            color: white;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: relative;
+        }
+
+        .sidebar::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            width: 100px;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1));
+            pointer-events: none;
+        }
+
+        .brand {
+            font-size: 14px;
+            letter-spacing: 0.2em;
+            opacity: 0.8;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            font-size: 52px;
+            font-weight: 900;
+            line-height: 1;
+            margin-bottom: 20px;
+            letter-spacing: -0.05em;
+        }
+
+        h1 span {
+            font-size: 0.5em;
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 500;
+            letter-spacing: 0.1em;
+        }
+
+        .elevator-pitch {
+            font-size: 16px;
+            line-height: 1.8;
+            font-weight: 300;
+            border-top: 1px solid rgba(255, 255, 255, 0.3);
+            padding-top: 20px;
+        }
+
+        .tagline {
+            margin-top: auto;
+            font-weight: 700;
+            font-size: 18px;
+            background: rgba(0, 0, 0, 0.2);
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        /* Right Content */
+        .main-area {
+            padding: 40px 50px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Flow Diagram */
+        .flow-container {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 30px;
+            align-items: stretch;
+        }
+
+        .flow-step {
+            flex: 1;
+            background: #f8fafc;
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid #e2e8f0;
+            position: relative;
+            transition: transform 0.2s;
+        }
+
+        .flow-step:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+            border-color: #10b981;
+        }
+
+        .step-num {
+            font-family: 'Roboto', sans-serif;
+            font-size: 40px;
+            font-weight: 900;
+            color: #e2e8f0;
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            line-height: 1;
+        }
+
+        .step-title {
+            font-size: 18px;
+            font-weight: 700;
+            color: #059669;
+            margin-bottom: 10px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .step-desc {
+            font-size: 12px;
+            color: #64748b;
+            line-height: 1.6;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Features */
+        .features-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: auto;
+        }
+
+        .feature-item h3 {
+            font-size: 16px;
+            margin-bottom: 8px;
+            color: #1e293b;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .feature-item p {
+            font-size: 13px;
+            color: #475569;
+            line-height: 1.6;
+            text-align: justify;
+        }
+
+        .icon {
+            color: #10b981;
+        }
+
+        /* Pricing Banner */
+        .pricing-banner {
+            background: #1e293b;
+            color: white;
+            border-radius: 16px;
+            padding: 20px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .price-label {
+            font-size: 14px;
+            color: #94a3b8;
+            margin-bottom: 5px;
+        }
+
+        .price-value {
+            font-size: 28px;
+            font-weight: 700;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .price-sub {
+            font-size: 12px;
+            color: #94a3b8;
+        }
+
+        .campaign-badge {
+            background: #ef4444;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 14px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.05);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        /* Footer Info */
+        .footer-info {
+            margin-top: 15px;
+            font-size: 10px;
+            color: #94a3b8;
+            text-align: right;
+        }
+
+        @media print {
+            body {
+                background: white;
+            }
+
+            .page {
+                margin: 0;
+                box-shadow: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <!-- Left Sidebar -->
+        <aside class="sidebar">
+            <div class="brand">ECC BESTONE AIZUMI & KITAJIMA</div>
+            <h1><span>THE SHORTEST WAY</span>TO SUCCESS</h1>
+            <div class="elevator-pitch">
+                <p>
+                    ベテラン講師の「指導の集大成」がここにある。<br><br>
+                    3つの専用アプリと個別指導を組み合わせた、<br>
+                    他にはない「最強の読解カリキュラム」。<br><br>
+                    最短6ヶ月で、英語脳をアップデートする。
+                </p>
+            </div>
+            <div class="tagline">
+                2026年3月末まで<br>アプリ利用料 完全無料
+            </div>
+        </aside>
+
+        <!-- Right Content -->
+        <main class="main-area">
+
+            <div style="margin-bottom: 20px;">
+                <h2 style="font-size: 20px; color: #1e293b; margin-bottom: 15px; font-weight: 700;">3 Steps to Mastery
+                </h2>
+                <div class="flow-container">
+                    <div class="flow-step">
+                        <div class="step-num">01</div>
+                        <div class="step-title">Vocabulary</div>
+                        <div class="step-desc">
+                            <strong>語彙力強化</strong><br>
+                            単語帳だけの暗記はもう終わり。文脈の中で「使える語彙」として定着させる。
+                        </div>
+                    </div>
+                    <div class="flow-step">
+                        <div class="step-num">02</div>
+                        <div class="step-title">Context</div>
+                        <div class="step-desc">
+                            <strong>文脈把握</strong><br>
+                            空所補充問題のロジックを解明。前後の文脈から正解を導き出す思考法。
+                        </div>
+                    </div>
+                    <div class="flow-step">
+                        <div class="step-num">03</div>
+                        <div class="step-title">Reading</div>
+                        <div class="step-desc">
+                            <strong>構造読解</strong><br>
+                            SVOC解析による精読。なんとなくの理解を、論理的な確信へと変える。
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="features-grid">
+                <div class="feature-item">
+                    <h3><span class="icon">★</span> 個別指導 × テクノロジー</h3>
+                    <p>講師によるきめ細かな個別指導（19,600円〜）に加え、自立学習を最適化するアプリ（4,235円〜）で、学習密度を最大化します。</p>
+                </div>
+                <div class="feature-item">
+                    <h3><span class="icon">★</span> 合格保証レベルの設計</h3>
+                    <p>長年の入試分析に基づく良問データベース。最短距離で合格ラインを超えるための「王道の近道」です。</p>
+                </div>
+            </div>
+
+            <div class="pricing-banner">
+                <div>
+                    <div class="price-label">Monthly Tuition (Private Lesson)</div>
+                    <div class="price-value">¥19,600 <span style="font-size:0.5em; font-weight:400;">~ ¥22,969</span>
+                    </div>
+                    <div class="price-sub">※学年により異なります</div>
+                </div>
+                <div style="text-align: right;">
+                    <div class="price-label">App Subscription</div>
+                    <div class="campaign-badge">FREE until 2026/03</div>
+                    <div class="price-sub" style="margin-top:5px; text-decoration: line-through;">Usually ¥4,235 ~
+                        ¥5,082</div>
+                </div>
+            </div>
+
+            <div class="footer-info">
+                ※別途入学金が必要な場合がございます。詳細はお問い合わせください。 | ECCベストワン 藍住・北島中央校
+            </div>
+        </main>
+    </div>
+</body>
+
+</html>

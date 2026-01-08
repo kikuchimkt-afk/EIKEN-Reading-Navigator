@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英検®合格保証カリキュラム - Premium</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;700;800&family=Noto+Serif+JP:wght@300;400;600;900&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Noto Serif JP', serif;
+            background: #111;
+            min-height: 100vh;
+            color: #333;
+            -webkit-print-color-adjust: exact;
+        }
+
+        .page {
+            width: 210mm;
+            height: 297mm;
+            margin: 20px auto;
+            background: #fff;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Hero Image Background */
+        .hero-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 45%;
+            /* Cover top portion */
+            overflow: hidden;
+            z-index: 0;
+        }
+
+        .hero-bg img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center 20%;
+            filter: brightness(0.4) sepia(0.2);
+            /* Darkened for text legibility */
+        }
+
+        .hero-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 50%;
+            background: linear-gradient(to bottom, transparent, #fff);
+        }
+
+        /* Header */
+        header {
+            position: relative;
+            z-index: 10;
+            padding: 40px 30px 20px;
+            text-align: center;
+            color: #fff;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
+        }
+
+        .eyebrow {
+            font-family: 'Shippori Mincho', serif;
+            font-size: 14px;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: #d4af37;
+            margin-bottom: 15px;
+            display: block;
+        }
+
+        h1 {
+            font-family: 'Shippori Mincho', serif;
+            font-size: 42px;
+            font-weight: 500;
+            letter-spacing: 0.05em;
+            line-height: 1.3;
+            margin-bottom: 20px;
+            background: linear-gradient(45deg, #ebd197, #fff, #b38728);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            text-shadow: none;
+            /* Removed shadow for gradient text */
+            filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.5));
+        }
+
+        .guarantee {
+            display: inline-block;
+            border: 1px solid rgba(212, 175, 55, 0.6);
+            padding: 6px 20px;
+            font-size: 12px;
+            letter-spacing: 0.2em;
+            background: rgba(0, 0, 0, 0.4);
+            backdrop-filter: blur(5px);
+            color: #d4af37;
+        }
+
+        /* Main Content */
+        .content {
+            flex-grow: 1;
+            padding: 20px 40px 30px;
+            display: flex;
+            flex-direction: column;
+            gap: 25px;
+            z-index: 10;
+            /* background: #fff; transparent to show gradient fade */
+        }
+
+        .lead-text {
+            font-size: 14px;
+            line-height: 2;
+            text-align: center;
+            color: #333;
+            font-feature-settings: "palt";
+            margin-top: 20px;
+            font-weight: 500;
+        }
+
+        /* 3 Apps Visual - Photo Cards */
+        .trinity-section {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-top: 10px;
+        }
+
+        .app-card {
+            position: relative;
+            height: 200px;
+            border-radius: 4px;
+            overflow: hidden;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+
+        .app-card img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s;
+        }
+
+        .app-card-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(to top, rgba(0, 0, 0, 0.9), transparent);
+            color: white;
+            text-align: left;
+        }
+
+        .app-num {
+            font-size: 10px;
+            color: #d4af37;
+            display: block;
+            margin-bottom: 2px;
+        }
+
+        .app-name {
+            font-size: 18px;
+            font-family: 'Shippori Mincho', serif;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        .app-desc {
+            font-size: 10px;
+            opacity: 0.9;
+            line-height: 1.4;
+        }
+
+        /* Offer Section */
+        .offer-section {
+            background: #fff;
+            color: #111;
+            padding: 25px;
+            text-align: center;
+            border: 2px solid #d4af37;
+            position: relative;
+            margin-top: auto;
+        }
+
+        .price-main {
+            font-size: 32px;
+            font-family: 'Shippori Mincho', serif;
+            color: #c0392b;
+            /* Accent Red */
+            margin: 5px 0;
+            font-weight: bold;
+        }
+
+        .price-sub {
+            font-size: 13px;
+            color: #666;
+            margin-bottom: 5px;
+        }
+
+        .conditions {
+            border-top: 1px dashed #ccc;
+            margin-top: 15px;
+            padding-top: 15px;
+            font-size: 11px;
+            text-align: center;
+            color: #555;
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+        }
+
+        /* Footer */
+        footer {
+            padding: 15px 40px 25px;
+            background: #fbfbfb;
+            border-top: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 11px;
+            color: #888;
+            flex-shrink: 0;
+            z-index: 20;
+        }
+
+        .footer-logo {
+            font-size: 16px;
+            color: #000;
+            font-family: 'Shippori Mincho', serif;
+            letter-spacing: 0.1em;
+        }
+
+        @media print {
+            body {
+                background: none;
+            }
+
+            .page {
+                margin: 0;
+                box-shadow: none;
+                border: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <div class="hero-bg">
+            <!-- Hero Image: Student Studying -->
+            <img src="assets/student.png" alt="Student Studying">
+            <div class="hero-overlay"></div>
+        </div>
+
+        <header>
+            <span class="eyebrow">ECC BestOne Aizumi & Kitajima Chuo</span>
+            <h1>英検<span style="font-size:0.6em; vertical-align: super;">®</span>合格への<br>至高の最短ルート</h1>
+            <div class="guarantee">GUARANTEED PASS SYSTEM</div>
+        </header>
+
+        <div class="content">
+            <div class="lead-text">
+                ベテラン講師が長年の指導の末にたどり着いた、「合格」への究極の解答。<br>
+                「語彙」「文脈」「論理的読解」。<br>
+                確かな指導力と実績に裏打ちされた、<strong>「3つのアプリによる最強のカリキュラム」</strong>が、<br>
+                あなたのお子様を確実に次のステージへと導きます。
+            </div>
+
+            <section class="trinity-section">
+                <!-- Card 1: Vocab -->
+                <div class="app-card">
+                    <img src="assets/textbook.png" alt="Vocabulary">
+                    <div class="app-card-overlay">
+                        <span class="app-num">01</span>
+                        <div class="app-name">語彙力</div>
+                        <div class="app-desc">頻出単語を文脈の中で完全定着。<br>大問1を瞬時に攻略する基礎体力。</div>
+                    </div>
+                </div>
+                <!-- Card 2: Context -->
+                <div class="app-card">
+                    <img src="assets/classroom.png" alt="Context">
+                    <div class="app-card-overlay">
+                        <span class="app-num">02</span>
+                        <div class="app-name">文脈力</div>
+                        <div class="app-desc">前後の論理から空所を埋める。<br>文法知識と読解の架け橋。</div>
+                    </div>
+                </div>
+                <!-- Card 3: Reading -->
+                <div class="app-card">
+                    <img src="assets/teacher.png" alt="Reading">
+                    <div class="app-card-overlay">
+                        <span class="app-num">03</span>
+                        <div class="app-name">読解力</div>
+                        <div class="app-desc">SVOC構造解析で精読。<br>設問の意図を論理的に解き明かす。</div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="offer-section">
+                <div style="font-family:'Shippori Mincho'; font-size:16px; margin-bottom:5px;">先行導入特別キャンペーン</div>
+                <div class="price-sub">通常 月額 4,235円〜5,082円 のところ</div>
+                <div class="price-main">2026年3月末まで完全無料</div>
+                <div style="font-size:11px; margin-top:5px; color:#d4af37; letter-spacing:1px;">LIMITED TIME OFFER</div>
+
+                <div class="conditions">
+                    <div>
+                        <strong>[対象]</strong> 個別指導受講生 (小1〜高3)
+                    </div>
+                    <div>
+                        <strong>[授業料]</strong> 19,600円 〜 22,969円/月
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <footer>
+            <div class="footer-logo">ECCベストワン 藍住・北島中央校</div>
+            <div>お問い合わせ: 088-660-5561</div>
+        </footer>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英検®合格保証カリキュラム - Smart</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700;900&family=Noto+Sans+JP:wght@300;400;500;700;900&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background: #f0f2f5;
+            min-height: 100vh;
+            color: #1d1d1f;
+            -webkit-print-color-adjust: exact;
+        }
+
+        .page {
+            width: 297mm;
+            height: 210mm;
+            margin: 20px auto;
+            background: #fff;
+            position: relative;
+            overflow: hidden;
+            display: grid;
+            grid-template-columns: 40% 60%;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Left Sidebar with Image */
+        .sidebar {
+            position: relative;
+            color: white;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        .sidebar-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+        }
+
+        .sidebar-bg img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            /* Student image for vertical/sidebar aspect */
+            object-position: center;
+        }
+
+        .sidebar-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(16, 185, 129, 0.85);
+            /* Semi-transparent Green overlay */
+            z-index: 1;
+        }
+
+        .sidebar-content {
+            position: relative;
+            z-index: 2;
+        }
+
+        .brand {
+            font-size: 14px;
+            letter-spacing: 0.2em;
+            opacity: 0.9;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+
+        h1 {
+            font-size: 52px;
+            font-weight: 900;
+            line-height: 1;
+            margin-bottom: 30px;
+            letter-spacing: -0.05em;
+        }
+
+        h1 span {
+            font-size: 0.5em;
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 500;
+            letter-spacing: 0.1em;
+        }
+
+        .elevator-pitch {
+            font-size: 16px;
+            line-height: 1.8;
+            font-weight: 300;
+        }
+
+        /* Right Content */
+        .main-area {
+            padding: 40px 50px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        /* Photo Cards Flow */
+        .flow-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .flow-card {
+            background: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            border: 1px solid #e2e8f0;
+        }
+
+        .flow-img {
+            height: 100px;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .flow-img img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .flow-content {
+            padding: 15px;
+        }
+
+        .step-num {
+            font-size: 10px;
+            font-weight: bold;
+            color: #10b981;
+            margin-bottom: 2px;
+        }
+
+        .step-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: #1e293b;
+            margin-bottom: 5px;
+        }
+
+        .step-desc {
+            font-size: 11px;
+            color: #64748b;
+            line-height: 1.4;
+        }
+
+        /* Features & Pricing */
+        .features-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .pricing-box {
+            background: #1e293b;
+            color: white;
+            border-radius: 12px;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .price-val {
+            font-size: 32px;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 700;
+        }
+
+        .campaign-badge {
+            background: #ef4444;
+            color: white;
+            padding: 5px 12px;
+            font-size: 12px;
+            border-radius: 20px;
+            display: inline-block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        .price-note {
+            font-size: 10px;
+            opacity: 0.7;
+        }
+
+        @media print {
+            body {
+                background: white;
+            }
+
+            .page {
+                margin: 0;
+                box-shadow: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <!-- Left Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-bg">
+                <!-- Sidebar Photo: Student -->
+                <img src="assets/student.png" alt="Student">
+            </div>
+            <div class="sidebar-overlay"></div>
+
+            <div class="sidebar-content">
+                <div class="brand">ECC BESTONE AIZUMI & KITAJIMA</div>
+                <h1><span>THE SHORTEST WAY</span>TO SUCCESS</h1>
+                <div class="elevator-pitch">
+                    <p>
+                        ベテラン講師の「指導の集大成」。<br>
+                        3つの専用アプリ×個別指導。<br>
+                        他にはない「最強のカリキュラム」で<br>
+                        最短6ヶ月で英語脳をアップデート。
+                    </p>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Right Content -->
+        <main class="main-area">
+
+            <div>
+                <h2 style="font-size: 24px; color: #1e293b; margin-bottom: 20px; font-weight: 700;">3 Steps to Mastery
+                </h2>
+                <div class="flow-container">
+                    <!-- Step 1 -->
+                    <div class="flow-card">
+                        <div class="flow-img"><img src="assets/textbook.png" alt="Vocab"></div>
+                        <div class="flow-content">
+                            <div class="step-num">Step 01</div>
+                            <div class="step-title">Vocabulary</div>
+                            <div class="step-desc">文脈の中で「使える語彙」として完全定着。</div>
+                        </div>
+                    </div>
+                    <!-- Step 2 -->
+                    <div class="flow-card">
+                        <div class="flow-img"><img src="assets/classroom.png" alt="Context"></div>
+                        <div class="flow-content">
+                            <div class="step-num">Step 02</div>
+                            <div class="step-title">Context</div>
+                            <div class="step-desc">前後の文脈から正解を導く論理的思考法。</div>
+                        </div>
+                    </div>
+                    <!-- Step 3 -->
+                    <div class="flow-card">
+                        <div class="flow-img"><img src="assets/teacher.png" alt="Reading"></div>
+                        <div class="flow-content">
+                            <div class="step-num">Step 03</div>
+                            <div class="step-title">Reading</div>
+                            <div class="step-desc">SVOC解析で、なんとなくの理解を確信へ。</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="features-grid">
+                <div>
+                    <h3 style="font-size:16px; margin-bottom:10px; color:#059669;">★ The Strongest Curriculum</h3>
+                    <p style="font-size:13px; color:#475569; line-height:1.6;">
+                        講師によるきめ細かな個別指導に加え、自立学習を最適化するアプリで、学習密度を最大化します。
+                    </p>
+                </div>
+                <div>
+                    <h3 style="font-size:16px; margin-bottom:10px; color:#059669;">★ Proven Track Record</h3>
+                    <p style="font-size:13px; color:#475569; line-height:1.6;">
+                        長年の入試分析に基づく良問データベース。最短距離で合格ラインを超えるための王道ルート。
+                    </p>
+                </div>
+            </div>
+
+            <div class="pricing-box">
+                <div>
+                    <div class="price-note">Monthly Private Lesson</div>
+                    <div class="price-val" style="font-size:24px;">¥19,600 ~</div>
+                </div>
+                <div style="font-size:24px; color:#64748b;">+</div>
+                <div>
+                    <div class="campaign-badge">FREE until 2026/03</div>
+                    <div class="price-note">App Subscription (Usually ¥4,235~)</div>
+                    <div class="price-val">¥0</div>
+                </div>
+            </div>
+
+            <div style="text-align: right; font-size: 10px; color: #94a3b8; margin-top: 10px;">
+                ※別途入学金が必要な場合がございます。詳細はお問い合わせください。
+            </div>
+        </main>
+    </div>
+</body>
+
+</html>

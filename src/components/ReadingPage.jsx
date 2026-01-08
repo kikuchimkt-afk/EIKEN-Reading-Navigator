@@ -336,6 +336,7 @@ export function ReadingPage({ passage, onBack, isStudentMode = false }) {
                     <PassagePanel
                         content={passage.content}
                         title={passage.title}
+                        similarProblems={passage.similarProblems}
                         targetSentenceId={targetSentenceId}
                         keywordMatches={keywordMatches}
                         isTargetHighlighted={isTargetHighlighted}

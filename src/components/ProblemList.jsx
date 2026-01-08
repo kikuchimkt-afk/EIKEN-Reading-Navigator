@@ -203,6 +203,15 @@ export function ProblemList({ onSelectPassage, activeGrade, onGradeChange }) {
                                     <p>${para.sentences.map(s => s.text).join(' ')}</p>
                                 `).join('')}
                             </div>
+                            ${passage.similarProblems ? `
+                                <div style="margin-top: 10mm; padding-top: 5mm; border-top: 1px solid #ccc; text-align: right; font-size: 9pt; color: #666;">
+                                    <span style="font-weight: bold; margin-right: 0.5em;">類題：</span>
+                                    ${typeof passage.similarProblems === 'string'
+                        ? passage.similarProblems
+                        : `${passage.similarProblems.exam} <span style="font-style: italic; margin-left: 0.5em;">${passage.similarProblems.title}</span>`
+                    }
+                                </div>
+                            ` : ''}
                         </div>
 
                         <!-- 右カラム：設問 -->
@@ -234,9 +243,9 @@ export function ProblemList({ onSelectPassage, activeGrade, onGradeChange }) {
                             <div class="answer-footer">
                                 <b>正解:</b>
                                 ${passage.questions.map((q, idx) => {
-                const correctIndex = q.choices.findIndex(c => c.isCorrect) + 1;
-                return `<span>(${q.id || idx + 1}) ${correctIndex}</span>`;
-            }).join('')}
+                        const correctIndex = q.choices.findIndex(c => c.isCorrect) + 1;
+                        return `<span>(${q.id || idx + 1}) ${correctIndex}</span>`;
+                    }).join('')}
                             </div>
                         </div>
                     </div>
@@ -432,7 +441,215 @@ export function ProblemList({ onSelectPassage, activeGrade, onGradeChange }) {
                     })}
                 </div>
 
-                {/* 現在の級のヘッダー */}
+                {/* Original Questions Section */}
+                {filteredPassages.some(p => p.isOriginal) && (
+                    <div style={{ maxWidth: '1200px', margin: '0 auto 3rem auto' }}>
+                        <div style={{
+                            display: 'flex',
+                            alignItems: 'center',
+                            gap: '1rem',
+                            paddingLeft: '0.5rem',
+                            marginBottom: '1.5rem'
+                        }}>
+                            <div style={{
+                                width: '4px',
+                                height: '28px',
+                                background: '#f43f5e', // distinct color for original
+                                borderRadius: '2px',
+                                boxShadow: `0 0 12px #f43f5e`
+                            }} />
+                            <h2 style={{
+                                color: '#f1f5f9',
+                                fontSize: '1.35rem',
+                                fontWeight: '600',
+                                margin: 0,
+                                letterSpacing: '0.03em'
+                            }}>
+                                英検{currentGradeConfig.filter} オリジナル問題
+                            </h2>
+                        </div>
+                        <div style={{
+                            display: 'grid',
+                            gridTemplateColumns: 'repeat(3, 1fr)',
+                            gap: '1.25rem'
+                        }}>
+                            {filteredPassages.filter(p => p.isOriginal).map((passage) => {
+                                const year = extractYear(passage.subTitle);
+                                const examInfo = passage.isOriginal ? passage.subTitle : extractExamInfo(passage.subTitle);
+                                const yearColor = getYearColor(year);
+
+                                return (
+                                    <div
+                                        key={passage.id}
+                                        style={{
+                                            background: 'rgba(255, 255, 255, 0.08)',
+                                            backdropFilter: 'blur(16px)',
+                                            borderRadius: '16px',
+                                            padding: '1.5rem',
+                                            border: '1px solid rgba(244, 63, 94, 0.3)', // Red border for original
+                                            boxShadow: '0 8px 32px rgba(0,0,0,0.2)',
+                                            transition: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
+                                            cursor: 'default',
+                                            position: 'relative',
+                                            overflow: 'hidden' // Ensure badge doesn't overflow if positioned at edge
+                                        }}
+                                        onMouseEnter={e => {
+                                            e.currentTarget.style.transform = 'translateY(-4px)';
+                                            e.currentTarget.style.background = 'rgba(255, 255, 255, 0.12)';
+                                            e.currentTarget.style.borderColor = 'rgba(244, 63, 94, 0.5)';
+                                        }}
+                                        onMouseLeave={e => {
+                                            e.currentTarget.style.transform = 'none';
+                                            e.currentTarget.style.background = 'rgba(255, 255, 255, 0.08)';
+                                            e.currentTarget.style.borderColor = 'rgba(244, 63, 94, 0.3)';
+                                        }}
+                                    >
+                                        {/* Genre Badge */}
+                                        {passage.genre && (
+                                            <div style={{
+                                                position: 'absolute',
+                                                top: '1rem',
+                                                right: '1rem',
+                                                background: '#f97316',
+                                                color: '#ffffff',
+                                                padding: '0.3rem 0.8rem',
+                                                borderRadius: '20px',
+                                                fontSize: '0.75rem',
+                                                fontWeight: 'bold',
+                                                boxShadow: '0 2px 8px rgba(249, 115, 22, 0.4)',
+                                                display: 'flex',
+                                                alignItems: 'center',
+                                                gap: '6px',
+                                                zIndex: 10
+                                            }}>
+                                                <span style={{ width: '6px', height: '6px', borderRadius: '50%', background: '#ffffff' }}></span>
+                                                {passage.genre}
+                                            </div>
+                                        )}
+                                        {/* Card Header: Badge + Info */}
+                                        <div style={{
+                                            display: 'flex',
+                                            alignItems: 'center',
+                                            gap: '0.85rem',
+                                            marginBottom: '0.85rem'
+                                        }}>
+                                            {/* Question Count Badge - Green outline only */}
+                                            {passage.questions && passage.questions.length > 0 && (
+                                                <span style={{
+                                                    background: 'transparent',
+                                                    color: '#22c55e',
+                                                    padding: '0.35rem 0.75rem',
+                                                    borderRadius: '8px',
+                                                    fontSize: '0.85rem',
+                                                    fontWeight: '700',
+                                                    border: '2.5px solid #22c55e',
+                                                    letterSpacing: '0.04em'
+                                                }}>
+                                                    {passage.questions.length}設問
+                                                </span>
+                                            )}
+                                            <span style={{
+                                                color: '#f1f5f9',
+                                                fontSize: '1.1rem',
+                                                fontWeight: '600',
+                                                letterSpacing: '0.02em'
+                                            }}>
+                                                {examInfo}
+                                            </span>
+                                        </div>
+
+                                        {/* Title */}
+                                        <h3 style={{
+                                            color: 'rgba(255,255,255,0.7)',
+                                            fontSize: '0.95rem',
+                                            fontWeight: '500',
+                                            margin: '0 0 1.35rem 0',
+                                            fontStyle: 'italic',
+                                            lineHeight: '1.5'
+                                        }}>
+                                            {passage.title}
+                                        </h3>
+
+                                        {/* Buttons */}
+                                        <div style={{
+                                            display: 'flex',
+                                            gap: '0.75rem'
+                                        }}>
+                                            <button
+                                                onClick={() => onSelectPassage(passage.id)}
+                                                style={{
+                                                    flex: 1,
+                                                    display: 'flex',
+                                                    alignItems: 'center',
+                                                    justifyContent: 'center',
+                                                    gap: '0.5rem',
+                                                    padding: '0.8rem 1rem',
+                                                    background: 'transparent',
+                                                    backdropFilter: 'blur(8px)',
+                                                    color: BUTTON_COLORS.guide.color,
+                                                    border: `2.5px solid ${BUTTON_COLORS.guide.color}`,
+                                                    borderRadius: '10px',
+                                                    fontWeight: '600',
+                                                    cursor: 'pointer',
+                                                    fontSize: '0.9rem',
+                                                    transition: 'all 0.25s ease',
+                                                    letterSpacing: '0.03em'
+                                                }}
+                                                onMouseOver={e => {
+                                                    e.currentTarget.style.background = BUTTON_COLORS.guide.hoverBg;
+                                                    e.currentTarget.style.transform = 'translateY(-2px)';
+                                                }}
+                                                onMouseOut={e => {
+                                                    e.currentTarget.style.background = 'transparent';
+                                                    e.currentTarget.style.transform = 'none';
+                                                }}
+                                            >
+                                                <BookText size={18} />
+                                                指導書
+                                            </button>
+                                            <button
+                                                onClick={() => handlePrint(passage)}
+                                                style={{
+                                                    flex: 1,
+                                                    display: 'flex',
+                                                    alignItems: 'center',
+                                                    justifyContent: 'center',
+                                                    gap: '0.5rem',
+                                                    padding: '0.8rem 1rem',
+                                                    background: 'transparent',
+                                                    backdropFilter: 'blur(8px)',
+                                                    color: BUTTON_COLORS.print.color,
+                                                    border: '2.5px solid rgba(255,255,255,0.5)',
+                                                    borderRadius: '10px',
+                                                    fontWeight: '600',
+                                                    cursor: 'pointer',
+                                                    fontSize: '0.9rem',
+                                                    transition: 'all 0.25s ease',
+                                                    letterSpacing: '0.03em'
+                                                }}
+                                                onMouseOver={e => {
+                                                    e.currentTarget.style.background = BUTTON_COLORS.print.hoverBg;
+                                                    e.currentTarget.style.borderColor = 'rgba(255,255,255,0.7)';
+                                                    e.currentTarget.style.transform = 'translateY(-2px)';
+                                                }}
+                                                onMouseOut={e => {
+                                                    e.currentTarget.style.background = 'transparent';
+                                                    e.currentTarget.style.borderColor = 'rgba(255,255,255,0.5)';
+                                                    e.currentTarget.style.transform = 'none';
+                                                }}
+                                            >
+                                                <Printer size={18} />
+                                                印刷
+                                            </button>
+                                        </div>
+                                    </div>
+                                );
+                            })}
+                        </div>
+                    </div>
+                )}
+
+                {/* Past Exams Section Header */}
                 <div style={{
                     maxWidth: '1200px',
                     margin: '0 auto 1.5rem auto',
@@ -455,183 +672,235 @@ export function ProblemList({ onSelectPassage, activeGrade, onGradeChange }) {
                         margin: 0,
                         letterSpacing: '0.03em'
                     }}>
-                        英検{currentGradeConfig.filter}
+                        英検{currentGradeConfig.filter} 過去問
                     </h2>
                 </div>
 
-                {/* 問題グリッド */}
-                <div style={{
-                    maxWidth: '1200px',
-                    margin: '0 auto',
-                    display: 'grid',
-                    gridTemplateColumns: 'repeat(auto-fill, minmax(340px, 1fr))',
-                    gap: '1.25rem'
-                }}>
-                    {filteredPassages.length > 0 ? (
-                        filteredPassages.map((passage) => {
-                            const year = extractYear(passage.subTitle);
-                            const examInfo = extractExamInfo(passage.subTitle);
-                            const yearColor = getYearColor(year);
 
-                            return (
-                                <div
-                                    key={passage.id}
-                                    style={{
-                                        background: 'rgba(255, 255, 255, 0.08)',
-                                        backdropFilter: 'blur(16px)',
-                                        borderRadius: '16px',
-                                        padding: '1.5rem',
-                                        border: '1px solid rgba(255,255,255,0.15)',
-                                        boxShadow: '0 8px 32px rgba(0,0,0,0.2)',
-                                        transition: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
-                                        cursor: 'default'
-                                    }}
-                                    onMouseEnter={e => {
-                                        e.currentTarget.style.transform = 'translateY(-4px)';
-                                        e.currentTarget.style.background = 'rgba(255, 255, 255, 0.12)';
-                                        e.currentTarget.style.borderColor = 'rgba(255,255,255,0.25)';
-                                    }}
-                                    onMouseLeave={e => {
-                                        e.currentTarget.style.transform = 'none';
-                                        e.currentTarget.style.background = 'rgba(255, 255, 255, 0.08)';
-                                        e.currentTarget.style.borderColor = 'rgba(255,255,255,0.15)';
-                                    }}
-                                >
-                                    {/* カード上部：年度バッジ + 試験情報 */}
+                {/* Past Exams - Grouped by Year */}
+                {(() => {
+                    const pastExams = filteredPassages.filter(p => !p.isOriginal);
+                    if (pastExams.length === 0) {
+                        return (
+                            <div style={{
+                                maxWidth: '1200px',
+                                margin: '0 auto',
+                                background: 'rgba(255,255,255,0.05)',
+                                backdropFilter: 'blur(12px)',
+                                borderRadius: '16px',
+                                padding: '4rem',
+                                textAlign: 'center',
+                                color: 'rgba(255,255,255,0.6)',
+                                border: '1px dashed rgba(255,255,255,0.2)'
+                            }}>
+                                <p style={{ fontSize: '1.1rem', margin: 0 }}>
+                                    {currentGradeConfig.filter}の過去問は準備中です
+                                </p>
+                            </div>
+                        );
+                    }
+
+                    // Group passages by year
+                    const yearGroups = {};
+                    pastExams.forEach(passage => {
+                        const year = extractYear(passage.subTitle) || 'その他';
+                        if (!yearGroups[year]) {
+                            yearGroups[year] = [];
+                        }
+                        yearGroups[year].push(passage);
+                    });
+
+                    // Sort years in descending order
+                    const sortedYears = Object.keys(yearGroups).sort((a, b) => {
+                        if (a === 'その他') return 1;
+                        if (b === 'その他') return -1;
+                        return parseInt(b) - parseInt(a);
+                    });
+
+                    return sortedYears.map((year, yearIndex) => {
+                        const yearColor = getYearColor(year);
+                        const passages = yearGroups[year];
+
+                        return (
+                            <div key={year} style={{
+                                maxWidth: '1200px',
+                                margin: yearIndex === 0 ? '0 auto 2rem auto' : '2rem auto',
+                            }}>
+                                {/* Year Header */}
+                                <div style={{
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    gap: '0.75rem',
+                                    marginBottom: '1rem',
+                                    paddingLeft: '0.25rem'
+                                }}>
+                                    <span style={{
+                                        background: yearColor.color,
+                                        color: '#1e293b',
+                                        padding: '0.25rem 0.75rem',
+                                        borderRadius: '6px',
+                                        fontSize: '0.9rem',
+                                        fontWeight: '700',
+                                        letterSpacing: '0.03em'
+                                    }}>
+                                        {year}年度
+                                    </span>
+                                    <span style={{
+                                        color: 'rgba(255,255,255,0.5)',
+                                        fontSize: '0.85rem'
+                                    }}>
+                                        {passages.length}問
+                                    </span>
                                     <div style={{
-                                        display: 'flex',
-                                        alignItems: 'center',
-                                        gap: '0.85rem',
-                                        marginBottom: '0.85rem'
-                                    }}>
-                                        {year && (
-                                            <span style={{
-                                                background: 'transparent',
-                                                color: yearColor.color,
-                                                padding: '0.35rem 0.75rem',
-                                                borderRadius: '8px',
-                                                fontSize: '0.85rem',
-                                                fontWeight: '700',
-                                                border: `2.5px solid ${yearColor.color}`,
-                                                letterSpacing: '0.04em'
-                                            }}>
-                                                {year}
-                                            </span>
-                                        )}
-                                        <span style={{
-                                            color: '#f1f5f9',
-                                            fontSize: '1.1rem',
-                                            fontWeight: '600',
-                                            letterSpacing: '0.02em'
-                                        }}>
-                                            {examInfo}
-                                        </span>
-                                    </div>
-
-                                    {/* タイトル */}
-                                    <h3 style={{
-                                        color: 'rgba(255,255,255,0.7)',
-                                        fontSize: '0.95rem',
-                                        fontWeight: '500',
-                                        margin: '0 0 1.35rem 0',
-                                        fontStyle: 'italic',
-                                        lineHeight: '1.5'
-                                    }}>
-                                        {passage.title}
-                                    </h3>
-
-                                    {/* ボタン（全級統一カラー） */}
-                                    <div style={{
-                                        display: 'flex',
-                                        gap: '0.75rem'
-                                    }}>
-                                        <button
-                                            onClick={() => onSelectPassage(passage.id)}
-                                            style={{
-                                                flex: 1,
-                                                display: 'flex',
-                                                alignItems: 'center',
-                                                justifyContent: 'center',
-                                                gap: '0.5rem',
-                                                padding: '0.8rem 1rem',
-                                                background: 'transparent',
-                                                backdropFilter: 'blur(8px)',
-                                                color: BUTTON_COLORS.guide.color,
-                                                border: `2.5px solid ${BUTTON_COLORS.guide.color}`,
-                                                borderRadius: '10px',
-                                                fontWeight: '600',
-                                                cursor: 'pointer',
-                                                fontSize: '0.9rem',
-                                                transition: 'all 0.25s ease',
-                                                letterSpacing: '0.03em'
-                                            }}
-                                            onMouseOver={e => {
-                                                e.currentTarget.style.background = BUTTON_COLORS.guide.hoverBg;
-                                                e.currentTarget.style.transform = 'translateY(-2px)';
-                                            }}
-                                            onMouseOut={e => {
-                                                e.currentTarget.style.background = 'transparent';
-                                                e.currentTarget.style.transform = 'none';
-                                            }}
-                                        >
-                                            <BookText size={18} />
-                                            指導書
-                                        </button>
-                                        <button
-                                            onClick={() => handlePrint(passage)}
-                                            style={{
-                                                flex: 1,
-                                                display: 'flex',
-                                                alignItems: 'center',
-                                                justifyContent: 'center',
-                                                gap: '0.5rem',
-                                                padding: '0.8rem 1rem',
-                                                background: 'transparent',
-                                                backdropFilter: 'blur(8px)',
-                                                color: BUTTON_COLORS.print.color,
-                                                border: '2.5px solid rgba(255,255,255,0.5)',
-                                                borderRadius: '10px',
-                                                fontWeight: '600',
-                                                cursor: 'pointer',
-                                                fontSize: '0.9rem',
-                                                transition: 'all 0.25s ease',
-                                                letterSpacing: '0.03em'
-                                            }}
-                                            onMouseOver={e => {
-                                                e.currentTarget.style.background = BUTTON_COLORS.print.hoverBg;
-                                                e.currentTarget.style.borderColor = 'rgba(255,255,255,0.7)';
-                                                e.currentTarget.style.transform = 'translateY(-2px)';
-                                            }}
-                                            onMouseOut={e => {
-                                                e.currentTarget.style.background = 'transparent';
-                                                e.currentTarget.style.borderColor = 'rgba(255,255,255,0.5)';
-                                                e.currentTarget.style.transform = 'none';
-                                            }}
-                                        >
-                                            <Printer size={18} />
-                                            印刷
-                                        </button>
-                                    </div>
+                                        flex: 1,
+                                        height: '1px',
+                                        background: `linear-gradient(to right, ${yearColor.color}40, transparent)`,
+                                        marginLeft: '0.5rem'
+                                    }} />
                                 </div>
-                            );
-                        })
-                    ) : (
-                        <div style={{
-                            gridColumn: '1 / -1',
-                            background: 'rgba(255,255,255,0.05)',
-                            backdropFilter: 'blur(12px)',
-                            borderRadius: '16px',
-                            padding: '4rem',
-                            textAlign: 'center',
-                            color: 'rgba(255,255,255,0.6)',
-                            border: '1px dashed rgba(255,255,255,0.2)'
-                        }}>
-                            <p style={{ fontSize: '1.1rem', margin: 0 }}>
-                                {currentGradeConfig.filter}の問題は準備中です
-                            </p>
-                        </div>
-                    )}
-                </div>
+
+                                {/* Year's Grid - 3 columns */}
+                                <div style={{
+                                    display: 'grid',
+                                    gridTemplateColumns: 'repeat(3, 1fr)',
+                                    gap: '1.25rem'
+                                }}>
+                                    {passages.map((passage) => {
+                                        const examInfo = extractExamInfo(passage.subTitle);
+
+                                        return (
+                                            <div
+                                                key={passage.id}
+                                                style={{
+                                                    background: 'rgba(255, 255, 255, 0.08)',
+                                                    backdropFilter: 'blur(16px)',
+                                                    borderRadius: '16px',
+                                                    padding: '1.5rem',
+                                                    border: '1px solid rgba(255,255,255,0.15)',
+                                                    boxShadow: '0 8px 32px rgba(0,0,0,0.2)',
+                                                    transition: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
+                                                    cursor: 'default'
+                                                }}
+                                                onMouseEnter={e => {
+                                                    e.currentTarget.style.transform = 'translateY(-4px)';
+                                                    e.currentTarget.style.background = 'rgba(255, 255, 255, 0.12)';
+                                                    e.currentTarget.style.borderColor = 'rgba(255,255,255,0.25)';
+                                                }}
+                                                onMouseLeave={e => {
+                                                    e.currentTarget.style.transform = 'none';
+                                                    e.currentTarget.style.background = 'rgba(255, 255, 255, 0.08)';
+                                                    e.currentTarget.style.borderColor = 'rgba(255,255,255,0.15)';
+                                                }}
+                                            >
+                                                {/* カード上部：試験情報（年度バッジ不要 - 既にヘッダーで表示） */}
+                                                <div style={{
+                                                    display: 'flex',
+                                                    alignItems: 'center',
+                                                    gap: '0.85rem',
+                                                    marginBottom: '0.85rem'
+                                                }}>
+                                                    <span style={{
+                                                        color: '#f1f5f9',
+                                                        fontSize: '1.1rem',
+                                                        fontWeight: '600',
+                                                        letterSpacing: '0.02em'
+                                                    }}>
+                                                        {examInfo}
+                                                    </span>
+                                                </div>
+
+                                                {/* タイトル */}
+                                                <h3 style={{
+                                                    color: 'rgba(255,255,255,0.7)',
+                                                    fontSize: '0.95rem',
+                                                    fontWeight: '500',
+                                                    margin: '0 0 1.35rem 0',
+                                                    fontStyle: 'italic',
+                                                    lineHeight: '1.5'
+                                                }}>
+                                                    {passage.title}
+                                                </h3>
+
+                                                {/* ボタン（全級統一カラー） */}
+                                                <div style={{
+                                                    display: 'flex',
+                                                    gap: '0.75rem'
+                                                }}>
+                                                    <button
+                                                        onClick={() => onSelectPassage(passage.id)}
+                                                        style={{
+                                                            flex: 1,
+                                                            display: 'flex',
+                                                            alignItems: 'center',
+                                                            justifyContent: 'center',
+                                                            gap: '0.5rem',
+                                                            padding: '0.8rem 1rem',
+                                                            background: 'transparent',
+                                                            backdropFilter: 'blur(8px)',
+                                                            color: BUTTON_COLORS.guide.color,
+                                                            border: `2.5px solid ${BUTTON_COLORS.guide.color}`,
+                                                            borderRadius: '10px',
+                                                            fontWeight: '600',
+                                                            cursor: 'pointer',
+                                                            fontSize: '0.9rem',
+                                                            transition: 'all 0.25s ease',
+                                                            letterSpacing: '0.03em'
+                                                        }}
+                                                        onMouseOver={e => {
+                                                            e.currentTarget.style.background = BUTTON_COLORS.guide.hoverBg;
+                                                            e.currentTarget.style.transform = 'translateY(-2px)';
+                                                        }}
+                                                        onMouseOut={e => {
+                                                            e.currentTarget.style.background = 'transparent';
+                                                            e.currentTarget.style.transform = 'none';
+                                                        }}
+                                                    >
+                                                        <BookText size={18} />
+                                                        指導書
+                                                    </button>
+                                                    <button
+                                                        onClick={() => handlePrint(passage)}
+                                                        style={{
+                                                            flex: 1,
+                                                            display: 'flex',
+                                                            alignItems: 'center',
+                                                            justifyContent: 'center',
+                                                            gap: '0.5rem',
+                                                            padding: '0.8rem 1rem',
+                                                            background: 'transparent',
+                                                            backdropFilter: 'blur(8px)',
+                                                            color: BUTTON_COLORS.print.color,
+                                                            border: '2.5px solid rgba(255,255,255,0.5)',
+                                                            borderRadius: '10px',
+                                                            fontWeight: '600',
+                                                            cursor: 'pointer',
+                                                            fontSize: '0.9rem',
+                                                            transition: 'all 0.25s ease',
+                                                            letterSpacing: '0.03em'
+                                                        }}
+                                                        onMouseOver={e => {
+                                                            e.currentTarget.style.background = BUTTON_COLORS.print.hoverBg;
+                                                            e.currentTarget.style.borderColor = 'rgba(255,255,255,0.7)';
+                                                            e.currentTarget.style.transform = 'translateY(-2px)';
+                                                        }}
+                                                        onMouseOut={e => {
+                                                            e.currentTarget.style.background = 'transparent';
+                                                            e.currentTarget.style.borderColor = 'rgba(255,255,255,0.5)';
+                                                            e.currentTarget.style.transform = 'none';
+                                                        }}
+                                                    >
+                                                        <Printer size={18} />
+                                                        印刷
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        );
+                                    })}
+                                </div>
+                            </div>
+                        );
+                    });
+                })()}
 
                 {/* フッター */}
                 <div style={{

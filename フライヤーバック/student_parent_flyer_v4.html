@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英検®合格保証カリキュラム - Elegant</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Zen+Old+Mincho:wght@400;500;700;900&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Zen Old Mincho', serif;
+            background: #2b0e0e;
+            min-height: 100vh;
+            color: #4a2c2c;
+            -webkit-print-color-adjust: exact;
+        }
+
+        .page {
+            width: 210mm;
+            height: 297mm;
+            margin: 20px auto;
+            background: #fffbf0;
+            /* Cream background */
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            border: 15px solid #2b0e0e;
+            /* Deep Burgundy Border */
+        }
+
+        /* Inner Border */
+        .inner-border {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            right: 10px;
+            bottom: 10px;
+            border: 1px solid #cfaa5e;
+            /* Gold thin line */
+            pointer-events: none;
+            z-index: 5;
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            padding: 50px 40px 30px;
+            position: relative;
+        }
+
+        .header-logo {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 18px;
+            color: #8a6a6a;
+            letter-spacing: 0.2em;
+            margin-bottom: 20px;
+            display: block;
+        }
+
+        h1 {
+            font-size: 42px;
+            line-height: 1.2;
+            color: #2b0e0e;
+            margin-bottom: 20px;
+            font-weight: 900;
+        }
+
+        h1 .accent {
+            color: #c0392b;
+            font-size: 1.1em;
+        }
+
+        .subtitle {
+            font-family: 'Cormorant Garamond', serif;
+            font-style: italic;
+            font-size: 20px;
+            color: #cfaa5e;
+            border-top: 1px solid #e0d0b0;
+            border-bottom: 1px solid #e0d0b0;
+            padding: 10px 0;
+            display: inline-block;
+            width: 80%;
+        }
+
+        /* Main Content */
+        .content {
+            padding: 0 50px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .intro-text {
+            text-align: center;
+            font-size: 15px;
+            line-height: 2.4;
+            margin-bottom: 40px;
+            color: #5d4037;
+        }
+
+        /* The 3 Apps - Elegant Layout */
+        .apps-elegant {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+
+        .app-circle {
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            background: #fff;
+            border: 1px solid #cfaa5e;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            box-shadow: 0 5px 15px rgba(43, 14, 14, 0.05);
+        }
+
+        .app-circle::before {
+            content: '';
+            position: absolute;
+            top: 5px;
+            left: 5px;
+            right: 5px;
+            bottom: 5px;
+            border-radius: 50%;
+            border: 1px dashed #e0d0b0;
+        }
+
+        .app-circle h3 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 18px;
+            color: #2b0e0e;
+            margin-bottom: 5px;
+            font-weight: 700;
+        }
+
+        .app-circle p {
+            font-size: 12px;
+            text-align: center;
+            color: #8a6a6a;
+        }
+
+        .curriculum-label {
+            width: 100%;
+            text-align: center;
+            font-size: 16px;
+            color: #c0392b;
+            font-weight: bold;
+            margin-bottom: 20px;
+            letter-spacing: 0.1em;
+        }
+
+        /* Offer Box */
+        .exclusive-offer {
+            background: #2b0e0e;
+            color: #fffbf0;
+            padding: 30px 40px;
+            text-align: center;
+            width: 100%;
+            position: relative;
+            margin-bottom: 30px;
+        }
+
+        .exclusive-offer::before {
+            content: 'INVITATION';
+            position: absolute;
+            top: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #cfaa5e;
+            color: #2b0e0e;
+            padding: 2px 20px;
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: 700;
+            letter-spacing: 0.2em;
+            font-size: 12px;
+        }
+
+        .price-text {
+            font-size: 14px;
+            line-height: 2;
+        }
+
+        .price-big {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 36px;
+            color: #cfaa5e;
+            display: block;
+            margin: 10px 0;
+        }
+
+        .term {
+            font-size: 12px;
+            opacity: 0.7;
+            font-family: sans-serif;
+            letter-spacing: 0.05em;
+        }
+
+        /* Info Footer */
+        .footer-info {
+            width: 100%;
+            text-align: center;
+            font-size: 11px;
+            color: #8a6a6a;
+            border-top: 1px solid #e0d0b0;
+            padding-top: 20px;
+            margin-bottom: 30px;
+        }
+
+        @media print {
+            body {
+                background: none;
+            }
+
+            .page {
+                margin: 0;
+                box-shadow: none;
+                border: 10px solid #2b0e0e;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <div class="inner-border"></div>
+
+        <header>
+            <span class="header-logo">ECC BestOne Aizumi & Kitajima</span>
+            <h1><span class="accent">合格</span>という名の<br>芸術的な結末を。</h1>
+            <div class="subtitle">The Art of Reading Comprehension</div>
+        </header>
+
+        <div class="content">
+            <div class="intro-text">
+                <p>
+                    ベテラン講師の叡智と最新のアルゴリズムが融合した時、<br>
+                    学習は「苦役」から「洗練された知的体験」へと昇華します。<br>
+                    選ばれた生徒だけに許された、3つのアプリによる特別なカリキュラム。<br>
+                    それは、最短距離で頂（合格）へと至る、最も美しいルートです。
+                </p>
+            </div>
+
+            <div class="curriculum-label">The Trinity Curriculum</div>
+
+            <div class="apps-elegant">
+                <div class="app-circle">
+                    <h3>Vocabulary</h3>
+                    <p>語彙の<br>真髄</p>
+                </div>
+                <div class="app-circle">
+                    <h3>Context</h3>
+                    <p>文脈の<br>論理</p>
+                </div>
+                <div class="app-circle">
+                    <h3>Reading</h3>
+                    <p>読解の<br>構造</p>
+                </div>
+            </div>
+
+            <div style="text-align:center; margin-bottom: 40px; font-size:13px; color:#5d4037;">
+                推奨受講期間: 6ヶ月 〜 12ヶ月<br>
+                <span style="font-size:11px; color:#8a6a6a;">（個別指導との併用で、その効果は確実なものとなります）</span>
+            </div>
+
+            <div class="exclusive-offer">
+                <div class="price-text">
+                    個別指導受講者限定特典<br>
+                    通常アプリ利用料 <span style="text-decoration: line-through; opacity:0.6;">¥4,235 ~ ¥5,082</span>
+                </div>
+                <span class="price-big">Free of Charge</span>
+                <div class="term">Until March 31, 2026</div>
+                <div
+                    style="margin-top: 15px; font-size: 12px; border-top: 1px rgba(255,255,255,0.2) solid; padding-top:10px;">
+                    個別指導料: ¥19,600 〜 ¥22,969 / month<br>
+                </div>
+            </div>
+
+            <div class="footer-info">
+                <p>別途、入学金が必要となる場合がございます。<br>
+                    お問い合わせ: 088-660-5561</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

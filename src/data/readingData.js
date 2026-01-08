@@ -1,5 +1,37 @@
 export const readingData = [
     {
+        id: "grade-pre1-original-demo",
+        grade: "準1級",
+        title: "Original Question Demo",
+        subTitle: "オリジナル問題 デモ",
+        isOriginal: true,
+        images: {
+            content: "https://placehold.co/600x400?text=Original+Content",
+            question: "https://placehold.co/600x400?text=Original+Question"
+        },
+        content: [
+            {
+                paragraphId: 1,
+                sentences: [
+                    {
+                        id: 1,
+                        text: "This is a demo of an original question.",
+                        translation: "これはオリジナル問題のデモです。",
+                        grammarAnalysis: {
+                            mainVerbs: ["is"],
+                            structureHtml: "This is a demo.",
+                            translationHtml: "これはデモです。",
+                            naturalTranslation: "これはオリジナル問題のデモです。",
+                            vocabulary: [],
+                            grammarNotes: []
+                        }
+                    }
+                ]
+            }
+        ],
+        questions: []
+    },
+    {
         id: "grade3-2025-1-3C",
         grade: "3級",
         title: "The Three Sisters",
@@ -16791,7 +16823,7 @@ export const readingData = [
                 choices: [
                     { id: 1, text: "he did not think that the prices of certain essential goods were related to the prices of things like common metals.", translation: "彼は、特定の必需品の価格が一般的な金属のようなものの価格に関連しているとは考えていなかった。" },
                     { id: 2, text: "he believed that the price of the metals would not be affected even if they became rare due to the increased demand.", translation: "彼は、需要が増加して金属が希少になっても、その価格は影響を受けないと信じていた。" },
-                    { id: 3, text: "he wanted to demonstrate that increases in population would not result in serious shortages of the materials that humans needed to live.", translation: "彼は、人口増加が人間が生きていくために必要な材料の深刻な不足を招かないことを実証したかった。" },
+                    { id: 3, text: "he wanted to demonstrate that increases in population would not result in serious shortages of the materials that humans needed to live.", translation: "彼は、人口増加が人間が生きていくために必要な材料の深刻な不足を招かないことを実証したかった。", isCorrect: true },
                     { id: 4, text: "he knew that new methods of production would be invented that would lead to a decrease in the demand for goods.", translation: "彼は、商品の需要減少につながる新しい生産方法が発明されることを知っていた。" }
                 ],
                 keywords: ["Simon", "bet", "$1,000"],
@@ -16822,7 +16854,7 @@ export const readingData = [
                 textTranslation: "第2段落において、SimonとEhrlichの賭けについて何が示唆されているか",
                 correctAnswer: 1,
                 choices: [
-                    { id: 1, text: "The specific metals and the time period that were chosen for the bet seem to have had an effect on the result.", translation: "賭けのために選ばれた特定の金属と期間が、結果に影響を与えたようだ。" },
+                    { id: 1, text: "The specific metals and the time period that were chosen for the bet seem to have had an effect on the result.", translation: "賭けのために選ばれた特定の金属と期間が、結果に影響を与えたようだ。", isCorrect: true },
                     { id: 2, text: "Although the prices of a few metals did decrease, Ehrlich was correct about the increasing shortages due to population growth.", translation: "数種類の金属の価格は下がったが、人口増加による不足の増大についてはエーリッヒが正しかった。" },
                     { id: 3, text: "It demonstrated that neither Ehrlich nor Simon was actually correct about the long-term trends that were occurring.", translation: "それは、起こっていた長期的な傾向について、エーリッヒもサイモンも実際には正しくなかったことを示した。" },
                     { id: 4, text: "Simon would still have won, even if the governments of countries in Eastern Europe had not had problems in the 1990s.", translation: "1990年代に東欧諸国の政府が問題を抱えていなかったとしても、サイモンは勝っていただろう。" }
@@ -16858,7 +16890,7 @@ export const readingData = [
                     { id: 1, text: "They have made it clear that finding alternatives to common metals will become important in the very near future.", translation: "それらは、一般的な金属の代替品を見つけることが非常に近い将来重要になることを明らかにした。" },
                     { id: 2, text: "They have made people realize that the way common metals are used has more effect on the environment than had previously been known.", translation: "それらは、一般的な金属の使用方法が、以前知られていたよりも環境に大きな影響を与えることを人々に認識させた。" },
                     { id: 3, text: "They have increased debates about how current population increases are going to affect the supply of necessary materials in the future.", translation: "それらは、現在の人口増加が将来の必要な材料の供給にどのように影響するかについての議論を増加させた。" },
-                    { id: 4, text: "They have influenced the way that people see modern environmental problems and made it more difficult to have meaningful communication about them.", translation: "それらは、人々が現代の環境問題を見る方法に影響を与え、それらについて意味のあるコミュニケーションをとることをより難しくした。" }
+                    { id: 4, text: "They have influenced the way that people see modern environmental problems and made it more difficult to have meaningful communication about them.", translation: "それらは、人々が現代の環境問題を見る方法に影響を与え、それらについて意味のあるコミュニケーションをとることをより難しくした。", isCorrect: true }
                 ],
                 keywords: ["impact", "debates", "modern society"],
                 keywordMatches: [
@@ -17759,7 +17791,8 @@ export const readingData = [
                     {
                         "id": 1,
                         "text": "Efforts to ensure that a wider range of students are able to attend elite universities have not always been successful.",
-                        "translation": "より広範な学生がエリート大学に通えるようにする取り組みは、必ずしも成功しているわけではない。"
+                        "translation": "より広範な学生がエリート大学に通えるようにする取り組みは、必ずしも成功しているわけではない。",
+                        "isCorrect": true
                     },
                     {
                         "id": 2,
@@ -17844,7 +17877,8 @@ export const readingData = [
                     {
                         "id": 4,
                         "text": "People are less likely to be aware of their own prejudices when they believe the company is a meritocracy.",
-                        "translation": "会社が実力主義であると信じている時、人々は自分自身の偏見に気づきにくくなる。"
+                        "translation": "会社が実力主義であると信じている時、人々は自分自身の偏見に気づきにくくなる。",
+                        "isCorrect": true
                     }
                 ],
                 "keywords": [
@@ -17909,7 +17943,8 @@ export const readingData = [
                     {
                         "id": 3,
                         "text": "it has created a sense of constant competition that can have negative effects on people's mental health.",
-                        "translation": "それは絶え間ない競争意識を生み出し、人々の精神的健康に悪影響を及ぼす可能性がある。"
+                        "translation": "それは絶え間ない競争意識を生み出し、人々の精神的健康に悪影響を及ぼす可能性がある。",
+                        "isCorrect": true
                     },
                     {
                         "id": 4,
@@ -17969,7 +18004,8 @@ export const readingData = [
                     {
                         "id": 1,
                         "text": "More people have come to recognize that when people are poor, it may not necessarily be their fault.",
-                        "translation": "貧しいことが必ずしも本人のせいではないかもしれないと認識する人が増えてきた。"
+                        "translation": "貧しいことが必ずしも本人のせいではないかもしれないと認識する人が増えてきた。",
+                        "isCorrect": true
                     },
                     {
                         "id": 2,
@@ -18937,7 +18973,8 @@ export const readingData = [
                     {
                         "id": 2,
                         "text": "Diseases and insects that affected wheat plants arrived from overseas.",
-                        "translation": "小麦の植物に影響を与える病気や昆虫が海外から到来した。"
+                        "translation": "小麦の植物に影響を与える病気や昆虫が海外から到来した。",
+                        "isCorrect": true
                     },
                     {
                         "id": 3,
@@ -18996,7 +19033,8 @@ export const readingData = [
                     {
                         "id": 1,
                         "text": "It could be grown during the coldest part of the year.",
-                        "translation": "それは一年で最も寒い時期に栽培することができた。"
+                        "translation": "それは一年で最も寒い時期に栽培することができた。",
+                        "isCorrect": true
                     },
                     {
                         "id": 2,
@@ -19070,7 +19108,8 @@ export const readingData = [
                     {
                         "id": 2,
                         "text": "Scientists created types of wheat that gave greater numbers of seeds.",
-                        "translation": "科学者が、より多くの種子を生産する種類の小麦を作り出した。"
+                        "translation": "科学者が、より多くの種子を生産する種類の小麦を作り出した。",
+                        "isCorrect": true
                     },
                     {
                         "id": 3,
@@ -19134,7 +19173,8 @@ export const readingData = [
                     {
                         "id": 1,
                         "text": "could only get a small amount of purple straw wheat seeds.",
-                        "translation": "パープル・ストロー・ウィートの種子を少量しか入手できなかった。"
+                        "translation": "パープル・ストロー・ウィートの種子を少量しか入手できなかった。",
+                        "isCorrect": true
                     },
                     {
                         "id": 2,
@@ -20051,7 +20091,8 @@ export const readingData = [
                     {
                         "id": 1,
                         "text": "Keep an eye on how words are used in the English language.",
-                        "translation": "英語という言語の中で単語がどのように使われているかを注視すること。"
+                        "translation": "英語という言語の中で単語がどのように使われているかを注視すること。",
+                        "isCorrect": true
                     },
                     {
                         "id": 2,
@@ -20125,7 +20166,8 @@ export const readingData = [
                     {
                         "id": 3,
                         "text": "a large number of people are using the word in the same way.",
-                        "translation": "多数の人々がその単語を同じ方法で使っている場合。"
+                        "translation": "多数の人々がその単語を同じ方法で使っている場合。",
+                        "isCorrect": true
                     },
                     {
                         "id": 4,
@@ -20194,7 +20236,8 @@ export const readingData = [
                     {
                         "id": 4,
                         "text": "has gained a different meaning from its original one.",
-                        "translation": "元の意味とは異なる意味を獲得した。"
+                        "translation": "元の意味とは異なる意味を獲得した。",
+                        "isCorrect": true
                     }
                 ],
                 "keywords": [
@@ -20262,7 +20305,8 @@ export const readingData = [
                     {
                         "id": 4,
                         "text": "To make the final decision about changes to the content of the dictionary.",
-                        "translation": "辞書の内容の変更について最終決定を下すこと。"
+                        "translation": "辞書の内容の変更について最終決定を下すこと。",
+                        "isCorrect": true
                     }
                 ],
                 "keywords": [
@@ -21350,7 +21394,8 @@ export const readingData = [
                     {
                         "id": 4,
                         "text": "The city allowed people to live more freely than other places.",
-                        "translation": "その都市は他の場所よりも人々がより自由に生きることを許した。"
+                        "translation": "その都市は他の場所よりも人々がより自由に生きることを許した。",
+                        "isCorrect": true
                     }
                 ],
                 "keywords": [
@@ -21404,7 +21449,8 @@ export const readingData = [
                     {
                         "id": 1,
                         "text": "uses traditional methods to make his products.",
-                        "translation": "製品を作るために伝統的な方法を使う。"
+                        "translation": "製品を作るために伝統的な方法を使う。",
+                        "isCorrect": true
                     },
                     {
                         "id": 2,
@@ -21488,7 +21534,8 @@ export const readingData = [
                     {
                         "id": 4,
                         "text": "finding ways to reduce the size, weight, and prices of books.",
-                        "translation": "本のサイズ、重さ、価格を減らす方法を見つけること。"
+                        "translation": "本のサイズ、重さ、価格を減らす方法を見つけること。",
+                        "isCorrect": true
                     }
                 ],
                 "keywords": [
@@ -21552,7 +21599,8 @@ export const readingData = [
                     {
                         "id": 3,
                         "text": "Create a place where more people can learn about bookmaking.",
-                        "translation": "より多くの人が製本について学べる場所を作ること。"
+                        "translation": "より多くの人が製本について学べる場所を作ること。",
+                        "isCorrect": true
                     },
                     {
                         "id": 4,
@@ -21611,7 +21659,8 @@ export const readingData = [
                     {
                         "id": 1,
                         "text": "One of the most famous printing companies in Venice was established in 1494.",
-                        "translation": "ヴェネツィアで最も有名な印刷会社の一つは1494年に設立された。"
+                        "translation": "ヴェネツィアで最も有名な印刷会社の一つは1494年に設立された。",
+                        "isCorrect": true
                     },
                     {
                         "id": 2,
@@ -22468,7 +22517,8 @@ export const readingData = [
                     {
                         "id": 4,
                         "text": "It has had a greater effect on society than other modern inventions.",
-                        "translation": "それは他の現代の発明よりも社会に大きな影響を与えた。"
+                        "translation": "それは他の現代の発明よりも社会に大きな影響を与えた。",
+                        "isCorrect": true
                     }
                 ],
                 "keywords": [
@@ -22522,7 +22572,8 @@ export const readingData = [
                     {
                         "id": 1,
                         "text": "the process of doing laundry involved several different stages.",
-                        "translation": "洗濯をする過程にはいくつかの異なる段階が含まれていた。"
+                        "translation": "洗濯をする過程にはいくつかの異なる段階が含まれていた。",
+                        "isCorrect": true
                     },
                     {
                         "id": 2,
@@ -22606,7 +22657,8 @@ export const readingData = [
                     {
                         "id": 4,
                         "text": "Machines that involve both electricity and water can be very unsafe to work with.",
-                        "translation": "電気と水の両方に関わる機械は、扱うのが非常に安全でない（危険な）可能性がある。"
+                        "translation": "電気と水の両方に関わる機械は、扱うのが非常に安全でない（危険な）可能性がある。",
+                        "isCorrect": true
                     }
                 ],
                 "keywords": [
@@ -22660,7 +22712,8 @@ export const readingData = [
                     {
                         "id": 1,
                         "text": "spend more time teaching themselves and their children.",
-                        "translation": "自分自身や子供たちを教えること（勉強）により多くの時間を費やすこと。"
+                        "translation": "自分自身や子供たちを教えること（勉強）により多くの時間を費やすこと。",
+                        "isCorrect": true
                     },
                     {
                         "id": 2,
@@ -23545,7 +23598,8 @@ export const readingData = [
                     {
                         "id": 2,
                         "text": "Dreams do not usually appear to have a clear meaning.",
-                        "translation": "夢は通常、明確な意味を持っているようには見えない。"
+                        "translation": "夢は通常、明確な意味を持っているようには見えない。",
+                        "isCorrect": true
                     },
                     {
                         "id": 3,
@@ -23629,7 +23683,8 @@ export const readingData = [
                     {
                         "id": 4,
                         "text": "dreams give people an opportunity to make their memories stronger.",
-                        "translation": "夢は人々に記憶をより強くする機会を与える。"
+                        "translation": "夢は人々に記憶をより強くする機会を与える。",
+                        "isCorrect": true
                     }
                 ],
                 "keywords": [
@@ -23683,7 +23738,8 @@ export const readingData = [
                     {
                         "id": 2,
                         "text": "Relate what happened in their dreams to what was happening in their lives.",
-                        "translation": "夢で起きたことを、彼らの生活で起きていたことと関連付けること。"
+                        "translation": "夢で起きたことを、彼らの生活で起きていたことと関連付けること。",
+                        "isCorrect": true
                     },
                     {
                         "id": 3,
@@ -23748,7 +23804,8 @@ export const readingData = [
                     {
                         "id": 1,
                         "text": "happen because our brains know that we will wake up soon.",
-                        "translation": "私たちの脳がもうすぐ目が覚めるとわかっているために起こる。"
+                        "translation": "私たちの脳がもうすぐ目が覚めるとわかっているために起こる。",
+                        "isCorrect": true
                     },
                     {
                         "id": 2,
@@ -23821,7 +23878,8 @@ export const readingData = [
                     {
                         "id": 1,
                         "text": "People long ago believed that gods spoke to them through dreams.",
-                        "translation": "ずっと昔の人々は、神々が夢を通して彼らに話しかけると信じていた。"
+                        "translation": "ずっと昔の人々は、神々が夢を通して彼らに話しかけると信じていた。",
+                        "isCorrect": true
                     },
                     {
                         "id": 2,
@@ -23902,5 +23960,1477 @@ export const readingData = [
                 }
             ]
         }
+    },
+    // 準1級 オリジナル問題: The Software Pioneers of ENIAC
+    {
+        id: "grade-pre1-original-eniac",
+        grade: "準1級",
+        title: "The Software Pioneers of ENIAC",
+        subTitle: "問題1",
+        genre: "歴史 / テクノロジー",
+        similarProblems: {
+            exam: "2025年度 第2回 大問3-3",
+            title: "Rocket Science"
+        },
+        isOriginal: true,
+        images: {
+            content: "https://placehold.co/600x400?text=ENIAC+Pioneers",
+            question: "https://placehold.co/600x400?text=Question+Image"
+        },
+        content: [
+            {
+                paragraphId: 1,
+                sentences: [
+                    {
+                        id: 1,
+                        text: "In 1946, when the ENIAC, the world's first general-purpose electronic computer, was unveiled to the public, the press marveled at the massive machine that could calculate artillery trajectories in seconds.",
+                        translation: "1946年、世界初の汎用電子計算機であるENIACが一般公開されたとき、報道陣は、砲弾の弾道を数秒で計算できるその巨大な機械に驚嘆した。",
+                        grammarAnalysis: {
+                            mainVerbs: ["was unveiled", "marveled"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(In 1946)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(when the ENIAC, the world's first general-purpose electronic computer, was unveiled to the public)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the press</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>marveled</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(at the massive machine (that could calculate artillery trajectories in seconds))</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(1946年に)</span>、<span class='t-M'>(世界初の汎用電子計算機であるENIACが一般公開されたとき)</span>、<span class='t-S'>報道陣は</span> <span class='t-V'>驚嘆した</span> <span class='t-M'>(数秒で砲弾の弾道を計算できる巨大な機械に)</span>。",
+                            naturalTranslation: "1946年、世界初の汎用電子計算機であるENIACが一般公開されたとき、報道陣は、砲弾の弾道を数秒で計算できるその巨大な機械に驚嘆した。",
+                            vocabulary: [
+                                { word: "unveiled", meaning: "「公開された」「ベールを脱いだ」。" },
+                                { word: "marveled at", meaning: "「〜に驚嘆した」。" },
+                                { word: "artillery trajectories", meaning: "「砲弾の弾道」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "when ... was unveiled", explanation: "<b>when ... was unveiled</b>: 時を表す副詞節。" },
+                                { phrase: "the world's first ... computer", explanation: "<b>the world's first ... computer</b>: ENIACと同格の説明。" },
+                                { phrase: "that could calculate", explanation: "<b>that could calculate</b>: machineを修飾する関係代名詞節。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 2,
+                        text: "Photos often featured men—the engineers who designed the hardware—standing proudly by the console.",
+                        translation: "写真には、ハードウェアを設計したエンジニアである男性たちが、コンソールのそばで誇らしげに立っている姿がしばしば写っていた。",
+                        grammarAnalysis: {
+                            mainVerbs: ["featured"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Photos</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(often)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>featured</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>men—the engineers who designed the hardware—</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>standing proudly by the console</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>写真は</span> <span class='t-M'>(しばしば)</span> <span class='t-V'>特集した/写した</span> <span class='t-O'>男性たち—ハードウェアを設計したエンジニアたち—を</span> <span class='t-C'>コンソールのそばで誇らしげに立っている（状態で）</span>。",
+                            naturalTranslation: "写真には、ハードウェアを設計したエンジニアである男性たちが、コンソールのそばで誇らしげに立っている姿がしばしば写っていた。",
+                            vocabulary: [
+                                { word: "featured", meaning: "「特集した」「大きく扱った」。" },
+                                { word: "console", meaning: "「制御卓」「コンソール」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "men—the engineers ...—", explanation: "<b>men—the engineers ...—</b>: ダッシュで囲まれた挿入句。menと同格。" },
+                                { phrase: "standing proudly", explanation: "<b>standing proudly</b>: O（men）の状態を説明する現在分詞（補語C）。feature O C の形。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 3,
+                        text: "However, moving wires and setting switches in the background were six women.",
+                        translation: "しかし、背景で配線を動かしスイッチを設定していたのは6人の女性だった。",
+                        grammarAnalysis: {
+                            mainVerbs: ["were"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk C-group'><span class='text'>moving wires and setting switches in the background</span><span class='tag'>C</span></span> <span class='chunk V-group'><span class='text'>were</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>six women</span><span class='tag'>S</span></span>.",
+                            translationHtml: "<span class='t-M'>(しかし)</span>、<span class='t-C'>背景で配線を動かしスイッチを設定していたのは</span> <span class='t-V'>であった</span> <span class='t-S'>6人の女性</span>。",
+                            naturalTranslation: "しかし、背景で配線を動かしスイッチを設定していたのは6人の女性だった。",
+                            vocabulary: [
+                                { word: "setting switches", meaning: "「スイッチを設定する」。" },
+                                { word: "background", meaning: "「背景」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "moving ... were six women", explanation: "<b>倒置構文</b>: CVSの語順。主語は six women。「〜していたのは6人の女性だった」。" },
+                                { phrase: "moving ... and setting ...", explanation: "<b>分詞構文的な形容詞句</b>: 本来は Six women were moving ... 。強調のために前に出ている。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 4,
+                        text: "For decades, they were mistaken for models or secretaries.",
+                        translation: "何十年もの間、彼女たちはモデルや秘書であると誤解されていた。",
+                        grammarAnalysis: {
+                            mainVerbs: ["were mistaken"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(For decades)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were mistaken</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(for models or secretaries)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(何十年もの間)</span>、<span class='t-S'>彼女たちは</span> <span class='t-V'>誤解されていた</span> <span class='t-M'>(モデルや秘書と)</span>。",
+                            naturalTranslation: "何十年もの間、彼女たちはモデルや秘書であると誤解されていた。",
+                            vocabulary: [
+                                { word: "mistaken for", meaning: "「〜と間違われる」「〜と誤解される」。" },
+                                { word: "decades", meaning: "「数十年」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "were mistaken for", explanation: "<b>were mistaken for</b>: mistake A for B（AをBと間違える）の受動態。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 5,
+                        text: "In reality, they were the world's first computer programmers.",
+                        translation: "実際には、彼女たちは世界初のコンピュータープログラマーだった。",
+                        grammarAnalysis: {
+                            mainVerbs: ["were"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(In reality)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>the world's first computer programmers</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-M'>(実際には)</span>、<span class='t-S'>彼女たちは</span> <span class='t-V'>であった</span> <span class='t-C'>世界初のコンピュータープログラマー</span>。",
+                            naturalTranslation: "実際には、彼女たちは世界初のコンピュータープログラマーだった。",
+                            vocabulary: [
+                                { word: "In reality", meaning: "「実際には」「現実には」。" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 6,
+                        text: "Since there were no programming languages or manuals, these women had to study the machine's blueprints to figure out how to program it physically.",
+                        translation: "プログラミング言語やマニュアルが存在しなかったため、これらの女性たちは、物理的にどうプログラムするかを理解するために、機械の設計図を研究しなければならなかった。",
+                        grammarAnalysis: {
+                            mainVerbs: ["had"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Since there were no programming languages or manuals)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>these women</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>had to study</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the machine's blueprints</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(to figure out how to program it physically)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(プログラミング言語やマニュアルがなかったので)</span>、<span class='t-S'>これらの女性たちは</span> <span class='t-V'>研究しなければならなかった</span> <span class='t-O'>機械の設計図を</span> <span class='t-M'>(物理的にどうプログラムするかを理解するために)</span>。",
+                            naturalTranslation: "プログラミング言語やマニュアルが存在しなかったため、これらの女性たちは、物理的にどうプログラムするかを理解するために、機械の設計図を研究しなければならなかった。",
+                            vocabulary: [
+                                { word: "blueprints", meaning: "「設計図」「青写真」。" },
+                                { word: "figure out", meaning: "「理解する」「解明する」。" },
+                                { word: "physically", meaning: "「物理的に」。配線をつなぎ変えることなどを指す。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "Since ... manuals", explanation: "<b>Since ...</b>: 理由を表す接続詞。「〜だったので」。" },
+                                { phrase: "had to study", explanation: "<b>had to study</b>: 「研究しなければならなかった」。mustの過去形。" },
+                                { phrase: "how to program", explanation: "<b>how to program</b>: 「プログラムの仕方」。疑問詞 + 不定詞。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 7,
+                        text: "Their work was intellectually grueling, yet without their logical framework, the expensive hardware was essentially a useless collection of vacuum tubes.",
+                        translation: "彼女たちの仕事は知的に過酷なものだったが、彼女たちの論理的な枠組みがなければ、高価なハードウェアは本質的に真空管の無駄な集まりに過ぎなかった。",
+                        grammarAnalysis: {
+                            mainVerbs: ["was", "was"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Their work</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>intellectually grueling</span><span class='tag'>C</span></span>, yet <span class='chunk M-group'><span class='text'>(without their logical framework)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the expensive hardware</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(essentially)</span><span class='tag'>M</span></span> <span class='chunk C-group'><span class='text'>a useless collection of vacuum tubes</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>彼女たちの仕事は</span> <span class='t-V'>であった</span> <span class='t-C'>知的に過酷な</span>、しかし <span class='t-M'>(彼女たちの論理的枠組みがなければ)</span>、<span class='t-S'>高価なハードウェアは</span> <span class='t-V'>であった</span> <span class='t-M'>(本質的に)</span> <span class='t-C'>真空管の無駄な集まり</span>。",
+                            naturalTranslation: "彼女たちの仕事は知的に過酷なものだったが、彼女たちの論理的な枠組みがなければ、高価なハードウェアは本質的に真空管の無駄な集まりに過ぎなかった。",
+                            vocabulary: [
+                                { word: "grueling", meaning: "「過酷な」「へとへとにさせる」。" },
+                                { word: "framework", meaning: "「枠組み」「体制」。" },
+                                { word: "vacuum tubes", meaning: "「真空管」。ENIACの主要部品。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "yet", explanation: "<b>yet</b>: 「しかし」。逆接の接続詞。" },
+                                { phrase: "without ...", explanation: "<b>without ...</b>: 「〜がなければ」。仮定法的なニュアンスを含む。" },
+                                { phrase: "essentially", explanation: "<b>essentially</b>: 「本質的に」「基本的に」。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 2,
+                sentences: [
+                    {
+                        id: 8,
+                        text: "The employment of women for this task was rooted in the gender dynamics of the era.",
+                        translation: "この任務への女性の雇用は、その時代のジェンダー力学に根ざしていた。",
+                        grammarAnalysis: {
+                            mainVerbs: ["was rooted"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>The employment of women for this task</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was rooted</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(in the gender dynamics of the era)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>この任務への女性の雇用は</span> <span class='t-V'>根ざしていた</span> <span class='t-M'>(その時代のジェンダー力学に)</span>。",
+                            naturalTranslation: "この任務への女性の雇用は、その時代のジェンダー力学に根ざしていた。",
+                            vocabulary: [
+                                { word: "rooted in", meaning: "「〜に根ざしている」「〜に由来する」。" },
+                                { word: "dynamics", meaning: "「力学」「動態」。" },
+                                { word: "era", meaning: "「時代」。" }
+                            ],
+                            grammarNotes: []
+                        }
+                    },
+                    {
+                        id: 9,
+                        text: "Much like the \"human computers\" of astronomy, programming was initially viewed as clerical work—secondary to the \"real\" engineering of building the machine.",
+                        translation: "天文学の「人間計算機」と同様に、プログラミングは当初、機械を構築するという「本当の」エンジニアリングに次ぐ、事務的な仕事と見なされていた。",
+                        grammarAnalysis: {
+                            mainVerbs: ["was viewed"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Much like the \"human computers\" of astronomy)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>programming</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was initially viewed</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>as clerical work</span><span class='tag'>C</span></span>—<span class='chunk M-group'><span class='text'>(secondary to the \"real\" engineering of building the machine)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(天文学の「人間計算機」と同様に)</span>、<span class='t-S'>プログラミングは</span> <span class='t-V'>当初見なされていた</span> <span class='t-C'>事務的な仕事として</span>—<span class='t-M'>(機械を作る「真の」工学に次ぐものとして)</span>。",
+                            naturalTranslation: "天文学の「人間計算機」と同様に、プログラミングは当初、機械を構築するという「本当の」エンジニアリングに次ぐ、事務的な仕事と見なされていた。",
+                            vocabulary: [
+                                { word: "clerical work", meaning: "「事務作業」。" },
+                                { word: "secondary to", meaning: "「〜に次ぐ」「〜より重要でない」。" },
+                                { word: "astronomy", meaning: "「天文学」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "viewed as", explanation: "<b>viewed as</b>: 「〜として見なされる」。view A as B の受動態。" },
+                                { phrase: "secondary to...", explanation: "<b>secondary to...</b>: ダッシュ後の追加説明。clerical workの内容を補足。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 10,
+                        text: "This misconception led management to believe that programming required patience rather than genius, a quality stereotypically attributed to women.",
+                        translation: "この誤解により、経営陣はプログラミングには天才性よりも忍耐（ステレオタイプ的に女性に帰属される特質）が必要であると信じ込んだ。",
+                        grammarAnalysis: {
+                            mainVerbs: ["led"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>This misconception</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>led</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>management</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>to believe [that programming required patience rather than genius, (a quality stereotypically attributed to women)]</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-S'>この誤解は</span> <span class='t-V'>導いた</span> <span class='t-O'>経営陣を</span> <span class='t-C'>[〜と信じるように]</span>。",
+                            naturalTranslation: "この誤解により、経営陣はプログラミングには天才性よりも忍耐が必要であると信じ込んだ。忍耐はステレオタイプ的に女性に帰属される特質であった。",
+                            vocabulary: [
+                                { word: "misconception", meaning: "「誤解」「思い違い」。" },
+                                { word: "stereotypically", meaning: "「ステレオタイプ的に」「紋切り型に」。" },
+                                { word: "attributed to", meaning: "「〜に帰属するとされる」「〜のものとされる」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "led ... to believe", explanation: "<b>led ... to believe</b>: lead O to do（Oに〜させる）。" },
+                                { phrase: "patience rather than genius", explanation: "<b>patience rather than genius</b>: 「天才性よりむしろ忍耐」。" },
+                                { phrase: "a quality ...", explanation: "<b>a quality ...</b>: patience と同格。その後の分詞句が修飾。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 11,
+                        text: "As a result, they were hired for a fraction of what male engineers earned.",
+                        translation: "その結果、彼女たちは男性エンジニアが稼ぐ額の数分の一で雇われた。",
+                        grammarAnalysis: {
+                            mainVerbs: ["were hired"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(As a result)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were hired</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(for a fraction of [what male engineers earned])</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(その結果)</span>、<span class='t-S'>彼女たちは</span> <span class='t-V'>雇われた</span> <span class='t-M'>(男性エンジニアが稼ぐ額のほんの一部で)</span>。",
+                            naturalTranslation: "その結果、彼女たちは男性エンジニアが稼ぐ額の数分の一で雇われた。",
+                            vocabulary: [
+                                { word: "a fraction of", meaning: "「〜のほんの一部」「〜の数分の一」。" },
+                                { word: "earned", meaning: "「稼いだ」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "what male engineers earned", explanation: "<b>what clause</b>: 関係代名詞what。「〜したもの」。" },
+                                { phrase: "for a fraction", explanation: "<b>for</b>: 交換・代価を表す。「〜の金額で」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 12,
+                        text: "Paradoxically, this undervaluation gave them a unique opportunity.",
+                        translation: "逆説的だが、この過小評価が彼女たちにユニークな機会を与えた。",
+                        grammarAnalysis: {
+                            mainVerbs: ["gave"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Paradoxically)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>this undervaluation</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>gave</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>them</span><span class='tag'>O1</span></span> <span class='chunk O-group'><span class='text'>a unique opportunity</span><span class='tag'>O2</span></span>.",
+                            translationHtml: "<span class='t-M'>(逆説的に)</span>、<span class='t-S'>この過小評価は</span> <span class='t-V'>与えた</span> <span class='t-O'>彼女たちに</span> <span class='t-O'>ユニークな機会を</span>。",
+                            naturalTranslation: "逆説的だが、この過小評価が彼女たちにユニークな機会を与えた。",
+                            vocabulary: [
+                                { word: "Paradoxically", meaning: "「逆説的に」「矛盾しているようだが」。" },
+                                { word: "undervaluation", meaning: "「過小評価」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "gave them a unique opportunity", explanation: "<b>SVOO</b>: 第4文型。O1にO2を与える。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 13,
+                        text: "Because the men focused on the hardware, the women were left alone to invent the very foundations of software development, including subroutines and nesting, concepts still used today.",
+                        translation: "男性たちがハードウェアに集中していたため、女性たちは放任され、サブルーチンやネストといった今日でも使われている概念を含む、ソフトウェア開発のまさに基礎を発明することになった。",
+                        grammarAnalysis: {
+                            mainVerbs: ["were left"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Because the men focused on the hardware)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the women</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were left alone</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(to invent the very foundations of software development, (including subroutines and nesting, concepts still used today))</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(男性たちがハードウェアに集中していたので)</span>、<span class='t-S'>女性たちは</span> <span class='t-V'>放っておかれた</span> <span class='t-M'>(ソフトウェア開発のまさに基礎を発明するために)</span>。",
+                            naturalTranslation: "男性たちがハードウェアに集中していたため、女性たちは放任され、サブルーチンやネストといった今日でも使われている概念を含む、ソフトウェア開発のまさに基礎を発明することになった。",
+                            vocabulary: [
+                                { word: "left alone", meaning: "「放っておかれる」「干渉されない」。" },
+                                { word: "foundations", meaning: "「基礎」「土台」。" },
+                                { word: "subroutines", meaning: "「サブルーチン」。プログラムの部品。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "to invent", explanation: "<b>to invent</b>: 結果を表す不定詞。「その結果〜を発明した」。" },
+                                { phrase: "the very foundations", explanation: "<b>the very</b>: 強調。「まさにその基礎」。" },
+                                { phrase: "concepts still used today", explanation: "<b>concepts ...</b>: subroutines and nesting と同格の説明。" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                paragraphId: 3,
+                sentences: [
+                    {
+                        id: 14,
+                        text: "As the Cold War heated up, the demand for computing power grew, but the recognition of these pioneers lagged behind.",
+                        translation: "冷戦が激化するにつれて計算能力への需要は高まったが、これらの先駆者たちへの認識は遅れていた。",
+                        grammarAnalysis: {
+                            mainVerbs: ["grew", "lagged behind"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(As the Cold War heated up)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the demand for computing power</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>grew</span><span class='tag'>V</span></span>, but <span class='chunk S-group'><span class='text'>the recognition of these pioneers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>lagged behind</span><span class='tag'>V</span></span>.",
+                            translationHtml: "<span class='t-M'>(冷戦が激化するにつれて)</span>、<span class='t-S'>計算能力への需要は</span> <span class='t-V'>高まった</span>、しかし <span class='t-S'>これらの先駆者への認識は</span> <span class='t-V'>遅れをとった</span>。",
+                            naturalTranslation: "冷戦が激化するにつれて計算能力への需要は高まったが、これらの先駆者たちへの認識は遅れていた。",
+                            vocabulary: [
+                                { word: "heated up", meaning: "「激化した」「加熱した」。" },
+                                { word: "lagged behind", meaning: "「遅れをとった」「後れを取る」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "As ...", explanation: "<b>As</b>: 比例・推移を表す接続詞。「〜するにつれて」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 15,
+                        text: "When the ENIAC team was disbanded, the women's contributions were largely forgotten.",
+                        translation: "ENIACチームが解散したとき、女性たちの貢献は大部分が忘れ去られてしまった。",
+                        grammarAnalysis: {
+                            mainVerbs: ["were forgotten"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(When the ENIAC team was disbanded)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the women's contributions</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were largely forgotten</span><span class='tag'>V</span></span>.",
+                            translationHtml: "<span class='t-M'>(ENIACチームが解散したとき)</span>、<span class='t-S'>女性たちの貢献は</span> <span class='t-V'>大部分が忘れられた</span>。",
+                            naturalTranslation: "ENIACチームが解散したとき、女性たちの貢献は大部分が忘れ去られてしまった。",
+                            vocabulary: [
+                                { word: "disbanded", meaning: "「解散した」。" },
+                                { word: "contributions", meaning: "「貢献」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "largely", explanation: "<b>largely</b>: 「大部分は」「主として」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 16,
+                        text: "It wasn't until the 1980s, when a Harvard student found their names in old archives, that history began to be rewritten.",
+                        translation: "歴史が書き換えられ始めたのは、ハーバード大学の学生が古い公文書で彼女たちの名前を見つけた1980年代になってからだった。",
+                        grammarAnalysis: {
+                            mainVerbs: ["began"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(It wasn't until the 1980s, (when a Harvard student found their names in old archives))</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>that</span><span class='tag'>M</span></span> <span class='chunk S-group'><span class='text'>history</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>began to be rewritten</span><span class='tag'>V</span></span>.",
+                            translationHtml: "<span class='t-M'>(1980年代になって初めて)</span>、<span class='t-M'>(ハーバード大生が古い記録で彼女らの名を見つけたとき)</span>、<span class='t-S'>歴史は</span> <span class='t-V'>書き換えられ始めた</span>。",
+                            naturalTranslation: "歴史が書き換えられ始めたのは、ハーバード大学の学生が古い公文書で彼女たちの名前を見つけた1980年代になってからだった。",
+                            vocabulary: [
+                                { word: "archives", meaning: "「公文書」「記録保管所」。" },
+                                { word: "rewritten", meaning: "「書き換えられる」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "It wasn't until ... that ...", explanation: "<b>強調構文</b>: 「〜になって初めて...した」。" },
+                                { phrase: "when ... archives", explanation: "<b>when節</b>: 1980sを説明する関係副詞の非制限用法。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 17,
+                        text: "By then, the field of programming had shifted; \"software engineer\" had become a prestigious, high-paying title dominated by men.",
+                        translation: "その頃にはプログラミングの分野は変化しており、「ソフトウェアエンジニア」は男性に支配された、権威ある高給の肩書きになっていた。",
+                        grammarAnalysis: {
+                            mainVerbs: ["had shifted", "had become"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(By then)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the field of programming</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>had shifted</span><span class='tag'>V</span></span>; <span class='chunk S-group'><span class='text'>\"software engineer\"</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>had become</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>a prestigious, high-paying title (dominated by men)</span><span class='tag'>C</span></span>.",
+                            translationHtml: "<span class='t-M'>(その頃には)</span>、<span class='t-S'>プログラミングの分野は</span> <span class='t-V'>変化していた</span>；<span class='t-S'>「ソフトウェアエンジニア」は</span> <span class='t-V'>なっていた</span> <span class='t-C'>権威ある高給の肩書きに(男性に支配された)</span>。",
+                            naturalTranslation: "その頃にはプログラミングの分野は変化しており、「ソフトウェアエンジニア」は男性に支配された、権威ある高給の肩書きになっていた。",
+                            vocabulary: [
+                                { word: "prestigious", meaning: "「権威ある」「名声のある」。" },
+                                { word: "dominated by", meaning: "「〜に支配された」「〜が多数を占める」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "had shifted / had become", explanation: "<b>過去完了</b>: 1980年代より前の完了した変化を表す。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 18,
+                        text: "Today, the ENIAC programmers are recognized not just for their technical skills, but for proving that software is as critical as hardware.",
+                        translation: "今日、ENIACのプログラマーたちは、その技術的スキルだけでなく、ソフトウェアがハードウェアと同じくらい重要であることを証明したことでも認められている。",
+                        grammarAnalysis: {
+                            mainVerbs: ["are recognized"],
+                            structureHtml: "<span class='chunk M-group'><span class='text'>(Today)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the ENIAC programmers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are recognized</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(not just for their technical skills, but for proving that software is as critical as hardware)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-M'>(今日)</span>、<span class='t-S'>ENIACのプログラマーたちは</span> <span class='t-V'>認められている</span> <span class='t-M'>(技術的スキルだけでなく、～を証明したことでも)</span>。",
+                            naturalTranslation: "今日、ENIACのプログラマーたちは、その技術的スキルだけでなく、ソフトウェアがハードウェアと同じくらい重要であることを証明したことでも認められている。",
+                            vocabulary: [
+                                { word: "recognized", meaning: "「認められる」「評価される」。" },
+                                { word: "critical", meaning: "「極めて重要な」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "not just ... but ...", explanation: "<b>not just A but B</b>: AだけでなくBも。" },
+                                { phrase: "as critical as", explanation: "<b>as ... as</b>: 同等比較。「〜と同じくらい重要」。" }
+                            ]
+                        }
+                    },
+                    {
+                        id: 19,
+                        text: "Their legacy challenges the narrative that innovation is solely a male domain, highlighting that the \"soft\" work of logic was actually the hardest part of the equation.",
+                        translation: "彼女たちの遺産は、イノベーションは男性だけの領域であるという物語に異議を唱え、論理という「ソフト」な仕事が実際には方程式の中で最も困難な部分であったことを強調している。",
+                        grammarAnalysis: {
+                            mainVerbs: ["challenges"],
+                            structureHtml: "<span class='chunk S-group'><span class='text'>Their legacy</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>challenges</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the narrative [that innovation is solely a male domain]</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(highlighting that the \"soft\" work of logic was actually the hardest part of the equation)</span><span class='tag'>M</span></span>.",
+                            translationHtml: "<span class='t-S'>彼女たちの遺産は</span> <span class='t-V'>異議を唱える</span> <span class='t-O'>物語に[イノベーションが男性だけの領域であるという]</span>、<span class='t-M'>(～ということを強調しながら)</span>。",
+                            naturalTranslation: "彼女たちの遺産は、イノベーションは男性だけの領域であるという物語に異議を唱え、論理という「ソフト」な仕事が実際には方程式の中で最も困難な部分であったことを強調している。",
+                            vocabulary: [
+                                { word: "legacy", meaning: "「遺産」「功績」。" },
+                                { word: "narrative", meaning: "「物語」「語り口」。ここでは「定説」に近い。" },
+                                { word: "domain", meaning: "「領域」「分野」。" }
+                            ],
+                            grammarNotes: [
+                                { phrase: "narrative that ...", explanation: "<b>narrative that ...</b>: 同格のthat節。「〜という物語」。" },
+                                { phrase: "highlighting", explanation: "<b>highlighting</b>: 分詞構文。「〜を強調して」。" }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        questions: [
+            {
+                id: 1,
+                text: "What does the passage suggest about the introduction of the ENIAC?",
+                translation: "ENIACの導入について、この文章は何を示唆していますか？",
+                choices: [
+                    { id: 1, text: "It was initially delayed because the engineers could not find enough qualified men to operate the complex hardware.", translation: "エンジニアが複雑なハードウェアを操作するのに十分な資格を持つ男性を見つけられなかったため、当初は遅れが生じた。", isCorrect: false },
+                    { id: 2, text: "The media coverage accurately portrayed the collaborative effort between the hardware designers and the female programmers.", translation: "メディアの報道は、ハードウェア設計者と女性プログラマーの協力関係を正確に描写していた。", isCorrect: false },
+                    { id: 3, text: "The true nature of the programmers' role was obscured, leading the public to believe the men were responsible for the machine's operation.", translation: "プログラマーの役割の本質は曖昧にされ、大衆は男性が機械の操作に責任があると思い込まされた。", isCorrect: true, highlight: "obscured ... leading the public to believe" },
+                    { id: 4, text: "The women were primarily hired to pose for photographs to make the machine appear more user-friendly to the public.", translation: "女性たちは主に、機械を大衆にとって使いやすく見せるための写真撮影のモデルとして雇われた。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 1,
+                    description: "第1段落。写真に写っていたのは誰で、実際に動かしていたのは誰だったかを対比しましょう。",
+                    targetSentenceId: 3,
+                    highlightWord: "mistaken for models or secretaries",
+                    highlightWordSentenceId: 4
+                },
+                keywords: ["introduction", "ENIAC", "suggest"],
+                keywordExplanations: {
+                    "introduction": "導入。第1段落のunveiled（公開された）時のお話。",
+                    "suggest": "示唆する。本文の記述から読み取れる内容。"
+                },
+                keywordMatches: [
+                    { sentenceId: 1, text: "unveiled to the public", keyword: "introduction" }
+                ],
+                choiceAdvice: "1: 遅れ(delayed)? 2: 正確に描写(accurately portrayed)? 3: 役割が隠された(obscured)? 4: 写真のために雇われた(hired to pose)?",
+                logic: [
+                    { type: "text", content: "本文(Sentence 2): 写真には男性エンジニアが誇らしげに写っていた。" },
+                    { type: "text", content: "本文(Sentence 3-4): しかし裏で作業していたのは女性で、彼女らはモデルや秘書と誤解されていた。" },
+                    { type: "text", content: "【結論】実際は女性が動かしていたのに、表向きは男性の手柄のように見え、女性の役割は隠されていた（誤解されていた）。これは選択肢3「役割の本質が曖昧にされ、男性が責任者だと思われた」と合致する。" },
+                    { type: "conclusion", content: "正解: 3" }
+                ]
+            },
+            {
+                id: 2,
+                text: "Why were women initially selected for programming jobs?",
+                translation: "なぜ当初、女性がプログラミングの仕事に選ばれたのですか？",
+                choices: [
+                    { id: 1, text: "The management believed that the work was simple and repetitive, fitting their biased view of women's capabilities.", translation: "経営陣は、その仕事が単純で反復的であり、女性の能力に対する彼らの偏見に合致していると信じていた。", isCorrect: true, highlight: "simple ... fitting their biased view" },
+                    { id: 2, text: "Women had already proven themselves to be superior to men in the field of electrical engineering during the war.", translation: "女性は戦時中、電気工学の分野ですでに男性より優れていることを証明していた。", isCorrect: false },
+                    { id: 3, text: "There was a shortage of male engineers, so companies were forced to pay high wages to attract female talent.", translation: "男性エンジニアが不足していたため、企業は女性の才能を引きつけるために高い賃金を支払わざるを得なかった。", isCorrect: false },
+                    { id: 4, text: "The concept of software was considered too dangerous for men, who were needed for combat roles.", translation: "ソフトウェアの概念は男性にとって危険すぎると考えられ、男性は戦闘任務に必要とされていた。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 2,
+                    description: "第2段落。プログラミングが当時どのように見なされていたか（clerical work）を確認しましょう。",
+                    targetSentenceId: 10,
+                    highlightWord: "patience rather than genius",
+                    highlightWordSentenceId: 10
+                },
+                keywords: ["initially selected", "women", "why"],
+                keywordExplanations: {
+                    "initially selected": "当初選ばれた理由。",
+                    "why": "理由を問う問題。"
+                },
+                keywordMatches: [
+                    { sentenceId: 8, text: "employment of women", keyword: "selected" }
+                ],
+                choiceAdvice: "1: 単純作業だと思われた(simple?), 2: 優れていると証明(proven superior?), 3: 高賃金(high wages?), 4: 危険すぎる(dangerous?)。",
+                logic: [
+                    { type: "text", content: "本文(Sentence 9): プログラミングは「事務作業(clerical work)」で「副次的(secondary)」なものと見なされていた。" },
+                    { type: "text", content: "本文(Sentence 10): 経営陣はプログラミングには「天才性より忍耐(patience rather than genius)」が必要で、それは「ステレオタイプ的に女性の特質」だと信じていた。" },
+                    { type: "text", content: "【結論】つまり、簡単で忍耐が必要な（女性向きの）単純作業だと軽視していたから雇った。選択肢1「仕事が単純で...女性の能力への偏見に合致していた」が正解。" },
+                    { type: "conclusion", content: "正解: 1" }
+                ]
+            },
+            {
+                id: 3,
+                text: "The author implies that the transition of programming into a prestigious profession",
+                translation: "著者は、プログラミングが権威ある職業へと移行したことについて、何を暗示していますか？",
+                choices: [
+                    { id: 1, text: "occurred only after the original ENIAC programmers were given awards for their wartime service.", translation: "元々のENIACプログラマーが戦時の功績で賞を授与された後にのみ起こった。", isCorrect: false },
+                    { id: 2, text: "coincided with a shift in gender dominance, as the field became respected and high-paying, men began to take over.", translation: "ジェンダー支配の転換と重なり、分野が尊敬され高給になるにつれて、男性が支配するようになった。", isCorrect: true, highlight: "shift in gender dominance ... men began to take over" },
+                    { id: 3, text: "was the direct result of the Soviet Union's superior software development techniques during the Cold War.", translation: "冷戦中のソビエト連邦の優れたソフトウェア開発技術の直接的な結果であった。", isCorrect: false },
+                    { id: 4, text: "happened because the hardware became simpler to build, allowing engineers to focus more on code.", translation: "ハードウェアの構築がより簡単になり、エンジニアがコードにより集中できるようになったために起こった。", isCorrect: false }
+                ],
+                hint: {
+                    paragraphId: 3,
+                    description: "第3段落後半。1980年代の話と、プログラミング分野の変化（shifted）について記述している部分を探しましょう。",
+                    targetSentenceId: 17,
+                    highlightWord: "prestigious, high-paying title dominated by men",
+                    highlightWordSentenceId: 17
+                },
+                keywords: ["transition", "prestigious profession"],
+                keywordExplanations: {
+                    "transition": "移行、変化。本文の shifted と対応。",
+                    "prestigious": "権威ある。本文でそのまま使われている。"
+                },
+                keywordMatches: [
+                    { sentenceId: 17, text: "field of programming had shifted", keyword: "transition" },
+                    { sentenceId: 17, text: "prestigious", keyword: "prestigious" }
+                ],
+                choiceAdvice: "権威ある職業への変化について。1: 賞の授与後(after awards?), 2: ジェンダーの変化と一致(gender shift?), 3: ソ連の結果(Soviet?), 4: ハードが簡単に(hw simpler?)。",
+                logic: [
+                    { type: "text", content: "本文(Sentence 17): 分野は変化し(shifted)、「ソフトウェアエンジニア」は男性に支配された(dominated by men)権威ある高給の肩書きになった。" },
+                    { type: "text", content: "【結論】高給で権威あるものになったタイミングで、男性が支配するようになった。これは選択肢2「ジェンダー支配の転換と重なり...男性が支配するようになった」と一致する。" },
+                    { type: "conclusion", content: "正解: 2" }
+                ]
+            }
+        ],
+        summaryForInstructors: {
+            title: "The Software Pioneers of ENIAC",
+            intro: "世界初のコンピュータENIACの裏側で、実際にプログラミングを行った6人の女性たちの功績と、プログラミングという職業のジェンダーによる変遷を描いたパッセージ。",
+            points: [
+                { label: "1. 隠された功績", text: "ENIAC公開時、称賛されたのはハードウェア設計書の男性たちだったが、実際に動かしていたのは6人の女性だった。" },
+                { label: "2. 当時の偏見", text: "プログラミングは「忍耐が必要な事務作業」と見なされ、女性の仕事として安く発注された。" },
+                { label: "3. 基礎の確立", text: "しかし彼女たちは、サブルーチンやネストなど、現代に通じるソフトウェアの基礎概念を発明した。" },
+                { label: "4. 歴史の再評価", text: "冷戦後、プログラミングが高給な男性の職業となる中で彼女たちは忘れられたが、1980年代以降、その重要性が再認識されている。" }
+            ]
+        }
+    },
+
+
+    {
+        "id": "grade-pre1-original-plant-communication",
+        "grade": "準1級",
+        "title": "Plant Communication",
+        "subTitle": "問題2",
+        "genre": "自然科学",
+        "similarProblems": {
+            "exam": "2025年度 第2回",
+            "title": "Relying on Nature"
+        },
+        "isOriginal": true,
+        "images": {
+            "content": "https://placehold.co/600x400?text=Plant+Communication",
+            "question": "https://placehold.co/600x400?text=Question+Image"
+        },
+        "content": [
+            {
+                "paragraphId": 1,
+                "sentences": [
+                    {
+                        "id": 1,
+                        "text": "For centuries, plants were considered passive organisms that simply absorbed water and sunlight.",
+                        "translation": "何世紀にもわたって、植物は単に水と日光を吸収するだけの受動的な生物であると考えられてきた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "were considered"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(For centuries)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>plants</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were considered</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>passive organisms (that simply absorbed water and sunlight)</span><span class='tag'>C</span></span>.",
+                            "translationHtml": "<span class='t-M'>(何世紀にもわたって)</span>、<span class='t-S'>植物は</span> <span class='t-V'>考えられてきた</span> <span class='t-C'>単に水と日光を吸収するだけの受動的な生物であると</span>。",
+                            "naturalTranslation": "何世紀にもわたって、植物は単に水と日光を吸収するだけの受動的な生物であると考えられてきた。",
+                            "vocabulary": [
+                                {
+                                    "word": "passive",
+                                    "meaning": "「受動的な」。"
+                                },
+                                {
+                                    "word": "organisms",
+                                    "meaning": "「生物」「有機体」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "were considered",
+                                    "explanation": "<b>were considered</b>: 「〜と考えられていた」。SVOCの受動態（S is considered C）。"
+                                },
+                                {
+                                    "phrase": "that simply absorbed",
+                                    "explanation": "<b>that ...</b>: organismsを修飾する関係代名詞節。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "text": "However, over the past few decades, researchers have discovered that plants are far more sophisticated than previously believed.",
+                        "translation": "しかし、過去数十年の間に、研究者たちは、植物が以前信じられていたよりもはるかに洗練されていることを発見した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "have discovered"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(over the past few decades)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>researchers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have discovered</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that plants are far more sophisticated than previously believed</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-M'>(しかし)</span>、<span class='t-M'>(過去数十年の間に)</span>、<span class='t-S'>研究者たちは</span> <span class='t-V'>発見した</span> <span class='t-O'>植物が以前信じられていたよりもはるかに洗練されていることを</span>。",
+                            "naturalTranslation": "しかし、過去数十年の間に、研究者たちは、植物が以前信じられていたよりもはるかに洗練されていることを発見した。",
+                            "vocabulary": [
+                                {
+                                    "word": "sophisticated",
+                                    "meaning": "「洗練された」「高度な」。"
+                                },
+                                {
+                                    "word": "decades",
+                                    "meaning": "「数十年」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "far more ... than",
+                                    "explanation": "<b>far more ...</b>: 比較級の強調。「はるかに〜」。"
+                                },
+                                {
+                                    "phrase": "than previously believed",
+                                    "explanation": "than (it was) previously believed の省略形。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "text": "They can detect threats, respond to their environment, and even communicate with each other using a complex system of chemical signals.",
+                        "translation": "それらは脅威を検知し、環境に反応し、さらに複雑な化学信号のシステムを使って互いに通信することさえできる。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "can detect"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can detect</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>threats</span><span class='tag'>O</span></span>, <span class='chunk V-group'><span class='text'>respond</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(to their environment)</span><span class='tag'>M</span></span>, and <span class='chunk M-group'><span class='text'>(even)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>communicate</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(with each other)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(using a complex system of chemical signals)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-S'>それらは</span> <span class='t-V'>検知できる</span> <span class='t-O'>脅威を</span>、<span class='t-V'>反応し（できる）</span> <span class='t-M'>(環境に)</span>、そして<span class='t-V'>通信することさえ（できる）</span> <span class='t-M'>(互いに)</span> <span class='t-M'>(複雑な化学信号のシステムを使って)</span>。",
+                            "naturalTranslation": "それらは脅威を検知し、環境に反応し、さらに複雑な化学信号のシステムを使って互いに通信することさえできる。",
+                            "vocabulary": [
+                                {
+                                    "word": "detect",
+                                    "meaning": "「検知する」「見つける」。"
+                                },
+                                {
+                                    "word": "chemical signals",
+                                    "meaning": "「化学信号」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "detect, respond, and communicate",
+                                    "explanation": "<b>並列構造</b>: caan に続く3つの動詞が並んでいる。"
+                                },
+                                {
+                                    "phrase": "using ...",
+                                    "explanation": "<b>using ...</b>: 手段を表す分詞構文。「〜を使って」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "text": "This emerging field of study is reshaping our understanding of plant biology and may have significant implications for agriculture.",
+                        "translation": "この新興の研究分野は、植物生物学に対する私たちの理解を作り変えつつあり、農業に重大な影響を与える可能性がある。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "is reshaping"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>This emerging field of study</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is reshaping</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>our understanding of plant biology</span><span class='tag'>O</span></span> and <span class='chunk V-group'><span class='text'>may have</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>significant implications</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(for agriculture)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-S'>この新興の研究分野は</span> <span class='t-V'>作り変えている</span> <span class='t-O'>私たちの植物生物学の理解を</span>、そして<span class='t-V'>持つかもしれない</span> <span class='t-O'>重大な影響/意味合いを</span> <span class='t-M'>(農業に対して)</span>。",
+                            "naturalTranslation": "この新興の研究分野は、植物生物学に対する私たちの理解を作り変えつつあり、農業に重大な影響を与える可能性がある。",
+                            "vocabulary": [
+                                {
+                                    "word": "emerging",
+                                    "meaning": "「新興の」「現れつつある」。"
+                                },
+                                {
+                                    "word": "implications",
+                                    "meaning": "「影響」「意味合い」。"
+                                },
+                                {
+                                    "word": "agriculture",
+                                    "meaning": "「農業」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "is reshaping",
+                                    "explanation": "<b>is reshaping</b>: 現在進行形。「〜を作り変えつつある」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 2,
+                "sentences": [
+                    {
+                        "id": 5,
+                        "text": "The first major breakthrough in understanding plant communication came in the 1980s when scientists studying willow trees made a surprising discovery.",
+                        "translation": "植物のコミュニケーションを理解する上での最初の大きな突破口は、1980年代に柳の木を研究していた科学者たちが驚くべき発見をした時にもたらされた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "came"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>The first major breakthrough (in understanding plant communication)</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>came</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(in the 1980s)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(when scientists studying willow trees made a surprising discovery)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-S'>最初の大きな突破口は(植物の通信を理解する上での)</span> <span class='t-V'>来た/もたらされた</span> <span class='t-M'>(1980年代に)</span> <span class='t-M'>(柳の木を研究していた科学者が驚くべき発見をした時に)</span>。",
+                            "naturalTranslation": "植物のコミュニケーションを理解する上での最初の大きな突破口は、1980年代に柳の木を研究していた科学者たちが驚くべき発見をした時にもたらされた。",
+                            "vocabulary": [
+                                {
+                                    "word": "breakthrough",
+                                    "meaning": "「突破口」「画期的な進歩」。"
+                                },
+                                {
+                                    "word": "willow trees",
+                                    "meaning": "「柳の木」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "when ...",
+                                    "explanation": "<b>when ...</b>: 1980sを説明する関係副詞（または時を表す副詞節）。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "text": "They found that when caterpillars attacked one tree, nearby trees that had not been attacked began producing chemicals that made their leaves less palatable to insects.",
+                        "translation": "彼らは、毛虫がある木を攻撃したとき、攻撃されていない近くの木々が、葉を昆虫にとって不味くする化学物質を作り始めたことを発見した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "found"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>found</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that [(when caterpillars attacked one tree), nearby trees (that had not been attacked) began producing chemicals (that made their leaves less palatable to insects)]</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-S'>彼らは</span> <span class='t-V'>発見した</span> <span class='t-O'>[(毛虫がある木を攻撃した時)、近くの木々(攻撃されていない)が化学物質を作り始めたことを(葉を虫にとって不味くする)]</span>。",
+                            "naturalTranslation": "彼らは、毛虫がある木を攻撃したとき、攻撃されていない近くの木々が、葉を昆虫にとって不味くする化学物質を作り始めたことを発見した。",
+                            "vocabulary": [
+                                {
+                                    "word": "palatable",
+                                    "meaning": "「口に合う」「美味しい」。less palatableで「不味い」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "began producing",
+                                    "explanation": "<b>began producing</b>: 「生産し始めた」。"
+                                },
+                                {
+                                    "phrase": "made their leaves less palatable",
+                                    "explanation": "<b>make O C</b>: 第5文型。「葉(O)をより不味く(C)する」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "text": "Since the trees had no physical connection, the researchers hypothesized that the attacked tree was releasing airborne chemicals to warn its neighbors.",
+                        "translation": "木々には物理的なつながりがなかったため、研究者たちは、攻撃された木が隣の木に警告するために空気中の化学物質を放出しているという仮説を立てた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "hypothesized"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Since the trees had no physical connection)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the researchers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>hypothesized</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that the attacked tree was releasing airborne chemicals (to warn its neighbors)</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-M'>(木々には物理的なつながりがなかったので)</span>、<span class='t-S'>研究者たちは</span> <span class='t-V'>仮説を立てた</span> <span class='t-O'>攻撃された木が空気中の化学物質を放出していると(隣人に警告するために)</span>。",
+                            "naturalTranslation": "木々には物理的なつながりがなかったため、研究者たちは、攻撃された木が隣の木に警告するために空気中の化学物質を放出しているという仮説を立てた。",
+                            "vocabulary": [
+                                {
+                                    "word": "hypothesized",
+                                    "meaning": "「仮説を立てた」。"
+                                },
+                                {
+                                    "word": "airborne",
+                                    "meaning": "「空気中を伝わる」「空輸の」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "Since ...",
+                                    "explanation": "<b>Since</b>: 理由を表す。「〜なので」。"
+                                },
+                                {
+                                    "phrase": "was releasing",
+                                    "explanation": "<b>was releasing</b>: 過去進行形。「放出していた」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "text": "This phenomenon became known as \"talking trees,\" and it sparked considerable debate in the scientific community about whether plants could truly communicate.",
+                        "translation": "この現象は「おしゃべりする木」として知られるようになり、植物が本当にコミュニケーションをとれるのかどうかについて、科学界でかなりの議論を巻き起こした。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "became",
+                                "sparked"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>This phenomenon</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>became</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>known (as \"talking trees\")</span><span class='tag'>C</span></span>, and <span class='chunk S-group'><span class='text'>it</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>sparked</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>considerable debate</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(in the scientific community)</span><span class='tag'>M</span></span> <span class='chunk M-group'><span class='text'>(about whether plants could truly communicate)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-S'>この現象は</span> <span class='t-V'>なった</span> <span class='t-C'>知られるように(「おしゃべりする木」として)</span>、そして<span class='t-S'>それは</span> <span class='t-V'>引き起こした</span> <span class='t-O'>かなりの議論を</span> <span class='t-M'>(科学界で)</span> <span class='t-M'>(植物が本当に通信できるかどうかについて)</span>。",
+                            "naturalTranslation": "この現象は「おしゃべりする木」として知られるようになり、植物が本当にコミュニケーションをとれるのかどうかについて、科学界でかなりの議論を巻き起こした。",
+                            "vocabulary": [
+                                {
+                                    "word": "sparked",
+                                    "meaning": "「引き起こした」「火をつけた」。"
+                                },
+                                {
+                                    "word": "debate",
+                                    "meaning": "「議論」「論争」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "became known as",
+                                    "explanation": "<b>became known as</b>: 「〜として知られるようになった」。"
+                                },
+                                {
+                                    "phrase": "whether ...",
+                                    "explanation": "<b>whether ...</b>: 「〜かどうか」。aboutの目的語となる名詞節。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 3,
+                "sentences": [
+                    {
+                        "id": 9,
+                        "text": "For many years, skeptics argued that the observed reactions in nearby trees were merely coincidental or caused by other environmental factors.",
+                        "translation": "長きにわたり、懐疑論者たちは、近くの木々に見られた反応は単なる偶然か、他の環境要因によるものだと主張した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "argued"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(For many years)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>skeptics</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>argued</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that the observed reactions in nearby trees were merely coincidental or caused by other environmental factors</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-M'>(長年の間)</span>、<span class='t-S'>懐疑論者は</span> <span class='t-V'>主張した</span> <span class='t-O'>近くの木の反応は単なる偶然か他の環境要因に起因すると</span>。",
+                            "naturalTranslation": "長きにわたり、懐疑論者たちは、近くの木々に見られた反応は単なる偶然か、他の環境要因によるものだと主張した。",
+                            "vocabulary": [
+                                {
+                                    "word": "skeptics",
+                                    "meaning": "「懐疑論者」「疑い深い人」。"
+                                },
+                                {
+                                    "word": "coincidental",
+                                    "meaning": "「偶然の」「一致した」。"
+                                }
+                            ],
+                            "grammarNotes": []
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "text": "They maintained that communication required a sender, a receiver, and an intentional message, none of which plants seemed capable of producing.",
+                        "translation": "彼らは、コミュニケーションには送り手、受け手、そして意図的なメッセージが必要であり、植物はそのいずれも生み出すことができないように見えると主張し続けた。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "maintained"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>maintained</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that communication required a sender, a receiver, and an intentional message, (none of which plants seemed capable of producing)</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-S'>彼らは</span> <span class='t-V'>主張し続けた</span> <span class='t-O'>通信には送り手、受け手、意図的なメッセージが必要だと、(そしてそのどれも植物には生産不可能に見えた)</span>。",
+                            "naturalTranslation": "彼らは、コミュニケーションには送り手、受け手、そして意図的なメッセージが必要であり、植物はそのいずれも生み出すことができないように見えると主張し続けた。",
+                            "vocabulary": [
+                                {
+                                    "word": "maintained",
+                                    "meaning": "「（主張を）維持した」「主張し続けた」。"
+                                },
+                                {
+                                    "word": "intentional",
+                                    "meaning": "「意図的な」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "none of which",
+                                    "explanation": "<b>none of which</b>: 関係代名詞の非制限用法。その（3つの要素）どれも〜ない。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 11,
+                        "text": "However, numerous subsequent studies have confirmed that plants do indeed release volatile organic compounds when under stress, and neighboring plants can detect and respond to these signals.",
+                        "translation": "しかし、その後の数多くの研究により、植物はストレス下で実際に揮発性有機化合物を放出しており、隣の植物がこれらの信号を検知して反応できることが確認された。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "have confirmed"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>numerous subsequent studies</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have confirmed</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that plants do indeed release volatile organic compounds (when under stress), and neighboring plants can detect and respond to these signals</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-M'>(しかし)</span>、<span class='t-S'>多くのその後の研究が</span> <span class='t-V'>確認した</span> <span class='t-O'>植物が実際に揮発性有機化合物を放出すること(ストレス下で)と、隣の植物が検知し反応できることを</span>。",
+                            "naturalTranslation": "しかし、その後の数多くの研究により、植物はストレス下で実際に揮発性有機化合物を放出しており、隣の植物がこれらの信号を検知して反応できることが確認された。",
+                            "vocabulary": [
+                                {
+                                    "word": "subsequent",
+                                    "meaning": "「その後の」「続いて起こる」。"
+                                },
+                                {
+                                    "word": "volatile",
+                                    "meaning": "「揮発性の」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "do indeed release",
+                                    "explanation": "<b>do + 動詞</b>: 動詞の強調。「実際に〜する」。"
+                                },
+                                {
+                                    "phrase": "when under stress",
+                                    "explanation": "when (they are) under stress の省略。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 12,
+                        "text": "Some researchers now argue that the definition of communication should be expanded to include any exchange of information that benefits the organisms involved.",
+                        "translation": "一部の研究者は現在、コミュニケーションの定義を拡大し、関与する生物に利益をもたらすあらゆる情報のやり取りを含めるべきだと主張している。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "argue"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Some researchers</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(now)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>argue</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that the definition of communication should be expanded (to include any exchange of information (that benefits the organisms involved))</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-S'>一部の研究者は</span> <span class='t-M'>(今や)</span> <span class='t-V'>主張している</span> <span class='t-O'>通信の定義は拡大されるべきだと(関与する生物に益するあらゆる情報交換を含むように)</span>。",
+                            "naturalTranslation": "一部の研究者は現在、コミュニケーションの定義を拡大し、関与する生物に利益をもたらすあらゆる情報のやり取りを含めるべきだと主張している。",
+                            "vocabulary": [
+                                {
+                                    "word": "expanded",
+                                    "meaning": "「拡大された」。"
+                                },
+                                {
+                                    "word": "involved",
+                                    "meaning": "「関与した」「巻き込まれた」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "should be expanded",
+                                    "explanation": "<b>should be expanded</b>: 受動態。「拡大されるべきである」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 4,
+                "sentences": [
+                    {
+                        "id": 13,
+                        "text": "One of the most fascinating examples of plant communication involves lima beans and spider mites.",
+                        "translation": "植物のコミュニケーションの最も興味深い例の一つは、ライ豆とハダニに関するものだ。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "involves"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>One of the most fascinating examples of plant communication</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>involves</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>lima beans and spider mites</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-S'>植物通信の最も魅力的な例の一つは</span> <span class='t-V'>関与する/〜にまつわる</span> <span class='t-O'>ライ豆とハダニに</span>。",
+                            "naturalTranslation": "植物のコミュニケーションの最も興味深い例の一つは、ライ豆とハダニに関するものだ。",
+                            "vocabulary": [
+                                {
+                                    "word": "fascinating",
+                                    "meaning": "「魅力的な」「興味深い」。"
+                                },
+                                {
+                                    "word": "lima beans",
+                                    "meaning": "「ライ豆」。"
+                                },
+                                {
+                                    "word": "spider mites",
+                                    "meaning": "「ハダニ」。"
+                                }
+                            ],
+                            "grammarNotes": []
+                        }
+                    },
+                    {
+                        "id": 14,
+                        "text": "When spider mites attack lima bean plants, the plants release a specific blend of chemicals into the air.",
+                        "translation": "ハダニがライ豆の植物を攻撃すると、その植物は特定の混合化学物質を空気中に放出する。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "release"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(When spider mites attack lima bean plants)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the plants</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>release</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a specific blend of chemicals</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(into the air)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-M'>(ハダニがライ豆を攻撃すると)</span>、<span class='t-S'>その植物は</span> <span class='t-V'>放出する</span> <span class='t-O'>特定の化学物質の混合物を</span> <span class='t-M'>(空気中に)</span>。",
+                            "naturalTranslation": "ハダニがライ豆の植物を攻撃すると、その植物は特定の混合化学物質を空気中に放出する。",
+                            "vocabulary": [
+                                {
+                                    "word": "specific",
+                                    "meaning": "「特定の」。"
+                                },
+                                {
+                                    "word": "blend",
+                                    "meaning": "「混合物」「ブレンド」。"
+                                }
+                            ],
+                            "grammarNotes": []
+                        }
+                    },
+                    {
+                        "id": 15,
+                        "text": "Remarkably, these chemicals serve two purposes: they attract predatory mites that feed on spider mites, and they prompt neighboring lima bean plants to begin producing their own defensive chemicals before they are attacked.",
+                        "translation": "驚くべきことに、これらの化学物質には2つの目的がある。ハダニを捕食する捕食性ダニを引き寄せること、そして隣のライ豆の植物に、攻撃される前に自身の防御化学物質を作り始めるよう促すことである。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "serve",
+                                "attract",
+                                "prompt"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(Remarkably)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>these chemicals</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>serve</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>two purposes</span><span class='tag'>O</span></span>: <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>attract</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>predatory mites (that feed on spider mites)</span><span class='tag'>O</span></span>, and <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>prompt</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>neighboring lima bean plants</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>to begin producing their own defensive chemicals</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(before they are attacked)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-M'>(驚くべきことに)</span>、<span class='t-S'>これらの化学物質は</span> <span class='t-V'>果たす/役に立つ</span> <span class='t-O'>2つの目的を</span>:<span class='t-S'>それらは</span> <span class='t-V'>引き寄せる</span> <span class='t-O'>捕食性のダニを(ハダニを食べる)</span>、そして<span class='t-S'>それらは</span> <span class='t-V'>促す</span> <span class='t-O'>隣のライ豆に</span> <span class='t-C'>自身の防御化学物質を生産し始めるように</span> <span class='t-M'>(攻撃される前に)</span>。",
+                            "naturalTranslation": "驚くべきことに、これらの化学物質には2つの目的がある。ハダニを捕食する捕食性ダニを引き寄せること、そして隣のライ豆の植物に、攻撃される前に自身の防御化学物質を作り始めるよう促すことである。",
+                            "vocabulary": [
+                                {
+                                    "word": "predatory",
+                                    "meaning": "「捕食性の」。"
+                                },
+                                {
+                                    "word": "feed on",
+                                    "meaning": "「〜を常食とする」「〜を食べる」。"
+                                },
+                                {
+                                    "word": "prompt",
+                                    "meaning": "「促す」「刺激する」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "prompt O to do",
+                                    "explanation": "<b>prompt O to do</b>: 「Oに〜するよう促す」。"
+                                },
+                                {
+                                    "phrase": "before they are attacked",
+                                    "explanation": "<b>passive voice</b>: 「攻撃される前に」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 16,
+                        "text": "This response demonstrates that plants are not merely passive victims of herbivores but active participants in their own defense.",
+                        "translation": "この反応は、植物が単なる草食動物の受動的な犠牲者ではなく、自身の防衛における能動的な参加者であることを実証している。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "demonstrates"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>This response</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>demonstrates</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that plants are not merely passive victims of herbivores but active participants in their own defense</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-S'>この反応は</span> <span class='t-V'>実証している</span> <span class='t-O'>植物が単なる草食動物の受動的犠牲者ではなく、自身の防御への能動的参加者であることを</span>。",
+                            "naturalTranslation": "この反応は、植物が単なる草食動物の受動的な犠牲者ではなく、自身の防衛における能動的な参加者であることを実証している。",
+                            "vocabulary": [
+                                {
+                                    "word": "demonstrates",
+                                    "meaning": "「実証する」「証明する」。"
+                                },
+                                {
+                                    "word": "herbivores",
+                                    "meaning": "「草食動物」。"
+                                },
+                                {
+                                    "word": "participants",
+                                    "meaning": "「参加者」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "not merely ... but ...",
+                                    "explanation": "<b>not merely A but B</b>: 「単にAだけでなくBも」。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 17,
+                        "text": "Scientists have also discovered that some plants can distinguish between different types of attackers and produce different chemical signals accordingly.",
+                        "translation": "科学者たちはまた、一部の植物が異なる種類の攻撃者を区別し、それに応じて異なる化学信号を生成できることを発見した。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "have also discovered"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Scientists</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have also discovered</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that some plants can distinguish between different types of attackers and produce different chemical signals accordingly</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-S'>科学者たちは</span> <span class='t-V'>また発見した</span> <span class='t-O'>一部の植物が異なる種類の攻撃者を区別し、それに応じて異なる化学信号を出せることを</span>。",
+                            "naturalTranslation": "科学者たちはまた、一部の植物が異なる種類の攻撃者を区別し、それに応じて異なる化学信号を生成できることを発見した。",
+                            "vocabulary": [
+                                {
+                                    "word": "distinguish",
+                                    "meaning": "「区別する」「見分ける」。"
+                                },
+                                {
+                                    "word": "accordingly",
+                                    "meaning": "「それに応じて」。"
+                                }
+                            ],
+                            "grammarNotes": []
+                        }
+                    }
+                ]
+            },
+            {
+                "paragraphId": 5,
+                "sentences": [
+                    {
+                        "id": 18,
+                        "text": "Many agricultural scientists believe that understanding plant communication could revolutionize farming practices.",
+                        "translation": "多くの農業科学者は、植物のコミュニケーションを理解することで農業の実践に革命をもたらす可能性があると信じている。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "believe"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Many agricultural scientists</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>believe</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that understanding plant communication could revolutionize farming practices</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-S'>多くの農業科学者は</span> <span class='t-V'>信じている</span> <span class='t-O'>植物通信の理解が農業の実践に革命を起こしうると</span>。",
+                            "naturalTranslation": "多くの農業科学者は、植物のコミュニケーションを理解することで農業の実践に革命をもたらす可能性があると信じている。",
+                            "vocabulary": [
+                                {
+                                    "word": "revolutionize",
+                                    "meaning": "「革命を起こす」「劇的に変える」。"
+                                },
+                                {
+                                    "word": "practices",
+                                    "meaning": "「実践」「慣行」。"
+                                }
+                            ],
+                            "grammarNotes": []
+                        }
+                    },
+                    {
+                        "id": 19,
+                        "text": "By identifying the chemical signals that plants use to warn each other, farmers might be able to develop more effective and environmentally friendly pest control methods.",
+                        "translation": "植物が互いに警告するために使用する化学信号を特定することで、農家はより効果的で環境に優しい害虫駆除方法を開発できるかもしれない。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "might be"
+                            ],
+                            "structureHtml": "<span class='chunk M-group'><span class='text'>(By identifying the chemical signals (that plants use to warn each other))</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>farmers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>might be</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>able to develop</span><span class='tag'>C</span></span> <span class='chunk O-group'><span class='text'>more effective and environmentally friendly pest control methods</span><span class='tag'>O</span></span>.",
+                            "translationHtml": "<span class='t-M'>(化学信号を特定することで(植物が互いに警告に使う))</span>、<span class='t-S'>農家は</span> <span class='t-V'>〜かもしれない</span> <span class='t-C'>開発できる(状態に)</span> <span class='t-O'>より効果的で環境に優しい害虫駆除法を</span>。",
+                            "naturalTranslation": "植物が互いに警告するために使用する化学信号を特定することで、農家はより効果的で環境に優しい害虫駆除方法を開発できるかもしれない。",
+                            "vocabulary": [
+                                {
+                                    "word": "environmentally friendly",
+                                    "meaning": "「環境に優しい」「エコな」。"
+                                },
+                                {
+                                    "word": "pest control",
+                                    "meaning": "「害虫駆除」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "By identifying",
+                                    "explanation": "<b>By -ing</b>: 「〜することで」。手段を表す。"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 20,
+                        "text": "Some researchers are already experimenting with using plant-derived chemicals as natural pesticides, potentially reducing the need for synthetic alternatives.",
+                        "translation": "一部の研究者はすでに、植物由来の化学物質を天然の殺虫剤として使用する実験を行っており、合成代替品の必要性を減らす可能性がある。",
+                        "grammarAnalysis": {
+                            "mainVerbs": [
+                                "are already experimenting"
+                            ],
+                            "structureHtml": "<span class='chunk S-group'><span class='text'>Some researchers</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are already experimenting</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(with using plant-derived chemicals as natural pesticides)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(potentially reducing the need for synthetic alternatives)</span><span class='tag'>M</span></span>.",
+                            "translationHtml": "<span class='t-S'>一部の研究者は</span> <span class='t-V'>既に実験している</span> <span class='t-M'>(植物由来の化学物質を天然殺虫剤として使うことを)</span>、<span class='t-M'>(潜在的に合成代替品の必要性を減らしながら)</span>。",
+                            "naturalTranslation": "一部の研究者はすでに、植物由来の化学物質を天然の殺虫剤として使用する実験を行っており、合成代替品の必要性を減らす可能性がある。",
+                            "vocabulary": [
+                                {
+                                    "word": "plant-derived",
+                                    "meaning": "「植物由来の」。"
+                                },
+                                {
+                                    "word": "pesticides",
+                                    "meaning": "「殺虫剤」「農薬」。"
+                                },
+                                {
+                                    "word": "synthetic",
+                                    "meaning": "「合成の」「人工の」。"
+                                }
+                            ],
+                            "grammarNotes": [
+                                {
+                                    "phrase": "experimenting with",
+                                    "explanation": "<b>experimenting with</b>: 「〜を試みる」「実験する」。"
+                                },
+                                {
+                                    "phrase": "reducing",
+                                    "explanation": "<b>reducing</b>: 分詞構文。「そして〜を減らす」「〜を減らしながら」。"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "questions": [
+            {
+                "id": 1,
+                "text": "What did scientists discover about willow trees in the 1980s?",
+                "translation": "1980年代に科学者たちは柳の木について何を発見しましたか？",
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "Caterpillars preferred to attack isolated trees rather than those growing in groups.",
+                        "translation": "毛虫は集団で生えている木よりも孤立した木を攻撃するのを好んだ。",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Trees that were physically connected underground could share defensive chemicals.",
+                        "translation": "地下で物理的につながっていた木々は、防御化学物質を共有することができた。",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "Trees could detect the presence of caterpillars before they began attacking.",
+                        "translation": "木々は、攻撃が始まる前に毛虫の存在を検知することができた。",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "Trees appeared to be warning nearby trees about insect attacks through chemical signals.",
+                        "translation": "木々は化学信号を通じて、昆虫の攻撃について近くの木々に警告しているように見えた。",
+                        "isCorrect": true,
+                        "highlight": "warning nearby trees about insect attacks"
+                    }
+                ],
+                "hint": {
+                    "paragraphId": 2,
+                    "description": "第2段落。柳の木の研究で「研究者が仮説を立てたこと」(researchers hypothesized)に注目しましょう。",
+                    "targetSentenceId": 7,
+                    "highlightWord": "warn its neighbors",
+                    "highlightWordSentenceId": 7
+                },
+                "keywords": [
+                    "discover",
+                    "willow trees",
+                    "1980s"
+                ],
+                "keywordExplanations": {
+                    "discover": "発見する。本文のfoundやdiscoveryと対応。",
+                    "willow trees": "柳の木。第2段落のキーワード。"
+                },
+                "keywordMatches": [
+                    {
+                        "sentenceId": 5,
+                        "text": "willow trees made a surprising discovery",
+                        "keyword": "willow trees"
+                    }
+                ],
+                "choiceAdvice": "1: 孤立した木が好き(isolated?), 2: 地下でつながっている(underground?), 3: 攻撃前に検知(before attack?), 4: 周囲に警告(warn nearby trees?)",
+                "logic": [
+                    {
+                        "type": "text",
+                        "content": "本文(Sentence 6): 攻撃された木の近くにある（攻撃されていない）木も、防御物質を出し始めた。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "本文(Sentence 7): 物理的接触がないため、研究者は「攻撃された木が空気中の化学物質で隣の木に警告(warn its neighbors)している」と仮説を立てた。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【結論】これは選択肢4の「化学信号を通じて近くの木に警告しているように見えた」と一致する。"
+                    },
+                    {
+                        "type": "conclusion",
+                        "content": "正解: 4"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What was the main argument of scientists who doubted plant communication?",
+                "translation": "植物のコミュニケーションを疑った科学者たちの主な主張は何でしたか？",
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "The chemical compounds released by plants were too weak to travel through the air.",
+                        "translation": "植物から放出される化合物は弱すぎて、空気中を移動できなかった。",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Plants lacked the biological systems necessary for any form of information exchange.",
+                        "translation": "植物には、いかなる形態の情報交換にも必要な生物学的システムが欠けていた。",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "The response of neighboring plants could be explained by factors unrelated to signals from other plants.",
+                        "translation": "隣接する植物の反応は、他の植物からの信号とは関係のない要因で説明できた。",
+                        "isCorrect": true,
+                        "highlight": "explained by factors unrelated to signals"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Previous research on plant communication had used flawed experimental methods.",
+                        "translation": "植物のコミュニケーションに関する以前の研究は、欠陥のある実験方法を使用していた。",
+                        "isCorrect": false
+                    }
+                ],
+                "hint": {
+                    "paragraphId": 3,
+                    "description": "第3段落。懐疑論者(skeptics)が、近くの木の反応をどう説明しようとしたか(caused by...)を探しましょう。",
+                    "targetSentenceId": 9,
+                    "highlightWord": "merely coincidental or caused by other environmental factors",
+                    "highlightWordSentenceId": 9
+                },
+                "keywords": [
+                    "argument",
+                    "doubted",
+                    "scientists"
+                ],
+                "keywordExplanations": {
+                    "argument": "議論、主張。arguedに対応。",
+                    "doubted": "疑った。skeptics（懐疑論者）に対応。"
+                },
+                "keywordMatches": [
+                    {
+                        "sentenceId": 9,
+                        "text": "skeptics argued",
+                        "keyword": "doubted"
+                    }
+                ],
+                "choiceAdvice": "1: 化学物質が弱すぎる(too weak?), 2: システム欠如(lacked systems?), 3: 他の要因で説明可能(other factors?), 4: 実験方法の欠陥(flawed methods?)",
+                "logic": [
+                    {
+                        "type": "text",
+                        "content": "本文(Sentence 9): 懐疑論者(skeptics)は、反応は「単なる偶然(merely coincidental)」か「他の環境要因(other environmental factors)」によるものだと主張した。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【結論】つまり、木同士の通信（信号）ではなく、別の要因で説明できるということ。これは選択肢3「他の植物からの信号とは無関係な要因で説明できる」と合致する。"
+                    },
+                    {
+                        "type": "conclusion",
+                        "content": "正解: 3"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What is one thing the author says about lima beans?",
+                "translation": "著者はライ豆について何と言っていますか？",
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "They produce chemicals that kill spider mites directly rather than attracting their predators.",
+                        "translation": "彼らは捕食者を引き寄せるのではなく、ハダニを直接殺す化学物質を生成する。",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "They release chemicals that both summon helpful insects and warn other plants.",
+                        "translation": "彼らは、有益な昆虫を呼び寄せると同時に、他の植物に警告する化学物質を放出する。",
+                        "isCorrect": true,
+                        "highlight": "summon helpful insects and warn other plants"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Their defensive chemicals work more effectively than those of most other plant species.",
+                        "translation": "彼らの防御化学物質は、他のほとんどの植物種のものよりも効果的に働く。",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "They cannot detect warning signals from plants that are not of the same species.",
+                        "translation": "彼らは、同種でない植物からの警告信号を検知することはできない。",
+                        "isCorrect": false
+                    }
+                ],
+                "hint": {
+                    "paragraphId": 4,
+                    "description": "第4段落。ライ豆が放出する化学物質の「2つの目的」(two purposes)を確認しましょう。",
+                    "targetSentenceId": 15,
+                    "highlightWord": "attract predatory mites ... and they prompt neighboring lima bean plants",
+                    "highlightWordSentenceId": 15
+                },
+                "keywords": [
+                    "lima beans",
+                    "author says"
+                ],
+                "keywordExplanations": {
+                    "lima beans": "ライ豆。第4段落のトピック。"
+                },
+                "keywordMatches": [
+                    {
+                        "sentenceId": 13,
+                        "text": "lima beans",
+                        "keyword": "lima beans"
+                    }
+                ],
+                "choiceAdvice": "1: 直接殺す(kill directly?), 2: 虫を呼び警告もする(summon and warn?), 3: 他より効果的(more effective?), 4: 異種は検知不可(cannot detect others?)",
+                "logic": [
+                    {
+                        "type": "text",
+                        "content": "本文(Sentence 15): 化学物質には2つの目的がある。1. 捕食性ダニ（有益な昆虫）を引き寄せる(attract predatory mites)。 2. 隣のライ豆に防御物質を作るよう促す（警告する）。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【結論】この2点が記述されているのは選択肢2「有益な昆虫を呼び寄せ、他の植物に警告する」。"
+                    },
+                    {
+                        "type": "conclusion",
+                        "content": "正解: 2"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "What do some scientists think could result from research on plant communication?",
+                "translation": "一部の科学者は、植物のコミュニケーションに関する研究から何がもたらされる可能性があると考えていますか？",
+                "choices": [
+                    {
+                        "id": 1,
+                        "text": "New farming methods that help protect crops without relying on artificial chemicals.",
+                        "translation": "人工化学物質に頼らずに作物を保護するのに役立つ、新しい農業方法。",
+                        "isCorrect": true,
+                        "highlight": "protect crops without relying on artificial chemicals"
+                    },
+                    {
+                        "id": 2,
+                        "text": "A significant reduction in the number of insect species that damage agricultural crops.",
+                        "translation": "農作物に被害を与える昆虫の種の数が大幅に減少する。",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "The development of plants that can survive without any form of pest control.",
+                        "translation": "いかなる形の害虫駆除もなしに生存できる植物の開発。",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "The creation of chemicals that prevent plants from communicating with each other.",
+                        "translation": "植物同士のコミュニケーションを妨げる化学物質の作成。",
+                        "isCorrect": false
+                    }
+                ],
+                "hint": {
+                    "paragraphId": 5,
+                    "description": "第5段落。農業(farming/agriculture)への応用について書かれた部分で、「環境に優しい」(environmentally friendly)や「天然の殺虫剤」(natural pesticides)という言葉を探しましょう。",
+                    "targetSentenceId": 19,
+                    "highlightWord": "environmentally friendly pest control methods",
+                    "highlightWordSentenceId": 19
+                },
+                "keywords": [
+                    "result",
+                    "research",
+                    "scientists"
+                ],
+                "keywordExplanations": {
+                    "result": "結果、成果。could revolutionize...やmight be able to developと関連。",
+                    "farming": "農業。agricultural scientistsが考えていること。"
+                },
+                "keywordMatches": [
+                    {
+                        "sentenceId": 18,
+                        "text": "revolutionize farming practices",
+                        "keyword": "result"
+                    }
+                ],
+                "choiceAdvice": "1: 人工化学物質に頼らない新農法(without artificial?), 2: 害虫の種が減る(reduction in species?), 3: 駆除なしで生きる植物(survive without control?), 4: 通信を妨げる(prevent communication?)",
+                "logic": [
+                    {
+                        "type": "text",
+                        "content": "本文(Sentence 19): 「より効果的で環境に優しい害虫駆除法(environmentally friendly pest control methods)」を開発できるかもしれない。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "本文(Sentence 20): 「植物由来の化学物質を天然の殺虫剤(natural pesticides)として使用」し、「合成代替品(synthetic alternatives)の必要性を減らす」。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "【結論】合成（人工）の化学物質に頼らない、新しい農業手法（害虫駆除法）ということ。選択肢1「人工化学物質に頼らずに作物を保護する新農法」が正解。"
+                    },
+                    {
+                        "type": "conclusion",
+                        "content": "正解: 1"
+                    }
+                ]
+            }
+        ],
+        "summaryForInstructors": {
+            "title": "Plant Communication",
+            "intro": "植物が受動的な存在ではなく、化学信号を使って外敵の存在を周囲に伝え、防御反応を促す「コミュニケーション」能力を持つことを解説したパッセージ。",
+            "points": [
+                {
+                    "label": "1. 認識の変化",
+                    "text": "かつて植物は受動的と考えられていたが、実は脅威を検知し、互いに通信できる高度な能力を持つことがわかった。"
+                },
+                {
+                    "label": "2. Talking Trees",
+                    "text": "1980年代の研究で、毛虫に襲われた柳が化学物質を出し、周囲の木の防御力を高める現象が発見された。"
+                },
+                {
+                    "label": "3. 懐疑論から証明へ",
+                    "text": "当初は偶然だと疑われたが、その後の研究で植物がストレス下で揮発性有機化合物を出し、隣人がそれに反応することが確認された。"
+                },
+                {
+                    "label": "4. 農業への応用",
+                    "text": "このメカニズム（例えばライ豆とハダニの関係）を利用し、環境に優しい新しい害虫駆除法（天然農薬など）の開発が期待されている。"
+                }
+            ]
+        }
     }
-];
+];
