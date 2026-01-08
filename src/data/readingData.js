@@ -9342,7 +9342,7 @@ export const readingData = [
             {
                 id: 25,
                 text: "What does the author of the passage say about US space missions in the 1950s and '60s?",
-                translation: "筆者は1950年代と60年代の米国の宇宙ミッションについて何と述べていますか？",
+                textTranslation: "筆者は1950年代と60年代の米国の宇宙ミッションについて何と述べていますか？",
                 choices: [
                     { id: 1, text: "Given the physical demands of space travel, it was understandable that men rather than women were being sent into space.", translation: "宇宙旅行の身体的負担を考えると、女性ではなく男性が宇宙に送られるのは理解できることだった。", isCorrect: false },
                     { id: 2, text: "The missions were considered too important to rely on the calculations of human computers.", translation: "ミッションはあまりに重要で、ヒューマン・コンピューターの計算に頼ることはできないと考えられていた。", isCorrect: false },
@@ -9377,7 +9377,7 @@ export const readingData = [
             {
                 id: 26,
                 text: "Which of the following statements would Mar Hicks most likely agree with?",
-                translation: "次の記述のうち、マー・ヒックスが最も同意しそうなものはどれですか？",
+                textTranslation: "次の記述のうち、マー・ヒックスが最も同意しそうなものはどれですか？",
                 choices: [
                     { id: 1, text: "The view that computation work was for women stemmed partly from a misunderstanding of the nature of the work.", translation: "計算業務が女性向けだという見方は、部分的にはその仕事の性質に対する誤解から生じていた。", isCorrect: true, highlight: "stemmed partly from a misunderstanding" },
                     { id: 2, text: "Male mathematicians still played a vital role in the interwar period as the women employed sometimes lacked the necessary math skills.", translation: "雇用された女性には必要な数学スキルが欠けていることがあったため、戦間期においても男性数学者が依然として重要な役割を果たしていた。", isCorrect: false },
@@ -9413,7 +9413,7 @@ export const readingData = [
             {
                 id: 27,
                 text: "The author of the passage points out that after NASA was established,",
-                translation: "筆者は、NASAの設立後、何があったと指摘していますか？",
+                textTranslation: "筆者は、NASAの設立後、何があったと指摘していますか？",
                 choices: [
                     { id: 1, text: "the focus of the Cold War began to turn away from conducting space-related missions.", translation: "冷戦の焦点は、宇宙関連のミッションを行うことから離れ始めた。", isCorrect: false },
                     { id: 2, text: "it made efforts to address some of the inequities that certain human computers had experienced.", translation: "特定のヒューマン・コンピューターが経験していた不平等の一部に対処するための努力がなされた。", isCorrect: true, highlight: "address ... inequities" },
@@ -9962,7 +9962,7 @@ export const readingData = [
             {
                 id: 28,
                 text: "What did a group of researchers in the 1970s conclude?",
-                translation: "1970年代の研究者グループは何を結論づけましたか？",
+                textTranslation: "1970年代の研究者グループは何を結論づけましたか？",
                 choices: [
                     { id: 1, text: "Most of the reported cases of animals using natural substances for medicinal purposes were false.", translation: "動物が薬用目的で天然物質を使用するという報告された事例のほとんどは誤りであった。", isCorrect: false },
                     { id: 2, text: "Most chemical substances produced by plants were harmful to animals even when only consumed in small amounts.", translation: "植物が生産する化学物質のほとんどは、少量でも動物に有害であった。", isCorrect: false },
@@ -10000,7 +10000,7 @@ export const readingData = [
             {
                 id: 29,
                 text: "What did most scientists believe for many years?",
-                translation: "ほとんどの科学者は長年何を信じていましたか？",
+                textTranslation: "ほとんどの科学者は長年何を信じていましたか？",
                 choices: [
                     { id: 1, text: "Animals did not self-medicate because consuming unknown substances went against their natural instincts.", translation: "動物は未知の物質を摂取することが本能に反するため、自己投薬をしなかった。", isCorrect: false },
                     { id: 2, text: "The kinds of plants that animals used for medicinal purposes changed from one generation to the next.", translation: "動物が薬用目的で使用する植物の種類は世代ごとに変わった。", isCorrect: false },
@@ -10038,7 +10038,7 @@ export const readingData = [
             {
                 id: 30,
                 text: "What is one thing the author of the passage says about fruit flies?",
-                translation: "筆者がショウジョウバエについて述べていることの一つは何ですか？",
+                textTranslation: "筆者がショウジョウバエについて述べていることの一つは何ですか？",
                 choices: [
                     { id: 1, text: "Consuming alcohol is damaging to their health but overall beneficial when they are infected by parasitic wasps.", translation: "アルコールの摂取は健康に有害だが、寄生バチに感染しているときは全体的に有益である。", isCorrect: true, highlight: "damaging ... but overall beneficial" },
                     { id: 2, text: "The consumption of food containing alcohol weakens them and makes them more vulnerable to parasitic wasps.", translation: "アルコールを含む食物の摂取は彼らを弱らせ、寄生バチに対してより脆弱にする。", isCorrect: false },
@@ -10074,7 +10074,7 @@ export const readingData = [
             {
                 id: 31,
                 text: "Research has shown that some social insects",
-                translation: "研究により、一部の社会性昆虫が〜であることが示されている。",
+                textTranslation: "研究により、一部の社会性昆虫が〜であることが示されている。",
                 choices: [
                     { id: 1, text: "produce a substance that can protect themselves and their colony from bacterial and fungal infections.", translation: "自分自身とコロニーを細菌・真菌感染から守れる物質を生産する。", isCorrect: false },
                     { id: 2, text: "leave their colony when they are suffering from infectious diseases to prevent the disease from spreading.", translation: "感染症にかかっているとき、病気の拡散を防ぐためにコロニーを離れる。", isCorrect: false },
@@ -10170,7 +10170,7 @@ export const readingData = [
             {
                 id: 25,
                 text: "After finding the Mary Celeste drifting at sea, the crew of the Dei Gratia",
-                translation: "海上で漂流しているメアリー・セレステ号を発見した後、デイ・グラティア号の乗組員は〜",
+                textTranslation: "海上で漂流しているメアリー・セレステ号を発見した後、デイ・グラティア号の乗組員は〜",
                 choices: [
                     { id: 1, text: "gave supplies of water and food to the Mary Celeste's crew to prevent them from dying before reaching Italy.", translation: "イタリアに到着する前に死ぬのを防ぐため、メアリー・セレステ号の乗組員に水と食料を与えた。", isCorrect: false },
                     { id: 2, text: "repaired the damage to the Mary Celeste, which was then able to continue its journey to Italy.", translation: "メアリー・セレステ号の損傷を修理し、船はイタリアへの航海を続けることができた。", isCorrect: false },
@@ -10187,7 +10187,7 @@ export const readingData = [
             {
                 id: 26,
                 text: "What is true according to the passage?",
-                translation: "本文によると何が正しいですか？",
+                textTranslation: "本文によると何が正しいですか？",
                 choices: [
                     { id: 1, text: "British authorities suspected that the crew of the Dei Gratia stole the Mary Celeste's cargo and killed its crew.", translation: "イギリス当局は、デイ・グラティア号の乗組員がメアリー・セレステ号の積荷を盗み、乗組員を殺害したと疑った。", isCorrect: false },
                     { id: 2, text: "The Dei Gratia's crew refused to board the Mary Celeste at first because they believed its cargo was too dangerous.", translation: "デイ・グラティア号の乗組員は、積荷が危険すぎると考え、最初はメアリー・セレステ号に乗り込むことを拒否した。", isCorrect: false },
@@ -10204,7 +10204,7 @@ export const readingData = [
             {
                 id: 27,
                 text: "What did Anne MacGregor conclude based on her investigation?",
-                translation: "アン・マクレガーは調査に基づいて何を結論づけましたか？",
+                textTranslation: "アン・マクレガーは調査に基づいて何を結論づけましたか？",
                 choices: [
                     { id: 1, text: "The mystery of what happened to the Mary Celeste would never be solved because official reports contain little information about the incident.", translation: "公式報告書にはその事件についての情報がほとんどないため、メアリー・セレステ号に何が起こったかの謎は永遠に解決されないだろう。", isCorrect: false },
                     { id: 2, text: "Several factors led to the Mary Celeste's captain deciding he had no choice but to get his crew off the ship.", translation: "いくつかの要因により、メアリー・セレステ号の船長は乗組員を船から降ろすしかないと決断した。", isCorrect: true, highlight: "Several factors ... no choice" },
@@ -10288,7 +10288,7 @@ export const readingData = [
             {
                 id: 28,
                 text: "What is one thing that we learn about an older psychological theory of revenge?",
-                translation: "復讐に関する古い心理学理論について分かることの一つは何ですか？",
+                textTranslation: "復讐に関する古い心理学理論について分かることの一つは何ですか？",
                 choices: [
                     { id: 1, text: "It had a problem because it focused on the reasons that people wanted to get revenge rather than the degree of anger they felt.", translation: "それは、人々が感じた怒りの程度ではなく、復讐したい理由に焦点を当てたため、問題があった。", isCorrect: false },
                     { id: 2, text: "It was created using the results of a well-known psychological study, but it reached an incorrect conclusion about them.", translation: "それは有名な心理学研究の結果を使って作られたが、それらについて誤った結論に達した。", isCorrect: false },
@@ -10305,7 +10305,7 @@ export const readingData = [
             {
                 id: 29,
                 text: "Which of the following is mentioned as an advantage of taking revenge for early humans?",
-                translation: "初期の人類にとっての復讐の利点として述べられているのは次のうちどれですか？",
+                textTranslation: "初期の人類にとっての復讐の利点として述べられているのは次のうちどれですか？",
                 choices: [
                     { id: 1, text: "It may have been a way for males to demonstrate their physical strength and their ability to protect females from danger.", translation: "男性が身体的な強さと女性を危険から守る能力を示す方法だったかもしれない。", isCorrect: false },
                     { id: 2, text: "It could have helped to keep them safe from animals because it brought out anger, making them better able to respond to attacks.", translation: "怒りを引き出し、攻撃に対応する能力を高めたため、動物から身を守るのに役立った可能性がある。", isCorrect: false },
@@ -10322,7 +10322,7 @@ export const readingData = [
             {
                 id: 30,
                 text: "The author mentions low-income neighborhoods in the United States as an example that",
-                translation: "著者がアメリカの低所得地域に言及しているのは〜の例として",
+                textTranslation: "著者がアメリカの低所得地域に言及しているのは〜の例として",
                 choices: [
                     { id: 1, text: "demonstrates that revenge seems to be more common in societies where the justice system is not working well.", translation: "司法制度がうまく機能していない社会では、復讐がより一般的であるようだということを示している。", isCorrect: true, highlight: "justice system is not working well" },
                     { id: 2, text: "supports the idea that the desire to get revenge has an unexpected connection with how much wealth an individual possesses.", translation: "復讐への欲求が個人の富の量と予想外の関連があるという考えを支持している。", isCorrect: false },
@@ -10339,7 +10339,7 @@ export const readingData = [
             {
                 id: 31,
                 text: "According to the fourth paragraph, what is one positive effect of revenge?",
-                translation: "第4段落によると、復讐のプラスの効果の一つは何ですか？",
+                textTranslation: "第4段落によると、復讐のプラスの効果の一つは何ですか？",
                 choices: [
                     { id: 1, text: "It can actually strengthen personal relationships among people who feel that they have been the victims of harm from others.", translation: "他者から害を受けたと感じる人々の間で、実際に個人的な関係を強化できる。", isCorrect: false },
                     { id: 2, text: "It can cause people to follow social rules so that they are more likely to behave in a way that is acceptable to the group.", translation: "人々が社会的ルールに従うようになり、グループに受け入れられる方法で行動する可能性が高くなる。", isCorrect: true, highlight: "follow social rules ... acceptable to the group" },
@@ -10418,7 +10418,7 @@ export const readingData = [
             {
                 id: 25,
                 text: "According to the first paragraph, Étienne Léopold Trouvelot",
-                translation: "第1段落によると、エティエンヌ・レオポルド・トゥルーヴロは",
+                textTranslation: "第1段落によると、エティエンヌ・レオポルド・トゥルーヴロは",
                 choices: [
                     { id: 1, text: "hoped to grow the silk industry in Europe by taking moths there that he collected in the United States.", translation: "アメリカで集めた蛾をヨーロッパに持っていくことで、ヨーロッパの絹産業を成長させたいと望んでいた。", isCorrect: false },
                     { id: 2, text: "bred a new variety of moth that helped to save the silk industry by increasing the amount of silk that could be produced.", translation: "生産できる絹の量を増やすことで絹産業を救うのに役立つ新しい品種の蛾を育てた。", isCorrect: false },
@@ -10435,7 +10435,7 @@ export const readingData = [
             {
                 id: 26,
                 text: "What is implied about Trouvelot in the second paragraph?",
-                translation: "第2段落でトゥルーヴロについて暗示されていることは？",
+                textTranslation: "第2段落でトゥルーヴロについて暗示されていることは？",
                 choices: [
                     { id: 1, text: "He always regretted turning down an offer to work in a famous observatory.", translation: "彼は有名な天文台で働くという申し出を断ったことをいつも後悔していた。", isCorrect: false },
                     { id: 2, text: "He ended up pursuing a career in astronomy as the result of an unexpected event.", translation: "彼は予想外の出来事の結果として天文学のキャリアを追求することになった。", isCorrect: true, highlight: "unexpected event ... astronomy" },
@@ -10452,7 +10452,7 @@ export const readingData = [
             {
                 id: 27,
                 text: "What does the author of the passage describe as ironic?",
-                translation: "著者が皮肉だと述べているのは何ですか？",
+                textTranslation: "著者が皮肉だと述べているのは何ですか？",
                 choices: [
                     { id: 1, text: "Trouvelot's work would likely have been less accurate if he had been able to use the materials that are available today.", translation: "トゥルーヴロの作品は、今日利用可能な素材を使えていたら、おそらくより不正確だったであろう。", isCorrect: false },
                     { id: 2, text: "Trouvelot never became well-known during his lifetime because most people had little interest in astronomy.", translation: "ほとんどの人が天文学にほとんど興味を持っていなかったため、トゥルーヴロは生涯を通じて有名にならなかった。", isCorrect: false },
@@ -10992,7 +10992,7 @@ export const readingData = [
             {
                 id: 28,
                 text: "What was the concern of the US delegate mentioned in the first paragraph?",
-                translation: "第1段落で言及されているアメリカ代表の懸念は何でしたか？",
+                textTranslation: "第1段落で言及されているアメリカ代表の懸念は何でしたか？",
                 keywords: ["concern", "US delegate", "first paragraph"],
                 keywordExplanations: {
                     "concern": "懸念。設問中の直接キーワード。",
@@ -11016,7 +11016,7 @@ export const readingData = [
             {
                 id: 29,
                 text: "What was one reason put forth by Harry Dexter White to justify the structure of the Bretton Woods agreement?",
-                translation: "ブレトンウッズ協定の構造を正当化するためにハリー・デクスター・ホワイトが提示した理由の1つは何でしたか？",
+                textTranslation: "ブレトンウッズ協定の構造を正当化するためにハリー・デクスター・ホワイトが提示した理由の1つは何でしたか？",
                 keywords: ["Harry Dexter White", "justify", "structure"],
                 keywordExplanations: {
                     "Harry Dexter White": "アメリカ財務省の代表者。本文第2段落に登場。",
@@ -11039,7 +11039,7 @@ export const readingData = [
             {
                 id: 30,
                 text: "According to the author of the passage, after problems with the Bretton Woods system began to appear,",
-                translation: "本文の筆者によると、ブレトンウッズ体制に問題が現れ始めた後、",
+                textTranslation: "本文の筆者によると、ブレトンウッズ体制に問題が現れ始めた後、",
                 keywords: ["after problems", "began to appear", "author"],
                 keywordExplanations: {
                     "after problems": "問題が起きた後。第3段落のcracksに対応。",
@@ -11062,7 +11062,7 @@ export const readingData = [
             {
                 id: 31,
                 text: "What can be concluded about the Bretton Woods system?",
-                translation: "ブレトンウッズ体制について何が結論づけられますか？",
+                textTranslation: "ブレトンウッズ体制について何が結論づけられますか？",
                 keywords: ["concluded", "Bretton Woods system"],
                 keywordExplanations: {
                     "concluded": "結論づける。全体のまとめを問う問題。",
@@ -12500,7 +12500,7 @@ export const readingData = [
             {
                 id: 25,
                 text: "According to the first paragraph, what is true about Alfred Binet?",
-                translation: "第1段落によると、アルフレッド・ビネーについて正しいことは何ですか？",
+                textTranslation: "第1段落によると、アルフレッド・ビネーについて正しいことは何ですか？",
                 keywords: ["first paragraph", "true", "Alfred Binet"],
                 keywordExplanations: {
                     "first paragraph": "第1段落。範囲を指定するキーワードです。",
@@ -12530,7 +12530,7 @@ export const readingData = [
             {
                 id: 26,
                 text: "A study in Canada suggested that",
-                translation: "カナダでの研究は〜と示唆しました。",
+                textTranslation: "カナダでの研究は〜と示唆しました。",
                 keywords: ["study in Canada", "suggested"],
                 keywordExplanations: {
                     "study in Canada": "カナダでの研究。第2段落の 'study carried out in Canada' を探します。",
@@ -12559,7 +12559,7 @@ export const readingData = [
             {
                 id: 27,
                 text: "What does the author of the passage say about gifted education programs in US schools?",
-                translation: "パッセージの著者は、米国の学校における英才教育プログラムについて何と言っていますか？",
+                textTranslation: "パッセージの著者は、米国の学校における英才教育プログラムについて何と言っていますか？",
                 keywords: ["gifted education programs", "US schools"],
                 keywordExplanations: {
                     "gifted education programs": "英才教育プログラム。第3段落でそのままの語句が見つかります。",
@@ -12917,7 +12917,7 @@ export const readingData = [
             {
                 id: 28,
                 text: "What is one thing the author of the passage says about Moore's law?",
-                translation: "著者がムーアの法則について述べていることは何ですか？",
+                textTranslation: "著者がムーアの法則について述べていることは何ですか？",
                 keywords: ["Moore's law", "author says"],
                 keywordExplanations: {
                     "Moore's law": "ムーアの法則。第1段落の主題です。",
@@ -12946,7 +12946,7 @@ export const readingData = [
             {
                 id: 29,
                 text: "A paper by researchers in the United States concluded that",
-                translation: "米国の研究者による論文は、〜と結論付けました。",
+                textTranslation: "米国の研究者による論文は、〜と結論付けました。",
                 keywords: ["paper by researchers", "concluded"],
                 keywordExplanations: {
                     "paper by researchers": "米国の研究者の論文。第2段落に登場します。",
@@ -12975,7 +12975,7 @@ export const readingData = [
             {
                 id: 30,
                 text: "What is suggested by the theory mentioned in the third paragraph?",
-                translation: "第3段落で言及されている理論によって何が示唆されていますか？",
+                textTranslation: "第3段落で言及されている理論によって何が示唆されていますか？",
                 keywords: ["theory", "third paragraph"],
                 keywordExplanations: {
                     "theory": "理論。「burden of knowledge」のことです。",
@@ -13004,7 +13004,7 @@ export const readingData = [
             {
                 id: 31,
                 text: "According to the final paragraph, what do some experts believe?",
-                translation: "最終段落によると、一部の専門家は何を信じていますか？",
+                textTranslation: "最終段落によると、一部の専門家は何を信じていますか？",
                 keywords: ["final paragraph", "some experts believe"],
                 keywordExplanations: {
                     "final paragraph": "最終第4段落。",
@@ -24360,7 +24360,7 @@ export const readingData = [
             {
                 id: 1,
                 text: "What does the passage suggest about the introduction of the ENIAC?",
-                translation: "ENIACの導入について、この文章は何を示唆していますか？",
+                textTranslation: "ENIACの導入について、この文章は何を示唆していますか？",
                 choices: [
                     { id: 1, text: "It was initially delayed because the engineers could not find enough qualified men to operate the complex hardware.", translation: "エンジニアが複雑なハードウェアを操作するのに十分な資格を持つ男性を見つけられなかったため、当初は遅れが生じた。", isCorrect: false },
                     { id: 2, text: "The media coverage accurately portrayed the collaborative effort between the hardware designers and the female programmers.", translation: "メディアの報道は、ハードウェア設計者と女性プログラマーの協力関係を正確に描写していた。", isCorrect: false },
@@ -24393,7 +24393,7 @@ export const readingData = [
             {
                 id: 2,
                 text: "Why were women initially selected for programming jobs?",
-                translation: "なぜ当初、女性がプログラミングの仕事に選ばれたのですか？",
+                textTranslation: "なぜ当初、女性がプログラミングの仕事に選ばれたのですか？",
                 choices: [
                     { id: 1, text: "The management believed that the work was simple and repetitive, fitting their biased view of women's capabilities.", translation: "経営陣は、その仕事が単純で反復的であり、女性の能力に対する彼らの偏見に合致していると信じていた。", isCorrect: true, highlight: "simple ... fitting their biased view" },
                     { id: 2, text: "Women had already proven themselves to be superior to men in the field of electrical engineering during the war.", translation: "女性は戦時中、電気工学の分野ですでに男性より優れていることを証明していた。", isCorrect: false },
@@ -24426,7 +24426,7 @@ export const readingData = [
             {
                 id: 3,
                 text: "The author implies that the transition of programming into a prestigious profession",
-                translation: "著者は、プログラミングが権威ある職業へと移行したことについて、何を暗示していますか？",
+                textTranslation: "著者は、プログラミングが権威ある職業へと移行したことについて、何を暗示していますか？",
                 choices: [
                     { id: 1, text: "occurred only after the original ENIAC programmers were given awards for their wartime service.", translation: "元々のENIACプログラマーが戦時の功績で賞を授与された後にのみ起こった。", isCorrect: false },
                     { id: 2, text: "coincided with a shift in gender dominance, as the field became respected and high-paying, men began to take over.", translation: "ジェンダー支配の転換と重なり、分野が尊敬され高給になるにつれて、男性が支配するようになった。", isCorrect: true, highlight: "shift in gender dominance ... men began to take over" },
@@ -25126,7 +25126,7 @@ export const readingData = [
             {
                 "id": 1,
                 "text": "What did scientists discover about willow trees in the 1980s?",
-                "translation": "1980年代に科学者たちは柳の木について何を発見しましたか？",
+                "textTranslation": "1980年代に科学者たちは柳の木について何を発見しましたか？",
                 "choices": [
                     {
                         "id": 1,
@@ -25200,7 +25200,7 @@ export const readingData = [
             {
                 "id": 2,
                 "text": "What was the main argument of scientists who doubted plant communication?",
-                "translation": "植物のコミュニケーションを疑った科学者たちの主な主張は何でしたか？",
+                "textTranslation": "植物のコミュニケーションを疑った科学者たちの主な主張は何でしたか？",
                 "choices": [
                     {
                         "id": 1,
@@ -25270,7 +25270,7 @@ export const readingData = [
             {
                 "id": 3,
                 "text": "What is one thing the author says about lima beans?",
-                "translation": "著者はライ豆について何と言っていますか？",
+                "textTranslation": "著者はライ豆について何と言っていますか？",
                 "choices": [
                     {
                         "id": 1,
@@ -25338,7 +25338,7 @@ export const readingData = [
             {
                 "id": 4,
                 "text": "What do some scientists think could result from research on plant communication?",
-                "translation": "一部の科学者は、植物のコミュニケーションに関する研究から何がもたらされる可能性があると考えていますか？",
+                "textTranslation": "一部の科学者は、植物のコミュニケーションに関する研究から何がもたらされる可能性があると考えていますか？",
                 "choices": [
                     {
                         "id": 1,
