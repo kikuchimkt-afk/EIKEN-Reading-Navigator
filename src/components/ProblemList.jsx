@@ -318,6 +318,13 @@ export function ProblemList({ onSelectPassage, activeGrade, onGradeChange }) {
     const filteredPassages = readingData
         .filter(p => p.grade === currentGradeConfig.filter)
         .sort((a, b) => {
+            // 0. オリジナル問題同士の比較 (問題番号順: 昇順)
+            if (a.isOriginal && b.isOriginal) {
+                const numA = parseInt(a.subTitle?.replace(/[^0-9]/g, '') || '0');
+                const numB = parseInt(b.subTitle?.replace(/[^0-9]/g, '') || '0');
+                return numA - numB;
+            }
+
             // 1. 年度で比較 (降順)
             const yearA = parseInt(extractYear(a.subTitle)) || 0;
             const yearB = parseInt(extractYear(b.subTitle)) || 0;

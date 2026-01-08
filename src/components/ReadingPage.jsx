@@ -161,7 +161,7 @@ export function ReadingPage({ passage, onBack, isStudentMode = false }) {
                             {intro}
                         </div>
                         <div style={{ display: 'grid', gap: '1.5rem' }}>
-                            {points.map((point, idx) => (
+                            {(points || []).map((point, idx) => (
                                 <div key={idx} style={{
                                     display: 'flex',
                                     gap: '1rem',
@@ -189,7 +189,7 @@ export function ReadingPage({ passage, onBack, isStudentMode = false }) {
                                             fontSize: '1.1rem',
                                             fontWeight: '700'
                                         }}>
-                                            {point.label.replace(/^\d+\.\s*/, '')} {/* 番号重複削除 */}
+                                            {(point.label || '').replace(/^\d+\.\s*/, '')} {/* 番号重複削除 */}
                                         </h4>
                                         <p style={{
                                             margin: 0,

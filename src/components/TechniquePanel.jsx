@@ -68,7 +68,7 @@ export function TechniquePanel({ questions, activeQuestionId, onSelectQuestion, 
         // 言い換え（paraphrase）マッチも含める
         if (newKeywords.length > 0) {
             // 全マッチの中から、アクティブなキーワード群に関連するものを抽出
-            const relatedMatches = activeQuestion.keywordMatches.filter(m => {
+            const relatedMatches = (activeQuestion.keywordMatches || []).filter(m => {
                 // マッチにkeywordプロパティがある場合はそれを使用
                 if (m.keyword) return newKeywords.includes(m.keyword);
 
@@ -165,7 +165,7 @@ export function TechniquePanel({ questions, activeQuestionId, onSelectQuestion, 
                         <div>
                             これらの単語を本文から探します：
                             <div className="keyword-chips">
-                                {activeQuestion.keywords.map((kw, i) => {
+                                {(activeQuestion.keywords || []).map((kw, i) => {
                                     // このキーワードがアクティブかどうか
                                     const isActive = activeKeywords.includes(kw);
 
@@ -321,28 +321,36 @@ export function TechniquePanel({ questions, activeQuestionId, onSelectQuestion, 
                         )}
 
                         <div className="paragraph-hint">
-                            <div style={{ display: 'flex', alignItems: 'center', gap: 6, fontWeight: 'bold', marginBottom: 8 }}>
-                                <MapPin size={18} />
-                                <span>{activeQuestion.hint.description.split('。')[0]}</span>
-                            </div>
-                            <div>{activeQuestion.hint.description.split('。').slice(1).join('。')}</div>
+                            {activeQuestion.hint ? (
+                                <>
+                                    <div style={{ display: 'flex', alignItems: 'center', gap: 6, fontWeight: 'bold', marginBottom: 8 }}>
+                                        <MapPin size={18} />
+                                        <span>{activeQuestion.hint.description.split('。')[0]}</span>
+                                    </div>
+                                    <div>{activeQuestion.hint.description.split('。').slice(1).join('。')}</div>
 
-                            <div style={{ display: 'flex', gap: '8px', marginTop: '12px' }}>
-                                {/* 段落へジャンプボタン */}
-                                <button
-                                    className="hint-highlight-btn"
-                                    onClick={() => handlePassageToggle(activeQuestion.hint.targetSentenceId)}
-                                    style={{
-                                        background: isPassageActive ? '#ef4444' : '#22c55e'
-                                    }}
-                                >
-                                    {isPassageActive ? (
-                                        <><Search size={16} /> ハイライト解除</>
-                                    ) : (
-                                        <><Search size={16} /> 本文で探す</>
-                                    )}
-                                </button>
-                            </div>
+                                    <div style={{ display: 'flex', gap: '8px', marginTop: '12px' }}>
+                                        {/* 段落へジャンプボタン */}
+                                        <button
+                                            className="hint-highlight-btn"
+                                            onClick={() => handlePassageToggle(activeQuestion.hint.targetSentenceId)}
+                                            style={{
+                                                background: isPassageActive ? '#ef4444' : '#22c55e'
+                                            }}
+                                        >
+                                            {isPassageActive ? (
+                                                <><Search size={16} /> ハイライト解除</>
+                                            ) : (
+                                                <><Search size={16} /> 本文で探す</>
+                                            )}
+                                        </button>
+                                    </div>
+                                </>
+                            ) : (
+                                <div style={{ color: '#94a3b8', fontStyle: 'italic' }}>
+                                    ヒントデータがありません
+                                </div>
+                            )}
                         </div>
                     </div>
 
