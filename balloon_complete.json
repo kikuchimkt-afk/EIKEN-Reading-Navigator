@@ -1,0 +1,954 @@
+{
+    "id": "grade-pre1-original-balloon",
+    "grade": "準1級",
+    "title": "Flight to Freedom: The Berlin Balloon Escape",
+    "subTitle": "問題12",
+    "genre": "歴史 / ノンフィクション",
+    "similarProblems": {
+        "exam": "2023年度 第3回",
+        "title": "A Daring Escape"
+    },
+    "isOriginal": true,
+    "images": {
+        "content": "https://placehold.co/600x400?text=Berlin+Balloon",
+        "question": "https://placehold.co/600x400?text=Question+Image"
+    },
+    "content": [
+        {
+            "paragraphId": 1,
+            "sentences": [
+                {
+                    "id": 1,
+                    "text": "In the late 1970s, East Germany was a country isolated by the Iron Curtain, with its citizens strictly forbidden from crossing into West Germany.",
+                    "translation": "1970年代後半、東ドイツは鉄のカーテンによって孤立した国であり、市民は西ドイツへの越境を厳しく禁じられていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "was"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(In the late 1970s)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>East Germany</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>a country (isolated by the Iron Curtain)</span><span class='tag'>C</span></span>, <span class='chunk M-group'><span class='text'>(with its citizens strictly forbidden from...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(1970年代後半)</span>、<span class='t-S'>東ドイツは</span> <span class='t-V'>だった</span> <span class='t-C'>国(鉄のカーテンによって孤立した)</span>、<span class='t-M'>(市民が〜を禁じられた状態で)</span>。",
+                        "naturalTranslation": "1970年代後半、東ドイツは鉄のカーテンによって孤立した国であり、市民は西ドイツへの越境を厳しく禁じられていた。",
+                        "vocabulary": [
+                            {
+                                "word": "Iron Curtain",
+                                "meaning": "鉄のカーテン"
+                            },
+                            {
+                                "word": "forbidden from",
+                                "meaning": "〜を禁じられた"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "isolated by the Iron Curtain",
+                                "explanation": "<b>過去分詞</b>: countryを修飾。"
+                            },
+                            {
+                                "phrase": "with its citizens strictly forbidden",
+                                "explanation": "<b>with + O + 過去分詞</b>: 付帯状況。「市民が禁じられた状態で」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "text": "The border was heavily fortified with walls, barbed wire, and armed guards under orders to shoot anyone attempting to escape.",
+                    "translation": "国境は壁、有刺鉄線、そして脱出を試みる者を射殺する命令を受けた武装した警備員によって厳重に要塞化されていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "was fortified"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The border</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was heavily fortified</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(with walls, barbed wire, and armed guards (under orders to shoot anyone...))</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>国境は</span> <span class='t-V'>厳重に要塞化されていた</span> <span class='t-M'>(壁、有刺鉄線、武装警備員によって)</span>。",
+                        "naturalTranslation": "国境は壁、有刺鉄線、そして脱出を試みる者を射殺する命令を受けた武装した警備員によって厳重に要塞化されていた。",
+                        "vocabulary": [
+                            {
+                                "word": "fortified",
+                                "meaning": "要塞化された"
+                            },
+                            {
+                                "word": "barbed wire",
+                                "meaning": "有刺鉄線"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "under orders to shoot",
+                                "explanation": "<b>under orders to do</b>: 「〜する命令を受けて」。"
+                            },
+                            {
+                                "phrase": "anyone attempting to escape",
+                                "explanation": "<b>現在分詞</b>: anyoneを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "text": "Living under the constant surveillance of the Stasi secret police, Peter Strelzyk and Günter Wetzel dreamed of a life of freedom for themselves and their families.",
+                    "translation": "シュタージ秘密警察の絶え間ない監視下で暮らしながら、ペーター・シュトレルツィクとギュンター・ヴェッツェルは、自分たちと家族のための自由な生活を夢見ていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "dreamed"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Living under the constant surveillance of the Stasi secret police)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>Peter Strelzyk and Günter Wetzel</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>dreamed of</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a life of freedom</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(監視下で暮らしながら)</span>、<span class='t-S'>ペーターとギュンターは</span> <span class='t-V'>夢見た</span> <span class='t-O'>自由な生活を</span>。",
+                        "naturalTranslation": "シュタージ秘密警察の監視下で暮らしながら、二人は自分たちと家族のための自由な生活を夢見ていた。",
+                        "vocabulary": [
+                            {
+                                "word": "surveillance",
+                                "meaning": "監視"
+                            },
+                            {
+                                "word": "Stasi",
+                                "meaning": "シュタージ（東ドイツ秘密警察）"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Living under the constant surveillance",
+                                "explanation": "<b>分詞構文</b>: 背景・状況を表す。「〜しながら」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "text": "However, traditional escape routes were nearly impossible.",
+                    "translation": "しかし、従来の脱出ルートはほぼ不可能だった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "were"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>traditional escape routes</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>nearly impossible</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-M'>(しかし)</span>、<span class='t-S'>従来の脱出ルートは</span> <span class='t-V'>だった</span> <span class='t-C'>ほぼ不可能</span>。",
+                        "naturalTranslation": "しかし、従来の脱出ルートはほぼ不可能だった。",
+                        "vocabulary": [
+                            {
+                                "word": "escape routes",
+                                "meaning": "脱出ルート"
+                            }
+                        ],
+                        "grammarNotes": []
+                    }
+                },
+                {
+                    "id": 5,
+                    "text": "Tunnels were being discovered, and hidden compartments in cars were routinely checked.",
+                    "translation": "トンネルは発見されつつあり、車の隠し区画も日常的にチェックされていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "were being discovered",
+                            "were checked"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Tunnels</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were being discovered</span><span class='tag'>V</span></span>, and <span class='chunk S-group'><span class='text'>hidden compartments in cars</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were routinely checked</span><span class='tag'>V</span></span>.",
+                        "translationHtml": "<span class='t-S'>トンネルは</span> <span class='t-V'>発見されつつあった</span>、and <span class='t-S'>隠し区画は</span> <span class='t-V'>日常的にチェックされていた</span>。",
+                        "naturalTranslation": "トンネルは発見されつつあり、車の隠し区画も日常的にチェックされていた。",
+                        "vocabulary": [
+                            {
+                                "word": "compartments",
+                                "meaning": "区画"
+                            },
+                            {
+                                "word": "routinely",
+                                "meaning": "日常的に"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "were being discovered",
+                                "explanation": "<b>過去進行形の受動態</b>: 「発見されつつあった」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "text": "Strelzyk and Wetzel realized they needed a method that the border guards would not expect and could not easily intercept.",
+                    "translation": "シュトレルツィクとヴェッツェルは、国境警備員が予想せず、簡単に阻止できない方法が必要だと気づいた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "realized"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Strelzyk and Wetzel</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>realized</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>they needed a method (that the border guards would not expect and could not easily intercept)</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>二人は</span> <span class='t-V'>気づいた</span> <span class='t-O'>[彼らは方法が必要だと(that...)]</span>。",
+                        "naturalTranslation": "シュトレルツィクとヴェッツェルは、国境警備員が予想せず、簡単に阻止できない方法が必要だと気づいた。",
+                        "vocabulary": [
+                            {
+                                "word": "intercept",
+                                "meaning": "阻止する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "they needed a method",
+                                "explanation": "<b>that節省略</b>: realizedの目的語。"
+                            },
+                            {
+                                "phrase": "that the border guards would not expect and could not easily intercept",
+                                "explanation": "<b>関係代名詞節</b>: methodを修飾。2つの述語動詞が並列。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "text": "After much discussion, they settled on an audacious idea: they would build a hot air balloon and fly over the border at night.",
+                    "translation": "多くの議論の末、彼らは大胆なアイデアに落ち着いた：熱気球を作り、夜間に国境を越えて飛ぶのだ。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "settled",
+                            "would build"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(After much discussion)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>settled on</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>an audacious idea</span><span class='tag'>O</span></span>: <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>would build</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a hot air balloon</span><span class='tag'>O</span></span> and fly over the border.",
+                        "translationHtml": "<span class='t-M'>(多くの議論の末)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>落ち着いた</span> <span class='t-O'>大胆なアイデアに</span>：<span class='t-S'>彼らは</span> <span class='t-V'>作り</span> <span class='t-O'>熱気球を</span>...。",
+                        "naturalTranslation": "多くの議論の末、彼らは大胆なアイデアに落ち着いた：熱気球を作り、夜間に国境を越えて飛ぶのだ。",
+                        "vocabulary": [
+                            {
+                                "word": "audacious",
+                                "meaning": "大胆な"
+                            },
+                            {
+                                "word": "settled on",
+                                "meaning": "〜に落ち着いた"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": ":",
+                                "explanation": "<b>コロン</b>: 前述のideaの具体的内容を説明。"
+                            },
+                            {
+                                "phrase": "would build",
+                                "explanation": "<b>would</b>: 過去から見た未来。計画を表す。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 2,
+            "sentences": [
+                {
+                    "id": 8,
+                    "text": "The plan required months of secret and dangerous preparation.",
+                    "translation": "計画には何ヶ月もの秘密で危険な準備が必要だった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "required"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The plan</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>required</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>months of secret and dangerous preparation</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>計画は</span> <span class='t-V'>必要とした</span> <span class='t-O'>何ヶ月もの秘密で危険な準備を</span>。",
+                        "naturalTranslation": "計画には何ヶ月もの秘密で危険な準備が必要だった。",
+                        "vocabulary": [
+                            {
+                                "word": "preparation",
+                                "meaning": "準備"
+                            }
+                        ],
+                        "grammarNotes": []
+                    }
+                },
+                {
+                    "id": 9,
+                    "text": "They had to purchase large quantities of fabric without arousing suspicion, often traveling to distant towns to buy small amounts at a time.",
+                    "translation": "彼らは疑惑を招かずに大量の布地を購入しなければならず、少量ずつ買うために遠くの町まで足を運ぶことも多かった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "had to purchase"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>had to purchase</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>large quantities of fabric</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(without arousing suspicion)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(often traveling to distant towns to buy small amounts at a time)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>彼らは</span> <span class='t-V'>購入しなければならなかった</span> <span class='t-O'>大量の布地を</span> <span class='t-M'>(疑惑を招かずに)</span>、<span class='t-M'>(しばしば遠くの町に移動しながら...)</span>。",
+                        "naturalTranslation": "彼らは疑惑を招かずに大量の布地を購入しなければならず、少量ずつ買うために遠くの町まで足を運ぶこともあった。",
+                        "vocabulary": [
+                            {
+                                "word": "arousing suspicion",
+                                "meaning": "疑惑を招く"
+                            },
+                            {
+                                "word": "quantities",
+                                "meaning": "量"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "without arousing suspicion",
+                                "explanation": "<b>without + 動名詞</b>: 「〜することなく」。"
+                            },
+                            {
+                                "phrase": "often traveling to distant towns",
+                                "explanation": "<b>分詞構文</b>: 付帯状況。「しばしば〜しながら」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "text": "Using an old sewing machine in a hidden attic, their wives, Doris and Petra, stitched together scraps of taffeta and bedsheets to create the massive balloon envelope.",
+                    "translation": "隠された屋根裏部屋で古いミシンを使い、彼らの妻であるドリスとペトラはタフタとシーツの切れ端を縫い合わせて巨大な気球の外皮を作った。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "stitched"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Using an old sewing machine in a hidden attic)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>their wives, (Doris and Petra)</span><span class='tag'>S</span></span>, <span class='chunk V-group'><span class='text'>stitched together</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>scraps of taffeta and bedsheets</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(to create the massive balloon envelope)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(古いミシンを使いながら)</span>、<span class='t-S'>彼らの妻(ドリスとペトラ)は</span>、<span class='t-V'>縫い合わせた</span> <span class='t-O'>切れ端を</span> <span class='t-M'>(気球の外皮を作るために)</span>。",
+                        "naturalTranslation": "隠された屋根裏部屋で古いミシンを使い、彼らの妻であるドリスとペトラはタフタとシーツの切れ端を縫い合わせて巨大な気球の外皮を作った。",
+                        "vocabulary": [
+                            {
+                                "word": "sewing machine",
+                                "meaning": "ミシン"
+                            },
+                            {
+                                "word": "taffeta",
+                                "meaning": "タフタ（絹織物）"
+                            },
+                            {
+                                "word": "envelope",
+                                "meaning": "外皮"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Using an old sewing machine",
+                                "explanation": "<b>分詞構文</b>: 手段を表す。「〜を使って」。"
+                            },
+                            {
+                                "phrase": "Doris and Petra",
+                                "explanation": "<b>同格</b>: their wivesを具体化。"
+                            },
+                            {
+                                "phrase": "to create the massive balloon envelope",
+                                "explanation": "<b>不定詞（副詞的用法）</b>: 目的を表す。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "text": "Meanwhile, the men engineered a burner using propane gas cylinders and a homemade platform.",
+                    "translation": "一方、男性たちはプロパンガスボンベと手作りのプラットフォームを使ってバーナーを設計した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "engineered"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Meanwhile)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the men</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>engineered</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a burner</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(using propane gas cylinders and a homemade platform)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(一方)</span>、<span class='t-S'>男性たちは</span> <span class='t-V'>設計した</span> <span class='t-O'>バーナーを</span> <span class='t-M'>(〜を使って)</span>。",
+                        "naturalTranslation": "一方、男性たちはプロパンガスボンベと手作りのプラットフォームを使ってバーナーを設計した。",
+                        "vocabulary": [
+                            {
+                                "word": "engineered",
+                                "meaning": "設計した"
+                            },
+                            {
+                                "word": "propane",
+                                "meaning": "プロパン"
+                            },
+                            {
+                                "word": "homemade",
+                                "meaning": "手作りの"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "using propane gas cylinders",
+                                "explanation": "<b>分詞構文</b>: 手段を表す。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 12,
+                    "text": "They faced numerous setbacks, including a failed first attempt where the balloon tore and crashed just meters from the border.",
+                    "translation": "彼らは数多くの挫折に直面した。気球が破れて国境からわずか数メートルのところで墜落した最初の試みの失敗も含まれていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "faced"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>faced</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>numerous setbacks, (including a failed first attempt (where the balloon tore and crashed...))</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>彼らは</span> <span class='t-V'>直面した</span> <span class='t-O'>数多くの挫折に(失敗した最初の試みを含む(where...))</span>。",
+                        "naturalTranslation": "彼らは数多くの挫折に直面した。気球が破れて国境からわずか数メートルのところで墜落した最初の試みの失敗も含まれていた。",
+                        "vocabulary": [
+                            {
+                                "word": "setbacks",
+                                "meaning": "挫折"
+                            },
+                            {
+                                "word": "tore",
+                                "meaning": "破れた（tearの過去形）"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "including a failed first attempt",
+                                "explanation": "<b>including</b>: 「〜を含む」。前置詞的用法。"
+                            },
+                            {
+                                "phrase": "where the balloon tore and crashed",
+                                "explanation": "<b>関係副詞where</b>: attemptを修飾。「そこで〜した」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "text": "Terrified that the crash site would reveal their identity to the police, they frantically worked to build a second, larger balloon in record time, fearing that the Stasi were closing in on them.",
+                    "translation": "墜落現場が警察に彼らの身元を明らかにするのではないかと恐れ、シュタージが迫っているのではないかと恐れながら、彼らは記録的な速さで2つ目のより大きな気球を必死に作った。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "worked"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Terrified that the crash site would reveal their identity to the police)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(frantically)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>worked</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(to build a second, larger balloon in record time)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(fearing that the Stasi were closing in on them)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(〜と恐れて)</span>、<span class='t-S'>彼らは</span> <span class='t-M'>(必死に)</span> <span class='t-V'>働いた</span> <span class='t-M'>(2つ目の気球を作るために)</span>、<span class='t-M'>(シュタージが迫っているのを恐れながら)</span>。",
+                        "naturalTranslation": "墜落現場が彼らの身元を明らかにするのではないかと恐れ、シュタージが迫っていることを恐れながら、彼らは記録的な速さで2つ目のより大きな気球を必死に作った。",
+                        "vocabulary": [
+                            {
+                                "word": "frantically",
+                                "meaning": "必死に"
+                            },
+                            {
+                                "word": "closing in on",
+                                "meaning": "〜に迫る"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Terrified that the crash site would reveal",
+                                "explanation": "<b>過去分詞 + that節</b>: 感情の原因。「〜と恐れて」。"
+                            },
+                            {
+                                "phrase": "to build a second, larger balloon",
+                                "explanation": "<b>不定詞（副詞的用法）</b>: 目的を表す。"
+                            },
+                            {
+                                "phrase": "fearing that the Stasi were closing in",
+                                "explanation": "<b>分詞構文</b>: 付帯状況。「〜を恐れながら」。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 3,
+            "sentences": [
+                {
+                    "id": 14,
+                    "text": "On a windy night in September 1979, the two families packed into the fragile craft.",
+                    "translation": "1979年9月の風の強い夜、2つの家族は壊れやすい乗り物に乗り込んだ。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "packed"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(On a windy night in September 1979)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the two families</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>packed into</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the fragile craft</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(1979年9月の風の強い夜)</span>、<span class='t-S'>2つの家族は</span> <span class='t-V'>乗り込んだ</span> <span class='t-O'>壊れやすい乗り物に</span>。",
+                        "naturalTranslation": "1979年9月の風の強い夜、2つの家族は壊れやすい乗り物に乗り込んだ。",
+                        "vocabulary": [
+                            {
+                                "word": "fragile",
+                                "meaning": "壊れやすい"
+                            },
+                            {
+                                "word": "craft",
+                                "meaning": "乗り物、船"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "packed into",
+                                "explanation": "<b>pack into</b>: 「〜に詰め込む/乗り込む」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "text": "Launching from a forest clearing, the balloon ascended rapidly, carried by the currents toward the West.",
+                    "translation": "森の空き地から発進し、気球は急速に上昇し、気流に乗って西へ運ばれた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "ascended"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Launching from a forest clearing)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the balloon</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>ascended rapidly</span><span class='tag'>V</span></span>, <span class='chunk M-group'><span class='text'>(carried by the currents toward the West)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(森の空き地から発進しながら)</span>、<span class='t-S'>気球は</span> <span class='t-V'>急速に上昇した</span>、<span class='t-M'>(気流に乗って西へ運ばれながら)</span>。",
+                        "naturalTranslation": "森の空き地から発進し、気球は急速に上昇し、気流に乗って西へ運ばれた。",
+                        "vocabulary": [
+                            {
+                                "word": "clearing",
+                                "meaning": "空き地"
+                            },
+                            {
+                                "word": "ascended",
+                                "meaning": "上昇した"
+                            },
+                            {
+                                "word": "currents",
+                                "meaning": "気流"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Launching from a forest clearing",
+                                "explanation": "<b>分詞構文</b>: 時/状況を表す。"
+                            },
+                            {
+                                "phrase": "carried by the currents",
+                                "explanation": "<b>過去分詞</b>: 付帯状況を表す分詞構文。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "text": "As they floated through the dark sky, they risked being spotted by searchlights or shot down by border patrols.",
+                    "translation": "暗い空を漂いながら、彼らはサーチライトに発見されたり、国境パトロールに撃墜されたりする危険を冒していた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "risked"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(As they floated through the dark sky)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>risked</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>being spotted by searchlights or shot down by border patrols</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(暗い空を漂いながら)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>危険を冒した</span> <span class='t-O'>発見されるか撃墜される</span>。",
+                        "naturalTranslation": "暗い空を漂いながら、彼らはサーチライトに発見されたり、国境パトロールに撃墜されたりする危険を冒していた。",
+                        "vocabulary": [
+                            {
+                                "word": "searchlights",
+                                "meaning": "サーチライト"
+                            },
+                            {
+                                "word": "border patrols",
+                                "meaning": "国境パトロール"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "As they floated through the dark sky",
+                                "explanation": "<b>as節</b>: 「〜しながら」。同時進行。"
+                            },
+                            {
+                                "phrase": "risked being spotted or shot down",
+                                "explanation": "<b>risk + 動名詞</b>: 「〜する危険を冒す」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "text": "The flight was short and chaotic; the burner failed as they ran out of gas, forcing a crash landing in a field.",
+                    "translation": "飛行は短く混沌としていた。ガスが切れてバーナーが故障し、畑に不時着を余儀なくされた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "was",
+                            "failed"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The flight</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>short and chaotic</span><span class='tag'>C</span></span>; <span class='chunk S-group'><span class='text'>the burner</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>failed</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(as they ran out of gas)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(forcing a crash landing in a field)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>飛行は</span> <span class='t-V'>だった</span> <span class='t-C'>短く混沌とした</span>；<span class='t-S'>バーナーは</span> <span class='t-V'>故障した</span> <span class='t-M'>(ガスが切れたため)</span>、<span class='t-M'>(不時着を余儀なくしながら)</span>。",
+                        "naturalTranslation": "飛行は短く混沌としていた。ガスが切れてバーナーが故障し、畑に不時着を余儀なくされた。",
+                        "vocabulary": [
+                            {
+                                "word": "chaotic",
+                                "meaning": "混沌とした"
+                            },
+                            {
+                                "word": "crash landing",
+                                "meaning": "不時着"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "; the burner failed",
+                                "explanation": "<b>セミコロン</b>: 2つの関連する文を接続。"
+                            },
+                            {
+                                "phrase": "as they ran out of gas",
+                                "explanation": "<b>as節</b>: 理由/時を表す。「〜したため」。"
+                            },
+                            {
+                                "phrase": "forcing a crash landing",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 18,
+                    "text": "Unsure of their location, they cautiously approached a police officer.",
+                    "translation": "自分たちの場所が分からず、彼らは警察官に慎重に近づいた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "approached"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Unsure of their location)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(cautiously)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>approached</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a police officer</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(場所が分からず)</span>、<span class='t-S'>彼らは</span> <span class='t-M'>(慎重に)</span> <span class='t-V'>近づいた</span> <span class='t-O'>警察官に</span>。",
+                        "naturalTranslation": "自分たちの場所が分からず、彼らは警察官に慎重に近づいた。",
+                        "vocabulary": [
+                            {
+                                "word": "cautiously",
+                                "meaning": "慎重に"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Unsure of their location",
+                                "explanation": "<b>形容詞句</b>: 理由を表す分詞構文的用法。「〜が分からなかったので」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 19,
+                    "text": "When the officer informed them, confused but calm, that they were in Naila, West Germany, the families wept with relief.",
+                    "translation": "警官が、困惑しながらも冷静に、彼らがナイラという西ドイツにいることを告げたとき、家族たちは安堵のあまり泣いた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "wept"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(When the officer informed them, (confused but calm), that they were in Naila, West Germany)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the families</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>wept</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(with relief)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(When 警官が告げたとき(困惑しながらも冷静に)(that彼らが西ドイツにいることを))</span>、<span class='t-S'>家族たちは</span> <span class='t-V'>泣いた</span> <span class='t-M'>(安堵で)</span>。",
+                        "naturalTranslation": "警官が、困惑しながらも冷静に、彼らがナイラという西ドイツにいることを告げたとき、家族たちは安堵のあまり泣いた。",
+                        "vocabulary": [
+                            {
+                                "word": "wept",
+                                "meaning": "泣いた（weepの過去形）"
+                            },
+                            {
+                                "word": "relief",
+                                "meaning": "安堵"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "When the officer informed them",
+                                "explanation": "<b>when節構造</b>:<ul><li><b>S'</b>: the officer</li><li><b>V'</b>: informed</li><li><b>O'</b>: them, that they were in Naila</li></ul>"
+                            },
+                            {
+                                "phrase": "confused but calm",
+                                "explanation": "<b>挿入形容詞</b>: 警官の状態を説明。「困惑しながらも冷静な」。"
+                            },
+                            {
+                                "phrase": "that they were in Naila",
+                                "explanation": "<b>that節</b>: informの直接目的語。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 20,
+                    "text": "Their daring aerial escape became a symbol of the human desire for liberty, proving that ingenuity could overcome even the most fortified barriers.",
+                    "translation": "彼らの大胆な空中脱出は、人間の自由への欲求の象徴となり、創意工夫が最も要塞化された障壁さえも克服できることを証明した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "became"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Their daring aerial escape</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>became</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>a symbol of the human desire for liberty</span><span class='tag'>C</span></span>, <span class='chunk M-group'><span class='text'>(proving that ingenuity could overcome even the most fortified barriers)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>彼らの大胆な空中脱出は</span> <span class='t-V'>なった</span> <span class='t-C'>象徴に</span>、<span class='t-M'>(proving that...)</span>。",
+                        "naturalTranslation": "彼らの大胆な空中脱出は、人間の自由への欲求の象徴となり、創意工夫が最も要塞化された障壁さえも克服できることを証明した。",
+                        "vocabulary": [
+                            {
+                                "word": "daring",
+                                "meaning": "大胆な"
+                            },
+                            {
+                                "word": "aerial",
+                                "meaning": "空中の"
+                            },
+                            {
+                                "word": "ingenuity",
+                                "meaning": "創意工夫"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "proving that ingenuity could overcome",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。「その結果〜を証明した」。"
+                            },
+                            {
+                                "phrase": "even the most fortified barriers",
+                                "explanation": "<b>even + 最上級</b>: 「最も〜なものさえ」強調。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "text": "What problem did Strelzyk and Wetzel face when planning their escape?",
+            "textTranslation": "シュトレルツィクとヴェッツェルは脱出計画を立てる際にどのような問題に直面しましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "They had no family members willing to join them on such a dangerous journey.",
+                    "translation": "そのような危険な旅に参加してくれる家族がいなかった。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "The border was so well-protected that standard methods of escaping were too dangerous to try.",
+                    "translation": "国境があまりにもよく守られていたため、標準的な脱出方法は危険すぎて試すことができなかった。",
+                    "isCorrect": true,
+                    "highlight": "border was so well-protected that standard methods were too dangerous"
+                },
+                {
+                    "id": 3,
+                    "text": "The West German government had announced that it would no longer accept refugees from the East.",
+                    "translation": "西ドイツ政府は東からの難民を受け入れないと発表していた。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "They differed in their opinions on whether a tunnel or a balloon would be the safer option.",
+                    "translation": "トンネルと気球のどちらがより安全な選択肢かについて意見が分かれていた。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 1,
+                "description": "第1段落。脱出計画を立てる際にどのような問題があったか（problem / nearly impossible）を探しましょう。",
+                "targetSentenceId": 4,
+                "highlightWord": "traditional escape routes were nearly impossible",
+                "highlightWordSentenceId": 4
+            },
+            "keywords": [
+                "problem",
+                "planning",
+                "escape"
+            ],
+            "keywordExplanations": {
+                "problem": "問題。第1段落の状況説明。",
+                "escape": "脱出。traditional escape routesと対応。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 2,
+                    "text": "heavily fortified",
+                    "keyword": "problem"
+                },
+                {
+                    "sentenceId": 4,
+                    "text": "traditional escape routes were nearly impossible",
+                    "keyword": "escape"
+                }
+            ],
+            "choiceAdvice": "1: 家族が参加拒否？ 2: 国境が厳重で標準方法は危険？ 3: 西ドイツが難民拒否？ 4: 意見の相違？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 2): 「国境は壁、有刺鉄線、そして射殺命令を受けた武装警備員によって厳重に要塞化されていた(heavily fortified)」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 4-5): 「従来の脱出ルートはほぼ不可能(nearly impossible)だった。トンネルは発見され、車の隠し区画もチェックされていた」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】heavily fortified = well-protected、nearly impossible = too dangerous。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢2「国境があまりにもよく守られていたため、標準的な脱出方法は危険すぎて試すことができなかった」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 2"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "How did the families manage to build the balloon?",
+            "textTranslation": "家族たちはどのように気球を作りましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "They stole a finished balloon from a military base and modified it for their needs.",
+                    "translation": "軍事基地から完成した気球を盗み、必要に応じて改造した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "They bought all the necessary materials in their hometown, claiming they were starting a textile business.",
+                    "translation": "繊維事業を始めると言って、必要な材料をすべて地元で購入した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "They worked in secrecy, buying materials in small amounts to avoid attracting attention from the authorities.",
+                    "translation": "当局の注意を引かないように少量ずつ材料を購入し、秘密裏に作業した。",
+                    "isCorrect": true,
+                    "highlight": "worked in secrecy, buying materials in small amounts to avoid attracting attention"
+                },
+                {
+                    "id": 4,
+                    "text": "They received instructions and supplies dropped by aircraft sent from West Germany.",
+                    "translation": "西ドイツから送られた航空機によって投下された指示書と物資を受け取った。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 2,
+                "description": "第2段落。気球をどのように作ったか（without arousing suspicion / small amounts）を探しましょう。",
+                "targetSentenceId": 9,
+                "highlightWord": "without arousing suspicion, often traveling to distant towns to buy small amounts",
+                "highlightWordSentenceId": 9
+            },
+            "keywords": [
+                "manage",
+                "build",
+                "balloon"
+            ],
+            "keywordExplanations": {
+                "manage to": "なんとか〜する。",
+                "build": "作る。第2段落の準備過程。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 8,
+                    "text": "secret and dangerous preparation",
+                    "keyword": "manage"
+                },
+                {
+                    "sentenceId": 9,
+                    "text": "without arousing suspicion, often traveling to distant towns to buy small amounts",
+                    "keyword": "build"
+                }
+            ],
+            "choiceAdvice": "1: 軍事基地から盗んだ？ 2: 地元で全て購入？ 3: 秘密裏に少量ずつ購入？ 4: 西ドイツから供給？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 8): 「計画には何ヶ月もの秘密で危険な準備(secret and dangerous preparation)が必要だった」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 9): 「彼らは疑惑を招かずに(without arousing suspicion)大量の布地を購入しなければならず、少量ずつ買うために(to buy small amounts)遠くの町まで足を運んだ」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】secret = secrecy、without arousing suspicion = avoid attracting attention、small amounts at a time。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢3「当局の注意を引かないように少量ずつ材料を購入し、秘密裏に作業した」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "What happened during the final escape attempt?",
+            "textTranslation": "最終的な脱出の試みの際に何が起こりましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "The balloon was spotted by searchlights and fired upon, forcing them to turn back.",
+                    "translation": "気球はサーチライトに発見されて銃撃され、引き返すことを余儀なくされた。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "They landed safely in a designated airport in West Germany after a smooth flight.",
+                    "translation": "スムーズな飛行の後、西ドイツの指定された空港に安全に着陸した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "The Stasi arrived at the launch site just as they were taking off, but were too late to stop them.",
+                    "translation": "離陸しようとした瞬間にシュタージが発進地点に到着したが、彼らを止めるには遅すぎた。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "They ran out of fuel and crashed, initially unsure if they had actually made it across the border.",
+                    "translation": "燃料が切れて墜落し、最初は実際に国境を越えたかどうか分からなかった。",
+                    "isCorrect": true,
+                    "highlight": "ran out of fuel and crashed, initially unsure if they had made it across"
+                }
+            ],
+            "hint": {
+                "paragraphId": 3,
+                "description": "第3段落。最終的な脱出の際に何が起こったか（ran out of gas / Unsure of their location）を探しましょう。",
+                "targetSentenceId": 17,
+                "highlightWord": "ran out of gas, forcing a crash landing",
+                "highlightWordSentenceId": 17
+            },
+            "keywords": [
+                "final escape",
+                "happened"
+            ],
+            "keywordExplanations": {
+                "final escape": "最終的な脱出。第3段落の内容。",
+                "happened": "起こった。結果を問う。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 17,
+                    "text": "ran out of gas, forcing a crash landing",
+                    "keyword": "happened"
+                },
+                {
+                    "sentenceId": 18,
+                    "text": "Unsure of their location",
+                    "keyword": "happened"
+                }
+            ],
+            "choiceAdvice": "1: サーチライトに撃たれた？ 2: 空港に着陸？ 3: シュタージが到着？ 4: 燃料切れで墜落し場所不明？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 17): 「ガスが切れて(ran out of gas)バーナーが故障し、畑に不時着(crash landing)を余儀なくされた」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 18): 「自分たちの場所が分からず(Unsure of their location)、彼らは警察官に慎重に近づいた」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】ran out of gas = ran out of fuel、crash landing = crashed、Unsure of their location = unsure if they had made it across。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢4「燃料が切れて墜落し、最初は実際に国境を越えたかどうか分からなかった」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 4"
+                }
+            ]
+        }
+    ],
+    "summaryForInstructors": {
+        "title": "Flight to Freedom: The Berlin Balloon Escape（自由への飛行：ベルリン気球脱出）",
+        "intro": "1979年に東ドイツから西ドイツへ熱気球で脱出した2つの家族の実話。冷戦時代の鉄のカーテン、秘密裏の準備過程、そして劇的な脱出成功を描いたパッセージ。",
+        "points": [
+            {
+                "label": "1. 東ドイツの状況（第1段落）",
+                "text": "1970年代後半、東ドイツは鉄のカーテンで孤立。国境は壁・有刺鉄線・射殺命令を受けた武装警備員で要塞化。シュタージの監視下でシュトレルツィクとヴェッツェルは自由を夢見るが、従来の脱出ルート（トンネル、車の隠し区画）はほぼ不可能。彼らは予想外かつ阻止困難な方法として熱気球での夜間越境を決意。"
+            },
+            {
+                "label": "2. 秘密の準備（第2段落）",
+                "text": "計画には何ヶ月もの秘密で危険な準備が必要。疑惑を避けるため遠方の町で少量ずつ布地を購入。妻たちは隠された屋根裏でタフタとシーツを縫い合わせ気球外皮を作成。男性たちはプロパンガスと手作りプラットフォームでバーナーを設計。最初の試みは国境数メートルで墜落。身元発覚を恐れ記録的速さで2つ目の大型気球を製作。"
+            },
+            {
+                "label": "3. 脱出成功（第3段落）",
+                "text": "1979年9月の風の強い夜、森の空き地から発進。急上昇しサーチライトや撃墜の危険を冒しながら西へ。飛行は短く混沌—ガス切れでバーナー故障し畑に不時着。場所が分からず警察官に慎重に接近。西ドイツのナイラにいると告げられ安堵の涙。この大胆な空中脱出は自由への人間の欲求の象徴となり、創意工夫が最強の障壁も克服できることを証明。"
+            }
+        ]
+    }
+}

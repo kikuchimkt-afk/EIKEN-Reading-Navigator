@@ -1,0 +1,912 @@
+{
+    "id": "grade-pre1-original-peakoil",
+    "grade": "準1級",
+    "title": "The Peak Oil Prophecy",
+    "subTitle": "問題11",
+    "genre": "エネルギー / 経済",
+    "similarProblems": {
+        "exam": "2023年度 第3回",
+        "title": "The Bet"
+    },
+    "isOriginal": true,
+    "images": {
+        "content": "https://placehold.co/600x400?text=Peak+Oil",
+        "question": "https://placehold.co/600x400?text=Question+Image"
+    },
+    "content": [
+        {
+            "paragraphId": 1,
+            "sentences": [
+                {
+                    "id": 1,
+                    "text": "In the mid-20th century, geoscientist M. King Hubbert presented a controversial theory that would shape energy policy for decades.",
+                    "translation": "20世紀半ば、地質科学者M・キング・ハバートは、何十年にもわたってエネルギー政策を形作ることになる物議を醸す理論を提唱した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "presented"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(In the mid-20th century)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>geoscientist M. King Hubbert</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>presented</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a controversial theory (that would shape energy policy...)</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(20世紀半ば)</span>、<span class='t-S'>地質科学者M・キング・ハバートは</span> <span class='t-V'>提唱した</span> <span class='t-O'>物議を醸す理論を</span>。",
+                        "naturalTranslation": "20世紀半ば、地質科学者M・キング・ハバートは、何十年にもわたってエネルギー政策を形作ることになる物議を醸す理論を提唱した。",
+                        "vocabulary": [
+                            {
+                                "word": "geoscientist",
+                                "meaning": "地質科学者"
+                            },
+                            {
+                                "word": "controversial",
+                                "meaning": "物議を醸す"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "that would shape energy policy",
+                                "explanation": "<b>関係代名詞節</b>: theoryを修飾。wouldは推量。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "text": "He predicted that U.S. oil production would peak between 1965 and 1970 and then enter a terminal decline, leading to energy scarcity and economic turmoil.",
+                    "translation": "彼は、米国の石油生産が1965年から1970年の間にピークに達し、その後終末的な衰退に入り、エネルギー不足と経済的混乱を招くと予測した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "predicted"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>He</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>predicted</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that U.S. oil production would peak... and then enter a terminal decline, (leading to...)</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>彼は</span> <span class='t-V'>予測した</span> <span class='t-O'>that [石油生産がピークに達し...衰退に入り、(〜を招きながら)]</span>。",
+                        "naturalTranslation": "彼は、米国の石油生産が1965年から1970年の間にピークに達し、その後終末的な衰退に入り、エネルギー不足と経済的混乱を招くと予測した。",
+                        "vocabulary": [
+                            {
+                                "word": "terminal decline",
+                                "meaning": "終末的な衰退"
+                            },
+                            {
+                                "word": "scarcity",
+                                "meaning": "不足"
+                            },
+                            {
+                                "word": "turmoil",
+                                "meaning": "混乱"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "leading to energy scarcity",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。「その結果〜を招く」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "text": "Hubbert's theory, known as \"Peak Oil,\" was based on the idea that oil is a finite resource formed over millions of years and that we were consuming it far faster than it could ever be replaced.",
+                    "translation": "「ピークオイル」として知られるハバートの理論は、石油は何百万年もかけて形成された有限の資源であり、私たちは石油が補充されるよりもはるかに速く消費しているという考えに基づいていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "was based"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Hubbert's theory, (known as \"Peak Oil,\")</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was based</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(on the idea that... and that...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>ハバートの理論は(「ピークオイル」として知られる)</span> <span class='t-V'>基づいていた</span> <span class='t-M'>(〜という考えに)</span>。",
+                        "naturalTranslation": "「ピークオイル」として知られるハバートの理論は、石油は有限の資源であり、私たちはそれを補充より速く消費しているという考えに基づいていた。",
+                        "vocabulary": [
+                            {
+                                "word": "finite resource",
+                                "meaning": "有限の資源"
+                            },
+                            {
+                                "word": "consuming",
+                                "meaning": "消費する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "known as \"Peak Oil\"",
+                                "explanation": "<b>過去分詞</b>: theoryを修飾する挿入句。"
+                            },
+                            {
+                                "phrase": "that oil is a finite resource ... and that we were consuming",
+                                "explanation": "<b>2つの同格that節</b>: ideaの内容を説明。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "text": "His critics, primarily economists, argued that market forces and human ingenuity would prevent such a collapse; as oil became scarcer and more expensive, they claimed, technology would advance to find new sources or improve efficiency.",
+                    "translation": "彼の批判者たち、主に経済学者たちは、市場の力と人間の創意工夫がそのような崩壊を防ぐと主張した。石油がより希少でより高価になるにつれて、技術が進歩して新しい供給源を見つけるか効率を改善するだろうと彼らは主張した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "argued",
+                            "would advance"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>His critics, (primarily economists)</span><span class='tag'>S</span></span>, <span class='chunk V-group'><span class='text'>argued</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that market forces... would prevent...</span><span class='tag'>O</span></span>; <span class='chunk M-group'><span class='text'>(as oil became scarcer...)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(they claimed)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>technology</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>would advance</span><span class='tag'>V</span></span>.",
+                        "translationHtml": "<span class='t-S'>批判者たちは</span> <span class='t-V'>主張した</span>；<span class='t-M'>(石油が希少になるにつれて)</span>、<span class='t-S'>技術が</span> <span class='t-V'>進歩するだろう</span>。",
+                        "naturalTranslation": "彼の批判者たち、主に経済学者たちは、市場の力と人間の創意工夫がそのような崩壊を防ぐと主張した。",
+                        "vocabulary": [
+                            {
+                                "word": "ingenuity",
+                                "meaning": "創意工夫"
+                            },
+                            {
+                                "word": "scarcer",
+                                "meaning": "より希少な"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "primarily economists",
+                                "explanation": "<b>同格</b>: criticsを説明する挿入句。"
+                            },
+                            {
+                                "phrase": "as oil became scarcer",
+                                "explanation": "<b>as節構造</b>: 「〜するにつれて」。"
+                            },
+                            {
+                                "phrase": "they claimed",
+                                "explanation": "<b>挿入節</b>: 主張の出典を示す。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "text": "Hubbert's prediction initially seemed accurate when U.S. production peaked in 1970, earning him widespread fame as a prophet of the energy crisis.",
+                    "translation": "1970年に米国の生産がピークに達したとき、ハバートの予測は当初正確であるように見え、エネルギー危機の預言者として幅広い名声を得た。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "seemed"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Hubbert's prediction</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(initially)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>seemed</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>accurate</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(when U.S. production peaked in 1970), (earning him widespread fame...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>ハバートの予測は</span> <span class='t-M'>(当初)</span> <span class='t-V'>見えた</span> <span class='t-C'>正確であるように</span> <span class='t-M'>(1970年に生産がピークに達したとき)、(名声を得ながら)</span>。",
+                        "naturalTranslation": "1970年に米国の生産がピークに達したとき、ハバートの予測は当初正確であるように見え、エネルギー危機の預言者として幅広い名声を得た。",
+                        "vocabulary": [
+                            {
+                                "word": "prophet",
+                                "meaning": "預言者"
+                            },
+                            {
+                                "word": "widespread",
+                                "meaning": "幅広い"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "when U.S. production peaked",
+                                "explanation": "<b>when節</b>: 時を表す。"
+                            },
+                            {
+                                "phrase": "earning him widespread fame",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。「その結果〜を得た」。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 2,
+            "sentences": [
+                {
+                    "id": 6,
+                    "text": "However, decades later, the narrative took an unexpected turn.",
+                    "translation": "しかし、数十年後、物語は予期せぬ展開を見せた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "took"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(decades later)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the narrative</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>took</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>an unexpected turn</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(しかし)</span>、<span class='t-M'>(数十年後)</span>、<span class='t-S'>物語は</span> <span class='t-V'>見せた</span> <span class='t-O'>予期せぬ展開を</span>。",
+                        "naturalTranslation": "しかし、数十年後、物語は予期せぬ展開を見せた。",
+                        "vocabulary": [
+                            {
+                                "word": "narrative",
+                                "meaning": "物語、語り"
+                            },
+                            {
+                                "word": "unexpected turn",
+                                "meaning": "予期せぬ展開"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "took an unexpected turn",
+                                "explanation": "<b>take a turn</b>: 「展開を見せる」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "text": "While conventional oil production did decline as Hubbert predicted, he failed to foresee the \"shale revolution\" of the 21st century.",
+                    "translation": "従来の石油生産はハバートが予測したように確かに減少したが、彼は21世紀の「シェール革命」を予見することができなかった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "failed"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(While conventional oil production did decline as Hubbert predicted)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>he</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>failed to foresee</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the \"shale revolution\"</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(While 生産が減少したが)</span>、<span class='t-S'>彼は</span> <span class='t-V'>予見できなかった</span> <span class='t-O'>「シェール革命」を</span>。",
+                        "naturalTranslation": "従来の石油生産はハバートが予測したように確かに減少したが、彼は21世紀の「シェール革命」を予見することができなかった。",
+                        "vocabulary": [
+                            {
+                                "word": "conventional",
+                                "meaning": "従来の"
+                            },
+                            {
+                                "word": "foresee",
+                                "meaning": "予見する"
+                            },
+                            {
+                                "word": "shale revolution",
+                                "meaning": "シェール革命"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "While conventional oil production did decline",
+                                "explanation": "<b>譲歩のwhile節</b>: didは強調。「確かに〜したが」。"
+                            },
+                            {
+                                "phrase": "as Hubbert predicted",
+                                "explanation": "<b>as節</b>: 「〜が予測したように」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "text": "New technologies like hydraulic fracturing (fracking) and horizontal drilling allowed energy companies to extract oil and natural gas from rock formations that were previously inaccessible.",
+                    "translation": "水圧破砕法（フラッキング）や水平掘削といった新技術により、エネルギー企業は以前はアクセスできなかった岩石層から石油や天然ガスを抽出することが可能になった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "allowed"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>New technologies like hydraulic fracturing (fracking) and horizontal drilling</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>allowed</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>energy companies</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>to extract oil and natural gas from rock formations (that were previously inaccessible)</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-S'>新技術は</span> <span class='t-V'>可能にした</span> <span class='t-O'>エネルギー企業が</span> <span class='t-C'>石油やガスを抽出することを</span>。",
+                        "naturalTranslation": "水圧破砕法や水平掘削といった新技術により、エネルギー企業は以前はアクセスできなかった岩石層から石油や天然ガスを抽出することが可能になった。",
+                        "vocabulary": [
+                            {
+                                "word": "hydraulic fracturing",
+                                "meaning": "水圧破砕法"
+                            },
+                            {
+                                "word": "horizontal drilling",
+                                "meaning": "水平掘削"
+                            },
+                            {
+                                "word": "extract",
+                                "meaning": "抽出する"
+                            },
+                            {
+                                "word": "inaccessible",
+                                "meaning": "アクセスできない"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "(fracking)",
+                                "explanation": "<b>括弧による挿入</b>: 別名を示す。"
+                            },
+                            {
+                                "phrase": "allow O to do",
+                                "explanation": "<b>allow O to do</b>: 「Oが〜することを可能にする」。"
+                            },
+                            {
+                                "phrase": "that were previously inaccessible",
+                                "explanation": "<b>関係代名詞節</b>: rock formationsを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "text": "By the 2010s, instead of running out of oil, the United States became the world's leading oil producer.",
+                    "translation": "2010年代までに、石油が枯渇する代わりに、米国は世界最大の石油生産国となった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "became"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(By the 2010s)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(instead of running out of oil)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the United States</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>became</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>the world's leading oil producer</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-M'>(2010年代までに)</span>、<span class='t-M'>(石油が枯渇する代わりに)</span>、<span class='t-S'>米国は</span> <span class='t-V'>なった</span> <span class='t-C'>世界最大の石油生産国に</span>。",
+                        "naturalTranslation": "2010年代までに、石油が枯渇する代わりに、米国は世界最大の石油生産国となった。",
+                        "vocabulary": [
+                            {
+                                "word": "instead of",
+                                "meaning": "〜の代わりに"
+                            },
+                            {
+                                "word": "running out of",
+                                "meaning": "〜が枯渇する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "instead of running out of oil",
+                                "explanation": "<b>instead of + 動名詞</b>: 「〜する代わりに」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "text": "Economists pointed out that Hubbert had underestimated the power of price signals to drive technological innovation.",
+                    "translation": "経済学者たちは、ハバートが技術革新を推進する価格シグナルの力を過小評価していたと指摘した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "pointed out"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Economists</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>pointed out</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that Hubbert had underestimated the power of price signals to drive technological innovation</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>経済学者たちは</span> <span class='t-V'>指摘した</span> <span class='t-O'>that [ハバートが〜を過小評価していたと]</span>。",
+                        "naturalTranslation": "経済学者たちは、ハバートが技術革新を推進する価格シグナルの力を過小評価していたと指摘した。",
+                        "vocabulary": [
+                            {
+                                "word": "pointed out",
+                                "meaning": "指摘した"
+                            },
+                            {
+                                "word": "underestimated",
+                                "meaning": "過小評価した"
+                            },
+                            {
+                                "word": "price signals",
+                                "meaning": "価格シグナル"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "that Hubbert had underestimated",
+                                "explanation": "<b>that節</b>: had + 過去分詞で大過去。"
+                            },
+                            {
+                                "phrase": "to drive technological innovation",
+                                "explanation": "<b>不定詞（形容詞的用法）</b>: powerを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "text": "When the price of oil rose, it made expensive extraction methods profitable, effectively unlocking vast new reserves that Hubbert had considered useless geology.",
+                    "translation": "石油価格が上昇したとき、それは高価な抽出方法を採算の取れるものにし、ハバートが無用な地質と見なしていた広大な新しい埋蔵量を事実上解放した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "made"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(When the price of oil rose)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>it</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>made</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>expensive extraction methods</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>profitable</span><span class='tag'>C</span></span>, <span class='chunk M-group'><span class='text'>(effectively unlocking vast new reserves that Hubbert had considered useless geology)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(石油価格が上昇したとき)</span>、<span class='t-S'>それは</span> <span class='t-V'>した</span> <span class='t-O'>高価な抽出方法を</span> <span class='t-C'>採算の取れるものに</span>、<span class='t-M'>(広大な新しい埋蔵量を解放しながら)</span>。",
+                        "naturalTranslation": "石油価格が上昇したとき、それは高価な抽出方法を採算の取れるものにし、広大な新しい埋蔵量を事実上解放した。",
+                        "vocabulary": [
+                            {
+                                "word": "extraction methods",
+                                "meaning": "抽出方法"
+                            },
+                            {
+                                "word": "profitable",
+                                "meaning": "採算の取れる"
+                            },
+                            {
+                                "word": "reserves",
+                                "meaning": "埋蔵量"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "When the price of oil rose",
+                                "explanation": "<b>when節</b>: 時を表す。"
+                            },
+                            {
+                                "phrase": "made expensive extraction methods profitable",
+                                "explanation": "<b>make O C</b>: 「OをCにする」。SVOC構造。"
+                            },
+                            {
+                                "phrase": "effectively unlocking vast new reserves",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。「その結果〜を解放した」。"
+                            },
+                            {
+                                "phrase": "that Hubbert had considered useless geology",
+                                "explanation": "<b>関係代名詞節</b>: reservesを修飾。consider O Cの構造。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 3,
+            "sentences": [
+                {
+                    "id": 12,
+                    "text": "Today, the implications of defying the Peak Oil prophecy are complex.",
+                    "translation": "今日、ピークオイルの予言を覆したことの意味は複雑である。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "are"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Today)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the implications of defying the Peak Oil prophecy</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>complex</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-M'>(今日)</span>、<span class='t-S'>ピークオイルの予言を覆したことの意味は</span> <span class='t-V'>である</span> <span class='t-C'>複雑</span>。",
+                        "naturalTranslation": "今日、ピークオイルの予言を覆したことの意味は複雑である。",
+                        "vocabulary": [
+                            {
+                                "word": "implications",
+                                "meaning": "意味、含意"
+                            },
+                            {
+                                "word": "defying",
+                                "meaning": "覆す、逆らう"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "the implications of defying",
+                                "explanation": "<b>前置詞 + 動名詞</b>: ofの目的語。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "text": "While technology saved the world from the immediate shortages Hubbert feared, it created a different kind of existential threat.",
+                    "translation": "技術はハバートが恐れた差し迫った不足から世界を救った一方で、それは別の種類の存在的脅威を生み出した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "created"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(While technology saved the world from the immediate shortages Hubbert feared)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>it</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>created</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a different kind of existential threat</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(While 技術は世界を救った一方で)</span>、<span class='t-S'>それは</span> <span class='t-V'>生み出した</span> <span class='t-O'>別の種類の存在的脅威を</span>。",
+                        "naturalTranslation": "技術はハバートが恐れた差し迫った不足から世界を救った一方で、それは別の種類の存在的脅威を生み出した。",
+                        "vocabulary": [
+                            {
+                                "word": "existential threat",
+                                "meaning": "存在的脅威"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "While technology saved the world",
+                                "explanation": "<b>譲歩のwhile節</b>: 「〜した一方で」。"
+                            },
+                            {
+                                "phrase": "the immediate shortages Hubbert feared",
+                                "explanation": "<b>関係代名詞省略</b>: shortages (that) Hubbert feared。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "text": "The abundance of cheap fossil fuels has delayed the transition to renewable energy, exacerbating the climate crisis.",
+                    "translation": "安価な化石燃料の豊富さは再生可能エネルギーへの移行を遅らせ、気候危機を悪化させている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "has delayed"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The abundance of cheap fossil fuels</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has delayed</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the transition to renewable energy</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(exacerbating the climate crisis)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>安価な化石燃料の豊富さは</span> <span class='t-V'>遅らせている</span> <span class='t-O'>再生可能エネルギーへの移行を</span>、<span class='t-M'>(気候危機を悪化させながら)</span>。",
+                        "naturalTranslation": "安価な化石燃料の豊富さは再生可能エネルギーへの移行を遅らせ、気候危機を悪化させている。",
+                        "vocabulary": [
+                            {
+                                "word": "abundance",
+                                "meaning": "豊富さ"
+                            },
+                            {
+                                "word": "transition",
+                                "meaning": "移行"
+                            },
+                            {
+                                "word": "exacerbating",
+                                "meaning": "悪化させる"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "has delayed",
+                                "explanation": "<b>現在完了</b>: 継続を表す。"
+                            },
+                            {
+                                "phrase": "exacerbating the climate crisis",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。「その結果〜を悪化させている」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "text": "The belief that technology will always provide a solution—proven \"correct\" in the case of oil supply—has led to a dangerous complacency regarding global warming.",
+                    "translation": "技術は常に解決策を提供するという信念—石油供給の場合に「正しい」と証明された—は、地球温暖化に関する危険な自己満足につながっている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "has led"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The belief (that technology will always provide a solution) (—proven \"correct\" in the case of oil supply—)</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has led to</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a dangerous complacency regarding global warming</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>信念は(that...)(ーーと証明されたーー)</span> <span class='t-V'>つながっている</span> <span class='t-O'>危険な自己満足に</span>。",
+                        "naturalTranslation": "技術は常に解決策を提供するという信念は、石油供給の場合に「正しい」と証明され、地球温暖化に関する危険な自己満足につながっている。",
+                        "vocabulary": [
+                            {
+                                "word": "complacency",
+                                "meaning": "自己満足"
+                            },
+                            {
+                                "word": "regarding",
+                                "meaning": "〜に関する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "that technology will always provide a solution",
+                                "explanation": "<b>同格のthat節</b>: beliefの内容を説明。"
+                            },
+                            {
+                                "phrase": "—proven \"correct\" in the case of oil supply—",
+                                "explanation": "<b>ダッシュによる挿入</b>: 補足説明。過去分詞から始まる形容詞句。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "text": "Just as in the debate between Hubbert and his critics, the public is often polarized between \"doomers\" who predict collapse and \"techno-optimists\" who believe scientific breakthroughs will fix everything.",
+                    "translation": "ハバートと彼の批判者たちの議論と同様に、一般の人々はしばしば崩壊を予測する「破滅論者」と科学的ブレークスルーがすべてを解決すると信じる「テクノ楽観主義者」の間で二極化している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "is polarized"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Just as in the debate between Hubbert and his critics)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the public</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is often polarized</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(between \"doomers\" who predict collapse and \"techno-optimists\" who believe...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(〜の議論と同様に)</span>、<span class='t-S'>一般の人々は</span> <span class='t-V'>しばしば二極化している</span> <span class='t-M'>(「破滅論者」と「テクノ楽観主義者」の間で)</span>。",
+                        "naturalTranslation": "ハバートと批判者たちの議論と同様に、一般の人々は「破滅論者」と「テクノ楽観主義者」の間で二極化している。",
+                        "vocabulary": [
+                            {
+                                "word": "polarized",
+                                "meaning": "二極化した"
+                            },
+                            {
+                                "word": "doomers",
+                                "meaning": "破滅論者"
+                            },
+                            {
+                                "word": "techno-optimists",
+                                "meaning": "テクノ楽観主義者"
+                            },
+                            {
+                                "word": "breakthroughs",
+                                "meaning": "ブレークスルー、突破口"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Just as in the debate",
+                                "explanation": "<b>Just as</b>: 「〜と同様に」。"
+                            },
+                            {
+                                "phrase": "who predict collapse",
+                                "explanation": "<b>関係代名詞節</b>: doomersを修飾。"
+                            },
+                            {
+                                "phrase": "who believe scientific breakthroughs will fix everything",
+                                "explanation": "<b>関係代名詞節</b>: techno-optimistsを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "text": "This division hinders the urgent, pragmatic cooperation needed to reduce carbon emissions, suggesting that solving the supply problem may have only accelerated the environmental one.",
+                    "translation": "この分断は、炭素排出量を削減するために必要な緊急かつ実用的な協力を妨げており、供給問題を解決することが環境問題を加速させただけかもしれないことを示唆している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "hinders"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>This division</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>hinders</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the urgent, pragmatic cooperation (needed to reduce carbon emissions)</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(suggesting that solving the supply problem may have only accelerated the environmental one)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>この分断は</span> <span class='t-V'>妨げている</span> <span class='t-O'>緊急かつ実用的な協力を(炭素排出量削減に必要な)</span>、<span class='t-M'>(suggesting that...)</span>。",
+                        "naturalTranslation": "この分断は炭素排出量を削減するために必要な緊急かつ実用的な協力を妨げ、供給問題を解決することが環境問題を加速させただけかもしれないことを示唆している。",
+                        "vocabulary": [
+                            {
+                                "word": "hinders",
+                                "meaning": "妨げる"
+                            },
+                            {
+                                "word": "pragmatic",
+                                "meaning": "実用的な"
+                            },
+                            {
+                                "word": "carbon emissions",
+                                "meaning": "炭素排出量"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "needed to reduce carbon emissions",
+                                "explanation": "<b>過去分詞</b>: cooperationを修飾する形容詞句。"
+                            },
+                            {
+                                "phrase": "suggesting that solving the supply problem...",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。「その結果〜を示唆している」。"
+                            },
+                            {
+                                "phrase": "may have only accelerated",
+                                "explanation": "<b>may have + 過去分詞</b>: 過去の推量。「〜したかもしれない」。"
+                            },
+                            {
+                                "phrase": "the environmental one",
+                                "explanation": "<b>one</b>: problemを指す代名詞。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "text": "M. King Hubbert's \"Peak Oil\" theory was based on the belief that",
+            "textTranslation": "M・キング・ハバートの「ピークオイル」理論は、どのような信念に基づいていましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "the United States would eventually stop importing oil from other countries to protect its economy.",
+                    "translation": "米国は経済を保護するために最終的に他国からの石油輸入を停止するだろう。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "oil was a limited resource that would inevitably run out because it was being used too quickly.",
+                    "translation": "石油は有限の資源であり、消費が速すぎるため必然的に枯渇するだろう。",
+                    "isCorrect": true,
+                    "highlight": "limited resource that would inevitably run out"
+                },
+                {
+                    "id": 3,
+                    "text": "new technology would make it possible to create synthetic oil, making natural oil unnecessary.",
+                    "translation": "新技術により合成石油の製造が可能になり、天然石油は不要になるだろう。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "economists were wrong to think that the price of oil would increase as it became harder to find.",
+                    "translation": "石油が見つけにくくなるにつれて価格が上昇すると考える経済学者は間違っていた。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 1,
+                "description": "第1段落。ハバートの理論が何に基づいていたか（was based on）を探しましょう。",
+                "targetSentenceId": 3,
+                "highlightWord": "finite resource",
+                "highlightWordSentenceId": 3
+            },
+            "keywords": [
+                "Peak Oil theory",
+                "based on",
+                "belief"
+            ],
+            "keywordExplanations": {
+                "based on": "「〜に基づいて」。第1段落のwas based onと対応。",
+                "belief": "信念。ideaと言い換え。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 3,
+                    "text": "was based on the idea",
+                    "keyword": "based on"
+                },
+                {
+                    "sentenceId": 3,
+                    "text": "oil is a finite resource",
+                    "keyword": "belief"
+                }
+            ],
+            "choiceAdvice": "1: 輸入停止？ 2: 有限資源で枯渇？ 3: 合成石油？ 4: 経済学者が間違い？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 3): 「ハバートの理論は、石油は何百万年もかけて形成された有限の資源(finite resource)であり、私たちは石油が補充されるよりもはるかに速く消費している(consuming it far faster)という考えに基づいていた」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】finite resource = limited resource、consuming far faster → would run out。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢2「石油は有限の資源であり、消費が速すぎるため必然的に枯渇するだろう」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 2"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Why did Hubbert's prediction eventually prove to be inaccurate?",
+            "textTranslation": "なぜハバートの予測は最終的に不正確であることが判明しましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "He did not anticipate that new technologies would make it possible to access oil sources that were once unreachable.",
+                    "translation": "彼は、新技術がかつてはアクセスできなかった石油源へのアクセスを可能にすることを予想していなかった。",
+                    "isCorrect": true,
+                    "highlight": "new technologies would make it possible to access oil sources that were once unreachable"
+                },
+                {
+                    "id": 2,
+                    "text": "The demand for oil decreased significantly in the 21st century due to the rise of electric vehicles.",
+                    "translation": "電気自動車の台頭により、21世紀に石油需要が大幅に減少した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "The United States government passed laws that restricted the amount of oil that companies could produce.",
+                    "translation": "米国政府は企業が生産できる石油量を制限する法律を可決した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "He overestimated the amount of oil that was available in rock formations, leading to a surplus.",
+                    "translation": "彼は岩石層で利用可能な石油量を過大評価し、供給過剰につながった。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 2,
+                "description": "第2段落。予測が不正確だった理由（failed to foresee / new technologies）を探しましょう。",
+                "targetSentenceId": 8,
+                "highlightWord": "New technologies like hydraulic fracturing",
+                "highlightWordSentenceId": 8
+            },
+            "keywords": [
+                "prediction",
+                "prove",
+                "inaccurate"
+            ],
+            "keywordExplanations": {
+                "inaccurate": "不正確。第2段落のfailed to foreseeと対応。",
+                "prove": "証明される。なぜ予測が外れたかを問う。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 7,
+                    "text": "failed to foresee the \"shale revolution\"",
+                    "keyword": "inaccurate"
+                },
+                {
+                    "sentenceId": 8,
+                    "text": "New technologies ... allowed energy companies to extract oil",
+                    "keyword": "prediction"
+                }
+            ],
+            "choiceAdvice": "1: 新技術でアクセス可能に？ 2: 電気自動車で需要減少？ 3: 法律で生産制限？ 4: 石油量を過大評価？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 7): 「彼は21世紀の『シェール革命』を予見できなかった(failed to foresee)」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 8): 「水圧破砕法や水平掘削といった新技術(new technologies)により、エネルギー企業は以前はアクセスできなかった(previously inaccessible)岩石層から石油を抽出することが可能になった」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】new technologies → previously inaccessible → once unreachable。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢1「新技術がかつてはアクセスできなかった石油源へのアクセスを可能にした」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "What does the author suggest about the impact of the \"shale revolution\"?",
+            "textTranslation": "著者は「シェール革命」の影響について何を示唆していますか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "It has proven that renewable energy sources are not yet efficient enough to replace fossil fuels.",
+                    "translation": "再生可能エネルギー源は化石燃料を置き換えるほど効率的ではないことを証明した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "It has created a false sense of security that technology can solve all environmental problems, including climate change.",
+                    "translation": "技術が気候変動を含むすべての環境問題を解決できるという誤った安心感を生み出した。",
+                    "isCorrect": true,
+                    "highlight": "false sense of security that technology can solve all environmental problems"
+                },
+                {
+                    "id": 3,
+                    "text": "It has led to a situation where the world is running out of oil faster than Hubbert had originally predicted.",
+                    "translation": "ハバートが当初予測したよりも速く石油が枯渇する状況につながった。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "It has encouraged politicians to work together to find a solution to the problem of global warming.",
+                    "translation": "政治家が地球温暖化問題の解決策を見つけるために協力し合うよう促した。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 3,
+                "description": "第3段落。シェール革命の影響について著者の見解（suggest / complacency）を探しましょう。",
+                "targetSentenceId": 15,
+                "highlightWord": "has led to a dangerous complacency regarding global warming",
+                "highlightWordSentenceId": 15
+            },
+            "keywords": [
+                "suggest",
+                "impact",
+                "shale revolution"
+            ],
+            "keywordExplanations": {
+                "suggest": "示唆する。著者の見解を問う。",
+                "impact": "影響。第3段落の内容。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 15,
+                    "text": "has led to a dangerous complacency",
+                    "keyword": "impact"
+                },
+                {
+                    "sentenceId": 17,
+                    "text": "may have only accelerated the environmental one",
+                    "keyword": "suggest"
+                }
+            ],
+            "choiceAdvice": "1: 再生可能エネルギーが非効率？ 2: 誤った安心感？ 3: 石油がより速く枯渇？ 4: 政治家が協力？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 15): 「技術は常に解決策を提供するという信念—石油供給の場合に『正しい』と証明された—は、地球温暖化に関する危険な自己満足(dangerous complacency)につながっている」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】dangerous complacency = false sense of security。技術がすべてを解決するという信念 = technology can solve all problems。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢2「技術が気候変動を含むすべての環境問題を解決できるという誤った安心感を生み出した」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 2"
+                }
+            ]
+        }
+    ],
+    "summaryForInstructors": {
+        "title": "The Peak Oil Prophecy（ピークオイルの予言）",
+        "intro": "地質科学者ハバートの「ピークオイル」理論とその後の展開について解説したパッセージ。1970年代に的中したかに見えた予測が「シェール革命」により覆され、その結果生じた新たな環境問題について論じています。",
+        "points": [
+            {
+                "label": "1. ハバートの理論（第1段落）",
+                "text": "20世紀半ば、地質科学者ハバートは米国の石油生産が1965-70年にピークを迎え終末的衰退に入ると予測。石油は有限資源であり消費が補充を上回るという考えに基づく。経済学者たちは市場の力と技術革新がそれを防ぐと反論。1970年に生産がピークし予言者として名声を得た。"
+            },
+            {
+                "label": "2. シェール革命（第2段落）",
+                "text": "数十年後、従来の石油生産は減少したが、ハバートは「シェール革命」を予見できなかった。水圧破砕法と水平掘削により以前はアクセス不能だった岩石層から抽出可能に。2010年代までに米国は世界最大の石油生産国に。価格上昇が高価な抽出方法を採算可能にし、「無用な地質」が新たな埋蔵量に。"
+            },
+            {
+                "label": "3. 新たな環境問題（第3段落）",
+                "text": "ピークオイル予言を覆した意味は複雑。技術は不足を救ったが別の脅威を生んだ。安価な化石燃料の豊富さが再生可能エネルギー移行を遅らせ気候危機を悪化。「技術は常に解決策を提供する」という信念が温暖化への危険な自己満足に。「破滅論者」と「テクノ楽観主義者」の二極化が協力を妨げ、供給問題解決が環境問題を加速させた可能性を示唆。"
+            }
+        ]
+    }
+}

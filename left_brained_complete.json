@@ -1,0 +1,904 @@
+{
+    "id": "grade-pre1-original-left-brained",
+    "grade": "準1級",
+    "title": "The Myth of the 'Left-Brained' Thinker",
+    "subTitle": "問題9",
+    "genre": "心理学 / 神経科学",
+    "similarProblems": {
+        "exam": "2024年度 第1回",
+        "title": "Wolf Packs"
+    },
+    "isOriginal": true,
+    "images": {
+        "content": "https://placehold.co/600x400?text=Left-Brained+Myth",
+        "question": "https://placehold.co/600x400?text=Question+Image"
+    },
+    "content": [
+        {
+            "paragraphId": 1,
+            "sentences": [
+                {
+                    "id": 1,
+                    "text": "There is a pervasive belief in popular psychology that people are either \"left-brained\" (logical and analytical) or \"right-brained\" (creative and artistic), and that this dominant hemisphere dictates their personality and skills.",
+                    "translation": "大衆心理学では、人間は「左脳型」（論理的・分析的）か「右脳型」（創造的・芸術的）のどちらかであり、この優位な半球が性格やスキルを決定するという、広く浸透した信念がある。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "is"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(There)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>a pervasive belief (in popular psychology)</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>[that <span class='chunk S2-group'><span class='text'>people</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>are</span><span class='tag'>V'</span></span> <span class='chunk C2-group'><span class='text'>either \"left-brained\" or \"right-brained\"</span><span class='tag'>C'</span></span>]</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(There)</span> <span class='t-V'>ある</span> <span class='t-S'>広く浸透した信念が(大衆心理学には)</span> <span class='t-M'>[that <span class='t-S2'>人々は</span> <span class='t-V2'>である</span> <span class='t-C2'>「左脳型」か「右脳型」のどちらか</span>]</span>。",
+                        "naturalTranslation": "大衆心理学では、人間は「左脳型」（論理的・分析的）か「右脳型」（創造的・芸術的）のどちらかであり、この優位な半球が性格やスキルを決定するという、広く浸透した信念がある。",
+                        "vocabulary": [
+                            {
+                                "word": "pervasive",
+                                "meaning": "広く浸透した、蔓延している"
+                            },
+                            {
+                                "word": "hemisphere",
+                                "meaning": "（脳の）半球"
+                            },
+                            {
+                                "word": "dictates",
+                                "meaning": "決定する、指示する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "There is ... belief",
+                                "explanation": "<b>There構文</b>: 存在を表す。「〜がある」。"
+                            },
+                            {
+                                "phrase": "that people are either...",
+                                "explanation": "<b>同格のthat節構造</b>:<ul><li><b>S'</b>: people</li><li><b>V'</b>: are</li><li><b>C'</b>: either \"left-brained\" or \"right-brained\"</li></ul>beliefの内容を説明する節。"
+                            },
+                            {
+                                "phrase": "and that this dominant hemisphere dictates",
+                                "explanation": "<b>並列のthat節</b>: 2つ目の同格節。「そしてこの優位な半球が〜を決定する」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "text": "It turns out, however, that this binary classification is largely a myth.",
+                    "translation": "しかしながら、この二分法的分類は大部分において神話であることが判明している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "turns out"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>It</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>turns out</span><span class='tag'>V</span></span>, <span class='chunk M-group'><span class='text'>(however)</span><span class='tag'>M</span></span>, <span class='chunk O-group'><span class='text'>that <span class='chunk S2-group'><span class='text'>this binary classification</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>is</span><span class='tag'>V'</span></span> <span class='chunk C2-group'><span class='text'>largely a myth</span><span class='tag'>C'</span></span></span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>It</span> <span class='t-V'>判明する</span>、<span class='t-M'>(しかしながら)</span>、<span class='t-O'>that [<span class='t-S2'>この二分法的分類は</span> <span class='t-V2'>である</span> <span class='t-C2'>大部分において神話</span>]</span>。",
+                        "naturalTranslation": "しかしながら、この二分法的分類は大部分において神話であることが判明している。",
+                        "vocabulary": [
+                            {
+                                "word": "binary",
+                                "meaning": "二分法的な、二進法の"
+                            },
+                            {
+                                "word": "classification",
+                                "meaning": "分類"
+                            },
+                            {
+                                "word": "myth",
+                                "meaning": "神話、作り話"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "It turns out that...",
+                                "explanation": "<b>形式主語構文</b>: Itは仮主語で、that節が真主語。「〜であることが判明する」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "text": "It appears to have originated from misinterpretations of Nobel Prize-winning research in the 1960s on patients who had undergone split-brain surgery to treat epilepsy.",
+                    "translation": "それは、てんかんを治療するために分離脳手術を受けた患者に関する1960年代のノーベル賞受賞研究の誤解から生じたようである。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "appears"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>It</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>appears</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>to have originated (from misinterpretations of Nobel Prize-winning research)</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-S'>それは</span> <span class='t-V'>〜のようだ</span> <span class='t-C'>生じた(ノーベル賞受賞研究の誤解から)</span>。",
+                        "naturalTranslation": "それは、てんかんを治療するために分離脳手術を受けた患者に関する1960年代のノーベル賞受賞研究の誤解から生じたようである。",
+                        "vocabulary": [
+                            {
+                                "word": "originated from",
+                                "meaning": "〜から生じた、〜に由来する"
+                            },
+                            {
+                                "word": "misinterpretations",
+                                "meaning": "誤解、誤った解釈"
+                            },
+                            {
+                                "word": "split-brain surgery",
+                                "meaning": "分離脳手術"
+                            },
+                            {
+                                "word": "epilepsy",
+                                "meaning": "てんかん"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "appears to have originated",
+                                "explanation": "<b>完了不定詞</b>: 過去の出来事を推測。「〜したようだ」。"
+                            },
+                            {
+                                "phrase": "who had undergone",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: who (= patients)</li><li><b>V'</b>: had undergone（過去完了）</li><li><b>O'</b>: split-brain surgery</li></ul>patientsを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "text": "In these extreme cases where the connection between the two hemispheres was severed, the sides did function independently.",
+                    "translation": "両半球間の接続が切断されたこれらの極端な症例では、左右の脳は確かに独立して機能していた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "did function"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(In these extreme cases (where <span class='chunk S2-group'><span class='text'>the connection</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>was severed</span><span class='tag'>V'</span></span>))</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the sides</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>did function</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(independently)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(これらの極端な症例で (where <span class='t-S2'>接続が</span> <span class='t-V2'>切断された</span>))</span>、<span class='t-S'>左右の脳は</span> <span class='t-V'>確かに機能していた</span> <span class='t-M'>(独立して)</span>。",
+                        "naturalTranslation": "両半球間の接続が切断されたこれらの極端な症例では、左右の脳は確かに独立して機能していた。",
+                        "vocabulary": [
+                            {
+                                "word": "severed",
+                                "meaning": "切断された"
+                            },
+                            {
+                                "word": "independently",
+                                "meaning": "独立して"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "did function",
+                                "explanation": "<b>強調のdo</b>: 動詞を強調。「確かに機能した」。"
+                            },
+                            {
+                                "phrase": "where the connection was severed",
+                                "explanation": "<b>関係副詞節構造</b>:<ul><li><b>S'</b>: the connection between the two hemispheres</li><li><b>V'</b>: was severed（受動態）</li></ul>casesを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "text": "However, for the vast majority of people with intact brains, the two hemispheres are constantly communicating and working in tandem.",
+                    "translation": "しかし、脳が無傷の大多数の人々にとっては、両半球は常にコミュニケーションを取り合い、連携して働いている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "are communicating",
+                            "working"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(for the vast majority of people with intact brains)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the two hemispheres</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are constantly communicating and working</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(in tandem)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(しかし)</span>、<span class='t-M'>(脳が無傷の大多数の人々にとっては)</span>、<span class='t-S'>両半球は</span> <span class='t-V'>常にコミュニケーションを取り合い働いている</span> <span class='t-M'>(連携して)</span>。",
+                        "naturalTranslation": "しかし、脳が無傷の大多数の人々にとっては、両半球は常にコミュニケーションを取り合い、連携して働いている。",
+                        "vocabulary": [
+                            {
+                                "word": "intact",
+                                "meaning": "無傷の、損なわれていない"
+                            },
+                            {
+                                "word": "in tandem",
+                                "meaning": "連携して、協力して"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "are constantly communicating and working",
+                                "explanation": "<b>現在進行形</b>: 継続的な動作。「常に〜している」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "text": "Research has now established that brain scans show no evidence of a dominant side; even during creative tasks, the \"logical\" left brain is active, and vice versa.",
+                    "translation": "研究は今や、脳スキャンが優位な側の証拠を示さないことを立証している。創造的な課題の最中でさえ、「論理的な」左脳は活動しており、その逆もまた然りである。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "has established",
+                            "show",
+                            "is"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Research</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has now established</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that <span class='chunk S2-group'><span class='text'>brain scans</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>show</span><span class='tag'>V'</span></span> <span class='chunk O2-group'><span class='text'>no evidence</span><span class='tag'>O'</span></span></span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>研究は</span> <span class='t-V'>今や立証した</span> <span class='t-O'>that [<span class='t-S2'>脳スキャンは</span> <span class='t-V2'>示さない</span> <span class='t-O2'>証拠を</span>]</span>。",
+                        "naturalTranslation": "研究は今や、脳スキャンが優位な側の証拠を示さないことを立証している。創造的な課題の最中でさえ、「論理的な」左脳は活動しており、その逆もまた然りである。",
+                        "vocabulary": [
+                            {
+                                "word": "established",
+                                "meaning": "立証した、確立した"
+                            },
+                            {
+                                "word": "dominant",
+                                "meaning": "優位な、支配的な"
+                            },
+                            {
+                                "word": "vice versa",
+                                "meaning": "その逆もまた然り"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "has now established",
+                                "explanation": "<b>現在完了</b>: 完了・結果。「今や〜した」。"
+                            },
+                            {
+                                "phrase": "that brain scans show",
+                                "explanation": "<b>that節構造</b>:<ul><li><b>S'</b>: brain scans</li><li><b>V'</b>: show</li><li><b>O'</b>: no evidence of a dominant side</li></ul>establishedの目的語。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 2,
+            "sentences": [
+                {
+                    "id": 7,
+                    "text": "Neuroscientists studying brain connectivity have made some clarifying observations using modern fMRI technology.",
+                    "translation": "脳の接続性を研究する神経科学者たちは、現代のfMRI技術を使用して、いくつかの明確化する観察を行った。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "have made"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Neuroscientists (studying brain connectivity)</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have made</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>some clarifying observations</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(using modern fMRI technology)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>神経科学者たちは(脳の接続性を研究する)</span> <span class='t-V'>行った</span> <span class='t-O'>いくつかの明確化する観察を</span> <span class='t-M'>(現代のfMRI技術を使用して)</span>。",
+                        "naturalTranslation": "脳の接続性を研究する神経科学者たちは、現代のfMRI技術を使用して、いくつかの明確化する観察を行った。",
+                        "vocabulary": [
+                            {
+                                "word": "connectivity",
+                                "meaning": "接続性"
+                            },
+                            {
+                                "word": "fMRI",
+                                "meaning": "機能的磁気共鳴画像法"
+                            },
+                            {
+                                "word": "clarifying",
+                                "meaning": "明確化する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "studying brain connectivity",
+                                "explanation": "<b>現在分詞</b>: Neuroscientistsを修飾する形容詞句。"
+                            },
+                            {
+                                "phrase": "using modern fMRI technology",
+                                "explanation": "<b>分詞構文</b>: 手段を表す。「〜を使って」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "text": "They found that while certain functions are indeed localized—for example, language processing is typically centered in the left hemisphere—complex cognitive tasks require the integrated effort of the entire brain which functions like a highly coordinated network.",
+                    "translation": "彼らは、特定の機能は確かに局在化している—例えば、言語処理は通常左半球に集中している—一方で、複雑な認知課題は、高度に調整されたネットワークのように機能する脳全体の統合された努力を必要とすることを発見した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "found",
+                            "are localized",
+                            "require"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>found</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that (while ... localized—...) <span class='chunk S2-group'><span class='text'>complex cognitive tasks</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>require</span><span class='tag'>V'</span></span> <span class='chunk O2-group'><span class='text'>the integrated effort</span><span class='tag'>O'</span></span></span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>彼らは</span> <span class='t-V'>発見した</span> <span class='t-O'>that (while...一方で) [<span class='t-S2'>複雑な認知課題は</span> <span class='t-V2'>必要とする</span> <span class='t-O2'>統合された努力を</span>]</span>。",
+                        "naturalTranslation": "彼らは、特定の機能は確かに局在化している一方で、複雑な認知課題は脳全体の統合された努力を必要とすることを発見した。",
+                        "vocabulary": [
+                            {
+                                "word": "localized",
+                                "meaning": "局在化した"
+                            },
+                            {
+                                "word": "cognitive",
+                                "meaning": "認知の"
+                            },
+                            {
+                                "word": "integrated",
+                                "meaning": "統合された"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "while certain functions are indeed localized",
+                                "explanation": "<b>譲歩のwhile節構造</b>:<ul><li><b>S'</b>: certain functions</li><li><b>V'</b>: are localized</li></ul>「〜である一方で」という譲歩を表す。"
+                            },
+                            {
+                                "phrase": "—for example, language processing is typically centered—",
+                                "explanation": "<b>ダッシュによる挿入</b>: 具体例を挿入。読み飛ばしても文意は通る。"
+                            },
+                            {
+                                "phrase": "which functions like a highly coordinated network",
+                                "explanation": "<b>関係代名詞節</b>: the entire brainを説明。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "text": "Solving a math problem (stereotypically left-brain) requires visualization (stereotypically right-brain), just as painting a picture requires planning and technique.",
+                    "translation": "数学の問題を解くこと（ステレオタイプ的には左脳）は、絵を描くことが計画と技術を必要とするのと同様に、視覚化（ステレオタイプ的には右脳）を必要とする。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "requires"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Solving a math problem (stereotypically left-brain)</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>requires</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>visualization (stereotypically right-brain)</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(just as <span class='chunk S2-group'><span class='text'>painting a picture</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>requires</span><span class='tag'>V'</span></span> <span class='chunk O2-group'><span class='text'>planning and technique</span><span class='tag'>O'</span></span>)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>数学の問題を解くことは</span> <span class='t-V'>必要とする</span> <span class='t-O'>視覚化を</span>、<span class='t-M'>(just as <span class='t-S2'>絵を描くことが</span> <span class='t-V2'>必要とする</span> <span class='t-O2'>計画と技術を</span>のと同様に)</span>。",
+                        "naturalTranslation": "数学の問題を解くこと（ステレオタイプ的には左脳）は、絵を描くことが計画と技術を必要とするのと同様に、視覚化（ステレオタイプ的には右脳）を必要とする。",
+                        "vocabulary": [
+                            {
+                                "word": "stereotypically",
+                                "meaning": "ステレオタイプ的に"
+                            },
+                            {
+                                "word": "visualization",
+                                "meaning": "視覚化"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Solving a math problem",
+                                "explanation": "<b>動名詞</b>: 文の主語。"
+                            },
+                            {
+                                "phrase": "(stereotypically left-brain)",
+                                "explanation": "<b>括弧による挿入</b>: 補足説明。"
+                            },
+                            {
+                                "phrase": "just as painting a picture requires",
+                                "explanation": "<b>just as節構造</b>:<ul><li><b>S'</b>: painting a picture</li><li><b>V'</b>: requires</li><li><b>O'</b>: planning and technique</li></ul>「〜するのと同様に」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "text": "This integrated system allows for a flexibility and power that a divided brain could never achieve.",
+                    "translation": "この統合されたシステムは、分割された脳では決して達成できない柔軟性と力を可能にする。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "allows"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>This integrated system</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>allows for</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a flexibility and power (that <span class='chunk S2-group'><span class='text'>a divided brain</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>could never achieve</span><span class='tag'>V'</span></span>)</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>この統合されたシステムは</span> <span class='t-V'>可能にする</span> <span class='t-O'>柔軟性と力を (that <span class='t-S2'>分割された脳が</span> <span class='t-V2'>決して達成できない</span>)</span>。",
+                        "naturalTranslation": "この統合されたシステムは、分割された脳では決して達成できない柔軟性と力を可能にする。",
+                        "vocabulary": [
+                            {
+                                "word": "allows for",
+                                "meaning": "〜を可能にする"
+                            },
+                            {
+                                "word": "flexibility",
+                                "meaning": "柔軟性"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "that a divided brain could never achieve",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: a divided brain</li><li><b>V'</b>: could never achieve</li></ul>flexibility and powerを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "text": "As one researcher puts it, labeling someone as \"right-brained\" is as scientifically inaccurate as saying they use only their right lung; the system is designed to function as a whole.",
+                    "translation": "ある研究者が言うように、誰かを「右脳型」とラベル付けすることは、彼らが右肺だけを使うと言うのと同じくらい科学的に不正確である。システムは全体として機能するように設計されている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "is",
+                            "is designed"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(As one researcher puts it)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>labeling someone as \"right-brained\"</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>as scientifically inaccurate as saying...</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-M'>(ある研究者が言うように)</span>、<span class='t-S'>誰かを「右脳型」とラベル付けすることは</span> <span class='t-V'>である</span> <span class='t-C'>〜と言うのと同じくらい科学的に不正確</span>。",
+                        "naturalTranslation": "ある研究者が言うように、誰かを「右脳型」とラベル付けすることは、彼らが右肺だけを使うと言うのと同じくらい科学的に不正確である。",
+                        "vocabulary": [
+                            {
+                                "word": "labeling",
+                                "meaning": "ラベル付けする"
+                            },
+                            {
+                                "word": "inaccurate",
+                                "meaning": "不正確な"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "As one researcher puts it",
+                                "explanation": "<b>分詞構文的表現</b>: 「〜が言うように」。"
+                            },
+                            {
+                                "phrase": "as ... as saying",
+                                "explanation": "<b>同等比較</b>: 「〜と同じくらい...」。"
+                            },
+                            {
+                                "phrase": "the system is designed to function",
+                                "explanation": "<b>受動態+不定詞</b>: 「〜するように設計されている」。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 3,
+            "sentences": [
+                {
+                    "id": 12,
+                    "text": "Despite the lack of scientific evidence, the left-brain/right-brain myth persists in education and corporate training.",
+                    "translation": "科学的証拠の欠如にもかかわらず、左脳/右脳神話は教育や企業研修において根強く残っている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "persists"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Despite the lack of scientific evidence)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the left-brain/right-brain myth</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>persists</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(in education and corporate training)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(科学的証拠の欠如にもかかわらず)</span>、<span class='t-S'>左脳/右脳神話は</span> <span class='t-V'>根強く残っている</span> <span class='t-M'>(教育や企業研修において)</span>。",
+                        "naturalTranslation": "科学的証拠の欠如にもかかわらず、左脳/右脳神話は教育や企業研修において根強く残っている。",
+                        "vocabulary": [
+                            {
+                                "word": "Despite",
+                                "meaning": "〜にもかかわらず"
+                            },
+                            {
+                                "word": "persists",
+                                "meaning": "持続する、根強く残る"
+                            },
+                            {
+                                "word": "corporate training",
+                                "meaning": "企業研修"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Despite the lack of",
+                                "explanation": "<b>Despite + 名詞</b>: 「〜にもかかわらず」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "text": "When individuals believe they are biologically limited to one mode of thinking, they may avoid developing skills associated with the \"other\" side.",
+                    "translation": "個人が自分は生物学的に一つの思考様式に限定されていると信じると、彼らは「反対側」に関連するスキルの発達を避ける可能性がある。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "may avoid"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(When <span class='chunk S2-group'><span class='text'>individuals</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>believe</span><span class='tag'>V'</span></span> <span class='chunk O2-group'><span class='text'>they are biologically limited...</span><span class='tag'>O'</span></span>)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>may avoid</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>developing skills</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(When <span class='t-S2'>個人が</span> <span class='t-V2'>信じると</span> <span class='t-O2'>自分が生物学的に限定されていると</span>)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>避ける可能性がある</span> <span class='t-O'>スキルを発達させることを</span>。",
+                        "naturalTranslation": "個人が自分は生物学的に一つの思考様式に限定されていると信じると、彼らは「反対側」に関連するスキルの発達を避ける可能性がある。",
+                        "vocabulary": [
+                            {
+                                "word": "biologically",
+                                "meaning": "生物学的に"
+                            },
+                            {
+                                "word": "mode of thinking",
+                                "meaning": "思考様式"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "When individuals believe",
+                                "explanation": "<b>when節構造</b>:<ul><li><b>S'</b>: individuals</li><li><b>V'</b>: believe</li><li><b>O'</b>: they are biologically limited...</li></ul>条件を表す。"
+                            },
+                            {
+                                "phrase": "may avoid developing",
+                                "explanation": "<b>avoid + 動名詞</b>: 「〜することを避ける」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "text": "For instance, a student labeled as \"right-brained\" might give up on mathematics too easily.",
+                    "translation": "例えば、「右脳型」とラベル付けされた学生は、数学をあまりにも簡単に諦めてしまうかもしれない。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "might give up"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(For instance)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>a student (labeled as \"right-brained\")</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>might give up</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(on mathematics) (too easily)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(例えば)</span>、<span class='t-S'>学生は(「右脳型」とラベル付けされた)</span> <span class='t-V'>諦めてしまうかもしれない</span> <span class='t-M'>(数学を)(あまりにも簡単に)</span>。",
+                        "naturalTranslation": "例えば、「右脳型」とラベル付けされた学生は、数学をあまりにも簡単に諦めてしまうかもしれない。",
+                        "vocabulary": [
+                            {
+                                "word": "give up on",
+                                "meaning": "〜を諦める"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "labeled as \"right-brained\"",
+                                "explanation": "<b>過去分詞</b>: a studentを修飾する形容詞句。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "text": "Recently, psychologists have focused on the concept of \"growth mindset,\" which suggests that the brain is plastic and can develop new pathways throughout life.",
+                    "translation": "最近、心理学者たちは「成長マインドセット」という概念に焦点を当てている。これは、脳は可塑的であり、生涯を通じて新しい経路を発達させることができることを示唆している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "have focused"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Recently)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>psychologists</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have focused</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(on the concept of \"growth mindset,\" (which suggests that...))</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(最近)</span>、<span class='t-S'>心理学者たちは</span> <span class='t-V'>焦点を当てている</span> <span class='t-M'>(「成長マインドセット」という概念に (which...を示唆する))</span>。",
+                        "naturalTranslation": "最近、心理学者たちは「成長マインドセット」という概念に焦点を当てている。これは、脳は可塑的であり、生涯を通じて新しい経路を発達させることができることを示唆している。",
+                        "vocabulary": [
+                            {
+                                "word": "growth mindset",
+                                "meaning": "成長マインドセット"
+                            },
+                            {
+                                "word": "plastic",
+                                "meaning": "可塑的な、柔軟な"
+                            },
+                            {
+                                "word": "pathways",
+                                "meaning": "経路、道筋"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "have focused on",
+                                "explanation": "<b>現在完了</b>: 最近の傾向を表す。"
+                            },
+                            {
+                                "phrase": "which suggests that the brain is plastic",
+                                "explanation": "<b>関係代名詞節（非制限用法）構造</b>:<ul><li><b>S'</b>: which (= growth mindset)</li><li><b>V'</b>: suggests</li><li><b>O'</b>: that the brain is plastic...</li></ul>conceptを補足説明。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "text": "This perspective encourages people to view their cognitive abilities not as fixed traits determined by a dominant hemisphere, but as malleable skills that can be improved with practice.",
+                    "translation": "この視点は、人々に認知能力を優位な半球によって決定された固定的な特性としてではなく、練習で向上できる可鍛性のあるスキルとして見るよう促している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "encourages"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>This perspective</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>encourages</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>people</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>to view their cognitive abilities (not as ... but as ...)</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-S'>この視点は</span> <span class='t-V'>促す</span> <span class='t-O'>人々に</span> <span class='t-C'>認知能力を見るよう (〜としてではなく、〜として)</span>。",
+                        "naturalTranslation": "この視点は、人々に認知能力を優位な半球によって決定された固定的な特性としてではなく、練習で向上できる可鍛性のあるスキルとして見るよう促している。",
+                        "vocabulary": [
+                            {
+                                "word": "fixed traits",
+                                "meaning": "固定的な特性"
+                            },
+                            {
+                                "word": "malleable",
+                                "meaning": "可鍛性のある、柔軟な"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "encourages people to view",
+                                "explanation": "<b>encourage O to do</b>: 「Oに〜するよう促す」。"
+                            },
+                            {
+                                "phrase": "not as ... but as ...",
+                                "explanation": "<b>not A but B構造</b>:<ul><li><b>A</b>: fixed traits determined by a dominant hemisphere</li><li><b>B</b>: malleable skills that can be improved with practice</li></ul>「AとしてではなくBとして」。"
+                            },
+                            {
+                                "phrase": "determined by a dominant hemisphere",
+                                "explanation": "<b>過去分詞</b>: fixed traitsを修飾。"
+                            },
+                            {
+                                "phrase": "that can be improved with practice",
+                                "explanation": "<b>関係代名詞節</b>: malleable skillsを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "text": "The human brain remains a complex web of connections, resisting simple labels.",
+                    "translation": "人間の脳は、単純なラベルに抵抗しながら、複雑な接続の網として残り続けている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "remains"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The human brain</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>remains</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>a complex web of connections</span><span class='tag'>C</span></span>, <span class='chunk M-group'><span class='text'>(resisting simple labels)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>人間の脳は</span> <span class='t-V'>〜のままである</span> <span class='t-C'>複雑な接続の網</span>、<span class='t-M'>(単純なラベルに抵抗しながら)</span>。",
+                        "naturalTranslation": "人間の脳は、単純なラベルに抵抗しながら、複雑な接続の網として残り続けている。",
+                        "vocabulary": [
+                            {
+                                "word": "web of connections",
+                                "meaning": "接続の網"
+                            },
+                            {
+                                "word": "resisting",
+                                "meaning": "抵抗する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "resisting simple labels",
+                                "explanation": "<b>分詞構文</b>: 付帯状況を表す。「〜しながら」。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "text": "The idea of people being \"left-brained\" or \"right-brained\" is described as a myth because",
+            "textTranslation": "人々が「左脳型」か「右脳型」かという考えが神話であると説明されているのは、なぜですか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "it was invented by corporate trainers to sell personality tests to companies.",
+                    "translation": "企業研修講師が企業に性格テストを売り込むために作り上げたから。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "it assumes that the left hemisphere controls creativity while the right controls logic, which is the reverse of reality.",
+                    "translation": "左半球が創造性を、右半球が論理を制御すると仮定しているが、これは現実の逆だから。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "it originated from a misunderstanding of research done on patients who had a specific medical procedure.",
+                    "translation": "特定の医療処置を受けた患者に対して行われた研究の誤解から生じたから。",
+                    "isCorrect": true,
+                    "highlight": "originated from a misunderstanding ... specific medical procedure"
+                },
+                {
+                    "id": 4,
+                    "text": "researchers found that people with epilepsy actually use their brains more efficiently than healthy people.",
+                    "translation": "てんかん患者が実際には健康な人よりも脳を効率的に使っていることを研究者が発見したから。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 1,
+                "description": "第1段落。この神話がどこから生じたか（originated）について述べている部分を探しましょう。",
+                "targetSentenceId": 3,
+                "highlightWord": "misinterpretations of Nobel Prize-winning research",
+                "highlightWordSentenceId": 3
+            },
+            "keywords": [
+                "myth",
+                "because"
+            ],
+            "keywordExplanations": {
+                "myth": "神話。本文でそのまま使用。",
+                "because": "理由を問う問題。originated（生じた）の原因を探す。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 2,
+                    "text": "myth",
+                    "keyword": "myth"
+                },
+                {
+                    "sentenceId": 3,
+                    "text": "originated from misinterpretations",
+                    "keyword": "because"
+                }
+            ],
+            "choiceAdvice": "1: 企業研修講師が作った？ 2: 左右の役割が逆？ 3: 研究の誤解から？ 4: てんかん患者の方が効率的？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 3): 「1960年代のてんかん治療のための分離脳手術を受けた患者に関するノーベル賞受賞研究の誤解(misinterpretations)から生じた(originated)ようである」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】特定の医療処置(split-brain surgery)を受けた患者の研究がmisinterpret(誤解)されたことが原因。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢3「特定の医療処置を受けた患者に対する研究の誤解から生じた」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 3"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "What have neuroscientists learned using modern technology?",
+            "textTranslation": "神経科学者たちは現代の技術を使って何を学びましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "Complex tasks require the whole brain to work together as a network rather than relying on one side.",
+                    "translation": "複雑な課題は、片側に頼るのではなく、ネットワークとして脳全体が協力して働くことを必要とする。",
+                    "isCorrect": true,
+                    "highlight": "whole brain to work together as a network"
+                },
+                {
+                    "id": 2,
+                    "text": "Language processing is the only function that is evenly distributed across both hemispheres.",
+                    "translation": "言語処理は両半球に均等に分布している唯一の機能である。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "The brain connects the two hemispheres only when a person is performing an artistic task.",
+                    "translation": "脳は、芸術的な課題を行っているときにのみ両半球を接続する。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "Most people actually have a dominant hemisphere, but it changes depending on the time of day.",
+                    "translation": "ほとんどの人は実際には優位な半球を持っているが、それは時間帯によって変わる。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 2,
+                "description": "第2段落。fMRI技術を使って発見したこと（found that）を探しましょう。",
+                "targetSentenceId": 8,
+                "highlightWord": "integrated effort of the entire brain",
+                "highlightWordSentenceId": 8
+            },
+            "keywords": [
+                "neuroscientists",
+                "modern technology",
+                "learned"
+            ],
+            "keywordExplanations": {
+                "neuroscientists": "神経科学者。第2段落冒頭にそのまま登場。",
+                "modern technology": "現代の技術。fMRI technologyと対応。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 7,
+                    "text": "Neuroscientists",
+                    "keyword": "neuroscientists"
+                },
+                {
+                    "sentenceId": 7,
+                    "text": "modern fMRI technology",
+                    "keyword": "modern technology"
+                }
+            ],
+            "choiceAdvice": "1: 脳全体がネットワークとして働く？ 2: 言語処理だけ均等分布？ 3: 芸術課題のときだけ接続？ 4: 優位な半球が時間で変わる？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 8): 「複雑な認知課題は、高度に調整されたネットワークのように機能する脳全体(the entire brain)の統合された努力(integrated effort)を必要とする」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】entire brain（脳全体）、integrated effort（統合された努力）、network（ネットワーク）が選択肢1と合致。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢1「複雑な課題は片側に頼るのではなく脳全体がネットワークとして働くことを必要とする」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "According to the passage, what is a negative consequence of believing in this myth?",
+            "textTranslation": "この文章によると、この神話を信じることの否定的な結果は何ですか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "Schools may stop teaching art and music because they are seen as less important than math.",
+                    "translation": "学校は芸術と音楽が数学より重要でないと見なされるため、教えなくなるかもしれない。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "People may limit their own potential by avoiding subjects they believe they are not biologically suited for.",
+                    "translation": "人々は、自分が生物学的に向いていないと信じる科目を避けることで、自分の可能性を制限するかもしれない。",
+                    "isCorrect": true,
+                    "highlight": "limit their own potential by avoiding subjects"
+                },
+                {
+                    "id": 3,
+                    "text": "Companies might fire employees who are identified as \"right-brained\" because they are seen as disorganized.",
+                    "translation": "企業は「右脳型」と特定された従業員を無秩序だと見なされるため解雇するかもしれない。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "Students with a \"growth mindset\" are often discouraged from taking standardized tests.",
+                    "translation": "「成長マインドセット」を持つ学生は標準化テストを受けることを思いとどまらせられることが多い。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 3,
+                "description": "第3段落。神話を信じることでどのような悪影響があるか（may avoid）を探しましょう。",
+                "targetSentenceId": 13,
+                "highlightWord": "may avoid developing skills",
+                "highlightWordSentenceId": 13
+            },
+            "keywords": [
+                "negative consequence",
+                "believing",
+                "myth"
+            ],
+            "keywordExplanations": {
+                "negative consequence": "否定的な結果。may avoid（避けるかもしれない）などネガティブな影響。",
+                "believing": "信じること。第3段落のbelieveと対応。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 13,
+                    "text": "believe they are biologically limited",
+                    "keyword": "believing"
+                },
+                {
+                    "sentenceId": 13,
+                    "text": "may avoid developing skills",
+                    "keyword": "negative consequence"
+                }
+            ],
+            "choiceAdvice": "1: 芸術・音楽を教えなくなる？ 2: 自分の可能性を制限？ 3: 右脳型は解雇？ 4: 成長マインドセットの学生がテストを避ける？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 13): 「個人が自分は生物学的に一つの思考様式に限定されていると信じると、彼らは『反対側』に関連するスキルの発達を避ける(may avoid developing skills)可能性がある」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 14): 例として「『右脳型』とラベル付けされた学生は数学をあまりにも簡単に諦めてしまうかもしれない」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】自分の可能性を制限(limit potential) = スキル発達を避ける(avoid developing skills)。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢2「人々は自分が生物学的に向いていないと信じる科目を避けることで、自分の可能性を制限するかもしれない」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 2"
+                }
+            ]
+        }
+    ],
+    "summaryForInstructors": {
+        "title": "The Myth of the 'Left-Brained' Thinker（「左脳型」思考者の神話）",
+        "intro": "「左脳型」（論理的）か「右脳型」（創造的）という二分法が科学的に根拠のない神話であることを解説したパッセージ。この俗説の起源、現代神経科学による反証、そして教育への悪影響について論じています。",
+        "points": [
+            {
+                "label": "1. 神話の起源（第1段落）",
+                "text": "左脳/右脳神話は1960年代のてんかん治療のための分離脳手術研究の誤解から生じた。手術により脳梁が切断された患者では確かに左右が独立して機能したが、通常の脳では両半球は常に連携している。脳スキャンは優位な側の証拠を示さない。"
+            },
+            {
+                "label": "2. 現代神経科学の知見（第2段落）",
+                "text": "fMRI技術を用いた研究により、複雑な認知課題は脳全体の統合された努力を必要とすることが判明。数学問題を解く（左脳的）には視覚化（右脳的）が必要であり、その逆も同様。「右脳型」というラベルは「右肺だけ使う」と言うのと同じくらい不正確。"
+            },
+            {
+                "label": "3. 教育への悪影響と成長マインドセット（第3段落）",
+                "text": "科学的証拠がないにもかかわらず神話は教育や企業研修に根強く残る。自分が「右脳型」だと信じると数学を諦めやすくなるなど、可能性を制限してしまう。「成長マインドセット」の概念は、脳は可塑的で生涯を通じて発達できることを示唆し、能力は固定的でなく練習で向上できると考えるよう促す。"
+            }
+        ]
+    }
+}

@@ -28794,4 +28794,3894 @@ export const readingData = [
     },
 
 
+
+    {
+    "id": "grade-pre1-original-left-brained",
+    "grade": "準1級",
+    "title": "The Myth of the 'Left-Brained' Thinker",
+    "subTitle": "問題9",
+    "genre": "心理学 / 神経科学",
+    "similarProblems": {
+        "exam": "2024年度 第1回",
+        "title": "Wolf Packs"
+    },
+    "isOriginal": true,
+    "images": {
+        "content": "https://placehold.co/600x400?text=Left-Brained+Myth",
+        "question": "https://placehold.co/600x400?text=Question+Image"
+    },
+    "content": [
+        {
+            "paragraphId": 1,
+            "sentences": [
+                {
+                    "id": 1,
+                    "text": "There is a pervasive belief in popular psychology that people are either \"left-brained\" (logical and analytical) or \"right-brained\" (creative and artistic), and that this dominant hemisphere dictates their personality and skills.",
+                    "translation": "大衆心理学では、人間は「左脳型」（論理的・分析的）か「右脳型」（創造的・芸術的）のどちらかであり、この優位な半球が性格やスキルを決定するという、広く浸透した信念がある。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "is"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(There)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk S-group'><span class='text'>a pervasive belief (in popular psychology)</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>[that <span class='chunk S2-group'><span class='text'>people</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>are</span><span class='tag'>V'</span></span> <span class='chunk C2-group'><span class='text'>either \"left-brained\" or \"right-brained\"</span><span class='tag'>C'</span></span>]</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(There)</span> <span class='t-V'>ある</span> <span class='t-S'>広く浸透した信念が(大衆心理学には)</span> <span class='t-M'>[that <span class='t-S2'>人々は</span> <span class='t-V2'>である</span> <span class='t-C2'>「左脳型」か「右脳型」のどちらか</span>]</span>。",
+                        "naturalTranslation": "大衆心理学では、人間は「左脳型」（論理的・分析的）か「右脳型」（創造的・芸術的）のどちらかであり、この優位な半球が性格やスキルを決定するという、広く浸透した信念がある。",
+                        "vocabulary": [
+                            {
+                                "word": "pervasive",
+                                "meaning": "広く浸透した、蔓延している"
+                            },
+                            {
+                                "word": "hemisphere",
+                                "meaning": "（脳の）半球"
+                            },
+                            {
+                                "word": "dictates",
+                                "meaning": "決定する、指示する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "There is ... belief",
+                                "explanation": "<b>There構文</b>: 存在を表す。「〜がある」。"
+                            },
+                            {
+                                "phrase": "that people are either...",
+                                "explanation": "<b>同格のthat節構造</b>:<ul><li><b>S'</b>: people</li><li><b>V'</b>: are</li><li><b>C'</b>: either \"left-brained\" or \"right-brained\"</li></ul>beliefの内容を説明する節。"
+                            },
+                            {
+                                "phrase": "and that this dominant hemisphere dictates",
+                                "explanation": "<b>並列のthat節</b>: 2つ目の同格節。「そしてこの優位な半球が〜を決定する」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "text": "It turns out, however, that this binary classification is largely a myth.",
+                    "translation": "しかしながら、この二分法的分類は大部分において神話であることが判明している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "turns out"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>It</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>turns out</span><span class='tag'>V</span></span>, <span class='chunk M-group'><span class='text'>(however)</span><span class='tag'>M</span></span>, <span class='chunk O-group'><span class='text'>that <span class='chunk S2-group'><span class='text'>this binary classification</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>is</span><span class='tag'>V'</span></span> <span class='chunk C2-group'><span class='text'>largely a myth</span><span class='tag'>C'</span></span></span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>It</span> <span class='t-V'>判明する</span>、<span class='t-M'>(しかしながら)</span>、<span class='t-O'>that [<span class='t-S2'>この二分法的分類は</span> <span class='t-V2'>である</span> <span class='t-C2'>大部分において神話</span>]</span>。",
+                        "naturalTranslation": "しかしながら、この二分法的分類は大部分において神話であることが判明している。",
+                        "vocabulary": [
+                            {
+                                "word": "binary",
+                                "meaning": "二分法的な、二進法の"
+                            },
+                            {
+                                "word": "classification",
+                                "meaning": "分類"
+                            },
+                            {
+                                "word": "myth",
+                                "meaning": "神話、作り話"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "It turns out that...",
+                                "explanation": "<b>形式主語構文</b>: Itは仮主語で、that節が真主語。「〜であることが判明する」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "text": "It appears to have originated from misinterpretations of Nobel Prize-winning research in the 1960s on patients who had undergone split-brain surgery to treat epilepsy.",
+                    "translation": "それは、てんかんを治療するために分離脳手術を受けた患者に関する1960年代のノーベル賞受賞研究の誤解から生じたようである。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "appears"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>It</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>appears</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>to have originated (from misinterpretations of Nobel Prize-winning research)</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-S'>それは</span> <span class='t-V'>〜のようだ</span> <span class='t-C'>生じた(ノーベル賞受賞研究の誤解から)</span>。",
+                        "naturalTranslation": "それは、てんかんを治療するために分離脳手術を受けた患者に関する1960年代のノーベル賞受賞研究の誤解から生じたようである。",
+                        "vocabulary": [
+                            {
+                                "word": "originated from",
+                                "meaning": "〜から生じた、〜に由来する"
+                            },
+                            {
+                                "word": "misinterpretations",
+                                "meaning": "誤解、誤った解釈"
+                            },
+                            {
+                                "word": "split-brain surgery",
+                                "meaning": "分離脳手術"
+                            },
+                            {
+                                "word": "epilepsy",
+                                "meaning": "てんかん"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "appears to have originated",
+                                "explanation": "<b>完了不定詞</b>: 過去の出来事を推測。「〜したようだ」。"
+                            },
+                            {
+                                "phrase": "who had undergone",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: who (= patients)</li><li><b>V'</b>: had undergone（過去完了）</li><li><b>O'</b>: split-brain surgery</li></ul>patientsを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "text": "In these extreme cases where the connection between the two hemispheres was severed, the sides did function independently.",
+                    "translation": "両半球間の接続が切断されたこれらの極端な症例では、左右の脳は確かに独立して機能していた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "did function"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(In these extreme cases (where <span class='chunk S2-group'><span class='text'>the connection</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>was severed</span><span class='tag'>V'</span></span>))</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the sides</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>did function</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(independently)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(これらの極端な症例で (where <span class='t-S2'>接続が</span> <span class='t-V2'>切断された</span>))</span>、<span class='t-S'>左右の脳は</span> <span class='t-V'>確かに機能していた</span> <span class='t-M'>(独立して)</span>。",
+                        "naturalTranslation": "両半球間の接続が切断されたこれらの極端な症例では、左右の脳は確かに独立して機能していた。",
+                        "vocabulary": [
+                            {
+                                "word": "severed",
+                                "meaning": "切断された"
+                            },
+                            {
+                                "word": "independently",
+                                "meaning": "独立して"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "did function",
+                                "explanation": "<b>強調のdo</b>: 動詞を強調。「確かに機能した」。"
+                            },
+                            {
+                                "phrase": "where the connection was severed",
+                                "explanation": "<b>関係副詞節構造</b>:<ul><li><b>S'</b>: the connection between the two hemispheres</li><li><b>V'</b>: was severed（受動態）</li></ul>casesを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "text": "However, for the vast majority of people with intact brains, the two hemispheres are constantly communicating and working in tandem.",
+                    "translation": "しかし、脳が無傷の大多数の人々にとっては、両半球は常にコミュニケーションを取り合い、連携して働いている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "are communicating",
+                            "working"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(for the vast majority of people with intact brains)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the two hemispheres</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are constantly communicating and working</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(in tandem)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(しかし)</span>、<span class='t-M'>(脳が無傷の大多数の人々にとっては)</span>、<span class='t-S'>両半球は</span> <span class='t-V'>常にコミュニケーションを取り合い働いている</span> <span class='t-M'>(連携して)</span>。",
+                        "naturalTranslation": "しかし、脳が無傷の大多数の人々にとっては、両半球は常にコミュニケーションを取り合い、連携して働いている。",
+                        "vocabulary": [
+                            {
+                                "word": "intact",
+                                "meaning": "無傷の、損なわれていない"
+                            },
+                            {
+                                "word": "in tandem",
+                                "meaning": "連携して、協力して"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "are constantly communicating and working",
+                                "explanation": "<b>現在進行形</b>: 継続的な動作。「常に〜している」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "text": "Research has now established that brain scans show no evidence of a dominant side; even during creative tasks, the \"logical\" left brain is active, and vice versa.",
+                    "translation": "研究は今や、脳スキャンが優位な側の証拠を示さないことを立証している。創造的な課題の最中でさえ、「論理的な」左脳は活動しており、その逆もまた然りである。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "has established",
+                            "show",
+                            "is"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Research</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has now established</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that <span class='chunk S2-group'><span class='text'>brain scans</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>show</span><span class='tag'>V'</span></span> <span class='chunk O2-group'><span class='text'>no evidence</span><span class='tag'>O'</span></span></span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>研究は</span> <span class='t-V'>今や立証した</span> <span class='t-O'>that [<span class='t-S2'>脳スキャンは</span> <span class='t-V2'>示さない</span> <span class='t-O2'>証拠を</span>]</span>。",
+                        "naturalTranslation": "研究は今や、脳スキャンが優位な側の証拠を示さないことを立証している。創造的な課題の最中でさえ、「論理的な」左脳は活動しており、その逆もまた然りである。",
+                        "vocabulary": [
+                            {
+                                "word": "established",
+                                "meaning": "立証した、確立した"
+                            },
+                            {
+                                "word": "dominant",
+                                "meaning": "優位な、支配的な"
+                            },
+                            {
+                                "word": "vice versa",
+                                "meaning": "その逆もまた然り"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "has now established",
+                                "explanation": "<b>現在完了</b>: 完了・結果。「今や〜した」。"
+                            },
+                            {
+                                "phrase": "that brain scans show",
+                                "explanation": "<b>that節構造</b>:<ul><li><b>S'</b>: brain scans</li><li><b>V'</b>: show</li><li><b>O'</b>: no evidence of a dominant side</li></ul>establishedの目的語。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 2,
+            "sentences": [
+                {
+                    "id": 7,
+                    "text": "Neuroscientists studying brain connectivity have made some clarifying observations using modern fMRI technology.",
+                    "translation": "脳の接続性を研究する神経科学者たちは、現代のfMRI技術を使用して、いくつかの明確化する観察を行った。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "have made"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Neuroscientists (studying brain connectivity)</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have made</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>some clarifying observations</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(using modern fMRI technology)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>神経科学者たちは(脳の接続性を研究する)</span> <span class='t-V'>行った</span> <span class='t-O'>いくつかの明確化する観察を</span> <span class='t-M'>(現代のfMRI技術を使用して)</span>。",
+                        "naturalTranslation": "脳の接続性を研究する神経科学者たちは、現代のfMRI技術を使用して、いくつかの明確化する観察を行った。",
+                        "vocabulary": [
+                            {
+                                "word": "connectivity",
+                                "meaning": "接続性"
+                            },
+                            {
+                                "word": "fMRI",
+                                "meaning": "機能的磁気共鳴画像法"
+                            },
+                            {
+                                "word": "clarifying",
+                                "meaning": "明確化する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "studying brain connectivity",
+                                "explanation": "<b>現在分詞</b>: Neuroscientistsを修飾する形容詞句。"
+                            },
+                            {
+                                "phrase": "using modern fMRI technology",
+                                "explanation": "<b>分詞構文</b>: 手段を表す。「〜を使って」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "text": "They found that while certain functions are indeed localized—for example, language processing is typically centered in the left hemisphere—complex cognitive tasks require the integrated effort of the entire brain which functions like a highly coordinated network.",
+                    "translation": "彼らは、特定の機能は確かに局在化している—例えば、言語処理は通常左半球に集中している—一方で、複雑な認知課題は、高度に調整されたネットワークのように機能する脳全体の統合された努力を必要とすることを発見した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "found",
+                            "are localized",
+                            "require"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>found</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that (while ... localized—...) <span class='chunk S2-group'><span class='text'>complex cognitive tasks</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>require</span><span class='tag'>V'</span></span> <span class='chunk O2-group'><span class='text'>the integrated effort</span><span class='tag'>O'</span></span></span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>彼らは</span> <span class='t-V'>発見した</span> <span class='t-O'>that (while...一方で) [<span class='t-S2'>複雑な認知課題は</span> <span class='t-V2'>必要とする</span> <span class='t-O2'>統合された努力を</span>]</span>。",
+                        "naturalTranslation": "彼らは、特定の機能は確かに局在化している一方で、複雑な認知課題は脳全体の統合された努力を必要とすることを発見した。",
+                        "vocabulary": [
+                            {
+                                "word": "localized",
+                                "meaning": "局在化した"
+                            },
+                            {
+                                "word": "cognitive",
+                                "meaning": "認知の"
+                            },
+                            {
+                                "word": "integrated",
+                                "meaning": "統合された"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "while certain functions are indeed localized",
+                                "explanation": "<b>譲歩のwhile節構造</b>:<ul><li><b>S'</b>: certain functions</li><li><b>V'</b>: are localized</li></ul>「〜である一方で」という譲歩を表す。"
+                            },
+                            {
+                                "phrase": "—for example, language processing is typically centered—",
+                                "explanation": "<b>ダッシュによる挿入</b>: 具体例を挿入。読み飛ばしても文意は通る。"
+                            },
+                            {
+                                "phrase": "which functions like a highly coordinated network",
+                                "explanation": "<b>関係代名詞節</b>: the entire brainを説明。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "text": "Solving a math problem (stereotypically left-brain) requires visualization (stereotypically right-brain), just as painting a picture requires planning and technique.",
+                    "translation": "数学の問題を解くこと（ステレオタイプ的には左脳）は、絵を描くことが計画と技術を必要とするのと同様に、視覚化（ステレオタイプ的には右脳）を必要とする。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "requires"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Solving a math problem (stereotypically left-brain)</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>requires</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>visualization (stereotypically right-brain)</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(just as <span class='chunk S2-group'><span class='text'>painting a picture</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>requires</span><span class='tag'>V'</span></span> <span class='chunk O2-group'><span class='text'>planning and technique</span><span class='tag'>O'</span></span>)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>数学の問題を解くことは</span> <span class='t-V'>必要とする</span> <span class='t-O'>視覚化を</span>、<span class='t-M'>(just as <span class='t-S2'>絵を描くことが</span> <span class='t-V2'>必要とする</span> <span class='t-O2'>計画と技術を</span>のと同様に)</span>。",
+                        "naturalTranslation": "数学の問題を解くこと（ステレオタイプ的には左脳）は、絵を描くことが計画と技術を必要とするのと同様に、視覚化（ステレオタイプ的には右脳）を必要とする。",
+                        "vocabulary": [
+                            {
+                                "word": "stereotypically",
+                                "meaning": "ステレオタイプ的に"
+                            },
+                            {
+                                "word": "visualization",
+                                "meaning": "視覚化"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Solving a math problem",
+                                "explanation": "<b>動名詞</b>: 文の主語。"
+                            },
+                            {
+                                "phrase": "(stereotypically left-brain)",
+                                "explanation": "<b>括弧による挿入</b>: 補足説明。"
+                            },
+                            {
+                                "phrase": "just as painting a picture requires",
+                                "explanation": "<b>just as節構造</b>:<ul><li><b>S'</b>: painting a picture</li><li><b>V'</b>: requires</li><li><b>O'</b>: planning and technique</li></ul>「〜するのと同様に」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "text": "This integrated system allows for a flexibility and power that a divided brain could never achieve.",
+                    "translation": "この統合されたシステムは、分割された脳では決して達成できない柔軟性と力を可能にする。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "allows"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>This integrated system</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>allows for</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a flexibility and power (that <span class='chunk S2-group'><span class='text'>a divided brain</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>could never achieve</span><span class='tag'>V'</span></span>)</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>この統合されたシステムは</span> <span class='t-V'>可能にする</span> <span class='t-O'>柔軟性と力を (that <span class='t-S2'>分割された脳が</span> <span class='t-V2'>決して達成できない</span>)</span>。",
+                        "naturalTranslation": "この統合されたシステムは、分割された脳では決して達成できない柔軟性と力を可能にする。",
+                        "vocabulary": [
+                            {
+                                "word": "allows for",
+                                "meaning": "〜を可能にする"
+                            },
+                            {
+                                "word": "flexibility",
+                                "meaning": "柔軟性"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "that a divided brain could never achieve",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: a divided brain</li><li><b>V'</b>: could never achieve</li></ul>flexibility and powerを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "text": "As one researcher puts it, labeling someone as \"right-brained\" is as scientifically inaccurate as saying they use only their right lung; the system is designed to function as a whole.",
+                    "translation": "ある研究者が言うように、誰かを「右脳型」とラベル付けすることは、彼らが右肺だけを使うと言うのと同じくらい科学的に不正確である。システムは全体として機能するように設計されている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "is",
+                            "is designed"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(As one researcher puts it)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>labeling someone as \"right-brained\"</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>as scientifically inaccurate as saying...</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-M'>(ある研究者が言うように)</span>、<span class='t-S'>誰かを「右脳型」とラベル付けすることは</span> <span class='t-V'>である</span> <span class='t-C'>〜と言うのと同じくらい科学的に不正確</span>。",
+                        "naturalTranslation": "ある研究者が言うように、誰かを「右脳型」とラベル付けすることは、彼らが右肺だけを使うと言うのと同じくらい科学的に不正確である。",
+                        "vocabulary": [
+                            {
+                                "word": "labeling",
+                                "meaning": "ラベル付けする"
+                            },
+                            {
+                                "word": "inaccurate",
+                                "meaning": "不正確な"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "As one researcher puts it",
+                                "explanation": "<b>分詞構文的表現</b>: 「〜が言うように」。"
+                            },
+                            {
+                                "phrase": "as ... as saying",
+                                "explanation": "<b>同等比較</b>: 「〜と同じくらい...」。"
+                            },
+                            {
+                                "phrase": "the system is designed to function",
+                                "explanation": "<b>受動態+不定詞</b>: 「〜するように設計されている」。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 3,
+            "sentences": [
+                {
+                    "id": 12,
+                    "text": "Despite the lack of scientific evidence, the left-brain/right-brain myth persists in education and corporate training.",
+                    "translation": "科学的証拠の欠如にもかかわらず、左脳/右脳神話は教育や企業研修において根強く残っている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "persists"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Despite the lack of scientific evidence)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the left-brain/right-brain myth</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>persists</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(in education and corporate training)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(科学的証拠の欠如にもかかわらず)</span>、<span class='t-S'>左脳/右脳神話は</span> <span class='t-V'>根強く残っている</span> <span class='t-M'>(教育や企業研修において)</span>。",
+                        "naturalTranslation": "科学的証拠の欠如にもかかわらず、左脳/右脳神話は教育や企業研修において根強く残っている。",
+                        "vocabulary": [
+                            {
+                                "word": "Despite",
+                                "meaning": "〜にもかかわらず"
+                            },
+                            {
+                                "word": "persists",
+                                "meaning": "持続する、根強く残る"
+                            },
+                            {
+                                "word": "corporate training",
+                                "meaning": "企業研修"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Despite the lack of",
+                                "explanation": "<b>Despite + 名詞</b>: 「〜にもかかわらず」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "text": "When individuals believe they are biologically limited to one mode of thinking, they may avoid developing skills associated with the \"other\" side.",
+                    "translation": "個人が自分は生物学的に一つの思考様式に限定されていると信じると、彼らは「反対側」に関連するスキルの発達を避ける可能性がある。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "may avoid"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(When <span class='chunk S2-group'><span class='text'>individuals</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>believe</span><span class='tag'>V'</span></span> <span class='chunk O2-group'><span class='text'>they are biologically limited...</span><span class='tag'>O'</span></span>)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>may avoid</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>developing skills</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(When <span class='t-S2'>個人が</span> <span class='t-V2'>信じると</span> <span class='t-O2'>自分が生物学的に限定されていると</span>)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>避ける可能性がある</span> <span class='t-O'>スキルを発達させることを</span>。",
+                        "naturalTranslation": "個人が自分は生物学的に一つの思考様式に限定されていると信じると、彼らは「反対側」に関連するスキルの発達を避ける可能性がある。",
+                        "vocabulary": [
+                            {
+                                "word": "biologically",
+                                "meaning": "生物学的に"
+                            },
+                            {
+                                "word": "mode of thinking",
+                                "meaning": "思考様式"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "When individuals believe",
+                                "explanation": "<b>when節構造</b>:<ul><li><b>S'</b>: individuals</li><li><b>V'</b>: believe</li><li><b>O'</b>: they are biologically limited...</li></ul>条件を表す。"
+                            },
+                            {
+                                "phrase": "may avoid developing",
+                                "explanation": "<b>avoid + 動名詞</b>: 「〜することを避ける」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "text": "For instance, a student labeled as \"right-brained\" might give up on mathematics too easily.",
+                    "translation": "例えば、「右脳型」とラベル付けされた学生は、数学をあまりにも簡単に諦めてしまうかもしれない。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "might give up"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(For instance)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>a student (labeled as \"right-brained\")</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>might give up</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(on mathematics) (too easily)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(例えば)</span>、<span class='t-S'>学生は(「右脳型」とラベル付けされた)</span> <span class='t-V'>諦めてしまうかもしれない</span> <span class='t-M'>(数学を)(あまりにも簡単に)</span>。",
+                        "naturalTranslation": "例えば、「右脳型」とラベル付けされた学生は、数学をあまりにも簡単に諦めてしまうかもしれない。",
+                        "vocabulary": [
+                            {
+                                "word": "give up on",
+                                "meaning": "〜を諦める"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "labeled as \"right-brained\"",
+                                "explanation": "<b>過去分詞</b>: a studentを修飾する形容詞句。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "text": "Recently, psychologists have focused on the concept of \"growth mindset,\" which suggests that the brain is plastic and can develop new pathways throughout life.",
+                    "translation": "最近、心理学者たちは「成長マインドセット」という概念に焦点を当てている。これは、脳は可塑的であり、生涯を通じて新しい経路を発達させることができることを示唆している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "have focused"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Recently)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>psychologists</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have focused</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(on the concept of \"growth mindset,\" (which suggests that...))</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(最近)</span>、<span class='t-S'>心理学者たちは</span> <span class='t-V'>焦点を当てている</span> <span class='t-M'>(「成長マインドセット」という概念に (which...を示唆する))</span>。",
+                        "naturalTranslation": "最近、心理学者たちは「成長マインドセット」という概念に焦点を当てている。これは、脳は可塑的であり、生涯を通じて新しい経路を発達させることができることを示唆している。",
+                        "vocabulary": [
+                            {
+                                "word": "growth mindset",
+                                "meaning": "成長マインドセット"
+                            },
+                            {
+                                "word": "plastic",
+                                "meaning": "可塑的な、柔軟な"
+                            },
+                            {
+                                "word": "pathways",
+                                "meaning": "経路、道筋"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "have focused on",
+                                "explanation": "<b>現在完了</b>: 最近の傾向を表す。"
+                            },
+                            {
+                                "phrase": "which suggests that the brain is plastic",
+                                "explanation": "<b>関係代名詞節（非制限用法）構造</b>:<ul><li><b>S'</b>: which (= growth mindset)</li><li><b>V'</b>: suggests</li><li><b>O'</b>: that the brain is plastic...</li></ul>conceptを補足説明。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "text": "This perspective encourages people to view their cognitive abilities not as fixed traits determined by a dominant hemisphere, but as malleable skills that can be improved with practice.",
+                    "translation": "この視点は、人々に認知能力を優位な半球によって決定された固定的な特性としてではなく、練習で向上できる可鍛性のあるスキルとして見るよう促している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "encourages"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>This perspective</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>encourages</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>people</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>to view their cognitive abilities (not as ... but as ...)</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-S'>この視点は</span> <span class='t-V'>促す</span> <span class='t-O'>人々に</span> <span class='t-C'>認知能力を見るよう (〜としてではなく、〜として)</span>。",
+                        "naturalTranslation": "この視点は、人々に認知能力を優位な半球によって決定された固定的な特性としてではなく、練習で向上できる可鍛性のあるスキルとして見るよう促している。",
+                        "vocabulary": [
+                            {
+                                "word": "fixed traits",
+                                "meaning": "固定的な特性"
+                            },
+                            {
+                                "word": "malleable",
+                                "meaning": "可鍛性のある、柔軟な"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "encourages people to view",
+                                "explanation": "<b>encourage O to do</b>: 「Oに〜するよう促す」。"
+                            },
+                            {
+                                "phrase": "not as ... but as ...",
+                                "explanation": "<b>not A but B構造</b>:<ul><li><b>A</b>: fixed traits determined by a dominant hemisphere</li><li><b>B</b>: malleable skills that can be improved with practice</li></ul>「AとしてではなくBとして」。"
+                            },
+                            {
+                                "phrase": "determined by a dominant hemisphere",
+                                "explanation": "<b>過去分詞</b>: fixed traitsを修飾。"
+                            },
+                            {
+                                "phrase": "that can be improved with practice",
+                                "explanation": "<b>関係代名詞節</b>: malleable skillsを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "text": "The human brain remains a complex web of connections, resisting simple labels.",
+                    "translation": "人間の脳は、単純なラベルに抵抗しながら、複雑な接続の網として残り続けている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "remains"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The human brain</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>remains</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>a complex web of connections</span><span class='tag'>C</span></span>, <span class='chunk M-group'><span class='text'>(resisting simple labels)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>人間の脳は</span> <span class='t-V'>〜のままである</span> <span class='t-C'>複雑な接続の網</span>、<span class='t-M'>(単純なラベルに抵抗しながら)</span>。",
+                        "naturalTranslation": "人間の脳は、単純なラベルに抵抗しながら、複雑な接続の網として残り続けている。",
+                        "vocabulary": [
+                            {
+                                "word": "web of connections",
+                                "meaning": "接続の網"
+                            },
+                            {
+                                "word": "resisting",
+                                "meaning": "抵抗する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "resisting simple labels",
+                                "explanation": "<b>分詞構文</b>: 付帯状況を表す。「〜しながら」。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "text": "The idea of people being \"left-brained\" or \"right-brained\" is described as a myth because",
+            "textTranslation": "人々が「左脳型」か「右脳型」かという考えが神話であると説明されているのは、なぜですか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "it was invented by corporate trainers to sell personality tests to companies.",
+                    "translation": "企業研修講師が企業に性格テストを売り込むために作り上げたから。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "it assumes that the left hemisphere controls creativity while the right controls logic, which is the reverse of reality.",
+                    "translation": "左半球が創造性を、右半球が論理を制御すると仮定しているが、これは現実の逆だから。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "it originated from a misunderstanding of research done on patients who had a specific medical procedure.",
+                    "translation": "特定の医療処置を受けた患者に対して行われた研究の誤解から生じたから。",
+                    "isCorrect": true,
+                    "highlight": "originated from a misunderstanding ... specific medical procedure"
+                },
+                {
+                    "id": 4,
+                    "text": "researchers found that people with epilepsy actually use their brains more efficiently than healthy people.",
+                    "translation": "てんかん患者が実際には健康な人よりも脳を効率的に使っていることを研究者が発見したから。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 1,
+                "description": "第1段落。この神話がどこから生じたか（originated）について述べている部分を探しましょう。",
+                "targetSentenceId": 3,
+                "highlightWord": "misinterpretations of Nobel Prize-winning research",
+                "highlightWordSentenceId": 3
+            },
+            "keywords": [
+                "myth",
+                "because"
+            ],
+            "keywordExplanations": {
+                "myth": "神話。本文でそのまま使用。",
+                "because": "理由を問う問題。originated（生じた）の原因を探す。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 2,
+                    "text": "myth",
+                    "keyword": "myth"
+                },
+                {
+                    "sentenceId": 3,
+                    "text": "originated from misinterpretations",
+                    "keyword": "because"
+                }
+            ],
+            "choiceAdvice": "1: 企業研修講師が作った？ 2: 左右の役割が逆？ 3: 研究の誤解から？ 4: てんかん患者の方が効率的？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 3): 「1960年代のてんかん治療のための分離脳手術を受けた患者に関するノーベル賞受賞研究の誤解(misinterpretations)から生じた(originated)ようである」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】特定の医療処置(split-brain surgery)を受けた患者の研究がmisinterpret(誤解)されたことが原因。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢3「特定の医療処置を受けた患者に対する研究の誤解から生じた」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 3"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "What have neuroscientists learned using modern technology?",
+            "textTranslation": "神経科学者たちは現代の技術を使って何を学びましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "Complex tasks require the whole brain to work together as a network rather than relying on one side.",
+                    "translation": "複雑な課題は、片側に頼るのではなく、ネットワークとして脳全体が協力して働くことを必要とする。",
+                    "isCorrect": true,
+                    "highlight": "whole brain to work together as a network"
+                },
+                {
+                    "id": 2,
+                    "text": "Language processing is the only function that is evenly distributed across both hemispheres.",
+                    "translation": "言語処理は両半球に均等に分布している唯一の機能である。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "The brain connects the two hemispheres only when a person is performing an artistic task.",
+                    "translation": "脳は、芸術的な課題を行っているときにのみ両半球を接続する。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "Most people actually have a dominant hemisphere, but it changes depending on the time of day.",
+                    "translation": "ほとんどの人は実際には優位な半球を持っているが、それは時間帯によって変わる。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 2,
+                "description": "第2段落。fMRI技術を使って発見したこと（found that）を探しましょう。",
+                "targetSentenceId": 8,
+                "highlightWord": "integrated effort of the entire brain",
+                "highlightWordSentenceId": 8
+            },
+            "keywords": [
+                "neuroscientists",
+                "modern technology",
+                "learned"
+            ],
+            "keywordExplanations": {
+                "neuroscientists": "神経科学者。第2段落冒頭にそのまま登場。",
+                "modern technology": "現代の技術。fMRI technologyと対応。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 7,
+                    "text": "Neuroscientists",
+                    "keyword": "neuroscientists"
+                },
+                {
+                    "sentenceId": 7,
+                    "text": "modern fMRI technology",
+                    "keyword": "modern technology"
+                }
+            ],
+            "choiceAdvice": "1: 脳全体がネットワークとして働く？ 2: 言語処理だけ均等分布？ 3: 芸術課題のときだけ接続？ 4: 優位な半球が時間で変わる？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 8): 「複雑な認知課題は、高度に調整されたネットワークのように機能する脳全体(the entire brain)の統合された努力(integrated effort)を必要とする」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】entire brain（脳全体）、integrated effort（統合された努力）、network（ネットワーク）が選択肢1と合致。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢1「複雑な課題は片側に頼るのではなく脳全体がネットワークとして働くことを必要とする」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "According to the passage, what is a negative consequence of believing in this myth?",
+            "textTranslation": "この文章によると、この神話を信じることの否定的な結果は何ですか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "Schools may stop teaching art and music because they are seen as less important than math.",
+                    "translation": "学校は芸術と音楽が数学より重要でないと見なされるため、教えなくなるかもしれない。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "People may limit their own potential by avoiding subjects they believe they are not biologically suited for.",
+                    "translation": "人々は、自分が生物学的に向いていないと信じる科目を避けることで、自分の可能性を制限するかもしれない。",
+                    "isCorrect": true,
+                    "highlight": "limit their own potential by avoiding subjects"
+                },
+                {
+                    "id": 3,
+                    "text": "Companies might fire employees who are identified as \"right-brained\" because they are seen as disorganized.",
+                    "translation": "企業は「右脳型」と特定された従業員を無秩序だと見なされるため解雇するかもしれない。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "Students with a \"growth mindset\" are often discouraged from taking standardized tests.",
+                    "translation": "「成長マインドセット」を持つ学生は標準化テストを受けることを思いとどまらせられることが多い。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 3,
+                "description": "第3段落。神話を信じることでどのような悪影響があるか（may avoid）を探しましょう。",
+                "targetSentenceId": 13,
+                "highlightWord": "may avoid developing skills",
+                "highlightWordSentenceId": 13
+            },
+            "keywords": [
+                "negative consequence",
+                "believing",
+                "myth"
+            ],
+            "keywordExplanations": {
+                "negative consequence": "否定的な結果。may avoid（避けるかもしれない）などネガティブな影響。",
+                "believing": "信じること。第3段落のbelieveと対応。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 13,
+                    "text": "believe they are biologically limited",
+                    "keyword": "believing"
+                },
+                {
+                    "sentenceId": 13,
+                    "text": "may avoid developing skills",
+                    "keyword": "negative consequence"
+                }
+            ],
+            "choiceAdvice": "1: 芸術・音楽を教えなくなる？ 2: 自分の可能性を制限？ 3: 右脳型は解雇？ 4: 成長マインドセットの学生がテストを避ける？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 13): 「個人が自分は生物学的に一つの思考様式に限定されていると信じると、彼らは『反対側』に関連するスキルの発達を避ける(may avoid developing skills)可能性がある」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 14): 例として「『右脳型』とラベル付けされた学生は数学をあまりにも簡単に諦めてしまうかもしれない」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】自分の可能性を制限(limit potential) = スキル発達を避ける(avoid developing skills)。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢2「人々は自分が生物学的に向いていないと信じる科目を避けることで、自分の可能性を制限するかもしれない」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 2"
+                }
+            ]
+        }
+    ],
+    "summaryForInstructors": {
+        "title": "The Myth of the 'Left-Brained' Thinker（「左脳型」思考者の神話）",
+        "intro": "「左脳型」（論理的）か「右脳型」（創造的）という二分法が科学的に根拠のない神話であることを解説したパッセージ。この俗説の起源、現代神経科学による反証、そして教育への悪影響について論じています。",
+        "points": [
+            {
+                "label": "1. 神話の起源（第1段落）",
+                "text": "左脳/右脳神話は1960年代のてんかん治療のための分離脳手術研究の誤解から生じた。手術により脳梁が切断された患者では確かに左右が独立して機能したが、通常の脳では両半球は常に連携している。脳スキャンは優位な側の証拠を示さない。"
+            },
+            {
+                "label": "2. 現代神経科学の知見（第2段落）",
+                "text": "fMRI技術を用いた研究により、複雑な認知課題は脳全体の統合された努力を必要とすることが判明。数学問題を解く（左脳的）には視覚化（右脳的）が必要であり、その逆も同様。「右脳型」というラベルは「右肺だけ使う」と言うのと同じくらい不正確。"
+            },
+            {
+                "label": "3. 教育への悪影響と成長マインドセット（第3段落）",
+                "text": "科学的証拠がないにもかかわらず神話は教育や企業研修に根強く残る。自分が「右脳型」だと信じると数学を諦めやすくなるなど、可能性を制限してしまう。「成長マインドセット」の概念は、脳は可塑的で生涯を通じて発達できることを示唆し、能力は固定的でなく練習で向上できると考えるよう促す。"
+            }
+        ]
+    }
+}
+,
+    {
+    "id": "grade-pre1-original-neurodiversity",
+    "grade": "準1級",
+    "title": "Designing for Neurodiversity",
+    "subTitle": "問題10",
+    "genre": "建築 / 心理学",
+    "similarProblems": {
+        "exam": "2024年度 第1回",
+        "title": "Feminist Architecture"
+    },
+    "isOriginal": true,
+    "images": {
+        "content": "https://placehold.co/600x400?text=Neurodiverse+Design",
+        "question": "https://placehold.co/600x400?text=Question+Image"
+    },
+    "content": [
+        {
+            "paragraphId": 1,
+            "sentences": [
+                {
+                    "id": 1,
+                    "text": "When walking into a modern office, most people do not question the open-plan layout that has become standard in corporate environments.",
+                    "translation": "現代のオフィスに入るとき、ほとんどの人は企業環境で標準となっているオープンプランのレイアウトに疑問を持たない。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "do not question"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(When walking into a modern office)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>most people</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>do not question</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the open-plan layout (that <span class='chunk S2-group'><span class='text'>_</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>has become</span><span class='tag'>V'</span></span> <span class='chunk C2-group'><span class='text'>standard</span><span class='tag'>C'</span></span>)</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(現代のオフィスに入るとき)</span>、<span class='t-S'>ほとんどの人は</span> <span class='t-V'>疑問を持たない</span> <span class='t-O'>オープンプランのレイアウトに (that <span class='t-S2'>_が</span> <span class='t-V2'>なった</span> <span class='t-C2'>標準に</span>)</span>。",
+                        "naturalTranslation": "現代のオフィスに入るとき、ほとんどの人は企業環境で標準となっているオープンプランのレイアウトに疑問を持たない。",
+                        "vocabulary": [
+                            {
+                                "word": "open-plan layout",
+                                "meaning": "オープンプランのレイアウト（壁のない開放的な間取り）"
+                            },
+                            {
+                                "word": "corporate environments",
+                                "meaning": "企業環境"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "When walking into",
+                                "explanation": "<b>分詞構文</b>: 時を表す。「〜するとき」。主語省略（= When they walk into）。"
+                            },
+                            {
+                                "phrase": "that has become standard",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: that (= layout)</li><li><b>V'</b>: has become</li><li><b>C'</b>: standard</li></ul>layoutを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "text": "However, in recent years, a movement known as \"neurodiverse design\" has emerged, challenging the assumption that workspace environments typically cater to the needs of the majority.",
+                    "translation": "しかしながら、近年、「ニューロダイバースデザイン」として知られる動きが出現し、職場環境が通常、多数派のニーズに応えているという仮定に異議を唱えている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "has emerged"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(in recent years)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>a movement (known as \"neurodiverse design\")</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has emerged</span><span class='tag'>V</span></span>, <span class='chunk M-group'><span class='text'>(challenging the assumption that...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(しかしながら)</span>、<span class='t-M'>(近年)</span>、<span class='t-S'>動きが(「ニューロダイバースデザイン」として知られる)</span> <span class='t-V'>出現した</span>、<span class='t-M'>(仮定に異議を唱えながら that...)</span>。",
+                        "naturalTranslation": "しかしながら、近年、「ニューロダイバースデザイン」として知られる動きが出現し、職場環境が通常、多数派のニーズに応えているという仮定に異議を唱えている。",
+                        "vocabulary": [
+                            {
+                                "word": "neurodiverse design",
+                                "meaning": "ニューロダイバースデザイン（神経多様性を考慮した設計）"
+                            },
+                            {
+                                "word": "cater to",
+                                "meaning": "〜のニーズに応える"
+                            },
+                            {
+                                "word": "the majority",
+                                "meaning": "多数派"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "known as \"neurodiverse design\"",
+                                "explanation": "<b>過去分詞</b>: a movementを修飾する形容詞句。"
+                            },
+                            {
+                                "phrase": "challenging the assumption",
+                                "explanation": "<b>分詞構文</b>: 結果または付帯状況を表す。「〜しながら/〜して」。"
+                            },
+                            {
+                                "phrase": "that workspace environments typically cater to",
+                                "explanation": "<b>同格のthat節構造</b>:<ul><li><b>S'</b>: workspace environments</li><li><b>V'</b>: cater to</li><li><b>O'</b>: the needs of the majority</li></ul>assumptionの内容を説明。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "text": "Proponents of this movement argue that traditional offices, with their noise and lack of privacy, often fail to accommodate employees with neurological differences such as autism, ADHD, and dyslexia.",
+                    "translation": "この運動の支持者たちは、従来のオフィスは騒音やプライバシーの欠如があり、自閉症、ADHD、失読症などの神経学的差異を持つ従業員に対応できないことが多いと主張している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "argue"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Proponents of this movement</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>argue</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that <span class='chunk S2-group'><span class='text'>traditional offices</span><span class='tag'>S'</span></span>, (with their noise and lack of privacy), <span class='chunk M2-group'><span class='text'>often</span><span class='tag'>M'</span></span> <span class='chunk V2-group'><span class='text'>fail to accommodate</span><span class='tag'>V'</span></span> <span class='chunk O2-group'><span class='text'>employees</span><span class='tag'>O'</span></span></span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>この運動の支持者たちは</span> <span class='t-V'>主張している</span> <span class='t-O'>that [<span class='t-S2'>従来のオフィスは</span>、(騒音やプライバシーの欠如があり)、<span class='t-M2'>しばしば</span> <span class='t-V2'>対応できない</span> <span class='t-O2'>従業員に</span>]</span>。",
+                        "naturalTranslation": "この運動の支持者たちは、従来のオフィスは騒音やプライバシーの欠如があり、自閉症、ADHD、失読症などの神経学的差異を持つ従業員に対応できないことが多いと主張している。",
+                        "vocabulary": [
+                            {
+                                "word": "proponents",
+                                "meaning": "支持者、提唱者"
+                            },
+                            {
+                                "word": "accommodate",
+                                "meaning": "〜に対応する、受け入れる"
+                            },
+                            {
+                                "word": "neurological differences",
+                                "meaning": "神経学的差異"
+                            },
+                            {
+                                "word": "dyslexia",
+                                "meaning": "失読症"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "argue that",
+                                "explanation": "<b>that節構造</b>:<ul><li><b>S'</b>: traditional offices</li><li><b>V'</b>: fail to accommodate</li><li><b>O'</b>: employees with neurological differences</li></ul>主張の内容。"
+                            },
+                            {
+                                "phrase": "with their noise and lack of privacy",
+                                "explanation": "<b>with + 名詞</b>: 付帯状況。「〜を伴って」。挿入句として機能。"
+                            },
+                            {
+                                "phrase": "such as autism, ADHD, and dyslexia",
+                                "explanation": "<b>such as</b>: 例示。「〜のような」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "text": "While relatively new, this design philosophy is already influencing how architects and companies approach the creation of workspaces.",
+                    "translation": "比較的新しいものであるが、このデザイン哲学はすでに、建築家や企業がワークスペースの創造にどのようにアプローチするかに影響を与えている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "is influencing"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(While relatively new)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>this design philosophy</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is already influencing</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>how <span class='chunk S2-group'><span class='text'>architects and companies</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>approach</span><span class='tag'>V'</span></span> <span class='chunk O2-group'><span class='text'>the creation</span><span class='tag'>O'</span></span></span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(比較的新しいものであるが)</span>、<span class='t-S'>このデザイン哲学は</span> <span class='t-V'>すでに影響を与えている</span> <span class='t-O'>how [<span class='t-S2'>建築家や企業が</span> <span class='t-V2'>アプローチするか</span> <span class='t-O2'>創造に</span>]</span>。",
+                        "naturalTranslation": "比較的新しいものであるが、このデザイン哲学はすでに、建築家や企業がワークスペースの創造にどのようにアプローチするかに影響を与えている。",
+                        "vocabulary": [
+                            {
+                                "word": "design philosophy",
+                                "meaning": "デザイン哲学"
+                            },
+                            {
+                                "word": "approach",
+                                "meaning": "〜にアプローチする、取り組む"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "While relatively new",
+                                "explanation": "<b>譲歩のwhile</b>: 主語・動詞が省略。= While it is relatively new。「比較的新しいが」。"
+                            },
+                            {
+                                "phrase": "how architects and companies approach",
+                                "explanation": "<b>間接疑問文（名詞節）構造</b>:<ul><li><b>S'</b>: architects and companies</li><li><b>V'</b>: approach</li><li><b>O'</b>: the creation of workspaces</li></ul>influencingの目的語。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 2,
+            "sentences": [
+                {
+                    "id": 5,
+                    "text": "The most common office design trend that neurodiverse design seeks to change is the open-plan office.",
+                    "translation": "ニューロダイバースデザインが変えようとしている最も一般的なオフィスデザインのトレンドは、オープンプランオフィスである。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "is"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The most common office design trend (that <span class='chunk S2-group'><span class='text'>neurodiverse design</span><span class='tag'>S'</span></span> <span class='chunk V2-group'><span class='text'>seeks to change</span><span class='tag'>V'</span></span>)</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>the open-plan office</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-S'>最も一般的なオフィスデザインのトレンドは</span> <span class='t-V'>である</span> <span class='t-C'>オープンプランオフィス</span>。",
+                        "naturalTranslation": "ニューロダイバースデザインが変えようとしている最も一般的なオフィスデザインのトレンドは、オープンプランオフィスである。",
+                        "vocabulary": [
+                            {
+                                "word": "seeks to",
+                                "meaning": "〜しようとする"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "that neurodiverse design seeks to change",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: neurodiverse design</li><li><b>V'</b>: seeks to change</li></ul>trendを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "text": "Originally promoted as a way to encourage collaboration and transparency, this layout is based on the sensory tolerance of the \"neurotypical\" or average person.",
+                    "translation": "もともとコラボレーションと透明性を促進する方法として推進されていたこのレイアウトは、「定型発達」または平均的な人の感覚的許容度に基づいている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "is based"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Originally promoted as a way to encourage collaboration and transparency)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>this layout</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is based</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(on the sensory tolerance of the \"neurotypical\" or average person)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(もともと推進されていた)</span>、<span class='t-S'>このレイアウトは</span> <span class='t-V'>基づいている</span>。",
+                        "naturalTranslation": "もともとコラボレーションと透明性を促進する方法として推進されていたこのレイアウトは、「定型発達」または平均的な人の感覚的許容度に基づいている。",
+                        "vocabulary": [
+                            {
+                                "word": "transparency",
+                                "meaning": "透明性"
+                            },
+                            {
+                                "word": "sensory tolerance",
+                                "meaning": "感覚的許容度"
+                            },
+                            {
+                                "word": "neurotypical",
+                                "meaning": "定型発達の"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Originally promoted as",
+                                "explanation": "<b>過去分詞による分詞構文</b>: 背景を表す。"
+                            },
+                            {
+                                "phrase": "is based on",
+                                "explanation": "<b>be based on</b>: 「〜に基づいている」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "text": "For the majority of workers, the background hum of conversation and bright fluorescent lighting may be manageable annoyances.",
+                    "translation": "大多数の労働者にとって、会話のバックグラウンドノイズや明るい蛍光灯は、対処可能な煩わしさかもしれない。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "may be"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(For the majority of workers)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the background hum of conversation and bright fluorescent lighting</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>may be</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>manageable annoyances</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-M'>(大多数の労働者にとって)</span>、<span class='t-S'>バックグラウンドノイズや蛍光灯は</span> <span class='t-V'>かもしれない</span> <span class='t-C'>対処可能な煩わしさ</span>。",
+                        "naturalTranslation": "大多数の労働者にとって、会話のバックグラウンドノイズや明るい蛍光灯は、対処可能な煩わしさかもしれない。",
+                        "vocabulary": [
+                            {
+                                "word": "background hum",
+                                "meaning": "バックグラウンドノイズ"
+                            },
+                            {
+                                "word": "fluorescent lighting",
+                                "meaning": "蛍光灯"
+                            },
+                            {
+                                "word": "manageable",
+                                "meaning": "対処可能な"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "may be",
+                                "explanation": "<b>助動詞may</b>: 推量。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "text": "However, for individuals who are hypersensitive to sensory stimuli—a common trait among neurodivergent people—these elements can be overwhelming, leading to severe anxiety and reduced productivity.",
+                    "translation": "しかし、感覚刺激に過敏な人々—神経発達症の人々に共通する特性—にとって、これらの要素は圧倒的なものとなり、深刻な不安や生産性の低下を招く可能性がある。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "can be"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(for individuals who are hypersensitive—...—)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>these elements</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>can be</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>overwhelming</span><span class='tag'>C</span></span>, <span class='chunk M-group'><span class='text'>(leading to...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(しかし)</span>、<span class='t-M'>(過敏な人々にとって)</span>、<span class='t-S'>これらの要素は</span> <span class='t-V'>なりうる</span> <span class='t-C'>圧倒的なものに</span>。",
+                        "naturalTranslation": "しかし、感覚刺激に過敏な人々にとって、これらの要素は圧倒的なものとなり、深刻な不安や生産性の低下を招く可能性がある。",
+                        "vocabulary": [
+                            {
+                                "word": "hypersensitive",
+                                "meaning": "過敏な"
+                            },
+                            {
+                                "word": "sensory stimuli",
+                                "meaning": "感覚刺激"
+                            },
+                            {
+                                "word": "neurodivergent",
+                                "meaning": "神経発達症の"
+                            },
+                            {
+                                "word": "overwhelming",
+                                "meaning": "圧倒的な"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "who are hypersensitive",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: who</li><li><b>V'</b>: are hypersensitive</li></ul>"
+                            },
+                            {
+                                "phrase": "—a common trait—",
+                                "explanation": "<b>ダッシュによる挿入</b>: 補足説明。"
+                            },
+                            {
+                                "phrase": "leading to",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 3,
+            "sentences": [
+                {
+                    "id": 9,
+                    "text": "Unlike traditional approaches that aim to create a uniform environment for the average employee, neurodiverse design rejects the idea of a \"standard\" user.",
+                    "translation": "平均的な従業員のために均一な環境を作ることを目指す従来のアプローチとは異なり、ニューロダイバースデザインは「標準的な」ユーザーという概念を拒否する。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "rejects"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Unlike traditional approaches that aim to create...)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>neurodiverse design</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>rejects</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the idea of a \"standard\" user</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(従来のアプローチとは異なり)</span>、<span class='t-S'>ニューロダイバースデザインは</span> <span class='t-V'>拒否する</span> <span class='t-O'>「標準的な」ユーザーという概念を</span>。",
+                        "naturalTranslation": "平均的な従業員のために均一な環境を作ることを目指す従来のアプローチとは異なり、ニューロダイバースデザインは「標準的な」ユーザーという概念を拒否する。",
+                        "vocabulary": [
+                            {
+                                "word": "uniform",
+                                "meaning": "均一な"
+                            },
+                            {
+                                "word": "rejects",
+                                "meaning": "拒否する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Unlike traditional approaches",
+                                "explanation": "<b>Unlike</b>: 「〜とは異なり」対比の前置詞。"
+                            },
+                            {
+                                "phrase": "that aim to create",
+                                "explanation": "<b>関係代名詞節</b>: approachesを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "text": "Advocates reason that architects can create better workspaces by recognizing that human brains process information differently.",
+                    "translation": "支持者たちは、人間の脳が情報を異なる方法で処理することを認識することで、建築家はより良いワークスペースを作れると論じている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "reason"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Advocates</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>reason</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that architects can create better workspaces...</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>支持者たちは</span> <span class='t-V'>論じている</span> <span class='t-O'>that [建築家はより良いワークスペースを作れると]</span>。",
+                        "naturalTranslation": "支持者たちは、人間の脳が情報を異なる方法で処理することを認識することで、建築家はより良いワークスペースを作れると論じている。",
+                        "vocabulary": [
+                            {
+                                "word": "reason",
+                                "meaning": "論じる"
+                            },
+                            {
+                                "word": "process",
+                                "meaning": "処理する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "by recognizing that",
+                                "explanation": "<b>by + 動名詞</b>: 手段を表す。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "text": "They argue that simply forcing neurodivergent employees to adapt to existing structures is ineffective.",
+                    "translation": "彼らは、神経発達症の従業員に既存の構造に適応することを単に強制することは効果がないと主張している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "argue"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>argue</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that simply forcing... is ineffective</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>彼らは</span> <span class='t-V'>主張している</span> <span class='t-O'>that [単に強制することは効果がないと]</span>。",
+                        "naturalTranslation": "彼らは、神経発達症の従業員に既存の構造に適応することを単に強制することは効果がないと主張している。",
+                        "vocabulary": [
+                            {
+                                "word": "forcing ... to adapt",
+                                "meaning": "〜に適応を強制する"
+                            },
+                            {
+                                "word": "ineffective",
+                                "meaning": "効果がない"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "simply forcing ... to adapt",
+                                "explanation": "<b>動名詞</b>: that節内の主語。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 12,
+                    "text": "Instead, they propose a fundamental shift in design thinking: creating flexible environments that offer a variety of sensory experiences, allowing users to choose the setting that best suits their current needs and working style.",
+                    "translation": "代わりに、彼らはデザイン思考における根本的な転換を提案している：多様な感覚体験を提供する柔軟な環境を作り、ユーザーが現在のニーズと作業スタイルに最も適した設定を選択できるようにすることである。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "propose"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Instead)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>propose</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a fundamental shift...</span><span class='tag'>O</span></span>: <span class='chunk M-group'><span class='text'>(creating flexible environments...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(代わりに)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>提案している</span> <span class='t-O'>根本的な転換を</span>：<span class='t-M'>(柔軟な環境を作り)</span>。",
+                        "naturalTranslation": "代わりに、彼らはデザイン思考における根本的な転換を提案している。",
+                        "vocabulary": [
+                            {
+                                "word": "fundamental shift",
+                                "meaning": "根本的な転換"
+                            },
+                            {
+                                "word": "sensory experiences",
+                                "meaning": "感覚体験"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": ": creating flexible environments",
+                                "explanation": "<b>コロン</b>: 前述の具体的説明。"
+                            },
+                            {
+                                "phrase": "allowing users to choose",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 4,
+            "sentences": [
+                {
+                    "id": 13,
+                    "text": "One example of putting these values into practice is the inclusion of \"quiet zones\" and \"focus rooms\" in new office builds.",
+                    "translation": "これらの価値観を実践する一例は、新しいオフィスビルに「静寂ゾーン」や「集中ルーム」を設けることである。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "is"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>One example of putting these values into practice</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>the inclusion of \"quiet zones\" and \"focus rooms\"...</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-S'>一例は</span> <span class='t-V'>である</span> <span class='t-C'>設けること</span>。",
+                        "naturalTranslation": "これらの価値観を実践する一例は、新しいオフィスビルに「静寂ゾーン」や「集中ルーム」を設けることである。",
+                        "vocabulary": [
+                            {
+                                "word": "putting ... into practice",
+                                "meaning": "〜を実践する"
+                            },
+                            {
+                                "word": "inclusion",
+                                "meaning": "含めること"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "One example of putting these values into practice",
+                                "explanation": "<b>動名詞</b>: 前置詞ofの目的語。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "text": "Architects work closely with neurodivergent employees during the planning phase to identify specific triggers, such as flickering lights or patterned carpets that can cause visual stress.",
+                    "translation": "建築家は、計画段階で神経発達症の従業員と緊密に協力し、ちらつく照明や視覚的ストレスを引き起こす可能性のある模様入りカーペットなど、特定のトリガーを特定する。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "work"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Architects</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>work closely</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(with neurodivergent employees) (during the planning phase) (to identify specific triggers...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>建築家は</span> <span class='t-V'>緊密に協力する</span> <span class='t-M'>(従業員と)(計画段階で)(トリガーを特定するために)</span>。",
+                        "naturalTranslation": "建築家は、計画段階で神経発達症の従業員と緊密に協力し、特定のトリガーを特定する。",
+                        "vocabulary": [
+                            {
+                                "word": "triggers",
+                                "meaning": "トリガー"
+                            },
+                            {
+                                "word": "flickering lights",
+                                "meaning": "ちらつく照明"
+                            },
+                            {
+                                "word": "patterned carpets",
+                                "meaning": "模様入りカーペット"
+                            },
+                            {
+                                "word": "visual stress",
+                                "meaning": "視覚的ストレス"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "to identify specific triggers",
+                                "explanation": "<b>不定詞</b>: 目的を表す。"
+                            },
+                            {
+                                "phrase": "that can cause visual stress",
+                                "explanation": "<b>関係代名詞節</b>: carpetsを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "text": "In response, they might install sound-absorbing materials, adjustable lighting systems, and private pods.",
+                    "translation": "それに応じて、彼らは吸音材、調節可能な照明システム、プライベートポッドを設置するかもしれない。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "might install"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(In response)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>might install</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>sound-absorbing materials, adjustable lighting systems, and private pods</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(それに応じて)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>設置するかもしれない</span> <span class='t-O'>吸音材等を</span>。",
+                        "naturalTranslation": "それに応じて、彼らは吸音材、調節可能な照明システム、プライベートポッドを設置するかもしれない。",
+                        "vocabulary": [
+                            {
+                                "word": "sound-absorbing materials",
+                                "meaning": "吸音材"
+                            },
+                            {
+                                "word": "adjustable",
+                                "meaning": "調節可能な"
+                            },
+                            {
+                                "word": "private pods",
+                                "meaning": "プライベートポッド"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "In response",
+                                "explanation": "<b>In response</b>: 「それに応じて」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "text": "In some cases, companies have used virtual reality simulations to allow staff to test and provide feedback on proposed layouts before construction begins, ensuring their unique perspectives are integrated into the final design.",
+                    "translation": "場合によっては、企業は建設が始まる前にスタッフが提案されたレイアウトをテストし、フィードバックを提供できるようにするためにバーチャルリアリティシミュレーションを使用し、彼らのユニークな視点が最終設計に統合されることを確実にしている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "have used"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(In some cases)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>companies</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have used</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>virtual reality simulations</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(to allow staff to test... ensuring...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(場合によっては)</span>、<span class='t-S'>企業は</span> <span class='t-V'>使用してきた</span> <span class='t-O'>VRシミュレーションを</span>。",
+                        "naturalTranslation": "場合によっては、企業はVRシミュレーションを使用し、スタッフがレイアウトをテストし、フィードバックできるようにしている。",
+                        "vocabulary": [
+                            {
+                                "word": "virtual reality simulations",
+                                "meaning": "VRシミュレーション"
+                            },
+                            {
+                                "word": "proposed layouts",
+                                "meaning": "提案されたレイアウト"
+                            },
+                            {
+                                "word": "perspectives",
+                                "meaning": "視点"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "have used",
+                                "explanation": "<b>現在完了</b>: 経験。"
+                            },
+                            {
+                                "phrase": "before construction begins",
+                                "explanation": "<b>時の副詞節</b>。"
+                            },
+                            {
+                                "phrase": "ensuring their unique perspectives are integrated",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 5,
+            "sentences": [
+                {
+                    "id": 17,
+                    "text": "The impact of neurodiverse design extends beyond just helping a specific group of employees; it is improving the work environment for everyone.",
+                    "translation": "ニューロダイバースデザインの影響は、特定の従業員グループを助けることだけにとどまらない。それはすべての人の労働環境を改善している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "extends",
+                            "is improving"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The impact of neurodiverse design</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>extends</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(beyond just helping...)</span><span class='tag'>M</span></span>; <span class='chunk S-group'><span class='text'>it</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is improving</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the work environment for everyone</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>影響は</span> <span class='t-V'>及ぶ</span>；<span class='t-S'>それは</span> <span class='t-V'>改善している</span> <span class='t-O'>すべての人の労働環境を</span>。",
+                        "naturalTranslation": "ニューロダイバースデザインの影響は、特定の従業員グループを助けることだけにとどまらない。",
+                        "vocabulary": [
+                            {
+                                "word": "extends beyond",
+                                "meaning": "〜を超えて及ぶ"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "extends beyond just helping",
+                                "explanation": "<b>前置詞 + 動名詞</b>。"
+                            },
+                            {
+                                "phrase": "; it is improving",
+                                "explanation": "<b>セミコロン</b>: 関連する文を接続。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 18,
+                    "text": "Although the movement began as a way to address the specific difficulties faced by neurodivergent individuals, its principles have proven universally beneficial.",
+                    "translation": "この運動は神経発達症の個人が直面する特定の困難に対処する方法として始まったが、その原則は普遍的に有益であることが証明されている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "have proven"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Although the movement began as...)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>its principles</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>have proven</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>universally beneficial</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-M'>(運動が〜として始まったが)</span>、<span class='t-S'>その原則は</span> <span class='t-V'>証明されている</span> <span class='t-C'>普遍的に有益である</span>。",
+                        "naturalTranslation": "この運動は〜として始まったが、その原則は普遍的に有益であることが証明されている。",
+                        "vocabulary": [
+                            {
+                                "word": "universally beneficial",
+                                "meaning": "普遍的に有益な"
+                            },
+                            {
+                                "word": "have proven",
+                                "meaning": "〜と証明された"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Although the movement began",
+                                "explanation": "<b>譲歩のalthough節</b>。"
+                            },
+                            {
+                                "phrase": "faced by neurodivergent individuals",
+                                "explanation": "<b>過去分詞</b>: difficultiesを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 19,
+                    "text": "By prioritizing flexibility, comfort, and individual choice, this approach empowers all workers to control their environment.",
+                    "translation": "柔軟性、快適さ、個人の選択を優先することで、このアプローチはすべての労働者が自分の環境をコントロールできるようにしている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "empowers"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(By prioritizing flexibility, comfort, and individual choice)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>this approach</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>empowers</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>all workers</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>to control their environment</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-M'>(〜を優先することで)</span>、<span class='t-S'>このアプローチは</span> <span class='t-V'>力を与える</span> <span class='t-O'>すべての労働者に</span>。",
+                        "naturalTranslation": "柔軟性、快適さ、個人の選択を優先することで、このアプローチはすべての労働者が環境をコントロールできるようにしている。",
+                        "vocabulary": [
+                            {
+                                "word": "prioritizing",
+                                "meaning": "優先する"
+                            },
+                            {
+                                "word": "empowers",
+                                "meaning": "力を与える"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "By prioritizing",
+                                "explanation": "<b>By + 動名詞</b>: 手段を表す。"
+                            },
+                            {
+                                "phrase": "empowers all workers to control",
+                                "explanation": "<b>empower O to do</b>: 「Oが〜できるようにする」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 20,
+                    "text": "As a result, companies are discovering that spaces designed with neurodiversity in mind often lead to higher overall satisfaction and productivity across the entire workforce.",
+                    "translation": "その結果、企業は、ニューロダイバーシティを念頭に置いて設計された空間が、全従業員にわたってより高い総合的な満足度と生産性につながることが多いことを発見している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "are discovering"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(As a result)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>companies</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are discovering</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that spaces designed... often lead to higher overall satisfaction...</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(その結果)</span>、<span class='t-S'>企業は</span> <span class='t-V'>発見している</span> <span class='t-O'>that [空間が〜につながることを]</span>。",
+                        "naturalTranslation": "その結果、企業は、ニューロダイバーシティを念頭に置いて設計された空間が満足度と生産性につながることを発見している。",
+                        "vocabulary": [
+                            {
+                                "word": "with neurodiversity in mind",
+                                "meaning": "ニューロダイバーシティを念頭に置いて"
+                            },
+                            {
+                                "word": "lead to",
+                                "meaning": "〜につながる"
+                            },
+                            {
+                                "word": "overall satisfaction",
+                                "meaning": "総合的な満足度"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "As a result",
+                                "explanation": "<b>As a result</b>: 「その結果」結論を導く。"
+                            },
+                            {
+                                "phrase": "designed with neurodiversity in mind",
+                                "explanation": "<b>過去分詞</b>: spacesを修飾。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "text": "What led to the emergence of the neurodiverse design movement?",
+            "textTranslation": "ニューロダイバースデザイン運動の出現につながったのは何ですか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "A decrease in the number of companies willing to adopt open-plan office layouts due to high costs.",
+                    "translation": "高コストのためオープンプランオフィスのレイアウトを採用しようとする企業の数が減少したこと。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "The realization that standard office environments were often unsuitable for employees with neurological differences.",
+                    "translation": "標準的なオフィス環境が神経学的差異を持つ従業員には適していないことが多いという認識。",
+                    "isCorrect": true,
+                    "highlight": "standard office environments were often unsuitable"
+                },
+                {
+                    "id": 3,
+                    "text": "A desire among architects to return to more traditional, private office designs from the past.",
+                    "translation": "建築家の間で過去のより伝統的でプライベートなオフィスデザインに戻りたいという願望。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "The discovery that neurotypical employees were also dissatisfied with the noise levels in open offices.",
+                    "translation": "定型発達の従業員もオープンオフィスの騒音レベルに不満を持っていたという発見。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 1,
+                "description": "第1段落。この運動がなぜ出現したかについて述べている部分を探しましょう。",
+                "targetSentenceId": 3,
+                "highlightWord": "fail to accommodate employees with neurological differences",
+                "highlightWordSentenceId": 3
+            },
+            "keywords": [
+                "led to",
+                "emergence",
+                "neurodiverse design movement"
+            ],
+            "keywordExplanations": {
+                "led to": "「〜につながった」。原因を問う表現。",
+                "emergence": "出現。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 2,
+                    "text": "has emerged",
+                    "keyword": "emergence"
+                },
+                {
+                    "sentenceId": 3,
+                    "text": "fail to accommodate employees with neurological differences",
+                    "keyword": "led to"
+                }
+            ],
+            "choiceAdvice": "1: 高コストで企業数減少？ 2: 神経学的差異に不適切？ 3: 伝統的デザインへ回帰願望？ 4: 定型発達者も騒音不満？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 3): 「この運動の支持者たちは、従来のオフィスは...神経学的差異を持つ従業員に対応できない(fail to accommodate)ことが多いと主張している」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】神経学的差異(neurological differences)を持つ従業員にオフィス環境が不適切(fail to accommodate = unsuitable)。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢2「標準的なオフィス環境が神経学的差異を持つ従業員には適していないことが多いという認識」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 2"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "What is one problem with the open-plan office design mentioned in the second paragraph?",
+            "textTranslation": "第2段落で述べられているオープンプランオフィスデザインの問題点は何ですか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "It discourages collaboration among employees because it creates too many distractions.",
+                    "translation": "気が散る要因が多すぎるため、従業員間のコラボレーションを妨げる。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "It relies on natural lighting, which is often insufficient for detailed work during the winter months.",
+                    "translation": "自然光に頼っているが、冬季には詳細な作業には不十分なことが多い。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "It is based on the sensory needs of the average person and ignores those who are sensitive to stimuli.",
+                    "translation": "平均的な人の感覚的ニーズに基づいており、刺激に敏感な人を無視している。",
+                    "isCorrect": true,
+                    "highlight": "based on the sensory needs of the average person"
+                },
+                {
+                    "id": 4,
+                    "text": "It is often too expensive for smaller companies to implement effectively compared to traditional layouts.",
+                    "translation": "従来のレイアウトと比較して小規模企業には効果的に実装するには高すぎることが多い。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 2,
+                "description": "第2段落。オープンプランオフィスの問題点を探しましょう。",
+                "targetSentenceId": 6,
+                "highlightWord": "is based on the sensory tolerance of the \"neurotypical\" or average person",
+                "highlightWordSentenceId": 6
+            },
+            "keywords": [
+                "problem",
+                "open-plan office design",
+                "second paragraph"
+            ],
+            "keywordExplanations": {
+                "problem": "問題点。",
+                "open-plan office design": "オープンプランオフィスデザイン。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 6,
+                    "text": "is based on the sensory tolerance of the \"neurotypical\" or average person",
+                    "keyword": "problem"
+                },
+                {
+                    "sentenceId": 8,
+                    "text": "hypersensitive to sensory stimuli",
+                    "keyword": "problem"
+                }
+            ],
+            "choiceAdvice": "1: コラボレーションを妨げる？ 2: 自然光が不十分？ 3: 平均的な人に基づき敏感な人を無視？ 4: 小企業には高すぎる？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 6): 「このレイアウトは、『定型発達』または平均的な人(average person)の感覚的許容度に基づいている(is based on)」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 8): 「感覚刺激に過敏な人々(hypersensitive)にとって、これらの要素は圧倒的なものとなりうる」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】average person(平均的な人)に基づき(based on)、hypersensitive(過敏な人)を無視(ignores)。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢3「平均的な人の感覚的ニーズに基づいており、刺激に敏感な人を無視している」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "Advocates of neurodiverse design argue against focusing on the \"standard\" user because",
+            "textTranslation": "ニューロダイバースデザインの支持者が「標準的な」ユーザーに焦点を当てることに反対する理由は？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "it is impossible to define what a standard user is in today's diverse workforce.",
+                    "translation": "今日の多様な労働力において標準的なユーザーとは何かを定義することは不可能だから。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "doing so fails to acknowledge the fact that people process sensory information in different ways.",
+                    "translation": "そうすることは、人々が感覚情報を異なる方法で処理するという事実を認めないことになるから。",
+                    "isCorrect": true,
+                    "highlight": "fails to acknowledge ... people process sensory information in different ways"
+                },
+                {
+                    "id": 3,
+                    "text": "most employees prefer to have a fixed desk rather than moving between different work zones.",
+                    "translation": "ほとんどの従業員は異なるワークゾーン間を移動するよりも固定席を好むから。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "architects usually do not have enough data to determine what the average preferences are.",
+                    "translation": "建築家は通常、平均的な好みを決定するのに十分なデータを持っていないから。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 3,
+                "description": "第3段落。なぜ「標準的な」ユーザーに焦点を当てることに反対するかを探しましょう。",
+                "targetSentenceId": 10,
+                "highlightWord": "human brains process information differently",
+                "highlightWordSentenceId": 10
+            },
+            "keywords": [
+                "argue against",
+                "standard user",
+                "because"
+            ],
+            "keywordExplanations": {
+                "argue against": "〜に反対する。",
+                "because": "理由を問う。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 9,
+                    "text": "rejects the idea of a \"standard\" user",
+                    "keyword": "argue against"
+                },
+                {
+                    "sentenceId": 10,
+                    "text": "human brains process information differently",
+                    "keyword": "because"
+                }
+            ],
+            "choiceAdvice": "1: 標準を定義不可能？ 2: 感覚情報を異なる方法で処理？ 3: 固定席を好む？ 4: データ不足？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 9): 「ニューロダイバースデザインは『標準的な』ユーザーという概念を拒否する(rejects)」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 10): 「支持者たちは、人間の脳が情報を異なる方法で処理する(process information differently)ことを認識することで...」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】脳が情報を異なる方法で処理する(process differently)→ 選択肢2のprocess sensory information in different waysと対応。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢2「人々が感覚情報を異なる方法で処理するという事実を認めないことになるから」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 2"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "text": "Which of the following statements best describes the impact of neurodiverse design?",
+            "textTranslation": "ニューロダイバースデザインの影響を最もよく表している文はどれですか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "It has forced companies to spend significantly more money on construction without seeing clear benefits.",
+                    "translation": "明確なメリットを得ることなく、企業に建設にはるかに多くの費用を費やさせることを余儀なくさせた。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "It has led to a separation of neurodivergent and neurotypical employees into different buildings.",
+                    "translation": "神経発達症の従業員と定型発達の従業員を異なる建物に分離することにつながった。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "It has resulted in better work environments that benefit the entire workforce, not just neurodivergent people.",
+                    "translation": "神経発達症の人々だけでなく、全従業員に利益をもたらすより良い労働環境をもたらした。",
+                    "isCorrect": true,
+                    "highlight": "benefit the entire workforce, not just neurodivergent people"
+                },
+                {
+                    "id": 4,
+                    "text": "It has caused architects to stop using virtual reality technology because it does not accurately reflect real-world sensory experiences.",
+                    "translation": "VR技術が現実世界の感覚体験を正確に反映しないため、建築家がそれを使用しなくなった。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 5,
+                "description": "第5段落。ニューロダイバースデザインの影響について述べている部分を探しましょう。",
+                "targetSentenceId": 18,
+                "highlightWord": "universally beneficial",
+                "highlightWordSentenceId": 18
+            },
+            "keywords": [
+                "impact",
+                "neurodiverse design",
+                "best describes"
+            ],
+            "keywordExplanations": {
+                "impact": "影響。",
+                "best describes": "最も良く表す。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 17,
+                    "text": "extends beyond just helping a specific group",
+                    "keyword": "impact"
+                },
+                {
+                    "sentenceId": 18,
+                    "text": "universally beneficial",
+                    "keyword": "impact"
+                }
+            ],
+            "choiceAdvice": "1: 費用増加でメリットなし？ 2: 異なる建物に分離？ 3: 全従業員に利益？ 4: VR使用中止？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 17): 「ニューロダイバースデザインの影響は、特定の従業員グループを助けることだけにとどまらない(extends beyond just helping a specific group)；それはすべての人の労働環境を改善している(improving for everyone)」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 18): 「その原則は普遍的に有益(universally beneficial)であることが証明されている」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】for everyone（すべての人）= the entire workforce（全従業員）。not just a specific group = not just neurodivergent people。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢3「神経発達症の人々だけでなく、全従業員に利益をもたらすより良い労働環境をもたらした」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 3"
+                }
+            ]
+        }
+    ],
+    "summaryForInstructors": {
+        "title": "Designing for Neurodiversity（ニューロダイバーシティのためのデザイン）",
+        "intro": "職場環境を神経多様性の観点から再設計する「ニューロダイバースデザイン」運動について解説したパッセージ。オープンプランオフィスの問題点、新しいデザイン哲学の原則、具体的な実践例、そしてすべての従業員への普遍的な恩恵について論じています。",
+        "points": [
+            {
+                "label": "1. 運動の出現（第1段落）",
+                "text": "近年、「ニューロダイバースデザイン」という運動が出現。支持者は従来のオープンプランオフィスが騒音やプライバシー欠如により、自閉症・ADHD・失読症などの神経学的差異を持つ従業員に対応できていないと主張。"
+            },
+            {
+                "label": "2. オープンプランの問題点（第2段落）",
+                "text": "オープンプランオフィスは「定型発達」または平均的な人の感覚的許容度に基づいて設計されている。大多数には対処可能な煩わしさでも、感覚刺激に過敏な神経発達症の人々には圧倒的で、深刻な不安や生産性低下を招く。"
+            },
+            {
+                "label": "3. 新しいデザイン哲学（第3段落）",
+                "text": "ニューロダイバースデザインは「標準的な」ユーザーという概念を拒否。人間の脳が情報を異なる方法で処理することを認識し、神経発達症の従業員に適応を強制するのではなく、多様な感覚体験を提供する柔軟な環境を作ることを提案。"
+            },
+            {
+                "label": "4. 具体的な実践例（第4段落）",
+                "text": "「静寂ゾーン」「集中ルーム」の設置、ちらつく照明や模様入りカーペットなどのトリガー特定、吸音材・調節可能な照明・プライベートポッドの設置。VRシミュレーションで建設前にスタッフがレイアウトをテストしフィードバック。"
+            },
+            {
+                "label": "5. 普遍的な恩恵（第5段落）",
+                "text": "ニューロダイバースデザインの影響は特定グループを超え、すべての人の労働環境を改善。原則は普遍的に有益であることが証明されている。柔軟性・快適さ・個人の選択を優先することで全労働者が環境をコントロール可能に。"
+            }
+        ]
+    }
+}
+,
+    {
+    "id": "grade-pre1-original-peakoil",
+    "grade": "準1級",
+    "title": "The Peak Oil Prophecy",
+    "subTitle": "問題11",
+    "genre": "エネルギー / 経済",
+    "similarProblems": {
+        "exam": "2023年度 第3回",
+        "title": "The Bet"
+    },
+    "isOriginal": true,
+    "images": {
+        "content": "https://placehold.co/600x400?text=Peak+Oil",
+        "question": "https://placehold.co/600x400?text=Question+Image"
+    },
+    "content": [
+        {
+            "paragraphId": 1,
+            "sentences": [
+                {
+                    "id": 1,
+                    "text": "In the mid-20th century, geoscientist M. King Hubbert presented a controversial theory that would shape energy policy for decades.",
+                    "translation": "20世紀半ば、地質科学者M・キング・ハバートは、何十年にもわたってエネルギー政策を形作ることになる物議を醸す理論を提唱した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "presented"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(In the mid-20th century)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>geoscientist M. King Hubbert</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>presented</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a controversial theory (that would shape energy policy...)</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(20世紀半ば)</span>、<span class='t-S'>地質科学者M・キング・ハバートは</span> <span class='t-V'>提唱した</span> <span class='t-O'>物議を醸す理論を</span>。",
+                        "naturalTranslation": "20世紀半ば、地質科学者M・キング・ハバートは、何十年にもわたってエネルギー政策を形作ることになる物議を醸す理論を提唱した。",
+                        "vocabulary": [
+                            {
+                                "word": "geoscientist",
+                                "meaning": "地質科学者"
+                            },
+                            {
+                                "word": "controversial",
+                                "meaning": "物議を醸す"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "that would shape energy policy",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: that (= theory)</li><li><b>V'</b>: would shape</li><li><b>O'</b>: energy policy</li></ul>theoryを修飾。wouldは推量。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "text": "He predicted that U.S. oil production would peak between 1965 and 1970 and then enter a terminal decline, leading to energy scarcity and economic turmoil.",
+                    "translation": "彼は、米国の石油生産が1965年から1970年の間にピークに達し、その後終末的な衰退に入り、エネルギー不足と経済的混乱を招くと予測した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "predicted"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>He</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>predicted</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that U.S. oil production would peak... and then enter a terminal decline, (leading to...)</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>彼は</span> <span class='t-V'>予測した</span> <span class='t-O'>that [石油生産がピークに達し...衰退に入り、(〜を招きながら)]</span>。",
+                        "naturalTranslation": "彼は、米国の石油生産が1965年から1970年の間にピークに達し、その後終末的な衰退に入り、エネルギー不足と経済的混乱を招くと予測した。",
+                        "vocabulary": [
+                            {
+                                "word": "terminal decline",
+                                "meaning": "終末的な衰退"
+                            },
+                            {
+                                "word": "scarcity",
+                                "meaning": "不足"
+                            },
+                            {
+                                "word": "turmoil",
+                                "meaning": "混乱"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "leading to energy scarcity",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。「その結果〜を招く」。"
+                            },
+                            {
+                                "phrase": "that U.S. oil production would peak",
+                                "explanation": "<b>that節構造</b>:<ul><li><b>S'</b>: U.S. oil production</li><li><b>V'</b>: would peak / would enter</li><li><b>O'</b>: a terminal decline</li></ul>predictedの目的語。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "text": "Hubbert's theory, known as \"Peak Oil,\" was based on the idea that oil is a finite resource formed over millions of years and that we were consuming it far faster than it could ever be replaced.",
+                    "translation": "「ピークオイル」として知られるハバートの理論は、石油は何百万年もかけて形成された有限の資源であり、私たちは石油が補充されるよりもはるかに速く消費しているという考えに基づいていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "was based"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Hubbert's theory, (known as \"Peak Oil,\")</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was based</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(on the idea that... and that...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>ハバートの理論は(「ピークオイル」として知られる)</span> <span class='t-V'>基づいていた</span> <span class='t-M'>(〜という考えに)</span>。",
+                        "naturalTranslation": "「ピークオイル」として知られるハバートの理論は、石油は有限の資源であり、私たちはそれを補充より速く消費しているという考えに基づいていた。",
+                        "vocabulary": [
+                            {
+                                "word": "finite resource",
+                                "meaning": "有限の資源"
+                            },
+                            {
+                                "word": "consuming",
+                                "meaning": "消費する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "known as \"Peak Oil\"",
+                                "explanation": "<b>過去分詞</b>: theoryを修飾する挿入句。"
+                            },
+                            {
+                                "phrase": "that oil is a finite resource ... and that we were consuming",
+                                "explanation": "<b>2つの同格that節構造</b>:<ul><li><b>第1節</b>: S' oil / V' is / C' a finite resource</li><li><b>第2節</b>: S' we / V' were consuming / O' it</li></ul>ideaの内容を説明。比較構文 faster than it could be replacedを含む。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "text": "His critics, primarily economists, argued that market forces and human ingenuity would prevent such a collapse; as oil became scarcer and more expensive, they claimed, technology would advance to find new sources or improve efficiency.",
+                    "translation": "彼の批判者たち、主に経済学者たちは、市場の力と人間の創意工夫がそのような崩壊を防ぐと主張した。石油がより希少でより高価になるにつれて、技術が進歩して新しい供給源を見つけるか効率を改善するだろうと彼らは主張した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "argued",
+                            "would advance"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>His critics, (primarily economists)</span><span class='tag'>S</span></span>, <span class='chunk V-group'><span class='text'>argued</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that market forces... would prevent...</span><span class='tag'>O</span></span>; <span class='chunk M-group'><span class='text'>(as oil became scarcer...)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(they claimed)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>technology</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>would advance</span><span class='tag'>V</span></span>.",
+                        "translationHtml": "<span class='t-S'>批判者たちは</span> <span class='t-V'>主張した</span>；<span class='t-M'>(石油が希少になるにつれて)</span>、<span class='t-S'>技術が</span> <span class='t-V'>進歩するだろう</span>。",
+                        "naturalTranslation": "彼の批判者たち、主に経済学者たちは、市場の力と人間の創意工夫がそのような崩壊を防ぐと主張した。",
+                        "vocabulary": [
+                            {
+                                "word": "ingenuity",
+                                "meaning": "創意工夫"
+                            },
+                            {
+                                "word": "scarcer",
+                                "meaning": "より希少な"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "primarily economists",
+                                "explanation": "<b>同格</b>: criticsを説明する挿入句。"
+                            },
+                            {
+                                "phrase": "that market forces ... would prevent",
+                                "explanation": "<b>that節構造</b>:<ul><li><b>S'</b>: market forces and human ingenuity</li><li><b>V'</b>: would prevent</li><li><b>O'</b>: such a collapse</li></ul>arguedの目的語。"
+                            },
+                            {
+                                "phrase": "as oil became scarcer",
+                                "explanation": "<b>as節構造</b>:<ul><li><b>S'</b>: oil</li><li><b>V'</b>: became</li><li><b>C'</b>: scarcer and more expensive</li></ul>「〜するにつれて」。"
+                            },
+                            {
+                                "phrase": "they claimed",
+                                "explanation": "<b>挿入節</b>: 主張の出典を示す。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "text": "Hubbert's prediction initially seemed accurate when U.S. production peaked in 1970, earning him widespread fame as a prophet of the energy crisis.",
+                    "translation": "1970年に米国の生産がピークに達したとき、ハバートの予測は当初正確であるように見え、エネルギー危機の預言者として幅広い名声を得た。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "seemed"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Hubbert's prediction</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(initially)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>seemed</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>accurate</span><span class='tag'>C</span></span> <span class='chunk M-group'><span class='text'>(when U.S. production peaked in 1970), (earning him widespread fame...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>ハバートの予測は</span> <span class='t-M'>(当初)</span> <span class='t-V'>見えた</span> <span class='t-C'>正確であるように</span> <span class='t-M'>(1970年に生産がピークに達したとき)、(名声を得ながら)</span>。",
+                        "naturalTranslation": "1970年に米国の生産がピークに達したとき、ハバートの予測は当初正確であるように見え、エネルギー危機の預言者として幅広い名声を得た。",
+                        "vocabulary": [
+                            {
+                                "word": "prophet",
+                                "meaning": "預言者"
+                            },
+                            {
+                                "word": "widespread",
+                                "meaning": "幅広い"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "when U.S. production peaked",
+                                "explanation": "<b>when節構造</b>:<ul><li><b>S'</b>: U.S. production</li><li><b>V'</b>: peaked</li></ul>時を表す副詞節。"
+                            },
+                            {
+                                "phrase": "earning him widespread fame",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。「その結果〜を得た」。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 2,
+            "sentences": [
+                {
+                    "id": 6,
+                    "text": "However, decades later, the narrative took an unexpected turn.",
+                    "translation": "しかし、数十年後、物語は予期せぬ展開を見せた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "took"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(decades later)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the narrative</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>took</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>an unexpected turn</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(しかし)</span>、<span class='t-M'>(数十年後)</span>、<span class='t-S'>物語は</span> <span class='t-V'>見せた</span> <span class='t-O'>予期せぬ展開を</span>。",
+                        "naturalTranslation": "しかし、数十年後、物語は予期せぬ展開を見せた。",
+                        "vocabulary": [
+                            {
+                                "word": "narrative",
+                                "meaning": "物語、語り"
+                            },
+                            {
+                                "word": "unexpected turn",
+                                "meaning": "予期せぬ展開"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "took an unexpected turn",
+                                "explanation": "<b>take a turn</b>: 「展開を見せる」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "text": "While conventional oil production did decline as Hubbert predicted, he failed to foresee the \"shale revolution\" of the 21st century.",
+                    "translation": "従来の石油生産はハバートが予測したように確かに減少したが、彼は21世紀の「シェール革命」を予見することができなかった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "failed"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(While conventional oil production did decline as Hubbert predicted)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>he</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>failed to foresee</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the \"shale revolution\"</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(While 生産が減少したが)</span>、<span class='t-S'>彼は</span> <span class='t-V'>予見できなかった</span> <span class='t-O'>「シェール革命」を</span>。",
+                        "naturalTranslation": "従来の石油生産はハバートが予測したように確かに減少したが、彼は21世紀の「シェール革命」を予見することができなかった。",
+                        "vocabulary": [
+                            {
+                                "word": "conventional",
+                                "meaning": "従来の"
+                            },
+                            {
+                                "word": "foresee",
+                                "meaning": "予見する"
+                            },
+                            {
+                                "word": "shale revolution",
+                                "meaning": "シェール革命"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "While conventional oil production did decline",
+                                "explanation": "<b>譲歩のwhile節</b>: didは強調。「確かに〜したが」。"
+                            },
+                            {
+                                "phrase": "as Hubbert predicted",
+                                "explanation": "<b>as節</b>: 「〜が予測したように」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "text": "New technologies like hydraulic fracturing (fracking) and horizontal drilling allowed energy companies to extract oil and natural gas from rock formations that were previously inaccessible.",
+                    "translation": "水圧破砕法（フラッキング）や水平掘削といった新技術により、エネルギー企業は以前はアクセスできなかった岩石層から石油や天然ガスを抽出することが可能になった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "allowed"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>New technologies like hydraulic fracturing (fracking) and horizontal drilling</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>allowed</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>energy companies</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>to extract oil and natural gas from rock formations (that were previously inaccessible)</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-S'>新技術は</span> <span class='t-V'>可能にした</span> <span class='t-O'>エネルギー企業が</span> <span class='t-C'>石油やガスを抽出することを</span>。",
+                        "naturalTranslation": "水圧破砕法や水平掘削といった新技術により、エネルギー企業は以前はアクセスできなかった岩石層から石油や天然ガスを抽出することが可能になった。",
+                        "vocabulary": [
+                            {
+                                "word": "hydraulic fracturing",
+                                "meaning": "水圧破砕法"
+                            },
+                            {
+                                "word": "horizontal drilling",
+                                "meaning": "水平掘削"
+                            },
+                            {
+                                "word": "extract",
+                                "meaning": "抽出する"
+                            },
+                            {
+                                "word": "inaccessible",
+                                "meaning": "アクセスできない"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "(fracking)",
+                                "explanation": "<b>括弧による挿入</b>: 別名を示す。"
+                            },
+                            {
+                                "phrase": "allow O to do",
+                                "explanation": "<b>allow O to do</b>: 「Oが〜することを可能にする」。"
+                            },
+                            {
+                                "phrase": "that were previously inaccessible",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: that (= rock formations)</li><li><b>V'</b>: were</li><li><b>C'</b>: previously inaccessible</li></ul>rock formationsを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "text": "By the 2010s, instead of running out of oil, the United States became the world's leading oil producer.",
+                    "translation": "2010年代までに、石油が枯渇する代わりに、米国は世界最大の石油生産国となった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "became"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(By the 2010s)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(instead of running out of oil)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the United States</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>became</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>the world's leading oil producer</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-M'>(2010年代までに)</span>、<span class='t-M'>(石油が枯渇する代わりに)</span>、<span class='t-S'>米国は</span> <span class='t-V'>なった</span> <span class='t-C'>世界最大の石油生産国に</span>。",
+                        "naturalTranslation": "2010年代までに、石油が枯渇する代わりに、米国は世界最大の石油生産国となった。",
+                        "vocabulary": [
+                            {
+                                "word": "instead of",
+                                "meaning": "〜の代わりに"
+                            },
+                            {
+                                "word": "running out of",
+                                "meaning": "〜が枯渇する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "instead of running out of oil",
+                                "explanation": "<b>instead of + 動名詞</b>: 「〜する代わりに」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "text": "Economists pointed out that Hubbert had underestimated the power of price signals to drive technological innovation.",
+                    "translation": "経済学者たちは、ハバートが技術革新を推進する価格シグナルの力を過小評価していたと指摘した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "pointed out"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Economists</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>pointed out</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>that Hubbert had underestimated the power of price signals to drive technological innovation</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>経済学者たちは</span> <span class='t-V'>指摘した</span> <span class='t-O'>that [ハバートが〜を過小評価していたと]</span>。",
+                        "naturalTranslation": "経済学者たちは、ハバートが技術革新を推進する価格シグナルの力を過小評価していたと指摘した。",
+                        "vocabulary": [
+                            {
+                                "word": "pointed out",
+                                "meaning": "指摘した"
+                            },
+                            {
+                                "word": "underestimated",
+                                "meaning": "過小評価した"
+                            },
+                            {
+                                "word": "price signals",
+                                "meaning": "価格シグナル"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "that Hubbert had underestimated",
+                                "explanation": "<b>that節構造</b>:<ul><li><b>S'</b>: Hubbert</li><li><b>V'</b>: had underestimated</li><li><b>O'</b>: the power of price signals</li></ul>pointed outの目的語。大過去で過去の時点より前を示す。"
+                            },
+                            {
+                                "phrase": "to drive technological innovation",
+                                "explanation": "<b>不定詞（形容詞的用法）</b>: powerを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "text": "When the price of oil rose, it made expensive extraction methods profitable, effectively unlocking vast new reserves that Hubbert had considered useless geology.",
+                    "translation": "石油価格が上昇したとき、それは高価な抽出方法を採算の取れるものにし、ハバートが無用な地質と見なしていた広大な新しい埋蔵量を事実上解放した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "made"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(When the price of oil rose)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>it</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>made</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>expensive extraction methods</span><span class='tag'>O</span></span> <span class='chunk C-group'><span class='text'>profitable</span><span class='tag'>C</span></span>, <span class='chunk M-group'><span class='text'>(effectively unlocking vast new reserves that Hubbert had considered useless geology)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(石油価格が上昇したとき)</span>、<span class='t-S'>それは</span> <span class='t-V'>した</span> <span class='t-O'>高価な抽出方法を</span> <span class='t-C'>採算の取れるものに</span>、<span class='t-M'>(広大な新しい埋蔵量を解放しながら)</span>。",
+                        "naturalTranslation": "石油価格が上昇したとき、それは高価な抽出方法を採算の取れるものにし、広大な新しい埋蔵量を事実上解放した。",
+                        "vocabulary": [
+                            {
+                                "word": "extraction methods",
+                                "meaning": "抽出方法"
+                            },
+                            {
+                                "word": "profitable",
+                                "meaning": "採算の取れる"
+                            },
+                            {
+                                "word": "reserves",
+                                "meaning": "埋蔵量"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "When the price of oil rose",
+                                "explanation": "<b>when節構造</b>:<ul><li><b>S'</b>: the price of oil</li><li><b>V'</b>: rose</li></ul>時を表す副詞節。"
+                            },
+                            {
+                                "phrase": "made expensive extraction methods profitable",
+                                "explanation": "<b>make O C</b>: 「OをCにする」。SVOC構造。"
+                            },
+                            {
+                                "phrase": "effectively unlocking vast new reserves",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。「その結果〜を解放した」。"
+                            },
+                            {
+                                "phrase": "that Hubbert had considered useless geology",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: Hubbert</li><li><b>V'</b>: had considered</li><li><b>O'</b>: that (= reserves)</li><li><b>C'</b>: useless geology</li></ul>reservesを修飾。consider O C「OをCとみなす」。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 3,
+            "sentences": [
+                {
+                    "id": 12,
+                    "text": "Today, the implications of defying the Peak Oil prophecy are complex.",
+                    "translation": "今日、ピークオイルの予言を覆したことの意味は複雑である。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "are"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Today)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the implications of defying the Peak Oil prophecy</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>are</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>complex</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-M'>(今日)</span>、<span class='t-S'>ピークオイルの予言を覆したことの意味は</span> <span class='t-V'>である</span> <span class='t-C'>複雑</span>。",
+                        "naturalTranslation": "今日、ピークオイルの予言を覆したことの意味は複雑である。",
+                        "vocabulary": [
+                            {
+                                "word": "implications",
+                                "meaning": "意味、含意"
+                            },
+                            {
+                                "word": "defying",
+                                "meaning": "覆す、逆らう"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "the implications of defying",
+                                "explanation": "<b>前置詞 + 動名詞</b>: ofの目的語。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "text": "While technology saved the world from the immediate shortages Hubbert feared, it created a different kind of existential threat.",
+                    "translation": "技術はハバートが恐れた差し迫った不足から世界を救った一方で、それは別の種類の存在的脅威を生み出した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "created"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(While technology saved the world from the immediate shortages Hubbert feared)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>it</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>created</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a different kind of existential threat</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(While 技術は世界を救った一方で)</span>、<span class='t-S'>それは</span> <span class='t-V'>生み出した</span> <span class='t-O'>別の種類の存在的脅威を</span>。",
+                        "naturalTranslation": "技術はハバートが恐れた差し迫った不足から世界を救った一方で、それは別の種類の存在的脅威を生み出した。",
+                        "vocabulary": [
+                            {
+                                "word": "existential threat",
+                                "meaning": "存在的脅威"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "While technology saved the world",
+                                "explanation": "<b>譲歩のwhile節構造</b>:<ul><li><b>S'</b>: technology</li><li><b>V'</b>: saved</li><li><b>O'</b>: the world</li></ul>「〜した一方で」。"
+                            },
+                            {
+                                "phrase": "the immediate shortages Hubbert feared",
+                                "explanation": "<b>関係代名詞省略</b>: shortages (that) Hubbert feared。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "text": "The abundance of cheap fossil fuels has delayed the transition to renewable energy, exacerbating the climate crisis.",
+                    "translation": "安価な化石燃料の豊富さは再生可能エネルギーへの移行を遅らせ、気候危機を悪化させている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "has delayed"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The abundance of cheap fossil fuels</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has delayed</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the transition to renewable energy</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(exacerbating the climate crisis)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>安価な化石燃料の豊富さは</span> <span class='t-V'>遅らせている</span> <span class='t-O'>再生可能エネルギーへの移行を</span>、<span class='t-M'>(気候危機を悪化させながら)</span>。",
+                        "naturalTranslation": "安価な化石燃料の豊富さは再生可能エネルギーへの移行を遅らせ、気候危機を悪化させている。",
+                        "vocabulary": [
+                            {
+                                "word": "abundance",
+                                "meaning": "豊富さ"
+                            },
+                            {
+                                "word": "transition",
+                                "meaning": "移行"
+                            },
+                            {
+                                "word": "exacerbating",
+                                "meaning": "悪化させる"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "has delayed",
+                                "explanation": "<b>現在完了</b>: 継続を表す。"
+                            },
+                            {
+                                "phrase": "exacerbating the climate crisis",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。「その結果〜を悪化させている」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "text": "The belief that technology will always provide a solution—proven \"correct\" in the case of oil supply—has led to a dangerous complacency regarding global warming.",
+                    "translation": "技術は常に解決策を提供するという信念—石油供給の場合に「正しい」と証明された—は、地球温暖化に関する危険な自己満足につながっている。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "has led"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The belief (that technology will always provide a solution) (—proven \"correct\" in the case of oil supply—)</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>has led to</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a dangerous complacency regarding global warming</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>信念は(that...)(ーーと証明されたーー)</span> <span class='t-V'>つながっている</span> <span class='t-O'>危険な自己満足に</span>。",
+                        "naturalTranslation": "技術は常に解決策を提供するという信念は、石油供給の場合に「正しい」と証明され、地球温暖化に関する危険な自己満足につながっている。",
+                        "vocabulary": [
+                            {
+                                "word": "complacency",
+                                "meaning": "自己満足"
+                            },
+                            {
+                                "word": "regarding",
+                                "meaning": "〜に関する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "that technology will always provide a solution",
+                                "explanation": "<b>同格のthat節構造</b>:<ul><li><b>S'</b>: technology</li><li><b>V'</b>: will provide</li><li><b>O'</b>: a solution</li></ul>beliefの内容を説明。"
+                            },
+                            {
+                                "phrase": "—proven \"correct\" in the case of oil supply—",
+                                "explanation": "<b>ダッシュによる挿入</b>: 補足説明。過去分詞から始まる形容詞句。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "text": "Just as in the debate between Hubbert and his critics, the public is often polarized between \"doomers\" who predict collapse and \"techno-optimists\" who believe scientific breakthroughs will fix everything.",
+                    "translation": "ハバートと彼の批判者たちの議論と同様に、一般の人々はしばしば崩壊を予測する「破滅論者」と科学的ブレークスルーがすべてを解決すると信じる「テクノ楽観主義者」の間で二極化している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "is polarized"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Just as in the debate between Hubbert and his critics)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the public</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>is often polarized</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(between \"doomers\" who predict collapse and \"techno-optimists\" who believe...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(〜の議論と同様に)</span>、<span class='t-S'>一般の人々は</span> <span class='t-V'>しばしば二極化している</span> <span class='t-M'>(「破滅論者」と「テクノ楽観主義者」の間で)</span>。",
+                        "naturalTranslation": "ハバートと批判者たちの議論と同様に、一般の人々は「破滅論者」と「テクノ楽観主義者」の間で二極化している。",
+                        "vocabulary": [
+                            {
+                                "word": "polarized",
+                                "meaning": "二極化した"
+                            },
+                            {
+                                "word": "doomers",
+                                "meaning": "破滅論者"
+                            },
+                            {
+                                "word": "techno-optimists",
+                                "meaning": "テクノ楽観主義者"
+                            },
+                            {
+                                "word": "breakthroughs",
+                                "meaning": "ブレークスルー、突破口"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Just as in the debate",
+                                "explanation": "<b>Just as</b>: 「〜と同様に」。"
+                            },
+                            {
+                                "phrase": "who predict collapse",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: who (= doomers)</li><li><b>V'</b>: predict</li><li><b>O'</b>: collapse</li></ul>doomersを修飾。"
+                            },
+                            {
+                                "phrase": "who believe scientific breakthroughs will fix everything",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: who (= techno-optimists)</li><li><b>V'</b>: believe</li><li><b>O'節</b>: scientific breakthroughs will fix everything</li></ul>techno-optimistsを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "text": "This division hinders the urgent, pragmatic cooperation needed to reduce carbon emissions, suggesting that solving the supply problem may have only accelerated the environmental one.",
+                    "translation": "この分断は、炭素排出量を削減するために必要な緊急かつ実用的な協力を妨げており、供給問題を解決することが環境問題を加速させただけかもしれないことを示唆している。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "hinders"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>This division</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>hinders</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the urgent, pragmatic cooperation (needed to reduce carbon emissions)</span><span class='tag'>O</span></span>, <span class='chunk M-group'><span class='text'>(suggesting that solving the supply problem may have only accelerated the environmental one)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>この分断は</span> <span class='t-V'>妨げている</span> <span class='t-O'>緊急かつ実用的な協力を(炭素排出量削減に必要な)</span>、<span class='t-M'>(suggesting that...)</span>。",
+                        "naturalTranslation": "この分断は炭素排出量を削減するために必要な緊急かつ実用的な協力を妨げ、供給問題を解決することが環境問題を加速させただけかもしれないことを示唆している。",
+                        "vocabulary": [
+                            {
+                                "word": "hinders",
+                                "meaning": "妨げる"
+                            },
+                            {
+                                "word": "pragmatic",
+                                "meaning": "実用的な"
+                            },
+                            {
+                                "word": "carbon emissions",
+                                "meaning": "炭素排出量"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "needed to reduce carbon emissions",
+                                "explanation": "<b>過去分詞</b>: cooperationを修飾する形容詞句。"
+                            },
+                            {
+                                "phrase": "suggesting that solving the supply problem...",
+                                "explanation": "<b>分詞構文 + that節構造</b>:<ul><li><b>S'</b>: solving the supply problem</li><li><b>V'</b>: may have accelerated</li><li><b>O'</b>: the environmental one</li></ul>結果を表す。「その結果〜を示唆している」。"
+                            },
+                            {
+                                "phrase": "may have only accelerated",
+                                "explanation": "<b>may have + 過去分詞</b>: 過去の推量。「〜したかもしれない」。"
+                            },
+                            {
+                                "phrase": "the environmental one",
+                                "explanation": "<b>one</b>: problemを指す代名詞。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "text": "M. King Hubbert's \"Peak Oil\" theory was based on the belief that",
+            "textTranslation": "M・キング・ハバートの「ピークオイル」理論は、どのような信念に基づいていましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "the United States would eventually stop importing oil from other countries to protect its economy.",
+                    "translation": "米国は経済を保護するために最終的に他国からの石油輸入を停止するだろう。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "oil was a limited resource that would inevitably run out because it was being used too quickly.",
+                    "translation": "石油は有限の資源であり、消費が速すぎるため必然的に枯渇するだろう。",
+                    "isCorrect": true,
+                    "highlight": "limited resource that would inevitably run out"
+                },
+                {
+                    "id": 3,
+                    "text": "new technology would make it possible to create synthetic oil, making natural oil unnecessary.",
+                    "translation": "新技術により合成石油の製造が可能になり、天然石油は不要になるだろう。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "economists were wrong to think that the price of oil would increase as it became harder to find.",
+                    "translation": "石油が見つけにくくなるにつれて価格が上昇すると考える経済学者は間違っていた。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 1,
+                "description": "第1段落。ハバートの理論が何に基づいていたか（was based on）を探しましょう。",
+                "targetSentenceId": 3,
+                "highlightWord": "finite resource",
+                "highlightWordSentenceId": 3
+            },
+            "keywords": [
+                "Peak Oil theory",
+                "based on",
+                "belief"
+            ],
+            "keywordExplanations": {
+                "based on": "「〜に基づいて」。第1段落のwas based onと対応。",
+                "belief": "信念。ideaと言い換え。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 3,
+                    "text": "was based on the idea",
+                    "keyword": "based on"
+                },
+                {
+                    "sentenceId": 3,
+                    "text": "oil is a finite resource",
+                    "keyword": "belief"
+                }
+            ],
+            "choiceAdvice": "1: 輸入停止？ 2: 有限資源で枯渇？ 3: 合成石油？ 4: 経済学者が間違い？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 3): 「ハバートの理論は、石油は何百万年もかけて形成された有限の資源(finite resource)であり、私たちは石油が補充されるよりもはるかに速く消費している(consuming it far faster)という考えに基づいていた」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】finite resource = limited resource、consuming far faster → would run out。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢2「石油は有限の資源であり、消費が速すぎるため必然的に枯渇するだろう」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 2"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Why did Hubbert's prediction eventually prove to be inaccurate?",
+            "textTranslation": "なぜハバートの予測は最終的に不正確であることが判明しましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "He did not anticipate that new technologies would make it possible to access oil sources that were once unreachable.",
+                    "translation": "彼は、新技術がかつてはアクセスできなかった石油源へのアクセスを可能にすることを予想していなかった。",
+                    "isCorrect": true,
+                    "highlight": "new technologies would make it possible to access oil sources that were once unreachable"
+                },
+                {
+                    "id": 2,
+                    "text": "The demand for oil decreased significantly in the 21st century due to the rise of electric vehicles.",
+                    "translation": "電気自動車の台頭により、21世紀に石油需要が大幅に減少した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "The United States government passed laws that restricted the amount of oil that companies could produce.",
+                    "translation": "米国政府は企業が生産できる石油量を制限する法律を可決した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "He overestimated the amount of oil that was available in rock formations, leading to a surplus.",
+                    "translation": "彼は岩石層で利用可能な石油量を過大評価し、供給過剰につながった。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 2,
+                "description": "第2段落。予測が不正確だった理由（failed to foresee / new technologies）を探しましょう。",
+                "targetSentenceId": 8,
+                "highlightWord": "New technologies like hydraulic fracturing",
+                "highlightWordSentenceId": 8
+            },
+            "keywords": [
+                "prediction",
+                "prove",
+                "inaccurate"
+            ],
+            "keywordExplanations": {
+                "inaccurate": "不正確。第2段落のfailed to foreseeと対応。",
+                "prove": "証明される。なぜ予測が外れたかを問う。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 7,
+                    "text": "failed to foresee the \"shale revolution\"",
+                    "keyword": "inaccurate"
+                },
+                {
+                    "sentenceId": 8,
+                    "text": "New technologies ... allowed energy companies to extract oil",
+                    "keyword": "prediction"
+                }
+            ],
+            "choiceAdvice": "1: 新技術でアクセス可能に？ 2: 電気自動車で需要減少？ 3: 法律で生産制限？ 4: 石油量を過大評価？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 7): 「彼は21世紀の『シェール革命』を予見できなかった(failed to foresee)」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 8): 「水圧破砕法や水平掘削といった新技術(new technologies)により、エネルギー企業は以前はアクセスできなかった(previously inaccessible)岩石層から石油を抽出することが可能になった」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】new technologies → previously inaccessible → once unreachable。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢1「新技術がかつてはアクセスできなかった石油源へのアクセスを可能にした」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "What does the author suggest about the impact of the \"shale revolution\"?",
+            "textTranslation": "著者は「シェール革命」の影響について何を示唆していますか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "It has proven that renewable energy sources are not yet efficient enough to replace fossil fuels.",
+                    "translation": "再生可能エネルギー源は化石燃料を置き換えるほど効率的ではないことを証明した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "It has created a false sense of security that technology can solve all environmental problems, including climate change.",
+                    "translation": "技術が気候変動を含むすべての環境問題を解決できるという誤った安心感を生み出した。",
+                    "isCorrect": true,
+                    "highlight": "false sense of security that technology can solve all environmental problems"
+                },
+                {
+                    "id": 3,
+                    "text": "It has led to a situation where the world is running out of oil faster than Hubbert had originally predicted.",
+                    "translation": "ハバートが当初予測したよりも速く石油が枯渇する状況につながった。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "It has encouraged politicians to work together to find a solution to the problem of global warming.",
+                    "translation": "政治家が地球温暖化問題の解決策を見つけるために協力し合うよう促した。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 3,
+                "description": "第3段落。シェール革命の影響について著者の見解（suggest / complacency）を探しましょう。",
+                "targetSentenceId": 15,
+                "highlightWord": "has led to a dangerous complacency regarding global warming",
+                "highlightWordSentenceId": 15
+            },
+            "keywords": [
+                "suggest",
+                "impact",
+                "shale revolution"
+            ],
+            "keywordExplanations": {
+                "suggest": "示唆する。著者の見解を問う。",
+                "impact": "影響。第3段落の内容。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 15,
+                    "text": "has led to a dangerous complacency",
+                    "keyword": "impact"
+                },
+                {
+                    "sentenceId": 17,
+                    "text": "may have only accelerated the environmental one",
+                    "keyword": "suggest"
+                }
+            ],
+            "choiceAdvice": "1: 再生可能エネルギーが非効率？ 2: 誤った安心感？ 3: 石油がより速く枯渇？ 4: 政治家が協力？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 15): 「技術は常に解決策を提供するという信念—石油供給の場合に『正しい』と証明された—は、地球温暖化に関する危険な自己満足(dangerous complacency)につながっている」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】dangerous complacency = false sense of security。技術がすべてを解決するという信念 = technology can solve all problems。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢2「技術が気候変動を含むすべての環境問題を解決できるという誤った安心感を生み出した」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 2"
+                }
+            ]
+        }
+    ],
+    "summaryForInstructors": {
+        "title": "The Peak Oil Prophecy（ピークオイルの予言）",
+        "intro": "地質科学者ハバートの「ピークオイル」理論とその後の展開について解説したパッセージ。1970年代に的中したかに見えた予測が「シェール革命」により覆され、その結果生じた新たな環境問題について論じています。",
+        "points": [
+            {
+                "label": "1. ハバートの理論（第1段落）",
+                "text": "20世紀半ば、地質科学者ハバートは米国の石油生産が1965-70年にピークを迎え終末的衰退に入ると予測。石油は有限資源であり消費が補充を上回るという考えに基づく。経済学者たちは市場の力と技術革新がそれを防ぐと反論。1970年に生産がピークし予言者として名声を得た。"
+            },
+            {
+                "label": "2. シェール革命（第2段落）",
+                "text": "数十年後、従来の石油生産は減少したが、ハバートは「シェール革命」を予見できなかった。水圧破砕法と水平掘削により以前はアクセス不能だった岩石層から抽出可能に。2010年代までに米国は世界最大の石油生産国に。価格上昇が高価な抽出方法を採算可能にし、「無用な地質」が新たな埋蔵量に。"
+            },
+            {
+                "label": "3. 新たな環境問題（第3段落）",
+                "text": "ピークオイル予言を覆した意味は複雑。技術は不足を救ったが別の脅威を生んだ。安価な化石燃料の豊富さが再生可能エネルギー移行を遅らせ気候危機を悪化。「技術は常に解決策を提供する」という信念が温暖化への危険な自己満足に。「破滅論者」と「テクノ楽観主義者」の二極化が協力を妨げ、供給問題解決が環境問題を加速させた可能性を示唆。"
+            }
+        ]
+    }
+}
+,
+    {
+    "id": "grade-pre1-original-balloon",
+    "grade": "準1級",
+    "title": "Flight to Freedom: The Berlin Balloon Escape",
+    "subTitle": "問題12",
+    "genre": "歴史 / ノンフィクション",
+    "similarProblems": {
+        "exam": "2023年度 第3回",
+        "title": "A Daring Escape"
+    },
+    "isOriginal": true,
+    "images": {
+        "content": "https://placehold.co/600x400?text=Berlin+Balloon",
+        "question": "https://placehold.co/600x400?text=Question+Image"
+    },
+    "content": [
+        {
+            "paragraphId": 1,
+            "sentences": [
+                {
+                    "id": 1,
+                    "text": "In the late 1970s, East Germany was a country isolated by the Iron Curtain, with its citizens strictly forbidden from crossing into West Germany.",
+                    "translation": "1970年代後半、東ドイツは鉄のカーテンによって孤立した国であり、市民は西ドイツへの越境を厳しく禁じられていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "was"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(In the late 1970s)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>East Germany</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>a country (isolated by the Iron Curtain)</span><span class='tag'>C</span></span>, <span class='chunk M-group'><span class='text'>(with its citizens strictly forbidden from...)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(1970年代後半)</span>、<span class='t-S'>東ドイツは</span> <span class='t-V'>だった</span> <span class='t-C'>国(鉄のカーテンによって孤立した)</span>、<span class='t-M'>(市民が〜を禁じられた状態で)</span>。",
+                        "naturalTranslation": "1970年代後半、東ドイツは鉄のカーテンによって孤立した国であり、市民は西ドイツへの越境を厳しく禁じられていた。",
+                        "vocabulary": [
+                            {
+                                "word": "Iron Curtain",
+                                "meaning": "鉄のカーテン"
+                            },
+                            {
+                                "word": "forbidden from",
+                                "meaning": "〜を禁じられた"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "isolated by the Iron Curtain",
+                                "explanation": "<b>過去分詞</b>: countryを修飾。"
+                            },
+                            {
+                                "phrase": "with its citizens strictly forbidden",
+                                "explanation": "<b>with + O + 過去分詞</b>: 付帯状況。「市民が禁じられた状態で」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "text": "The border was heavily fortified with walls, barbed wire, and armed guards under orders to shoot anyone attempting to escape.",
+                    "translation": "国境は壁、有刺鉄線、そして脱出を試みる者を射殺する命令を受けた武装した警備員によって厳重に要塞化されていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "was fortified"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The border</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was heavily fortified</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(with walls, barbed wire, and armed guards (under orders to shoot anyone...))</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>国境は</span> <span class='t-V'>厳重に要塞化されていた</span> <span class='t-M'>(壁、有刺鉄線、武装警備員によって)</span>。",
+                        "naturalTranslation": "国境は壁、有刺鉄線、そして脱出を試みる者を射殺する命令を受けた武装した警備員によって厳重に要塞化されていた。",
+                        "vocabulary": [
+                            {
+                                "word": "fortified",
+                                "meaning": "要塞化された"
+                            },
+                            {
+                                "word": "barbed wire",
+                                "meaning": "有刺鉄線"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "under orders to shoot",
+                                "explanation": "<b>under orders to do</b>: 「〜する命令を受けて」。"
+                            },
+                            {
+                                "phrase": "anyone attempting to escape",
+                                "explanation": "<b>現在分詞</b>: anyoneを修飾。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "text": "Living under the constant surveillance of the Stasi secret police, Peter Strelzyk and Günter Wetzel dreamed of a life of freedom for themselves and their families.",
+                    "translation": "シュタージ秘密警察の絶え間ない監視下で暮らしながら、ペーター・シュトレルツィクとギュンター・ヴェッツェルは、自分たちと家族のための自由な生活を夢見ていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "dreamed"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Living under the constant surveillance of the Stasi secret police)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>Peter Strelzyk and Günter Wetzel</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>dreamed of</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a life of freedom</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(監視下で暮らしながら)</span>、<span class='t-S'>ペーターとギュンターは</span> <span class='t-V'>夢見た</span> <span class='t-O'>自由な生活を</span>。",
+                        "naturalTranslation": "シュタージ秘密警察の監視下で暮らしながら、二人は自分たちと家族のための自由な生活を夢見ていた。",
+                        "vocabulary": [
+                            {
+                                "word": "surveillance",
+                                "meaning": "監視"
+                            },
+                            {
+                                "word": "Stasi",
+                                "meaning": "シュタージ（東ドイツ秘密警察）"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Living under the constant surveillance",
+                                "explanation": "<b>分詞構文</b>: 背景・状況を表す。「〜しながら」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "text": "However, traditional escape routes were nearly impossible.",
+                    "translation": "しかし、従来の脱出ルートはほぼ不可能だった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "were"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(However)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>traditional escape routes</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>nearly impossible</span><span class='tag'>C</span></span>.",
+                        "translationHtml": "<span class='t-M'>(しかし)</span>、<span class='t-S'>従来の脱出ルートは</span> <span class='t-V'>だった</span> <span class='t-C'>ほぼ不可能</span>。",
+                        "naturalTranslation": "しかし、従来の脱出ルートはほぼ不可能だった。",
+                        "vocabulary": [
+                            {
+                                "word": "escape routes",
+                                "meaning": "脱出ルート"
+                            }
+                        ],
+                        "grammarNotes": []
+                    }
+                },
+                {
+                    "id": 5,
+                    "text": "Tunnels were being discovered, and hidden compartments in cars were routinely checked.",
+                    "translation": "トンネルは発見されつつあり、車の隠し区画も日常的にチェックされていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "were being discovered",
+                            "were checked"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Tunnels</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were being discovered</span><span class='tag'>V</span></span>, and <span class='chunk S-group'><span class='text'>hidden compartments in cars</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>were routinely checked</span><span class='tag'>V</span></span>.",
+                        "translationHtml": "<span class='t-S'>トンネルは</span> <span class='t-V'>発見されつつあった</span>、and <span class='t-S'>隠し区画は</span> <span class='t-V'>日常的にチェックされていた</span>。",
+                        "naturalTranslation": "トンネルは発見されつつあり、車の隠し区画も日常的にチェックされていた。",
+                        "vocabulary": [
+                            {
+                                "word": "compartments",
+                                "meaning": "区画"
+                            },
+                            {
+                                "word": "routinely",
+                                "meaning": "日常的に"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "were being discovered",
+                                "explanation": "<b>過去進行形の受動態</b>: 「発見されつつあった」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "text": "Strelzyk and Wetzel realized they needed a method that the border guards would not expect and could not easily intercept.",
+                    "translation": "シュトレルツィクとヴェッツェルは、国境警備員が予想せず、簡単に阻止できない方法が必要だと気づいた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "realized"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Strelzyk and Wetzel</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>realized</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>they needed a method (that the border guards would not expect and could not easily intercept)</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>二人は</span> <span class='t-V'>気づいた</span> <span class='t-O'>[彼らは方法が必要だと(that...)]</span>。",
+                        "naturalTranslation": "シュトレルツィクとヴェッツェルは、国境警備員が予想せず、簡単に阻止できない方法が必要だと気づいた。",
+                        "vocabulary": [
+                            {
+                                "word": "intercept",
+                                "meaning": "阻止する"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "they needed a method",
+                                "explanation": "<b>that節構造（thatは省略）</b>:<ul><li><b>S'</b>: they</li><li><b>V'</b>: needed</li><li><b>O'</b>: a method</li></ul>realizedの目的語。"
+                            },
+                            {
+                                "phrase": "that the border guards would not expect and could not easily intercept",
+                                "explanation": "<b>関係代名詞節構造</b>:<ul><li><b>S'</b>: the border guards</li><li><b>V'</b>: would not expect / could not intercept</li><li><b>O'</b>: that (= method)</li></ul>methodを修飾。目的格関係代名詞。2つの述語動詞が並列。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "text": "After much discussion, they settled on an audacious idea: they would build a hot air balloon and fly over the border at night.",
+                    "translation": "多くの議論の末、彼らは大胆なアイデアに落ち着いた：熱気球を作り、夜間に国境を越えて飛ぶのだ。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "settled",
+                            "would build"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(After much discussion)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>settled on</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>an audacious idea</span><span class='tag'>O</span></span>: <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>would build</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a hot air balloon</span><span class='tag'>O</span></span> and fly over the border.",
+                        "translationHtml": "<span class='t-M'>(多くの議論の末)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>落ち着いた</span> <span class='t-O'>大胆なアイデアに</span>：<span class='t-S'>彼らは</span> <span class='t-V'>作り</span> <span class='t-O'>熱気球を</span>...。",
+                        "naturalTranslation": "多くの議論の末、彼らは大胆なアイデアに落ち着いた：熱気球を作り、夜間に国境を越えて飛ぶのだ。",
+                        "vocabulary": [
+                            {
+                                "word": "audacious",
+                                "meaning": "大胆な"
+                            },
+                            {
+                                "word": "settled on",
+                                "meaning": "〜に落ち着いた"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": ":",
+                                "explanation": "<b>コロン</b>: 前述のideaの具体的内容を説明。"
+                            },
+                            {
+                                "phrase": "would build",
+                                "explanation": "<b>would</b>: 過去から見た未来。計画を表す。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 2,
+            "sentences": [
+                {
+                    "id": 8,
+                    "text": "The plan required months of secret and dangerous preparation.",
+                    "translation": "計画には何ヶ月もの秘密で危険な準備が必要だった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "required"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The plan</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>required</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>months of secret and dangerous preparation</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>計画は</span> <span class='t-V'>必要とした</span> <span class='t-O'>何ヶ月もの秘密で危険な準備を</span>。",
+                        "naturalTranslation": "計画には何ヶ月もの秘密で危険な準備が必要だった。",
+                        "vocabulary": [
+                            {
+                                "word": "preparation",
+                                "meaning": "準備"
+                            }
+                        ],
+                        "grammarNotes": []
+                    }
+                },
+                {
+                    "id": 9,
+                    "text": "They had to purchase large quantities of fabric without arousing suspicion, often traveling to distant towns to buy small amounts at a time.",
+                    "translation": "彼らは疑惑を招かずに大量の布地を購入しなければならず、少量ずつ買うために遠くの町まで足を運ぶことも多かった。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "had to purchase"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>had to purchase</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>large quantities of fabric</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(without arousing suspicion)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(often traveling to distant towns to buy small amounts at a time)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>彼らは</span> <span class='t-V'>購入しなければならなかった</span> <span class='t-O'>大量の布地を</span> <span class='t-M'>(疑惑を招かずに)</span>、<span class='t-M'>(しばしば遠くの町に移動しながら...)</span>。",
+                        "naturalTranslation": "彼らは疑惑を招かずに大量の布地を購入しなければならず、少量ずつ買うために遠くの町まで足を運ぶこともあった。",
+                        "vocabulary": [
+                            {
+                                "word": "arousing suspicion",
+                                "meaning": "疑惑を招く"
+                            },
+                            {
+                                "word": "quantities",
+                                "meaning": "量"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "without arousing suspicion",
+                                "explanation": "<b>without + 動名詞</b>: 「〜することなく」。"
+                            },
+                            {
+                                "phrase": "often traveling to distant towns",
+                                "explanation": "<b>分詞構文</b>: 付帯状況。「しばしば〜しながら」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "text": "Using an old sewing machine in a hidden attic, their wives, Doris and Petra, stitched together scraps of taffeta and bedsheets to create the massive balloon envelope.",
+                    "translation": "隠された屋根裏部屋で古いミシンを使い、彼らの妻であるドリスとペトラはタフタとシーツの切れ端を縫い合わせて巨大な気球の外皮を作った。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "stitched"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Using an old sewing machine in a hidden attic)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>their wives, (Doris and Petra)</span><span class='tag'>S</span></span>, <span class='chunk V-group'><span class='text'>stitched together</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>scraps of taffeta and bedsheets</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(to create the massive balloon envelope)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(古いミシンを使いながら)</span>、<span class='t-S'>彼らの妻(ドリスとペトラ)は</span>、<span class='t-V'>縫い合わせた</span> <span class='t-O'>切れ端を</span> <span class='t-M'>(気球の外皮を作るために)</span>。",
+                        "naturalTranslation": "隠された屋根裏部屋で古いミシンを使い、彼らの妻であるドリスとペトラはタフタとシーツの切れ端を縫い合わせて巨大な気球の外皮を作った。",
+                        "vocabulary": [
+                            {
+                                "word": "sewing machine",
+                                "meaning": "ミシン"
+                            },
+                            {
+                                "word": "taffeta",
+                                "meaning": "タフタ（絹織物）"
+                            },
+                            {
+                                "word": "envelope",
+                                "meaning": "外皮"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Using an old sewing machine",
+                                "explanation": "<b>分詞構文</b>: 手段を表す。「〜を使って」。"
+                            },
+                            {
+                                "phrase": "Doris and Petra",
+                                "explanation": "<b>同格</b>: their wivesを具体化。"
+                            },
+                            {
+                                "phrase": "to create the massive balloon envelope",
+                                "explanation": "<b>不定詞（副詞的用法）</b>: 目的を表す。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "text": "Meanwhile, the men engineered a burner using propane gas cylinders and a homemade platform.",
+                    "translation": "一方、男性たちはプロパンガスボンベと手作りのプラットフォームを使ってバーナーを設計した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "engineered"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Meanwhile)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the men</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>engineered</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a burner</span><span class='tag'>O</span></span> <span class='chunk M-group'><span class='text'>(using propane gas cylinders and a homemade platform)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(一方)</span>、<span class='t-S'>男性たちは</span> <span class='t-V'>設計した</span> <span class='t-O'>バーナーを</span> <span class='t-M'>(〜を使って)</span>。",
+                        "naturalTranslation": "一方、男性たちはプロパンガスボンベと手作りのプラットフォームを使ってバーナーを設計した。",
+                        "vocabulary": [
+                            {
+                                "word": "engineered",
+                                "meaning": "設計した"
+                            },
+                            {
+                                "word": "propane",
+                                "meaning": "プロパン"
+                            },
+                            {
+                                "word": "homemade",
+                                "meaning": "手作りの"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "using propane gas cylinders",
+                                "explanation": "<b>分詞構文</b>: 手段を表す。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 12,
+                    "text": "They faced numerous setbacks, including a failed first attempt where the balloon tore and crashed just meters from the border.",
+                    "translation": "彼らは数多くの挫折に直面した。気球が破れて国境からわずか数メートルのところで墜落した最初の試みの失敗も含まれていた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "faced"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>They</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>faced</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>numerous setbacks, (including a failed first attempt (where the balloon tore and crashed...))</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-S'>彼らは</span> <span class='t-V'>直面した</span> <span class='t-O'>数多くの挫折に(失敗した最初の試みを含む(where...))</span>。",
+                        "naturalTranslation": "彼らは数多くの挫折に直面した。気球が破れて国境からわずか数メートルのところで墜落した最初の試みの失敗も含まれていた。",
+                        "vocabulary": [
+                            {
+                                "word": "setbacks",
+                                "meaning": "挫折"
+                            },
+                            {
+                                "word": "tore",
+                                "meaning": "破れた（tearの過去形）"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "including a failed first attempt",
+                                "explanation": "<b>including</b>: 「〜を含む」。前置詞的用法。"
+                            },
+                            {
+                                "phrase": "where the balloon tore and crashed",
+                                "explanation": "<b>関係副詞where節構造</b>:<ul><li><b>S'</b>: the balloon</li><li><b>V'</b>: tore and crashed</li></ul>attemptを修飾。「そこで〜した」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "text": "Terrified that the crash site would reveal their identity to the police, they frantically worked to build a second, larger balloon in record time, fearing that the Stasi were closing in on them.",
+                    "translation": "墜落現場が警察に彼らの身元を明らかにするのではないかと恐れ、シュタージが迫っているのではないかと恐れながら、彼らは記録的な速さで2つ目のより大きな気球を必死に作った。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "worked"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Terrified that the crash site would reveal their identity to the police)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(frantically)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>worked</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(to build a second, larger balloon in record time)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(fearing that the Stasi were closing in on them)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(〜と恐れて)</span>、<span class='t-S'>彼らは</span> <span class='t-M'>(必死に)</span> <span class='t-V'>働いた</span> <span class='t-M'>(2つ目の気球を作るために)</span>、<span class='t-M'>(シュタージが迫っているのを恐れながら)</span>。",
+                        "naturalTranslation": "墜落現場が彼らの身元を明らかにするのではないかと恐れ、シュタージが迫っていることを恐れながら、彼らは記録的な速さで2つ目のより大きな気球を必死に作った。",
+                        "vocabulary": [
+                            {
+                                "word": "frantically",
+                                "meaning": "必死に"
+                            },
+                            {
+                                "word": "closing in on",
+                                "meaning": "〜に迫る"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Terrified that the crash site would reveal",
+                                "explanation": "<b>過去分詞 + that節構造</b>:<ul><li><b>S'</b>: the crash site</li><li><b>V'</b>: would reveal</li><li><b>O'</b>: their identity</li></ul>感情の原因。「〜と恐れて」。"
+                            },
+                            {
+                                "phrase": "to build a second, larger balloon",
+                                "explanation": "<b>不定詞（副詞的用法）</b>: 目的を表す。"
+                            },
+                            {
+                                "phrase": "fearing that the Stasi were closing in",
+                                "explanation": "<b>分詞構文 + that節構造</b>:<ul><li><b>S'</b>: the Stasi</li><li><b>V'</b>: were closing in</li><li><b>M'</b>: on them</li></ul>付帯状況。「〜を恐れながら」。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "paragraphId": 3,
+            "sentences": [
+                {
+                    "id": 14,
+                    "text": "On a windy night in September 1979, the two families packed into the fragile craft.",
+                    "translation": "1979年9月の風の強い夜、2つの家族は壊れやすい乗り物に乗り込んだ。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "packed"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(On a windy night in September 1979)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the two families</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>packed into</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>the fragile craft</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(1979年9月の風の強い夜)</span>、<span class='t-S'>2つの家族は</span> <span class='t-V'>乗り込んだ</span> <span class='t-O'>壊れやすい乗り物に</span>。",
+                        "naturalTranslation": "1979年9月の風の強い夜、2つの家族は壊れやすい乗り物に乗り込んだ。",
+                        "vocabulary": [
+                            {
+                                "word": "fragile",
+                                "meaning": "壊れやすい"
+                            },
+                            {
+                                "word": "craft",
+                                "meaning": "乗り物、船"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "packed into",
+                                "explanation": "<b>pack into</b>: 「〜に詰め込む/乗り込む」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "text": "Launching from a forest clearing, the balloon ascended rapidly, carried by the currents toward the West.",
+                    "translation": "森の空き地から発進し、気球は急速に上昇し、気流に乗って西へ運ばれた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "ascended"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Launching from a forest clearing)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the balloon</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>ascended rapidly</span><span class='tag'>V</span></span>, <span class='chunk M-group'><span class='text'>(carried by the currents toward the West)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(森の空き地から発進しながら)</span>、<span class='t-S'>気球は</span> <span class='t-V'>急速に上昇した</span>、<span class='t-M'>(気流に乗って西へ運ばれながら)</span>。",
+                        "naturalTranslation": "森の空き地から発進し、気球は急速に上昇し、気流に乗って西へ運ばれた。",
+                        "vocabulary": [
+                            {
+                                "word": "clearing",
+                                "meaning": "空き地"
+                            },
+                            {
+                                "word": "ascended",
+                                "meaning": "上昇した"
+                            },
+                            {
+                                "word": "currents",
+                                "meaning": "気流"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Launching from a forest clearing",
+                                "explanation": "<b>分詞構文</b>: 時/状況を表す。"
+                            },
+                            {
+                                "phrase": "carried by the currents",
+                                "explanation": "<b>過去分詞</b>: 付帯状況を表す分詞構文。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "text": "As they floated through the dark sky, they risked being spotted by searchlights or shot down by border patrols.",
+                    "translation": "暗い空を漂いながら、彼らはサーチライトに発見されたり、国境パトロールに撃墜されたりする危険を冒していた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "risked"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(As they floated through the dark sky)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>risked</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>being spotted by searchlights or shot down by border patrols</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(暗い空を漂いながら)</span>、<span class='t-S'>彼らは</span> <span class='t-V'>危険を冒した</span> <span class='t-O'>発見されるか撃墜される</span>。",
+                        "naturalTranslation": "暗い空を漂いながら、彼らはサーチライトに発見されたり、国境パトロールに撃墜されたりする危険を冒していた。",
+                        "vocabulary": [
+                            {
+                                "word": "searchlights",
+                                "meaning": "サーチライト"
+                            },
+                            {
+                                "word": "border patrols",
+                                "meaning": "国境パトロール"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "As they floated through the dark sky",
+                                "explanation": "<b>as節構造</b>:<ul><li><b>S'</b>: they</li><li><b>V'</b>: floated</li><li><b>M'</b>: through the dark sky</li></ul>「〜しながら」。同時進行を表す。"
+                            },
+                            {
+                                "phrase": "risked being spotted or shot down",
+                                "explanation": "<b>risk + 動名詞</b>: 「〜する危険を冒す」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "text": "The flight was short and chaotic; the burner failed as they ran out of gas, forcing a crash landing in a field.",
+                    "translation": "飛行は短く混沌としていた。ガスが切れてバーナーが故障し、畑に不時着を余儀なくされた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "was",
+                            "failed"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>The flight</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>was</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>short and chaotic</span><span class='tag'>C</span></span>; <span class='chunk S-group'><span class='text'>the burner</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>failed</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(as they ran out of gas)</span><span class='tag'>M</span></span>, <span class='chunk M-group'><span class='text'>(forcing a crash landing in a field)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>飛行は</span> <span class='t-V'>だった</span> <span class='t-C'>短く混沌とした</span>；<span class='t-S'>バーナーは</span> <span class='t-V'>故障した</span> <span class='t-M'>(ガスが切れたため)</span>、<span class='t-M'>(不時着を余儀なくしながら)</span>。",
+                        "naturalTranslation": "飛行は短く混沌としていた。ガスが切れてバーナーが故障し、畑に不時着を余儀なくされた。",
+                        "vocabulary": [
+                            {
+                                "word": "chaotic",
+                                "meaning": "混沌とした"
+                            },
+                            {
+                                "word": "crash landing",
+                                "meaning": "不時着"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "; the burner failed",
+                                "explanation": "<b>セミコロン</b>: 2つの関連する文を接続。"
+                            },
+                            {
+                                "phrase": "as they ran out of gas",
+                                "explanation": "<b>as節構造</b>:<ul><li><b>S'</b>: they</li><li><b>V'</b>: ran out of</li><li><b>O'</b>: gas</li></ul>理由/時を表す。「〜したため」。"
+                            },
+                            {
+                                "phrase": "forcing a crash landing",
+                                "explanation": "<b>分詞構文</b>: 結果を表す。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 18,
+                    "text": "Unsure of their location, they cautiously approached a police officer.",
+                    "translation": "自分たちの場所が分からず、彼らは警察官に慎重に近づいた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "approached"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(Unsure of their location)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>they</span><span class='tag'>S</span></span> <span class='chunk M-group'><span class='text'>(cautiously)</span><span class='tag'>M</span></span> <span class='chunk V-group'><span class='text'>approached</span><span class='tag'>V</span></span> <span class='chunk O-group'><span class='text'>a police officer</span><span class='tag'>O</span></span>.",
+                        "translationHtml": "<span class='t-M'>(場所が分からず)</span>、<span class='t-S'>彼らは</span> <span class='t-M'>(慎重に)</span> <span class='t-V'>近づいた</span> <span class='t-O'>警察官に</span>。",
+                        "naturalTranslation": "自分たちの場所が分からず、彼らは警察官に慎重に近づいた。",
+                        "vocabulary": [
+                            {
+                                "word": "cautiously",
+                                "meaning": "慎重に"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "Unsure of their location",
+                                "explanation": "<b>形容詞句</b>: 理由を表す分詞構文的用法。「〜が分からなかったので」。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 19,
+                    "text": "When the officer informed them, confused but calm, that they were in Naila, West Germany, the families wept with relief.",
+                    "translation": "警官が、困惑しながらも冷静に、彼らがナイラという西ドイツにいることを告げたとき、家族たちは安堵のあまり泣いた。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "wept"
+                        ],
+                        "structureHtml": "<span class='chunk M-group'><span class='text'>(When the officer informed them, (confused but calm), that they were in Naila, West Germany)</span><span class='tag'>M</span></span>, <span class='chunk S-group'><span class='text'>the families</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>wept</span><span class='tag'>V</span></span> <span class='chunk M-group'><span class='text'>(with relief)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-M'>(When 警官が告げたとき(困惑しながらも冷静に)(that彼らが西ドイツにいることを))</span>、<span class='t-S'>家族たちは</span> <span class='t-V'>泣いた</span> <span class='t-M'>(安堵で)</span>。",
+                        "naturalTranslation": "警官が、困惑しながらも冷静に、彼らがナイラという西ドイツにいることを告げたとき、家族たちは安堵のあまり泣いた。",
+                        "vocabulary": [
+                            {
+                                "word": "wept",
+                                "meaning": "泣いた（weepの過去形）"
+                            },
+                            {
+                                "word": "relief",
+                                "meaning": "安堵"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "When the officer informed them ... that they were in Naila",
+                                "explanation": "<b>when節構造</b>:<ul><li><b>S'</b>: the officer</li><li><b>V'</b>: informed</li><li><b>O1'</b>: them</li><li><b>O2'</b>: that they were in Naila (= that節: S'' they / V'' were / C'' in Naila)</li></ul>inform O1 that O2「O1にO2を伝える」。"
+                            },
+                            {
+                                "phrase": "confused but calm",
+                                "explanation": "<b>挿入形容詞</b>: 警官の状態を説明。「困惑しながらも冷静な」。"
+                            },
+                            {
+                                "phrase": "that they were in Naila",
+                                "explanation": "<b>that節</b>: informの直接目的語。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 20,
+                    "text": "Their daring aerial escape became a symbol of the human desire for liberty, proving that ingenuity could overcome even the most fortified barriers.",
+                    "translation": "彼らの大胆な空中脱出は、人間の自由への欲求の象徴となり、創意工夫が最も要塞化された障壁さえも克服できることを証明した。",
+                    "grammarAnalysis": {
+                        "mainVerbs": [
+                            "became"
+                        ],
+                        "structureHtml": "<span class='chunk S-group'><span class='text'>Their daring aerial escape</span><span class='tag'>S</span></span> <span class='chunk V-group'><span class='text'>became</span><span class='tag'>V</span></span> <span class='chunk C-group'><span class='text'>a symbol of the human desire for liberty</span><span class='tag'>C</span></span>, <span class='chunk M-group'><span class='text'>(proving that ingenuity could overcome even the most fortified barriers)</span><span class='tag'>M</span></span>.",
+                        "translationHtml": "<span class='t-S'>彼らの大胆な空中脱出は</span> <span class='t-V'>なった</span> <span class='t-C'>象徴に</span>、<span class='t-M'>(proving that...)</span>。",
+                        "naturalTranslation": "彼らの大胆な空中脱出は、人間の自由への欲求の象徴となり、創意工夫が最も要塞化された障壁さえも克服できることを証明した。",
+                        "vocabulary": [
+                            {
+                                "word": "daring",
+                                "meaning": "大胆な"
+                            },
+                            {
+                                "word": "aerial",
+                                "meaning": "空中の"
+                            },
+                            {
+                                "word": "ingenuity",
+                                "meaning": "創意工夫"
+                            }
+                        ],
+                        "grammarNotes": [
+                            {
+                                "phrase": "proving that ingenuity could overcome",
+                                "explanation": "<b>分詞構文 + that節構造</b>:<ul><li><b>S'</b>: ingenuity</li><li><b>V'</b>: could overcome</li><li><b>O'</b>: even the most fortified barriers</li></ul>結果を表す。「その結果〜を証明した」。"
+                            },
+                            {
+                                "phrase": "even the most fortified barriers",
+                                "explanation": "<b>even + 最上級</b>: 「最も〜なものさえ」強調。"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "text": "What problem did Strelzyk and Wetzel face when planning their escape?",
+            "textTranslation": "シュトレルツィクとヴェッツェルは脱出計画を立てる際にどのような問題に直面しましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "They had no family members willing to join them on such a dangerous journey.",
+                    "translation": "そのような危険な旅に参加してくれる家族がいなかった。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "The border was so well-protected that standard methods of escaping were too dangerous to try.",
+                    "translation": "国境があまりにもよく守られていたため、標準的な脱出方法は危険すぎて試すことができなかった。",
+                    "isCorrect": true,
+                    "highlight": "border was so well-protected that standard methods were too dangerous"
+                },
+                {
+                    "id": 3,
+                    "text": "The West German government had announced that it would no longer accept refugees from the East.",
+                    "translation": "西ドイツ政府は東からの難民を受け入れないと発表していた。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "They differed in their opinions on whether a tunnel or a balloon would be the safer option.",
+                    "translation": "トンネルと気球のどちらがより安全な選択肢かについて意見が分かれていた。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 1,
+                "description": "第1段落。脱出計画を立てる際にどのような問題があったか（problem / nearly impossible）を探しましょう。",
+                "targetSentenceId": 4,
+                "highlightWord": "traditional escape routes were nearly impossible",
+                "highlightWordSentenceId": 4
+            },
+            "keywords": [
+                "problem",
+                "planning",
+                "escape"
+            ],
+            "keywordExplanations": {
+                "problem": "問題。第1段落の状況説明。",
+                "escape": "脱出。traditional escape routesと対応。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 2,
+                    "text": "heavily fortified",
+                    "keyword": "problem"
+                },
+                {
+                    "sentenceId": 4,
+                    "text": "traditional escape routes were nearly impossible",
+                    "keyword": "escape"
+                }
+            ],
+            "choiceAdvice": "1: 家族が参加拒否？ 2: 国境が厳重で標準方法は危険？ 3: 西ドイツが難民拒否？ 4: 意見の相違？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 2): 「国境は壁、有刺鉄線、そして射殺命令を受けた武装警備員によって厳重に要塞化されていた(heavily fortified)」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 4-5): 「従来の脱出ルートはほぼ不可能(nearly impossible)だった。トンネルは発見され、車の隠し区画もチェックされていた」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】heavily fortified = well-protected、nearly impossible = too dangerous。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢2「国境があまりにもよく守られていたため、標準的な脱出方法は危険すぎて試すことができなかった」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 2"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "How did the families manage to build the balloon?",
+            "textTranslation": "家族たちはどのように気球を作りましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "They stole a finished balloon from a military base and modified it for their needs.",
+                    "translation": "軍事基地から完成した気球を盗み、必要に応じて改造した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "They bought all the necessary materials in their hometown, claiming they were starting a textile business.",
+                    "translation": "繊維事業を始めると言って、必要な材料をすべて地元で購入した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "They worked in secrecy, buying materials in small amounts to avoid attracting attention from the authorities.",
+                    "translation": "当局の注意を引かないように少量ずつ材料を購入し、秘密裏に作業した。",
+                    "isCorrect": true,
+                    "highlight": "worked in secrecy, buying materials in small amounts to avoid attracting attention"
+                },
+                {
+                    "id": 4,
+                    "text": "They received instructions and supplies dropped by aircraft sent from West Germany.",
+                    "translation": "西ドイツから送られた航空機によって投下された指示書と物資を受け取った。",
+                    "isCorrect": false
+                }
+            ],
+            "hint": {
+                "paragraphId": 2,
+                "description": "第2段落。気球をどのように作ったか（without arousing suspicion / small amounts）を探しましょう。",
+                "targetSentenceId": 9,
+                "highlightWord": "without arousing suspicion, often traveling to distant towns to buy small amounts",
+                "highlightWordSentenceId": 9
+            },
+            "keywords": [
+                "manage",
+                "build",
+                "balloon"
+            ],
+            "keywordExplanations": {
+                "manage to": "なんとか〜する。",
+                "build": "作る。第2段落の準備過程。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 8,
+                    "text": "secret and dangerous preparation",
+                    "keyword": "manage"
+                },
+                {
+                    "sentenceId": 9,
+                    "text": "without arousing suspicion, often traveling to distant towns to buy small amounts",
+                    "keyword": "build"
+                }
+            ],
+            "choiceAdvice": "1: 軍事基地から盗んだ？ 2: 地元で全て購入？ 3: 秘密裏に少量ずつ購入？ 4: 西ドイツから供給？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 8): 「計画には何ヶ月もの秘密で危険な準備(secret and dangerous preparation)が必要だった」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 9): 「彼らは疑惑を招かずに(without arousing suspicion)大量の布地を購入しなければならず、少量ずつ買うために(to buy small amounts)遠くの町まで足を運んだ」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】secret = secrecy、without arousing suspicion = avoid attracting attention、small amounts at a time。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢3「当局の注意を引かないように少量ずつ材料を購入し、秘密裏に作業した」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "What happened during the final escape attempt?",
+            "textTranslation": "最終的な脱出の試みの際に何が起こりましたか？",
+            "choices": [
+                {
+                    "id": 1,
+                    "text": "The balloon was spotted by searchlights and fired upon, forcing them to turn back.",
+                    "translation": "気球はサーチライトに発見されて銃撃され、引き返すことを余儀なくされた。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "text": "They landed safely in a designated airport in West Germany after a smooth flight.",
+                    "translation": "スムーズな飛行の後、西ドイツの指定された空港に安全に着陸した。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "text": "The Stasi arrived at the launch site just as they were taking off, but were too late to stop them.",
+                    "translation": "離陸しようとした瞬間にシュタージが発進地点に到着したが、彼らを止めるには遅すぎた。",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "text": "They ran out of fuel and crashed, initially unsure if they had actually made it across the border.",
+                    "translation": "燃料が切れて墜落し、最初は実際に国境を越えたかどうか分からなかった。",
+                    "isCorrect": true,
+                    "highlight": "ran out of fuel and crashed, initially unsure if they had made it across"
+                }
+            ],
+            "hint": {
+                "paragraphId": 3,
+                "description": "第3段落。最終的な脱出の際に何が起こったか（ran out of gas / Unsure of their location）を探しましょう。",
+                "targetSentenceId": 17,
+                "highlightWord": "ran out of gas, forcing a crash landing",
+                "highlightWordSentenceId": 17
+            },
+            "keywords": [
+                "final escape",
+                "happened"
+            ],
+            "keywordExplanations": {
+                "final escape": "最終的な脱出。第3段落の内容。",
+                "happened": "起こった。結果を問う。"
+            },
+            "keywordMatches": [
+                {
+                    "sentenceId": 17,
+                    "text": "ran out of gas, forcing a crash landing",
+                    "keyword": "happened"
+                },
+                {
+                    "sentenceId": 18,
+                    "text": "Unsure of their location",
+                    "keyword": "happened"
+                }
+            ],
+            "choiceAdvice": "1: サーチライトに撃たれた？ 2: 空港に着陸？ 3: シュタージが到着？ 4: 燃料切れで墜落し場所不明？",
+            "logic": [
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 17): 「ガスが切れて(ran out of gas)バーナーが故障し、畑に不時着(crash landing)を余儀なくされた」"
+                },
+                {
+                    "type": "text",
+                    "content": "本文(Sentence 18): 「自分たちの場所が分からず(Unsure of their location)、彼らは警察官に慎重に近づいた」"
+                },
+                {
+                    "type": "text",
+                    "content": "【決定要因】ran out of gas = ran out of fuel、crash landing = crashed、Unsure of their location = unsure if they had made it across。"
+                },
+                {
+                    "type": "arrow",
+                    "content": "↓"
+                },
+                {
+                    "type": "text",
+                    "content": "選択肢4「燃料が切れて墜落し、最初は実際に国境を越えたかどうか分からなかった」と一致する。"
+                },
+                {
+                    "type": "conclusion",
+                    "content": "正解: 4"
+                }
+            ]
+        }
+    ],
+    "summaryForInstructors": {
+        "title": "Flight to Freedom: The Berlin Balloon Escape（自由への飛行：ベルリン気球脱出）",
+        "intro": "1979年に東ドイツから西ドイツへ熱気球で脱出した2つの家族の実話。冷戦時代の鉄のカーテン、秘密裏の準備過程、そして劇的な脱出成功を描いたパッセージ。",
+        "points": [
+            {
+                "label": "1. 東ドイツの状況（第1段落）",
+                "text": "1970年代後半、東ドイツは鉄のカーテンで孤立。国境は壁・有刺鉄線・射殺命令を受けた武装警備員で要塞化。シュタージの監視下でシュトレルツィクとヴェッツェルは自由を夢見るが、従来の脱出ルート（トンネル、車の隠し区画）はほぼ不可能。彼らは予想外かつ阻止困難な方法として熱気球での夜間越境を決意。"
+            },
+            {
+                "label": "2. 秘密の準備（第2段落）",
+                "text": "計画には何ヶ月もの秘密で危険な準備が必要。疑惑を避けるため遠方の町で少量ずつ布地を購入。妻たちは隠された屋根裏でタフタとシーツを縫い合わせ気球外皮を作成。男性たちはプロパンガスと手作りプラットフォームでバーナーを設計。最初の試みは国境数メートルで墜落。身元発覚を恐れ記録的速さで2つ目の大型気球を製作。"
+            },
+            {
+                "label": "3. 脱出成功（第3段落）",
+                "text": "1979年9月の風の強い夜、森の空き地から発進。急上昇しサーチライトや撃墜の危険を冒しながら西へ。飛行は短く混沌—ガス切れでバーナー故障し畑に不時着。場所が分からず警察官に慎重に接近。西ドイツのナイラにいると告げられ安堵の涙。この大胆な空中脱出は自由への人間の欲求の象徴となり、創意工夫が最強の障壁も克服できることを証明。"
+            }
+        ]
+    }
+}
 ];
