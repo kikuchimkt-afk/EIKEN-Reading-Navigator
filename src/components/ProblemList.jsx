@@ -540,21 +540,7 @@ export function ProblemList({ onSelectPassage, activeGrade, onGradeChange }) {
                                             gap: '0.85rem',
                                             marginBottom: '0.85rem'
                                         }}>
-                                            {/* Question Count Badge - Green outline only */}
-                                            {passage.questions && passage.questions.length > 0 && (
-                                                <span style={{
-                                                    background: 'transparent',
-                                                    color: '#22c55e',
-                                                    padding: '0.35rem 0.75rem',
-                                                    borderRadius: '8px',
-                                                    fontSize: '0.85rem',
-                                                    fontWeight: '700',
-                                                    border: '2.5px solid #22c55e',
-                                                    letterSpacing: '0.04em'
-                                                }}>
-                                                    {passage.questions.length}設問
-                                                </span>
-                                            )}
+
                                             <span style={{
                                                 color: '#f1f5f9',
                                                 fontSize: '1.1rem',
