@@ -1,0 +1,469 @@
+{
+id: "grade-pre1-original-perkin-mauve",
+grade: "貅・邏・",
+title: "The Accidental Color: Perkin's Mauve",
+subTitle: "蝠城｡・",
+genre: "遘大ｭｦ蜿ｲ / 逋ｺ譏・",
+similarProblems: {
+exam: "2024蟷ｴ蠎ｦ 隨ｬ3蝗・螟ｧ蝠・-1",
+title: "From Spongy Moths to Astronomy"
+},
+isOriginal: true,
+images: {
+content: "https://placehold.co/600x400?text=Perkin+Mauve",
+question: "https://placehold.co/600x400?text=Question+Image"
+},
+content: [
+{
+paragraphId: 1,
+sentences: [
+{
+id: 1,
+text: "In 1856, William Henry Perkin, an 18-year-old chemistry student in London, was attempting to synthesize quinine, a valuable treatment for malaria.",
+translation: "1856蟷ｴ縲√Ο繝ｳ繝峨Φ縺ｮ18豁ｳ縺ｮ蛹門ｭｦ蟄ｦ逕溘え繧｣繝ｪ繧｢繝繝ｻ繝倥Φ繝ｪ繝ｼ繝ｻ繝代・繧ｭ繝ｳ縺ｯ縲√・繝ｩ繝ｪ繧｢縺ｮ雋ｴ驥阪↑豐ｻ逋り脈縺ｧ縺ゅｋ繧ｭ繝九・繝阪ｒ蜷域・縺励ｈ縺・→縺励※縺・◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was attempting" ],
+structureHtml: "<span class=chunk M-group><span class=text>(In 1856)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>William Henry Perkin, an 18-year-old chemistry student in London,</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was attempting</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>to synthesize quinine</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(1856蟷ｴ)</span>縲・span class=t-S>繝代・繧ｭ繝ｳ縺ｯ</span> <span class=t-V>縲懊＠繧医≧縺ｨ縺励※縺・◆</span> <span class=t-O>繧ｭ繝九・繝阪ｒ蜷域・</span>縲・",
+naturalTranslation: "1856蟷ｴ縲√Ο繝ｳ繝峨Φ縺ｮ18豁ｳ縺ｮ蛹門ｭｦ蟆よ判縺ｮ蟄ｦ逕溘え繧｣繝ｪ繧｢繝繝ｻ繝倥Φ繝ｪ繝ｼ繝ｻ繝代・繧ｭ繝ｳ縺ｯ縲√・繝ｩ繝ｪ繧｢縺ｮ雋ｴ驥阪↑豐ｻ逋り脈縺ｧ縺ゅｋ繧ｭ繝九・繝阪・蜷域・繧定ｩｦ縺ｿ縺ｦ縺・◆縲・",
+vocabulary: [
+{ word: synthesize, meaning: 蜷域・縺吶ｋ },
+{ word: quinine, meaning: 繧ｭ繝九・繝・ },
+{ word: malaria, meaning: 繝槭Λ繝ｪ繧｢ }
+],
+grammarNotes: [
+{ phrase: an 18-year-old chemistry student, explanation: <b>蜷梧ｼ</b>: William Henry Perkin繧定ｪｬ譏弱☆繧句錐隧槫唱縲・ },
+{ phrase: a valuable treatment for malaria, explanation: <b>蜷梧ｼ</b>: quinine繧定ｪｬ譏弱・ }
+]
+}
+},
+{
+id: 2,
+text: "At the time, quinine could only be extracted from the bark of cinchona trees, making it expensive and scarce.",
+translation: "蠖捺凾縲√く繝九・繝阪・繧ｭ繝翫ヮ繧ｭ縺ｮ讓ｹ逧ｮ縺九ｉ縺励°謚ｽ蜃ｺ縺ｧ縺阪★縲・ｫ倅ｾ｡縺ｧ蟶悟ｰ代□縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "could be extracted" ],
+structureHtml: "<span class=chunk M-group><span class=text>(At the time)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>quinine</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>could only be extracted</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(from the bark of cinchona trees)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(蠖捺凾)</span>縲・span class=t-S>繧ｭ繝九・繝阪・</span> <span class=t-V>謚ｽ蜃ｺ縺ｧ縺阪◆</span> <span class=t-M>(繧ｭ繝翫ヮ繧ｭ縺ｮ讓ｹ逧ｮ縺九ｉ縺ｮ縺ｿ)</span>縲・",
+naturalTranslation: "蠖捺凾縲√く繝九・繝阪・繧ｭ繝翫・譛ｨ縺ｮ讓ｹ逧ｮ縺九ｉ縺励°謚ｽ蜃ｺ縺ｧ縺阪★縲√◎縺ｮ縺溘ａ鬮倅ｾ｡縺ｧ蜈･謇句峅髮｣縺縺｣縺溘・",
+vocabulary: [
+{ word: extracted, meaning: 謚ｽ蜃ｺ縺輔ｌ縺・ },
+{ word: bark, meaning: 讓ｹ逧ｮ },
+{ word: cinchona trees, meaning: 繧ｭ繝翫ヮ繧ｭ },
+{ word: scarce, meaning: 蟶悟ｰ代↑ }
+],
+grammarNotes: [
+{ phrase: making it expensive and scarce, explanation: <b>蛻・ｩ樊ｧ区枚・育ｵ先棡・・/b>: 縲後◎縺ｮ邨先棡縲懊↓縺ｪ縺｣縺溘阪・ }
+]
+}
+},
+{
+id: 3,
+text: "Perkin's goal was to create a synthetic alternative in his home laboratory.",
+translation: "繝代・繧ｭ繝ｳ縺ｮ逶ｮ讓吶・縲∬・螳・・螳滄ｨ灘ｮ､縺ｧ蜷域・莉｣譖ｿ蜩√ｒ菴懊ｋ縺薙→縺縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "was" ],
+structureHtml: "<span class=chunk S-group><span class=text>Perkin's goal</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>to create a synthetic alternative in his home laboratory</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>繝代・繧ｭ繝ｳ縺ｮ逶ｮ讓吶・</span> <span class=t-V>縺縺｣縺・/span> <span class=t-C>閾ｪ螳・・螳滄ｨ灘ｮ､縺ｧ蜷域・莉｣譖ｿ蜩√ｒ菴懊ｋ縺薙→</span>縲・",
+naturalTranslation: "繝代・繧ｭ繝ｳ縺ｮ逶ｮ讓吶・縲∬・螳・・遐皮ｩｶ螳､縺ｧ蜷域・縺ｮ莉｣譖ｿ蜩√ｒ菴懊ｊ蜃ｺ縺吶％縺ｨ縺縺｣縺溘・",
+vocabulary: [
+{ word: synthetic, meaning: 蜷域・縺ｮ },
+{ word: alternative, meaning: 莉｣譖ｿ蜩・ }
+],
+grammarNotes: [
+{ phrase: to create, explanation: <b>荳榊ｮ夊ｩ橸ｼ郁｣懆ｪ橸ｼ・/b>: 荳ｻ隱槭・蜀・ｮｹ繧定ｪｬ譏弱・ }
+]
+}
+},
+{
+id: 4,
+text: "He spent his Easter break experimenting with coal tar, a waste product of gas lighting, hoping to arrange its molecules into the structure of quinine.",
+translation: "蠖ｼ縺ｯ繧､繝ｼ繧ｹ繧ｿ繝ｼ莨第嚊繧偵ぎ繧ｹ辣ｧ譏弱・蟒・｣・黄縺ｧ縺ゅｋ繧ｳ繝ｼ繝ｫ繧ｿ繝ｼ繝ｫ縺ｮ螳滄ｨ薙↓雋ｻ繧・＠縲√◎縺ｮ蛻・ｭ舌ｒ繧ｭ繝九・繝阪・讒矩縺ｫ驟咲ｽｮ縺吶ｋ縺薙→繧呈悄蠕・＠縺ｦ縺・◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "spent" ],
+structureHtml: "<span class=chunk S-group><span class=text>He</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>spent</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>his Easter break</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(experimenting with coal tar)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>蠖ｼ縺ｯ</span> <span class=t-V>雋ｻ繧・＠縺・/span> <span class=t-O>繧､繝ｼ繧ｹ繧ｿ繝ｼ莨第嚊繧・/span> <span class=t-M>(繧ｳ繝ｼ繝ｫ繧ｿ繝ｼ繝ｫ縺ｮ螳滄ｨ薙↓)</span>縲・",
+naturalTranslation: "蠖ｼ縺ｯ繧､繝ｼ繧ｹ繧ｿ繝ｼ莨第嚊繧偵さ繝ｼ繝ｫ繧ｿ繝ｼ繝ｫ・医ぎ繧ｹ辣ｧ譏弱・蟒・｣・黄・峨・螳滄ｨ薙↓雋ｻ繧・＠縲√◎縺ｮ蛻・ｭ舌ｒ繧ｭ繝九・繝阪・讒矩縺ｫ邨・∩譖ｿ縺医ｈ縺・→縺励※縺・◆縲・",
+vocabulary: [
+{ word: coal tar, meaning: 繧ｳ繝ｼ繝ｫ繧ｿ繝ｼ繝ｫ },
+{ word: waste product, meaning: 蟒・｣・黄 },
+{ word: molecules, meaning: 蛻・ｭ・ }
+],
+grammarNotes: [
+{ phrase: experimenting with, explanation: <b>spend O -ing</b>: 縲薫繧偵懊＠縺ｦ驕弱＃縺吶阪・ },
+{ phrase: hoping to arrange, explanation: <b>蛻・ｩ樊ｧ区枚・井ｻ伜ｸｯ迥ｶ豕・ｼ・/b>: 縲後懊ｒ譛溷ｾ・＠縺ｪ縺後ｉ縲阪・ }
+]
+}
+},
+{
+id: 5,
+text: "However, his experiments repeatedly failed.",
+translation: "縺励°縺励∝ｽｼ縺ｮ螳滄ｨ薙・郢ｰ繧願ｿ斐＠螟ｱ謨励＠縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "failed" ],
+structureHtml: "<span class=chunk M-group><span class=text>(However)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>his experiments</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(repeatedly)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>failed</span><span class=tag>V</span></span>.",
+translationHtml: "<span class=t-M>(縺励°縺・</span>縲・span class=t-S>蠖ｼ縺ｮ螳滄ｨ薙・</span> <span class=t-M>(郢ｰ繧願ｿ斐＠)</span> <span class=t-V>螟ｱ謨励＠縺・/span>縲・",
+naturalTranslation: "縺励°縺励∝ｽｼ縺ｮ螳滄ｨ薙・菴募ｺｦ繧ょ､ｱ謨励↓邨ゅｏ縺｣縺溘・",
+vocabulary: [
+{ word: repeatedly, meaning: 郢ｰ繧願ｿ斐＠ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 6,
+text: "Instead of a clear medicine, he produced a thick, sludge-like black residue.",
+translation: "騾乗・縺ｪ阮ｬ縺ｮ莉｣繧上ｊ縺ｫ縲∝ｽｼ縺ｯ豼・＞繝倥ラ繝ｭ縺ｮ繧医≧縺ｪ鮟偵＞谿狗蕗迚ｩ繧堤函謌舌＠縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "produced" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Instead of a clear medicine)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>he</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>produced</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>a thick, sludge-like black residue</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(騾乗・縺ｪ阮ｬ縺ｮ莉｣繧上ｊ縺ｫ)</span>縲・span class=t-S>蠖ｼ縺ｯ</span> <span class=t-V>逕滓・縺励◆</span> <span class=t-O>豼・＞繝倥ラ繝ｭ縺ｮ繧医≧縺ｪ鮟偵＞谿狗蕗迚ｩ繧・/span>縲・",
+naturalTranslation: "騾乗・縺ｪ阮ｬ縺ｮ莉｣繧上ｊ縺ｫ縲∝ｽｼ縺悟ｾ励◆縺ｮ縺ｯ豼・￥縺ｦ繝倥ラ繝ｭ縺ｮ繧医≧縺ｪ鮟偵＞谿狗蕗迚ｩ縺縺｣縺溘・",
+vocabulary: [
+{ word: sludge-like, meaning: 繝倥ラ繝ｭ縺ｮ繧医≧縺ｪ },
+{ word: residue, meaning: 谿狗蕗迚ｩ }
+],
+grammarNotes: [
+{ phrase: Instead of, explanation: <b>蜑咲ｽｮ隧槫唱</b>: 縲後懊・莉｣繧上ｊ縺ｫ縲阪・ }
+]
+}
+},
+{
+id: 7,
+text: "While cleaning out a flask with alcohol, he noticed something unexpected: the black solid dissolved to reveal a stunningly bright purple solution.",
+translation: "繝輔Λ繧ｹ繧ｳ繧偵い繝ｫ繧ｳ繝ｼ繝ｫ縺ｧ豢励＞豬√＠縺ｦ縺・ｋ縺ｨ縺阪∝ｽｼ縺ｯ莠域悄縺励↑縺・％縺ｨ縺ｫ豌励▼縺・◆・夐ｻ偵＞蝗ｺ菴薙′貅ｶ縺代※鬩壹￥縺ｻ縺ｩ魄ｮ繧・°縺ｪ邏ｫ濶ｲ縺ｮ貅ｶ豸ｲ縺檎樟繧後◆縺ｮ縺縲・",
+grammarAnalysis: {
+mainVerbs: [ "noticed" ],
+structureHtml: "<span class=chunk M-group><span class=text>(While cleaning out a flask with alcohol)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>he</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>noticed</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>something unexpected</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(繝輔Λ繧ｹ繧ｳ繧偵い繝ｫ繧ｳ繝ｼ繝ｫ縺ｧ豢励▲縺ｦ縺・ｋ縺ｨ縺・</span>縲・span class=t-S>蠖ｼ縺ｯ</span> <span class=t-V>豌励▼縺・◆</span> <span class=t-O>莠域悄縺励↑縺・％縺ｨ縺ｫ</span>縲・",
+naturalTranslation: "繝輔Λ繧ｹ繧ｳ繧偵い繝ｫ繧ｳ繝ｼ繝ｫ縺ｧ豢玲ｵ・＠縺ｦ縺・ｋ縺ｨ縲∝ｽｼ縺ｯ莠域Φ螟悶・繧ゅ・縺ｫ豌励▼縺・◆縲るｻ偵＞蝗ｺ菴薙′貅ｶ縺代・ｩ壹￥縺ｻ縺ｩ魄ｮ繧・°縺ｪ邏ｫ濶ｲ縺ｮ貅ｶ豸ｲ縺檎樟繧後◆縺ｮ縺縲・",
+vocabulary: [
+{ word: flask, meaning: 繝輔Λ繧ｹ繧ｳ },
+{ word: dissolved, meaning: 貅ｶ縺代◆ },
+{ word: stunningly, meaning: 鬩壹￥縺ｻ縺ｩ }
+],
+grammarNotes: [
+{ phrase: While cleaning out, explanation: <b>while + -ing</b>: 縲後懊＠縺ｦ縺・ｋ髢薙↓縲阪・ },
+{ phrase: : the black solid dissolved, explanation: <b>繧ｳ繝ｭ繝ｳ</b>: 蜑阪・蜀・ｮｹ縺ｮ蜈ｷ菴鍋噪隱ｬ譏弱・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 2,
+sentences: [
+{
+id: 8,
+text: "Perkin had stumbled upon the world's first synthetic dye.",
+translation: "繝代・繧ｭ繝ｳ縺ｯ荳也阜蛻昴・蜷域・譟捺侭繧貞・辟ｶ逋ｺ隕九＠縺溘・縺縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "had stumbled" ],
+structureHtml: "<span class=chunk S-group><span class=text>Perkin</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>had stumbled</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(upon the world's first synthetic dye)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>繝代・繧ｭ繝ｳ縺ｯ</span> <span class=t-V>蛛ｶ辟ｶ逋ｺ隕九＠縺・/span> <span class=t-M>(荳也阜蛻昴・蜷域・譟捺侭繧・</span>縲・",
+naturalTranslation: "繝代・繧ｭ繝ｳ縺ｯ荳也阜縺ｧ蛻昴ａ縺ｦ縺ｮ蜷域・譟捺侭繧貞・辟ｶ逋ｺ隕九＠縺ｦ縺・◆縺ｮ縺縲・",
+vocabulary: [
+{ word: stumbled upon, meaning: 蛛ｶ辟ｶ逋ｺ隕九＠縺・ },
+{ word: synthetic dye, meaning: 蜷域・譟捺侭 }
+],
+grammarNotes: [
+{ phrase: had stumbled, explanation: <b>驕主悉螳御ｺ・ｽ｢</b>: 蜑肴ｮｵ關ｽ縺ｮ蜃ｺ譚･莠九ｈ繧雁燕縺ｮ螳御ｺ・ｒ遉ｺ縺吶・ }
+]
+}
+},
+{
+id: 9,
+text: "Before this discovery, purple clothing was a luxury reserved for the wealthy, as natural purple dyes were extracted from thousands of sea snails and were incredibly costly to produce.",
+translation: "縺薙・逋ｺ隕倶ｻ･蜑阪∫ｴｫ濶ｲ縺ｮ陦｣譛阪・蟇瑚｣募ｱ､蟆ら畑縺ｮ雍・ｲ｢蜩√□縺｣縺溘ょ､ｩ辟ｶ縺ｮ邏ｫ濶ｲ譟捺侭縺ｯ菴募鴻蛹ｹ繧ゅ・豬ｷ縺ｮ繧ｫ繧ｿ繝・Β繝ｪ縺九ｉ謚ｽ蜃ｺ縺輔ｌ縲∫函逕｣縺吶ｋ縺ｮ縺ｫ髱槫ｸｸ縺ｫ雋ｻ逕ｨ縺後°縺九▲縺溘°繧峨□縲・",
+grammarAnalysis: {
+mainVerbs: [ "was" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Before this discovery)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>purple clothing</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>a luxury reserved for the wealthy</span><span class=tag>C</span></span>, <span class=chunk M-group><span class=text>(as <span class=chunk S2-group><span class=text>natural purple dyes</span><span class=tag>S</span></span> <span class=chunk V2-group><span class=text>were extracted</span><span class=tag>V</span></span> <span class=chunk M2-group><span class=text>from thousands of sea snails</span><span class=tag>M</span></span>)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(縺薙・逋ｺ隕倶ｻ･蜑・</span>縲・span class=t-S>邏ｫ濶ｲ縺ｮ陦｣譛阪・</span> <span class=t-V>縺縺｣縺・/span> <span class=t-C>蟇瑚｣募ｱ､蟆ら畑縺ｮ雍・ｲ｢蜩・/span> <span class=t-M>(as <span class=t-S2>螟ｩ辟ｶ縺ｮ邏ｫ濶ｲ譟捺侭縺ｯ</span> <span class=t-V2>謚ｽ蜃ｺ縺輔ｌ縺溘・縺ｧ</span> <span class=t-M2>菴募鴻蛹ｹ繧ゅ・豬ｷ縺ｮ繧ｫ繧ｿ繝・Β繝ｪ縺九ｉ</span>)</span>縲・",
+naturalTranslation: "縺薙・逋ｺ隕倶ｻ･蜑阪∫ｴｫ縺ｮ陦｣譛阪・蟇瑚｣募ｱ､縺縺代・縺溘ａ縺ｮ雍・ｲ｢蜩√□縺｣縺溘ょ､ｩ辟ｶ縺ｮ邏ｫ譟捺侭縺ｯ謨ｰ蜊・源縺ｮ豬ｷ逕｣縺ｮ繧ｫ繧ｿ繝・Β繝ｪ縺九ｉ謚ｽ蜃ｺ縺輔ｌ縲∬｣ｽ騾縺ｫ縺ｯ闔ｫ螟ｧ縺ｪ雋ｻ逕ｨ縺後°縺九▲縺溘°繧峨□縲・",
+vocabulary: [
+{ word: luxury, meaning: 雍・ｲ｢蜩・ },
+{ word: reserved for, meaning: 縲懷ｰら畑縺ｮ },
+{ word: sea snails, meaning: 豬ｷ縺ｮ繧ｫ繧ｿ繝・Β繝ｪ }
+],
+grammarNotes: [
+{ phrase: as natural purple dyes were, explanation: <b>逅・罰縺ｮas</b>: 縲後懊↑縺ｮ縺ｧ縲阪・ }
+]
+}
+},
+{
+id: 10,
+text: "Perkin realized the potential of his accidental creation, which he named mauveine,or simply mauve.",
+translation: "繝代・繧ｭ繝ｳ縺ｯ蛛ｶ辟ｶ縺ｮ逕｣迚ｩ縺ｮ蜿ｯ閭ｽ諤ｧ縺ｫ豌励▼縺阪√◎繧後ｒ縲後Δ繝ｼ繝ｴ繧ｧ繧､繝ｳ縲阪√∪縺溘・蜊倥↓繝｢繝ｼ繝ｴ縺ｨ蜷堺ｻ倥￠縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "realized" ],
+structureHtml: "<span class=chunk S-group><span class=text>Perkin</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>realized</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the potential of his accidental creation, (which <span class=chunk S2-group><span class=text>he</span><span class=tag>S</span></span> <span class=chunk V2-group><span class=text>named</span><span class=tag>V</span></span> <span class=chunk C2-group><span class=text>mauveine,or simply mauve</span><span class=tag>C</span></span>)</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>繝代・繧ｭ繝ｳ縺ｯ</span> <span class=t-V>豌励▼縺・◆</span> <span class=t-O>蛛ｶ辟ｶ縺ｮ逕｣迚ｩ縺ｮ蜿ｯ閭ｽ諤ｧ縺ｫ縲・which <span class=t-S2>蠖ｼ縺ｯ</span> <span class=t-V2>蜷堺ｻ倥￠縺・/span> <span class=t-C2>縲後Δ繝ｼ繝ｴ繧ｧ繧､繝ｳ縲阪∪縺溘・蜊倥↓繝｢繝ｼ繝ｴ縺ｨ</span>)</span>縲・",
+naturalTranslation: "繝代・繧ｭ繝ｳ縺ｯ縺薙・蛛ｶ逋ｺ逧・↑逋ｺ譏弱・蜿ｯ閭ｽ諤ｧ繧定ｦ句・縺励√◎繧後ｒ縲後Δ繝ｼ繝ｴ繧ｧ繧､繝ｳ縲阪√∪縺溘・蜊倥↓縲後Δ繝ｼ繝ｴ縲阪→蜷堺ｻ倥￠縺溘・",
+vocabulary: [
+{ word: potential, meaning: 蜿ｯ閭ｽ諤ｧ },
+{ word: accidental, meaning: 蛛ｶ辟ｶ縺ｮ },
+{ word: mauveine, meaning: 繝｢繝ｼ繝ｴ繧ｧ繧､繝ｳ }
+],
+grammarNotes: [
+{ phrase: which he named, explanation: <b>髢｢菫ゆｻ｣蜷崎ｩ橸ｼ磯撼蛻ｶ髯千畑豕包ｼ・/b>: 陬懆ｶｳ諠・ｱ繧定ｿｽ蜉縲・ }
+]
+}
+},
+{
+id: 11,
+text: "Despite the skepticism of his mentor, he patented the process and opened a factory to mass-produce the dye.",
+translation: "謖・ｰ手・・諛千桝縺ｫ繧ゅ°縺九ｏ繧峨★縲∝ｽｼ縺ｯ縺昴・陬ｽ豕輔・迚ｹ險ｱ繧貞叙蠕励＠縲∵沒譁吶ｒ螟ｧ驥冗函逕｣縺吶ｋ蟾･蝣ｴ繧帝幕縺・◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "patented", "opened" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Despite the skepticism of his mentor)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>he</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>patented</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the process</span><span class=tag>O</span></span> and <span class=chunk V-group><span class=text>opened</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>a factory</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(謖・ｰ手・・諛千桝縺ｫ繧ゅ°縺九ｏ繧峨★)</span>縲・span class=t-S>蠖ｼ縺ｯ</span> <span class=t-V>迚ｹ險ｱ繧貞叙縺｣縺・/span> <span class=t-O>陬ｽ豕輔・</span> 縺昴＠縺ｦ <span class=t-V>髢九＞縺・/span> <span class=t-O>蟾･蝣ｴ繧・/span>縲・",
+naturalTranslation: "蟶ｫ縺ｮ諛千桝逧・↑諷句ｺｦ縺ｫ繧ゅ°縺九ｏ繧峨★縲∝ｽｼ縺ｯ縺昴・陬ｽ豕輔・迚ｹ險ｱ繧貞叙蠕励＠縲∵沒譁吶ｒ螟ｧ驥冗函逕｣縺吶ｋ蟾･蝣ｴ繧定ｨｭ遶九＠縺溘・",
+vocabulary: [
+{ word: skepticism, meaning: 諛千桝 },
+{ word: mentor, meaning: 謖・ｰ手・ },
+{ word: patented, meaning: 迚ｹ險ｱ繧貞叙縺｣縺・ },
+{ word: mass-produce, meaning: 螟ｧ驥冗函逕｣縺吶ｋ }
+],
+grammarNotes: [
+{ phrase: Despite, explanation: <b>蜑咲ｽｮ隧・/b>: 縲後懊↓繧ゅ°縺九ｏ繧峨★縲阪・ }
+]
+}
+},
+{
+id: 12,
+text: "His timing was perfect; the color became a sensation in the fashion world, championed by Queen Victoria herself.",
+translation: "蠖ｼ縺ｮ繧ｿ繧､繝溘Φ繧ｰ縺ｯ螳檎挑縺縺｣縺溘ゅ◎縺ｮ濶ｲ縺ｯ繝輔ぃ繝・す繝ｧ繝ｳ逡後〒繧ｻ繝ｳ繧ｻ繝ｼ繧ｷ繝ｧ繝ｳ繧貞ｷｻ縺崎ｵｷ縺薙＠縲√Χ繧｣繧ｯ繝医Μ繧｢螂ｳ邇玖・霄ｫ縺ｫ繧医▲縺ｦ謾ｯ謖√＆繧後◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was", "became" ],
+structureHtml: "<span class=chunk S-group><span class=text>His timing</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>perfect</span><span class=tag>C</span></span>; <span class=chunk S-group><span class=text>the color</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>became</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>a sensation</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>蠖ｼ縺ｮ繧ｿ繧､繝溘Φ繧ｰ縺ｯ</span> <span class=t-V>縺縺｣縺・/span> <span class=t-C>螳檎挑</span>・・span class=t-S>縺昴・濶ｲ縺ｯ</span> <span class=t-V>縺ｪ縺｣縺・/span> <span class=t-C>繧ｻ繝ｳ繧ｻ繝ｼ繧ｷ繝ｧ繝ｳ縺ｫ</span>縲・",
+naturalTranslation: "蠖ｼ縺ｮ繧ｿ繧､繝溘Φ繧ｰ縺ｯ螳檎挑縺縺｣縺溘ゅ◎縺ｮ濶ｲ縺ｯ繝輔ぃ繝・す繝ｧ繝ｳ讌ｭ逡後〒螟ｧ豬∬｡後＠縲√Χ繧｣繧ｯ繝医Μ繧｢螂ｳ邇玖・繧峨′諢帷畑縺励◆縲・",
+vocabulary: [
+{ word: sensation, meaning: 繧ｻ繝ｳ繧ｻ繝ｼ繧ｷ繝ｧ繝ｳ },
+{ word: championed, meaning: 謾ｯ謖√＆繧後◆ }
+],
+grammarNotes: [
+{ phrase: championed by, explanation: <b>驕主悉蛻・ｩ槭・蠕檎ｽｮ菫ｮ鬟ｾ</b>: sensation繧剃ｿｮ鬟ｾ縲・ }
+]
+}
+},
+{
+id: 13,
+text: "The success of mauve launched a new chemical industry, shifting the focus from mimicking nature to creating entirely new materials.",
+translation: "繝｢繝ｼ繝ｴ縺ｮ謌仙粥縺ｯ譁ｰ縺励＞蛹門ｭｦ逕｣讌ｭ繧堤ｫ九■荳翫￡縲∫┬轤ｹ繧定・辟ｶ縺ｮ讓｡蛟｣縺九ｉ蜈ｨ縺乗眠縺励＞譚先侭縺ｮ蜑ｵ騾縺ｸ縺ｨ遘ｻ陦後＆縺帙◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "launched" ],
+structureHtml: "<span class=chunk S-group><span class=text>The success of mauve</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>launched</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>a new chemical industry</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>繝｢繝ｼ繝ｴ縺ｮ謌仙粥縺ｯ</span> <span class=t-V>遶九■荳翫￡縺・/span> <span class=t-O>譁ｰ縺励＞蛹門ｭｦ逕｣讌ｭ繧・/span>縲・",
+naturalTranslation: "繝｢繝ｼ繝ｴ縺ｮ謌仙粥縺ｯ譁ｰ縺溘↑蛹門ｭｦ逕｣讌ｭ繧堤函縺ｿ蜃ｺ縺励∬・辟ｶ繧呈ｨ｡蛟｣縺吶ｋ縺薙→縺九ｉ蜈ｨ縺乗眠縺励＞迚ｩ雉ｪ繧貞卸騾縺吶ｋ縺薙→縺ｸ縺ｨ驥咲せ繧堤ｧｻ縺励◆縲・",
+vocabulary: [
+{ word: launched, meaning: 遶九■荳翫￡縺・ },
+{ word: mimicking, meaning: 讓｡蛟｣縺吶ｋ }
+],
+grammarNotes: [
+{ phrase: shifting the focus, explanation: <b>蛻・ｩ樊ｧ区枚・育ｵ先棡/莉伜ｸｯ迥ｶ豕・ｼ・/b>: 縲後◎縺ｮ邨先棡辟ｦ轤ｹ繧堤ｧｻ縺励↑縺後ｉ縲阪・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 3,
+sentences: [
+{
+id: 14,
+text: "The impact of Perkin's discovery extended far beyond fashion.",
+translation: "繝代・繧ｭ繝ｳ縺ｮ逋ｺ隕九・蠖ｱ髻ｿ縺ｯ繝輔ぃ繝・す繝ｧ繝ｳ繧偵・繧九°縺ｫ雜・∴縺ｦ蠎・′縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "extended" ],
+structureHtml: "<span class=chunk S-group><span class=text>The impact of Perkin's discovery</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>extended</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(far beyond fashion)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>繝代・繧ｭ繝ｳ縺ｮ逋ｺ隕九・蠖ｱ髻ｿ縺ｯ</span> <span class=t-V>蠎・′縺｣縺・/span> <span class=t-M>(繝輔ぃ繝・す繝ｧ繝ｳ繧偵・繧九°縺ｫ雜・∴縺ｦ)</span>縲・",
+naturalTranslation: "繝代・繧ｭ繝ｳ縺ｮ逋ｺ隕九′繧ゅ◆繧峨＠縺溷ｽｱ髻ｿ縺ｯ縲√ヵ繧｡繝・す繝ｧ繝ｳ縺ｮ荳也阜繧偵・繧九°縺ｫ雜・∴縺溘ｂ縺ｮ縺縺｣縺溘・",
+vocabulary: [
+{ word: impact, meaning: 蠖ｱ髻ｿ },
+{ word: extended, meaning: 蠎・′縺｣縺・ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 15,
+text: "The synthetic dye industry he founded eventually led to major advancements in other fields, including medicine.",
+translation: "蠖ｼ縺悟卸險ｭ縺励◆蜷域・譟捺侭逕｣讌ｭ縺ｯ縲√ｄ縺後※蛹ｻ蟄ｦ繧貞性繧莉悶・蛻・㍽縺ｮ螟ｧ縺阪↑騾ｲ豁ｩ縺ｫ縺､縺ｪ縺後▲縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "led" ],
+structureHtml: "<span class=chunk S-group><span class=text>The synthetic dye industry (<span class=chunk S2-group><span class=text>he</span><span class=tag>S</span></span> <span class=chunk V2-group><span class=text>founded</span><span class=tag>V</span></span>)</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(eventually)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>led</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(to major advancements in other fields)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>蜷域・譟捺侭逕｣讌ｭ縺ｯ (<span class=t-S2>蠖ｼ縺・/span> <span class=t-V2>蜑ｵ險ｭ縺励◆</span>)</span> <span class=t-M>(繧・′縺ｦ)</span> <span class=t-V>縺､縺ｪ縺後▲縺・/span> <span class=t-M>(莉悶・蛻・㍽縺ｮ螟ｧ縺阪↑騾ｲ豁ｩ縺ｸ)</span>縲・",
+naturalTranslation: "蠖ｼ縺瑚・縺励◆蜷域・譟捺侭逕｣讌ｭ縺ｯ縲∵怙邨ら噪縺ｫ蛹ｻ蟄ｦ繧貞性繧莉門・驥弱↓縺翫￠繧句､ｧ縺阪↑騾ｲ豁ｩ繧偵ｂ縺溘ｉ縺励◆縲・",
+vocabulary: [
+{ word: founded, meaning: 蜑ｵ險ｭ縺励◆ },
+{ word: advancements, meaning: 騾ｲ豁ｩ }
+],
+grammarNotes: [
+{ phrase: he founded, explanation: <b>髢｢菫ゆｻ｣蜷崎ｩ槭・逵∫払</b>: industry (which/that) he founded縺ｮ逵∫払蠖｢縲・ }
+]
+}
+},
+{
+id: 16,
+text: "Ironically, the very chemical knowledge that failed to produce quinine later paved the way for modern chemotherapy and antibiotics.",
+translation: "逧ｮ閧峨↑縺薙→縺ｫ縲√く繝九・繝阪・逕溽肇縺ｫ螟ｱ謨励＠縺溘◎縺ｮ蛹門ｭｦ遏･隴倥′縲∝ｾ後↓迴ｾ莉｣縺ｮ蛹門ｭｦ逋よｳ輔→謚礼函迚ｩ雉ｪ縺ｸ縺ｮ驕薙ｒ髢九＞縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "paved" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Ironically)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the very chemical knowledge (that <span class=chunk S2-group><span class=text>_</span><span class=tag>S</span></span> <span class=chunk V2-group><span class=text>failed to produce</span><span class=tag>V</span></span> <span class=chunk O2-group><span class=text>quinine</span><span class=tag>O</span></span>)</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(later)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>paved</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the way for modern chemotherapy and antibiotics</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(逧ｮ閧峨↑縺薙→縺ｫ)</span>縲・span class=t-S>蛹門ｭｦ遏･隴倥′ (that <span class=t-S2>_縺・/span> <span class=t-V2>逕溽肇縺ｫ螟ｱ謨励＠縺・/span> <span class=t-O2>繧ｭ繝九・繝阪・</span>)</span> <span class=t-M>(蠕後↓)</span> <span class=t-V>蛻・ｊ髢九＞縺・/span> <span class=t-O>迴ｾ莉｣縺ｮ蛹門ｭｦ逋よｳ輔→謚礼函迚ｩ雉ｪ縺ｸ縺ｮ驕薙ｒ</span>縲・",
+naturalTranslation: "逧ｮ閧峨↑縺薙→縺ｫ縲√く繝九・繝阪・蜷域・縺ｫ螟ｱ謨励＠縺溘∪縺輔↓縺昴・蛹門ｭｦ遏･隴倥′縲∝ｾ後↓迴ｾ莉｣縺ｮ蛹門ｭｦ逋よｳ輔ｄ謚礼函迚ｩ雉ｪ縺ｸ縺ｮ驕薙ｒ蛻・ｊ髢九￥縺薙→縺ｫ縺ｪ縺｣縺溘・",
+vocabulary: [
+{ word: ironically, meaning: 逧ｮ閧峨↑縺薙→縺ｫ },
+{ word: paved the way, meaning: 驕薙ｒ髢九＞縺・ },
+{ word: chemotherapy, meaning: 蛹門ｭｦ逋よｳ・ },
+{ word: antibiotics, meaning: 謚礼函迚ｩ雉ｪ }
+],
+grammarNotes: [
+{ phrase: the very chemical knowledge, explanation: <b>蠑ｷ隱ｿ縺ｮvery</b>: 縲後∪縺輔↓縺昴・縲懊阪・ },
+{ phrase: that failed to, explanation: <b>髢｢菫ゆｻ｣蜷崎ｩ・/b>: knowledge繧剃ｿｮ鬟ｾ縲・ }
+]
+}
+},
+{
+id: 17,
+text: "Scientists found that synthetic dyes could stain bacteria, making them visible under microscopes窶蚤 breakthrough that allowed Robert Koch to identify the bacteria responsible for tuberculosis.",
+translation: "遘大ｭｦ閠・◆縺｡縺ｯ蜷域・譟捺侭縺檎ｴｰ闖後ｒ譟楢牡縺ｧ縺阪・｡募ｾｮ髀｡荳九〒隕九∴繧九ｈ縺・↓縺吶ｋ縺薙→繧堤匱隕九＠縺溪斐％繧後・繝ｭ繝吶Ν繝医・繧ｳ繝・・縺檎ｵ先ｸ縺ｮ蜴溷屏闖後ｒ迚ｹ螳壹☆繧九％縺ｨ繧貞庄閭ｽ縺ｫ縺励◆逕ｻ譛溽噪縺ｪ逋ｺ隕九□縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "found" ],
+structureHtml: "<span class=chunk S-group><span class=text>Scientists</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>found</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>that <span class=chunk S2-group><span class=text>synthetic dyes</span><span class=tag>S</span></span> <span class=chunk V2-group><span class=text>could stain</span><span class=tag>V</span></span> <span class=chunk O2-group><span class=text>bacteria</span><span class=tag>O</span></span></span><span class=tag>O</span></span>, causing <span class=chunk O-group><span class=text>a breakthrough (that <span class=chunk S2-group><span class=text>_</span><span class=tag>S</span></span> <span class=chunk V2-group><span class=text>allowed</span><span class=tag>V</span></span> <span class=chunk O2-group><span class=text>Robert Koch</span><span class=tag>O</span></span> <span class=chunk C2-group><span class=text>to identify the bacteria...</span><span class=tag>C</span></span>)</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>遘大ｭｦ閠・◆縺｡縺ｯ</span> <span class=t-V>逋ｺ隕九＠縺・/span> <span class=t-O>that [<span class=t-S2>蜷域・譟捺侭縺・/span> <span class=t-V2>譟楢牡縺ｧ縺阪ｋ</span> <span class=t-O2>邏ｰ闖後ｒ</span>]縺薙→繧・/span>縲・",
+naturalTranslation: "遘大ｭｦ閠・◆縺｡縺ｯ蜷域・譟捺侭縺ｧ邏ｰ闖後ｒ譟楢牡縺鈴｡募ｾｮ髀｡縺ｧ隕ｳ蟇溷庄閭ｽ縺ｫ縺ｧ縺阪ｋ縺薙→繧堤匱隕九＠縺溘ゅ％繧後・逕ｻ譛溽噪縺ｪ騾ｲ螻輔〒縺ゅｊ縲√Ο繝吶Ν繝医・繧ｳ繝・・縺檎ｵ先ｸ縺ｮ蜴溷屏闖後ｒ迚ｹ螳壹☆繧九％縺ｨ繧貞庄閭ｽ縺ｫ縺励◆縲・",
+vocabulary: [
+{ word: stain, meaning: 譟楢牡縺吶ｋ },
+{ word: bacteria, meaning: 邏ｰ闖・ },
+{ word: breakthrough, meaning: 逕ｻ譛溽噪縺ｪ逋ｺ隕・ },
+{ word: tuberculosis, meaning: 邨先ｸ }
+],
+grammarNotes: [
+{ phrase: making them visible, explanation: <b>蛻・ｩ樊ｧ区枚・育ｵ先棡・・/b>: 縲後◎縺ｮ邨先棡縲懊ｒ隕九∴繧九ｈ縺・↓縺励※縲阪・ },
+{ phrase: 窶蚤 breakthrough that, explanation: <b>繝繝・す繝･ + 蜷梧ｼ</b>: 蜑肴枚蜈ｨ菴薙ｒ陬懆ｶｳ隱ｬ譏弱・ }
+]
+}
+},
+{
+id: 18,
+text: "Perkin's work, which began as a failed attempt to save lives with malaria medicine, ultimately saved millions through the development of modern pharmaceuticals and diagnostic tools.",
+translation: "繝槭Λ繝ｪ繧｢豐ｻ逋り脈縺ｧ蜻ｽ繧呈舞縺翫≧縺ｨ縺吶ｋ螟ｱ謨励＠縺溯ｩｦ縺ｿ縺ｨ縺励※蟋九∪縺｣縺溘ヱ繝ｼ繧ｭ繝ｳ縺ｮ莉穂ｺ九・縲∵怙邨ら噪縺ｫ迴ｾ莉｣縺ｮ蛹ｻ阮ｬ蜩√→險ｺ譁ｭ繝・・繝ｫ縺ｮ髢狗匱繧帝壹§縺ｦ菴慕卆荳・ｂ縺ｮ蜻ｽ繧呈舞縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "saved" ],
+structureHtml: "<span class=chunk S-group><span class=text>Perkin's work</span><span class=tag>S</span></span>, <span class=chunk M-group><span class=text>(which <span class=chunk S2-group><span class=text>_</span><span class=tag>S</span></span> <span class=chunk V2-group><span class=text>began</span><span class=tag>V</span></span> <span class=chunk M2-group><span class=text>as a failed attempt to save lives...</span><span class=tag>M</span></span>)</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>(ultimately)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>saved</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>millions</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>繝代・繧ｭ繝ｳ縺ｮ莉穂ｺ九・</span>縲・span class=t-M>(which <span class=t-S2>_縺・/span> <span class=t-V2>蟋九∪縺｣縺・/span> <span class=t-M2>繝槭Λ繝ｪ繧｢豐ｻ逋り脈縺ｧ蜻ｽ繧呈舞縺・､ｱ謨励＠縺溯ｩｦ縺ｿ縺ｨ縺励※</span>)</span>縲・span class=t-M>(譛邨ら噪縺ｫ)</span> <span class=t-V>謨代▲縺・/span> <span class=t-O>菴慕卆荳・ｂ縺ｮ蜻ｽ繧・/span>縲・",
+naturalTranslation: "繝代・繧ｭ繝ｳ縺ｮ莉穂ｺ九・縲√・繝ｩ繝ｪ繧｢阮ｬ縺ｧ蜻ｽ繧呈舞縺翫≧縺ｨ縺励◆螟ｱ謨励＠縺溯ｩｦ縺ｿ縺ｨ縺励※蟋九∪縺｣縺溘′縲∵怙邨ら噪縺ｫ縺ｯ迴ｾ莉｣縺ｮ蛹ｻ阮ｬ蜩√ｄ險ｺ譁ｭ蝎ｨ蜈ｷ縺ｮ髢狗匱繧帝壹§縺ｦ謨ｰ逋ｾ荳・ｺｺ縺ｮ蜻ｽ繧呈舞縺・％縺ｨ縺ｫ縺ｪ縺｣縺溘・",
+vocabulary: [
+{ word: ultimately, meaning: 譛邨ら噪縺ｫ },
+{ word: pharmaceuticals, meaning: 蛹ｻ阮ｬ蜩・ },
+{ word: diagnostic tools, meaning: 險ｺ譁ｭ繝・・繝ｫ }
+],
+grammarNotes: [
+{ phrase: which began as, explanation: <b>髢｢菫ゆｻ｣蜷崎ｩ橸ｼ磯撼蛻ｶ髯千畑豕包ｼ・/b>: Perkin's work繧定｣懆ｶｳ隱ｬ譏弱・ }
+]
+}
+}
+]
+}
+],
+questions: [
+{
+id: 1,
+text: "What was William Henry Perkin originally trying to achieve?",
+textTranslation: "繧ｦ繧｣繝ｪ繧｢繝繝ｻ繝倥Φ繝ｪ繝ｼ繝ｻ繝代・繧ｭ繝ｳ縺ｯ蜈・・ｽ輔ｒ驕疲・縺励ｈ縺・→縺励※縺・∪縺励◆縺具ｼ・",
+correctAnswer: 2,
+keywords: [ "originally", "trying to achieve" ],
+keywordExplanations: {
+originally: "蜈・・らｬｬ1谿ｵ關ｽ繧堤｢ｺ隱阪・ }",
+keywordMatches: [
+{ text: was attempting to synthesize quinine, a valuable treatment for malaria, sentenceId: 1, keyword: originally },
+{ text: quinine could only be extracted from the bark of cinchona trees, sentenceId: 2, keyword: trying }
+],
+choiceAdvice: "(1)繧ｳ繝ｼ繝ｫ繧ｿ繝ｼ繝ｫ蜃ｦ蛻・(2)閾ｪ辟ｶ縺九ｉ蠕励↓縺上＞阮ｬ縺ｮ莠ｺ蟾･迚井ｽ懈・ (3)譁ｰ濶ｲ逋ｺ譏弱〒繝輔ぃ繝・す繝ｧ繝ｳ逡後〒蜷榊｣ｰ (4)蜷域・譚先侭縺ｮ蜆ｪ菴肴ｧ險ｼ譏・",
+choices: [
+{ id: 1, text: He wanted to find a way to dispose of coal tar, which was a problematic waste product in London., translation: 蠖ｼ縺ｯ繝ｭ繝ｳ繝峨Φ縺ｧ蝠城｡後・縺ゅｋ蟒・｣・黄縺縺｣縺溘さ繝ｼ繝ｫ繧ｿ繝ｼ繝ｫ縺ｮ蜃ｦ蛻・婿豕輔ｒ隕九▽縺代◆縺九▲縺溘・, isCorrect: false },
+{
+id: "2, text: He was attempting to create an artificial version of a medicine that was difficult to obtain from natural sources., translation: 蠖ｼ縺ｯ閾ｪ辟ｶ縺ｮ雉・ｺ舌°繧牙ｾ励ｋ縺薙→縺碁屮縺励＞阮ｬ縺ｮ莠ｺ蟾･迚医ｒ菴懊ｍ縺・→縺励※縺・◆縲・, isCorrect: true, highlight: artificial version of a medicine ...difficult to obtain from natural sources }",
+{ id: 3, text: He hoped to invent a new color of dye to impress Queen Victoria and gain fame in the fashion industry., translation: 蠖ｼ縺ｯ繝ｴ繧｣繧ｯ繝医Μ繧｢螂ｳ邇九ｒ諢溷ｿ・＆縺帙√ヵ繧｡繝・す繝ｧ繝ｳ讌ｭ逡後〒蜷榊｣ｰ繧貞ｾ励ｋ縺溘ａ縺ｫ譁ｰ縺励＞濶ｲ縺ｮ譟捺侭繧堤匱譏弱＠縺溘°縺｣縺溘・, isCorrect: false },
+{ id: 4, text: He was conducting experiments to prove that synthetic materials were superior to natural ones., translation: 蠖ｼ縺ｯ蜷域・譚先侭縺瑚・辟ｶ縺ｮ繧ゅ・繧医ｊ蜆ｪ繧後※縺・ｋ縺薙→繧定ｨｼ譏弱☆繧句ｮ滄ｨ薙ｒ陦後▲縺ｦ縺・◆縲・, isCorrect: false }
+],
+hint: {
+paragraphId: "1, description: 隨ｬ1谿ｵ關ｽ縲４entence 1-2縺ｧ繧ｭ繝九・繝榊粋謌舌・逶ｮ逧・ｒ遒ｺ隱阪・, targetSentenceId: 2, highlightWord: quinine could only be extracted from the bark of cinchona trees, highlightWordSentenceId: 2 }",
+logic: [
+{ type: question, content: 繝代・繧ｭ繝ｳ縺ｯ蜈・・ｽ輔ｒ驕疲・縺励ｈ縺・→縺励※縺・◆縺具ｼ・ },
+{ type: text, content: Sentence 1: 繧ｭ繝九・繝搾ｼ医・繝ｩ繝ｪ繧｢豐ｻ逋り脈・峨ｒ蜷域・縺励ｈ縺・→縺励※縺・◆縲・ },
+{ type: text, content: Sentence 2: 繧ｭ繝九・繝阪・譛ｨ縺ｮ讓ｹ逧ｮ縺九ｉ縺励°謚ｽ蜃ｺ縺ｧ縺阪↑縺九▲縺溘・ },
+{ type: arrow, content: 閾ｪ辟ｶ縺九ｉ蠕励↓縺上＞阮ｬ縺ｮ莠ｺ蟾･迚医ｒ菴懊ｍ縺・→縺励◆ 竊・驕ｸ謚櫁い2 },
+{ type: conclusion, content: 豁｣隗｣: 2 }
+]
+},
+{
+id: 2,
+text: "What does the passage suggest about the significance of Perkin's discovery?",
+textTranslation: "譛ｬ譁・・繝代・繧ｭ繝ｳ縺ｮ逋ｺ隕九・驥崎ｦ∵ｧ縺ｫ縺､縺・※菴輔ｒ遉ｺ蜚・＠縺ｦ縺・∪縺吶°・・",
+correctAnswer: 1,
+keywords: [ "significance", "discovery" ],
+keywordExplanations: {
+significance: "驥崎ｦ∵ｧ縲らｬｬ2谿ｵ關ｽ繧堤｢ｺ隱阪・ }",
+keywordMatches: [
+{ text: purple clothing was a luxury reserved for the wealthy, sentenceId: 9, keyword: significance }
+],
+choiceAdvice: "(1)邏ｫ縺ｮ陦｣譛阪′蛻昴ａ縺ｦ荳闊ｬ莠ｺ縺ｫ謇九′螻翫￥繧医≧縺ｫ (2)謖・ｰ手・・繧ｳ繝ｼ繝ｫ繧ｿ繝ｼ繝ｫ螳滄ｨ薙∈縺ｮ逍大ｿｵ縺梧ｭ｣縺励°縺｣縺・(3)繧ｭ繝九・繝榊粋謌先焔鬆・↓蠕薙▲縺溘°繧臥匱逕・(4)遘大ｭｦ逡後〒蛹ｻ蟄ｦ遐皮ｩｶ縺ｮ逕ｻ譛溽噪逋ｺ隕九→縺吶＄縺ｫ隱崎ｭ・",
+choices: [
+{
+id: "1, text: It made purple clothing accessible to the general public for the first time in history., translation: 豁ｴ蜿ｲ荳雁・繧√※邏ｫ濶ｲ縺ｮ陦｣譛阪′荳闊ｬ螟ｧ陦・↓謇九′螻翫￥繧医≧縺ｫ縺ｪ縺｣縺溘・, isCorrect: true, highlight: purple clothing accessible to the general public  }",
+{ id: 2, text: It proved that his mentor was correct in doubting the value of experimenting with coal tar., translation: 繧ｳ繝ｼ繝ｫ繧ｿ繝ｼ繝ｫ縺ｧ縺ｮ螳滄ｨ薙・萓｡蛟､繧堤桝縺｣縺滓欠蟆手・′豁｣縺励°縺｣縺溘％縺ｨ繧定ｨｼ譏弱＠縺溘・, isCorrect: false },
+{ id: 3, text: It occurred because Perkin carefully followed the instructions for synthesizing quinine., translation: 繝代・繧ｭ繝ｳ縺後く繝九・繝阪ｒ蜷域・縺吶ｋ謖・､ｺ縺ｫ豕ｨ諢乗ｷｱ縺丞ｾ薙▲縺溘◆繧√↓襍ｷ縺薙▲縺溘・, isCorrect: false },
+{ id: 4, text: It was immediately recognized by the scientific community as a breakthrough in medical research., translation: 遘大ｭｦ逡後↓繧医▲縺ｦ蛹ｻ蟄ｦ遐皮ｩｶ縺ｮ逕ｻ譛溽噪逋ｺ隕九→縺励※縺吶＄縺ｫ隱崎ｭ倥＆繧後◆縲・, isCorrect: false }
+],
+hint: {
+paragraphId: "2, description: 隨ｬ2谿ｵ關ｽ縲ヾentence 9縲ら匱隕倶ｻ･蜑阪・邏ｫ縺ｯ蟇瑚｣募ｱ､蟆ら畑縺縺｣縺溪・逋ｺ隕句ｾ後・螟峨ｏ縺｣縺溘・, targetSentenceId: 9, highlightWord: purple clothing was a luxury reserved for the wealthy, highlightWordSentenceId: 9 }",
+logic: [
+{ type: question, content: 繝代・繧ｭ繝ｳ縺ｮ逋ｺ隕九・驥崎ｦ∵ｧ縺ｯ・・ },
+{ type: text, content: Sentence 9: 逋ｺ隕倶ｻ･蜑阪∫ｴｫ縺ｮ陦｣譛阪・蟇瑚｣募ｱ､蟆ら畑縺ｮ雍・ｲ｢蜩√□縺｣縺溘・ },
+{ type: text, content: Sentence 11-12: 蟾･蝣ｴ縺ｧ螟ｧ驥冗函逕｣縲√ヵ繧｡繝・す繝ｧ繝ｳ逡後〒繧ｻ繝ｳ繧ｻ繝ｼ繧ｷ繝ｧ繝ｳ縲・ },
+{ type: arrow, content: 蟇瑚｣募ｱ､蟆ら畑 竊・螟ｧ驥冗函逕｣縺ｧ荳闊ｬ莠ｺ縺ｫ繧よ焔縺悟ｱ翫￥繧医≧縺ｫ = 驕ｸ謚櫁い1 },
+{ type: conclusion, content: 豁｣隗｣: 1 }
+]
+},
+{
+id: 3,
+text: "What is described as ironic in the final paragraph?",
+textTranslation: "譛邨よｮｵ關ｽ縺ｧ逧ｮ閧峨→縺励※霑ｰ縺ｹ繧峨ｌ縺ｦ縺・ｋ縺ｮ縺ｯ菴輔〒縺吶°・・",
+correctAnswer: 3,
+keywords: [ "ironic", "final paragraph" ],
+keywordExplanations: {
+ironic: "逧ｮ閧峨↑縲らｬｬ3谿ｵ關ｽ縺ｮIronically繧堤｢ｺ隱阪・ }",
+keywordMatches: [
+{ text: Ironically, the very chemical knowledge that failed to produce quinine later paved the way for modern chemotherapy and antibiotics, sentenceId: 16, keyword: ironic }
+],
+choiceAdvice: "(1)譟捺侭逕｣讌ｭ縺ｧ蟇後ｒ蠕励◆縺檎ｵ先ｸ豐ｻ逋ゅ〒雋｡逕｣繧貞､ｱ縺・(2)蜷域・譟捺侭縺後く繝九・繝阪ｈ繧雁柑譫懃噪縺ｫ繝槭Λ繝ｪ繧｢豐ｻ逋・(3)蜈・・蛹ｻ蟄ｦ逧・岼讓吶↓螟ｱ謨励＠縺溽皮ｩｶ縺悟ｰ・擂縺ｮ蛹ｻ蟄ｦ逧・匱隕九・蝓ｺ遉弱↓ (4)邨先ｸ闖後′繝代・繧ｭ繝ｳ縺ｮ譟捺侭縺ｫ閠先ｧ",
+choices: [
+{ id: 1, text: Perkin became wealthy from the dye industry but eventually lost his fortune trying to cure tuberculosis., translation: 繝代・繧ｭ繝ｳ縺ｯ譟捺侭逕｣讌ｭ縺ｧ陬慕ｦ上↓縺ｪ縺｣縺溘′縲∫ｵ先ｸ繧呈ｲｻ縺昴≧縺ｨ縺励※譛邨ら噪縺ｫ雋｡逕｣繧貞､ｱ縺｣縺溘・, isCorrect: false },
+{ id: 2, text: The synthetic dyes were more effective at treating malaria than the quinine Perkin had originally tried to make., translation: 蜷域・譟捺侭縺ｯ繝代・繧ｭ繝ｳ縺悟・縲・ｽ懊ｍ縺・→縺励※縺・◆繧ｭ繝九・繝阪ｈ繧翫ｂ繝槭Λ繝ｪ繧｢豐ｻ逋ゅ↓蜉ｹ譫懃噪縺縺｣縺溘・, isCorrect: false },
+{
+id: "3, text: The chemical research that failed to reach its original medical goal laid the foundation for future medical breakthroughs., translation: 蜈・・蛹ｻ蟄ｦ逧・岼讓吶↓蛻ｰ驕斐〒縺阪↑縺九▲縺溷喧蟄ｦ遐皮ｩｶ縺後∝ｰ・擂縺ｮ蛹ｻ蟄ｦ逧・匱隕九・蝓ｺ遉弱ｒ遽峨＞縺溘・, isCorrect: true, highlight: failed to reach its original medical goal laid the foundation for future medical breakthroughs }",
+{ id: 4, text: The bacteria responsible for tuberculosis were actually resistant to the dyes that Perkin had invented., translation: 邨先ｸ縺ｮ蜴溷屏闖後・螳滄圀縺ｫ縺ｯ繝代・繧ｭ繝ｳ縺檎匱譏弱＠縺滓沒譁吶↓閠先ｧ縺後≠縺｣縺溘・, isCorrect: false }
+],
+hint: {
+paragraphId: "3, description: 隨ｬ3谿ｵ關ｽ縲ヾentence 16縲ゅく繝九・繝榊､ｱ謨・竊・蛹門ｭｦ逋よｳ輔・謚礼函迚ｩ雉ｪ縺ｸ縺ｮ驕薙・, targetSentenceId: 16, highlightWord: the very chemical knowledge that failed to produce quinine later paved the way for modern chemotherapy and antibiotics, highlightWordSentenceId: 16 }",
+logic: [
+{ type: question, content: 譛邨よｮｵ關ｽ縺ｧ逧ｮ閧峨→縺励※霑ｰ縺ｹ繧峨ｌ縺ｦ縺・ｋ縺ｮ縺ｯ・・ },
+{ type: text, content: Sentence 16: Ironically, the very chemical knowledge that failed to produce quinine later paved the way for modern chemotherapy and antibiotics. },
+{ type: arrow, content: 繧ｭ繝九・繝咲函謌仙､ｱ謨暦ｼ亥・縺ｮ蛹ｻ蟄ｦ逶ｮ讓呻ｼ俄・ 蛹門ｭｦ逋よｳ輔・謚礼函迚ｩ雉ｪ縺ｸ縺ｮ驕難ｼ亥ｰ・擂縺ｮ蛹ｻ蟄ｦ逧・匱隕具ｼ・ 驕ｸ謚櫁い3 },
+{ type: conclusion, content: 豁｣隗｣: 3 }
+]
+}
+],
+summaryForInstructors: {
+title: "The Accidental Color: Perkin's Mauve・亥・辟ｶ縺ｮ濶ｲ・壹ヱ繝ｼ繧ｭ繝ｳ縺ｮ繝｢繝ｼ繝ｴ・・",
+intro: "18豁ｳ縺ｮ蛹門ｭｦ蟄ｦ逕溘ヱ繝ｼ繧ｭ繝ｳ縺後・繝ｩ繝ｪ繧｢豐ｻ逋り脈繧ｭ繝九・繝阪・蜷域・縺ｫ螟ｱ謨励＠縲∝・辟ｶ荳也阜蛻昴・蜷域・譟捺侭縲後Δ繝ｼ繝ｴ縲阪ｒ逋ｺ隕九＠縺溯ｩｱ縲ゅ％縺ｮ蛛ｶ逋ｺ逧・匱譏弱′蛹門ｭｦ逕｣讌ｭ繧堤函縺ｿ蜃ｺ縺励∵怙邨ら噪縺ｫ迴ｾ莉｣蛹ｻ蟄ｦ縺ｮ逋ｺ螻輔↓繧りｲ｢迪ｮ縺励◆縲・",
+points: [
+{ label: 1. 繧ｭ繝九・繝榊粋謌舌・隧ｦ縺ｿ・育ｬｬ1谿ｵ關ｽ・・, text: 1856蟷ｴ縲・8豁ｳ縺ｮ繝代・繧ｭ繝ｳ縺ｯ繝槭Λ繝ｪ繧｢豐ｻ逋り脈繧ｭ繝九・繝阪・蜷域・縺ｫ謖第姶縲ょｽ捺凾繧ｭ繝九・繝阪・譛ｨ縺ｮ讓ｹ逧ｮ縺九ｉ縺励°謚ｽ蜃ｺ縺ｧ縺阪★鬮倅ｾ｡縺縺｣縺溘ゅう繝ｼ繧ｹ繧ｿ繝ｼ莨第嚊縺ｫ繧ｳ繝ｼ繝ｫ繧ｿ繝ｼ繝ｫ縺ｧ螳滄ｨ薙＠縺溘′螟ｱ謨励＠縲・ｻ偵＞谿狗蕗迚ｩ縺後〒縺阪◆縲ゅ＠縺九＠繧｢繝ｫ繧ｳ繝ｼ繝ｫ縺ｧ豢励▲縺滄圀縲・ｩ壹￥縺ｻ縺ｩ魄ｮ繧・°縺ｪ邏ｫ濶ｲ縺ｮ貅ｶ豸ｲ縺檎樟繧後◆縲・ },
+{ label: 2. 繝｢繝ｼ繝ｴ縺ｮ蝠・･ｭ蛹悶→謌仙粥・育ｬｬ2谿ｵ關ｽ・・, text: 繝代・繧ｭ繝ｳ縺ｯ荳也阜蛻昴・蜷域・譟捺侭繧貞・辟ｶ逋ｺ隕九ら匱隕倶ｻ･蜑阪∫ｴｫ縺ｮ陦｣譛阪・蟇瑚｣募ｱ､蟆ら畑縺ｮ雍・ｲ｢蜩√□縺｣縺溘よ欠蟆手・・諛千桝縺ｫ繧ゅ°縺九ｏ繧峨★迚ｹ險ｱ蜿門ｾ励＠蟾･蝣ｴ繧定ｨｭ遶九ゅΧ繧｣繧ｯ繝医Μ繧｢螂ｳ邇玖・繧峨′諢帷畑縺怜､ｧ豬∬｡後ゅΔ繝ｼ繝ｴ縺ｮ謌仙粥縺ｯ譁ｰ縺溘↑蛹門ｭｦ逕｣讌ｭ繧堤函縺ｿ蜃ｺ縺励∬・辟ｶ縺ｮ讓｡蛟｣縺九ｉ譁ｰ譚先侭縺ｮ蜑ｵ騾縺ｸ縺ｨ驥咲せ繧堤ｧｻ縺励◆縲・ },
+{ label: 3. 蛹ｻ蟄ｦ縺ｸ縺ｮ逧ｮ閧峨↑雋｢迪ｮ・育ｬｬ3谿ｵ關ｽ・・, text: 繝代・繧ｭ繝ｳ縺ｮ逋ｺ隕九・繝輔ぃ繝・す繝ｧ繝ｳ莉･荳翫・蠖ｱ髻ｿ繧偵ｂ縺溘ｉ縺励◆縲ら坩閧峨↓繧ゅく繝九・繝榊粋謌舌↓螟ｱ謨励＠縺溷喧蟄ｦ遏･隴倥′縲∝ｾ後↓蛹門ｭｦ逋よｳ輔→謚礼函迚ｩ雉ｪ縺ｸ縺ｮ驕薙ｒ髢九＞縺溘ょ粋謌先沒譁吶〒邏ｰ闖後ｒ譟楢牡縺鈴｡募ｾｮ髀｡縺ｧ隕ｳ蟇溷庄閭ｽ縺ｫ縺吶ｋ謚陦薙′逕溘∪繧後√Ο繝吶Ν繝医・繧ｳ繝・・縺ｯ邨先ｸ闖後ｒ迚ｹ螳壹〒縺阪◆縲ゅ・繝ｩ繝ｪ繧｢阮ｬ縺ｧ蜻ｽ繧呈舞縺翫≧縺ｨ縺励◆螟ｱ謨励・縲∵怙邨ら噪縺ｫ謨ｰ逋ｾ荳・ｺｺ縺ｮ蜻ｽ繧呈舞縺・％縺ｨ縺ｫ縺ｪ縺｣縺溘・ }
+]
+}
+}

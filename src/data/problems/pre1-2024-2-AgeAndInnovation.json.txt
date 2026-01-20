@@ -1,0 +1,453 @@
+{
+id: "pre1-2024-2-AgeAndInnovation",
+grade: "貅・邏・",
+title: "Age and Innovation",
+subTitle: "2024蟷ｴ蠎ｦ 隨ｬ2蝗・螟ｧ蝠・",
+images: {
+content: "/images/reading/pre1-2024-2-AgeAndInnovation-content.png",
+question: "/images/reading/pre1-2024-2-AgeAndInnovation-question.png"
+},
+content: [
+{
+paragraphId: 1,
+sentences: [
+{
+id: 1,
+text: "One benchmark that is used to measure technological progress is Moore's law.",
+translation: "謚陦鍋噪騾ｲ豁ｩ繧呈ｸｬ螳壹☆繧九◆繧√↓菴ｿ逕ｨ縺輔ｌ繧・縺､縺ｮ蝓ｺ貅悶・縲√Β繝ｼ繧｢縺ｮ豕募援縺ｧ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk S-group><span class=text>One benchmark <span class=modifier>(that is used...)</span></span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>Moore's law</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>荳縺､縺ｮ蝓ｺ貅悶・ <span class=t-M>(菴ｿ繧上ｌ繧・</span></span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>繝繝ｼ繧｢縺ｮ豕募援</span>縲・",
+naturalTranslation: "謚陦鍋噪騾ｲ豁ｩ繧呈ｸｬ繧倶ｸ縺､縺ｮ謖・ｨ吶→縺励※縲√Β繝ｼ繧｢縺ｮ豕募援縺後≠繧翫∪縺吶・",
+vocabulary: [ "{word: benchmark", "meaning: 蝓ｺ貅悶∵欠讓・ }", "{word: measure", "meaning: 貂ｬ螳壹☆繧・ }", "{word: progress", "meaning: 騾ｲ豁ｩ }" ],
+grammarNotes: [ "{phrase: that is used", "explanation: <b>that is used</b>: 髢｢菫ゆｻ｣蜷崎ｩ橸ｼ句女蜍墓・縲ゅ御ｽｿ繧上ｌ繧九・ }" ]
+}
+},
+{
+id: 2,
+text: "This law, which was originally published by US engineer and businessman Gordon Moore in 1965, states that the number of transistors on a microchip will double every two years.",
+translation: "縺薙・豕募援縺ｯ縲・965蟷ｴ縺ｫ邀ｳ蝗ｽ縺ｮ繧ｨ繝ｳ繧ｸ繝九い縺ｧ螳滓･ｭ螳ｶ縺ｮ繧ｴ繝ｼ繝峨Φ繝ｻ繝繝ｼ繧｢縺ｫ繧医▲縺ｦ譛蛻昴↓逋ｺ陦ｨ縺輔ｌ縺溘ｂ縺ｮ縺ｧ縲√・繧､繧ｯ繝ｭ繝√ャ繝嶺ｸ翫・繝医Λ繝ｳ繧ｸ繧ｹ繧ｿ縺ｮ謨ｰ縺ｯ2蟷ｴ縺斐→縺ｫ蛟榊｢励☆繧九→霑ｰ縺ｹ縺ｦ縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "states" ],
+structureHtml: "<span class=chunk S-group><span class=text>This law</span><span class=tag>S</span></span>... <span class=chunk V-group><span class=text>states</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that the number ... will double...]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>縺薙・豕募援縺ｯ</span>... <span class=t-V>霑ｰ縺ｹ縺ｦ縺・∪縺・/span> <span class=t-O>[謨ｰ縺ｯ蛟榊｢励☆繧九→]</span>縲・",
+naturalTranslation: "1965蟷ｴ縺ｫ邀ｳ蝗ｽ縺ｮ謚陦楢・〒縺ゅｊ螳滓･ｭ螳ｶ縺ｮ繧ｴ繝ｼ繝峨Φ繝ｻ繝繝ｼ繧｢縺ｫ繧医▲縺ｦ譛蛻昴↓逋ｺ陦ｨ縺輔ｌ縺溘％縺ｮ豕募援縺ｯ縲√・繧､繧ｯ繝ｭ繝√ャ繝嶺ｸ翫・繝医Λ繝ｳ繧ｸ繧ｹ繧ｿ謨ｰ縺ｯ2蟷ｴ縺斐→縺ｫ蛟榊｢励☆繧九→霑ｰ縺ｹ縺ｦ縺・∪縺吶・",
+vocabulary: [ "{word: publish", "meaning: 逋ｺ陦ｨ縺吶ｋ縲∝・迚医☆繧・ }", "{word: transistor", "meaning: 繝医Λ繝ｳ繧ｸ繧ｹ繧ｿ }", "{word: double", "meaning: 蛟阪↓縺ｪ繧・ }" ],
+grammarNotes: [ "{phrase: which was ... published", "explanation: <b>which (髢｢菫ゆｻ｣蜷崎ｩ槭・髱槫宛髯千畑豕・</b>: 蜑阪・遽繧定｣懆ｶｳ隱ｬ譏弱☆繧九・ }", "{phrase: states that", "explanation: <b>states that</b>: 縲後懊〒縺ゅｋ縺ｨ霑ｰ縺ｹ繧九・ }" ]
+}
+},
+{
+id: 3,
+text: "Moore originally intended this as a prediction regarding computer technology, but it became the driving force behind the rapid progress in computer technology that has occurred since then.",
+translation: "繝繝ｼ繧｢縺ｯ蠖灘・縺薙ｌ繧偵さ繝ｳ繝斐Η繝ｼ繧ｿ謚陦薙↓髢｢縺吶ｋ莠域ｸｬ縺ｨ縺励※諢丞峙縺励※縺・∪縺励◆縺後√◎繧後・縺昴ｌ莉･譚･襍ｷ縺薙▲縺溘さ繝ｳ繝斐Η繝ｼ繧ｿ謚陦薙・諤･騾溘↑騾ｲ豁ｩ縺ｮ蜴溷虚蜉帙→縺ｪ繧翫∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "intended", "became" ],
+structureHtml: "<span class=chunk S-group><span class=text>Moore</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>intended</span><span class=tag>V</span></span>... but <span class=chunk S-group><span class=text>it</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>became</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>the driving force</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>繝繝ｼ繧｢縺ｯ</span> <span class=t-V>諢丞峙縺励∪縺励◆</span>...縺励°縺・span class=t-S>縺昴ｌ縺ｯ</span> <span class=t-V>縺ｪ繧翫∪縺励◆</span> <span class=t-C>蜴溷虚蜉帙↓</span>縲・",
+naturalTranslation: "繝繝ｼ繧｢縺ｯ蠖灘・縺薙ｌ繧偵さ繝ｳ繝斐Η繝ｼ繧ｿ謚陦薙・莠域ｸｬ縺ｮ縺､繧ゅｊ縺ｧ霑ｰ縺ｹ縺ｾ縺励◆縺後√◎繧後・邨先棡縺ｨ縺励※縲√◎縺ｮ蠕後・諤･騾溘↑謚陦馴ｲ豁ｩ縺ｮ蜴溷虚蜉帙→縺ｪ繧翫∪縺励◆縲・",
+vocabulary: [ "{word: intend", "meaning: 諢丞峙縺吶ｋ }", "{word: prediction", "meaning: 莠域ｸｬ }", "{word: driving force", "meaning: 蜴溷虚蜉・ }" ],
+grammarNotes: [ "{phrase: regarding", "explanation: <b>regarding</b>: 縲後懊↓髢｢縺吶ｋ縲・ }", "{phrase: that has occurred", "explanation: <b>that (髢｢菫ゆｻ｣蜷崎ｩ・</b>: rapid progress繧剃ｿｮ鬟ｾ縲・ }" ]
+}
+},
+{
+id: 4,
+text: "The law implied that computers would continue to become smaller and more powerful, and tech companies started to plan their product development around this principle.",
+translation: "縺薙・豕募援縺ｯ縲√さ繝ｳ繝斐Η繝ｼ繧ｿ縺後ｈ繧雁ｰ上＆縺上√ｈ繧雁ｼｷ蜉帙↓縺ｪ繧顔ｶ壹￠繧九％縺ｨ繧呈э蜻ｳ縺励※縺翫ｊ縲√ユ繧ｯ繝弱Ο繧ｸ繝ｼ莨∵･ｭ縺ｯ縺薙・蜴溷援繧剃ｸｭ蠢・↓陬ｽ蜩・幕逋ｺ繧定ｨ育判縺怜ｧ九ａ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "implied", "started" ],
+structureHtml: "<span class=chunk S-group><span class=text>The law</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>implied</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that computers would continue...]</span><span class=tag>O</span></span>, and <span class=chunk S-group><span class=text>tech companies</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>started to plan</span><span class=tag>V</span></span>...",
+translationHtml: "<span class=t-S>豕募援縺ｯ</span> <span class=t-V>諢丞袖縺励∪縺励◆</span>...縺昴＠縺ｦ<span class=t-S>莨∵･ｭ縺ｯ</span> <span class=t-V>險育判縺怜ｧ九ａ縺ｾ縺励◆</span>...",
+naturalTranslation: "縺薙・豕募援縺ｯ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ縺悟ｰ丞梛蛹悶・鬮俶ｧ閭ｽ蛹悶＠邯壹￠繧九％縺ｨ繧堤､ｺ蜚・＠縺ｦ縺翫ｊ縲√ユ繝・け莨∵･ｭ縺ｯ縺薙・蜴溷援縺ｫ蝓ｺ縺･縺・※陬ｽ蜩・幕逋ｺ繧定ｨ育判縺吶ｋ繧医≧縺ｫ縺ｪ繧翫∪縺励◆縲・",
+vocabulary: [ "{word: imply", "meaning: 諢丞袖縺吶ｋ縲∫､ｺ蜚・☆繧・ }", "{word: powerful", "meaning: 蠑ｷ蜉帙↑ }", "{word: principle", "meaning: 蜴溷援 }" ],
+grammarNotes: [ "{phrase: started to plan", "explanation: <b>start to do</b>: 縲後懊＠蟋九ａ繧九・ }", "{phrase: around this principle", "explanation: <b>around</b>: 縲後懊ｒ荳ｭ蠢・↓縲√懊↓蝓ｺ縺･縺・※縲・ }" ]
+}
+},
+{
+id: 5,
+text: "Most experts now consider that Moore's law was responsible for innovations such as home computers and smartphones that have become essential parts of modern life.",
+translation: "縺ｻ縺ｨ繧薙←縺ｮ蟆る摩螳ｶ縺ｯ迴ｾ蝨ｨ縲√Β繝ｼ繧｢縺ｮ豕募援縺檎樟莉｣縺ｮ逕滓ｴｻ縺ｮ荳榊庄谺縺ｪ荳驛ｨ縺ｨ縺ｪ縺｣縺溷ｮｶ蠎ｭ逕ｨ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繧・せ繝槭・繝医ヵ繧ｩ繝ｳ縺ｪ縺ｩ縺ｮ髱ｩ譁ｰ縺ｮ蜴溷屏縺ｧ縺ゅ▲縺溘→閠・∴縺ｦ縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "consider" ],
+structureHtml: "<span class=chunk S-group><span class=text>Most experts</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>consider</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that Moore's law was responsible...]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>蟆る摩螳ｶ縺ｯ</span> <span class=t-V>閠・∴縺ｦ縺・∪縺・/span> <span class=t-O>[繝繝ｼ繧｢縺ｮ豕募援縺悟次蝗縺縺｣縺溘→]</span>縲・",
+naturalTranslation: "迴ｾ蝨ｨ縺ｧ縺ｯ螟壹￥縺ｮ蟆る摩螳ｶ縺後∝ｮｶ蠎ｭ逕ｨPC繧・せ繝槭・縺ｨ縺・▲縺溽樟莉｣逕滓ｴｻ縺ｫ荳榊庄谺縺ｪ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ繧偵ｂ縺溘ｉ縺励◆縺ｮ縺ｯ繝繝ｼ繧｢縺ｮ豕募援縺ｧ縺ゅ▲縺溘→閠・∴縺ｦ縺・∪縺吶・",
+vocabulary: [ "{word: expert", "meaning: 蟆る摩螳ｶ }", "{word: responsible for", "meaning: 縲懊・蜴溷屏縺ｧ縺ゅｋ縲∬ｲｬ莉ｻ縺後≠繧・ }", "{word: essential", "meaning: 荳榊庄谺縺ｪ }" ],
+grammarNotes: [ "{phrase: such as", "explanation: <b>such as</b>: 縲後懊・繧医≧縺ｪ縲・ }", "{phrase: that have become", "explanation: <b>that (髢｢菫ゆｻ｣蜷崎ｩ・</b>: smartphones (and computers) 繧剃ｿｮ鬟ｾ縲・ }" ]
+}
+}
+]
+},
+{
+paragraphId: 2,
+sentences: [
+{
+id: 6,
+text: "Moore's law has largely held true, but only because the amount of manpower and time used to make it possible have also greatly increased.",
+translation: "繝繝ｼ繧｢縺ｮ豕募援縺ｯ螟ｧ驛ｨ蛻・′蠖薙※縺ｯ縺ｾ縺｣縺ｦ縺阪∪縺励◆縺後√◎繧後・縺昴ｌ繧貞庄閭ｽ縺ｫ縺吶ｋ縺溘ａ縺ｫ菴ｿ繧上ｌ繧倶ｺｺ逧・ｳ・ｺ舌→譎る俣縺ｮ驥上′螟ｧ蟷・↓蠅怜刈縺励◆縺九ｉ縺ｫ莉悶↑繧翫∪縺帙ｓ縲・",
+grammarAnalysis: {
+mainVerbs: [ "has held" ],
+structureHtml: "<span class=chunk S-group><span class=text>Moore's law</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>has held true</span><span class=tag>V</span></span>, but only because <span class=chunk S-group><span class=text>the amount...</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>have increased</span><span class=tag>V</span></span>.",
+translationHtml: "<span class=t-S>繝繝ｼ繧｢縺ｮ豕募援縺ｯ</span> <span class=t-V>蠖薙※縺ｯ縺ｾ縺｣縺ｦ縺阪∪縺励◆</span>縲√＠縺九＠蜊倥↓...縺縺九ｉ縺ｧ縺吶・",
+naturalTranslation: "繝繝ｼ繧｢縺ｮ豕募援縺ｯ讎ゅ・邯ｭ謖√＆繧後※縺阪∪縺励◆縺後√◎繧後・螳溽樟縺ｮ縺溘ａ縺ｫ謚輔§繧峨ｌ繧倶ｺｺ謇九→譎る俣縺悟､ｧ蟷・↓蠅励∴縺溘°繧峨↓驕弱℃縺ｾ縺帙ｓ縲・",
+vocabulary: [ "{word: largely", "meaning: 螟ｧ驛ｨ蛻・∵ｦゅ・ }", "{word: hold true", "meaning: 蠖薙※縺ｯ縺ｾ繧九∵怏蜉ｹ縺ｧ縺ゅｋ }", "{word: manpower", "meaning: 莠ｺ逧・ｳ・ｺ舌∽ｺｺ謇・ }" ],
+grammarNotes: [ "{phrase: used to make", "explanation: <b>used (驕主悉蛻・ｩ・</b>: time繧剃ｿｮ鬟ｾ縲・ }", "{phrase: have increased", "explanation: <b>have increased</b>: amount縺御ｸｻ隱槭□縺後［anpower and time縺ｫ蠑輔°繧後※隍・焚蠖｢謇ｱ縺・↓縺ｪ縺｣縺ｦ縺・ｋ縺九∵э蜻ｳ逧・↑隍・焚縲・ }" ]
+}
+},
+{
+id: 7,
+text: "As a paper by researchers from two universities in the United States concludes, The constant exponential growth implied by Moore's law has been achieved only by a staggering increase in the amount of resources devoted to pushing the frontier forward.",
+translation: "邀ｳ蝗ｽ縺ｮ2縺､縺ｮ螟ｧ蟄ｦ縺ｮ遐皮ｩｶ閠・↓繧医ｋ隲匁枚縺檎ｵ占ｫ紋ｻ倥￠縺ｦ縺・ｋ繧医≧縺ｫ縲√後Β繝ｼ繧｢縺ｮ豕募援縺ｫ繧医▲縺ｦ遉ｺ蜚・＆繧後ｋ荳螳壹・謖・焚髢｢謨ｰ逧・・髟ｷ縺ｯ縲√ヵ繝ｭ繝ｳ繝・ぅ繧｢繧貞燕騾ｲ縺輔○繧九◆繧√↓謐ｧ縺偵ｉ繧後◆繝ｪ繧ｽ繝ｼ繧ｹ縺ｮ驥上・鬩夂焚逧・↑蠅怜刈縺ｫ繧医▲縺ｦ縺ｮ縺ｿ驕疲・縺輔ｌ縺ｾ縺励◆縲ゅ・",
+grammarAnalysis: {
+mainVerbs: [ "concludes" ],
+structureHtml: "<span class=chunk M-group><span class=text>(As a paper ... concludes)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>The ... growth</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>has been achieved</span><span class=tag>V</span></span>...",
+translationHtml: "<span class=t-M>(隲匁枚縺檎ｵ占ｫ悶▼縺代ｋ繧医≧縺ｫ)</span>縲√・span class=t-S>謌宣聞縺ｯ</span> <span class=t-V>驕疲・縺輔ｌ縺ｾ縺励◆</span>...縲・",
+naturalTranslation: "縲後Β繝ｼ繧｢縺ｮ豕募援縺檎､ｺ縺呎欠謨ｰ髢｢謨ｰ逧・↑謌宣聞縺ｯ縲∵怙蜈育ｫｯ繧貞・繧頑挙縺上◆繧√↓謚輔§繧九Μ繧ｽ繝ｼ繧ｹ繧呈｡・＆縺・↓蠅励ｄ縺吶％縺ｨ縺ｫ繧医▲縺ｦ縺ｮ縺ｿ驕疲・縺輔ｌ縺ｦ縺阪◆縲阪→縲∫ｱｳ蝗ｽ縺ｮ遐皮ｩｶ隲匁枚縺ｯ邨占ｫ悶▼縺代※縺・∪縺吶・",
+vocabulary: [ "{word: exponential", "meaning: 謖・焚髢｢謨ｰ逧・↑ }", "{word: staggering", "meaning: 鬩夂焚逧・↑縲∝悸蛟堤噪縺ｪ }", "{word: devote", "meaning: 謐ｧ縺偵ｋ縲∝・縺ｦ繧・ }" ],
+grammarNotes: [ "{phrase: implied by", "explanation: <b>implied by (驕主悉蛻・ｩ・</b>: growth繧剃ｿｮ鬟ｾ縲・ }", "{phrase: devoted to", "explanation: <b>devoted to</b>: 縲後懊↓謐ｧ縺偵ｉ繧後◆縲阪Ｓesources繧剃ｿｮ鬟ｾ縲・ }" ]
+}
+},
+{
+id: 8,
+text: "In fact, the number of researchers required to maintain the same level of innovation today is around seventy-five times more than it was in the early 1970s.",
+translation: "螳滄圀縲∽ｻ頑律蜷後§繝ｬ繝吶Ν縺ｮ髱ｩ譁ｰ繧堤ｶｭ謖√☆繧九◆繧√↓蠢・ｦ√↑遐皮ｩｶ閠・・謨ｰ縺ｯ縲・970蟷ｴ莉｣蛻晞ｭ縺ｮ邏・5蛟阪〒縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk M-group><span class=text>(In fact)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the number of researchers ...</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>around seventy-five times more</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-M>(螳滄圀)</span>縲・span class=t-S>遐皮ｩｶ閠・・謨ｰ縺ｯ</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>邏・5蛟・/span>縲・",
+naturalTranslation: "螳滄圀縲∽ｻ頑律蜷後§繝ｬ繝吶Ν縺ｮ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ繧堤ｶｭ謖√☆繧九◆繧√↓蠢・ｦ√↑遐皮ｩｶ閠・焚縺ｯ縲・970蟷ｴ莉｣蛻晞ｭ縺ｮ邏・5蛟阪↓驕斐＠縺ｦ縺・∪縺吶・",
+vocabulary: [ "{word: maintain", "meaning: 邯ｭ謖√☆繧・ }", "{word: level", "meaning: 繝ｬ繝吶Ν縲∵ｰｴ貅・ }", "{word: innovation", "meaning: 髱ｩ譁ｰ縲√う繝弱・繝ｼ繧ｷ繝ｧ繝ｳ }" ],
+grammarNotes: [ "{phrase: required to", "explanation: <b>required to</b>: 縲後懊☆繧九・縺ｫ蠢・ｦ√↑縲阪Ｓesearchers繧剃ｿｮ鬟ｾ縲・ }", "{phrase: times more than", "explanation: <b>times more than</b>: 縲後懊・...蛟阪・ }" ]
+}
+},
+{
+id: 9,
+text: "Similarly, there is a general trend in many areas of society for significant progress to take longer.",
+translation: "蜷梧ｧ倥↓縲∫､ｾ莨壹・螟壹￥縺ｮ蛻・㍽縺ｧ縲・㍾隕√↑騾ｲ豁ｩ縺ｫ繧医ｊ髟ｷ縺・凾髢薙′縺九°繧九→縺・≧荳闊ｬ逧・↑蛯ｾ蜷代′縺ゅｊ縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Similarly)</span><span class=tag>M</span></span>, <span class=chunk V-group><span class=text>there is</span><span class=tag>V</span></span> <span class=chunk S-group><span class=text>a general trend</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(for progress to take longer)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(蜷梧ｧ倥↓)</span>縲・span class=t-V>縺ゅｊ縺ｾ縺・/span> <span class=t-S>荳闊ｬ逧・↑蛯ｾ蜷代′</span> <span class=t-M>(騾ｲ豁ｩ縺ｫ譎る俣縺後°縺九ｋ縺ｨ縺・≧)</span>縲・",
+naturalTranslation: "蜷梧ｧ倥↓縲∫､ｾ莨壹・螟壹￥縺ｮ蛻・㍽縺ｫ縺翫＞縺ｦ縲∝､ｧ縺阪↑騾ｲ豁ｩ繧帝≠縺偵ｋ縺ｮ縺ｫ繧医ｊ譎る俣縺後°縺九ｋ繧医≧縺ｫ縺ｪ繧句だ蜷代′隕九ｉ繧後∪縺吶・",
+vocabulary: [ "{word: similarly", "meaning: 蜷梧ｧ倥↓ }", "{word: trend", "meaning: 蛯ｾ蜷・ }", "{word: significant", "meaning: 驥崎ｦ√↑縲∬送縺励＞ }" ],
+grammarNotes: [ "{phrase: for ... to take", "explanation: <b>for A to do</b>: 縲窟縺後懊☆繧九◆繧√・・医％縺薙〒縺ｯtrend縺ｮ蜀・ｮｹ隱ｬ譏趣ｼ峨・ }" ]
+}
+},
+{
+id: 10,
+text: "Political and business leaders are getting older, the average age of Nobel Prize winners is rising, and groundbreaking scientific discoveries are being made less frequently.",
+translation: "謾ｿ豐ｻ繧・ン繧ｸ繝阪せ縺ｮ繝ｪ繝ｼ繝繝ｼ縺ｯ鬮倬ｽ｢蛹悶＠縺ｦ縺翫ｊ縲√ヮ繝ｼ繝吶Ν雉槫女雉櫁・・蟷ｳ蝮・ｹｴ鮨｢縺ｯ荳頑・縺励※縺翫ｊ縲∫判譛溽噪縺ｪ遘大ｭｦ逧・匱隕九・繧医ｊ鬆ｻ郢√↓陦後ｏ繧後↑縺上↑縺｣縺ｦ縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "getting", "rising", "being made" ],
+structureHtml: "<span class=chunk S-group><span class=text>leaders</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are getting</span><span class=tag>V</span></span>..., <span class=chunk S-group><span class=text>average age</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is rising</span><span class=tag>V</span></span>, and <span class=chunk S-group><span class=text>discoveries</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are being made</span><span class=tag>V</span></span>...",
+translationHtml: "<span class=t-S>繝ｪ繝ｼ繝繝ｼ縺ｯ</span> <span class=t-V>縺ｪ縺｣縺ｦ縺・∪縺・/span>...縲・span class=t-S>蟷ｳ蝮・ｹｴ鮨｢縺ｯ</span> <span class=t-V>荳翫′縺｣縺ｦ縺・∪縺・/span>縲√◎縺励※<span class=t-S>逋ｺ隕九・</span> <span class=t-V>縺ｪ縺輔ｌ縺ｦ縺・∪縺・/span>縲・",
+naturalTranslation: "謾ｿ豐ｻ繝ｻ繝薙ず繝阪せ縺ｮ繝ｪ繝ｼ繝繝ｼ縺ｯ鬮倬ｽ｢蛹悶＠縲√ヮ繝ｼ繝吶Ν雉槫女雉櫁・・蟷ｳ蝮・ｹｴ鮨｢繧ゆｸ翫′繧翫∫判譛溽噪縺ｪ遘大ｭｦ逧・匱隕九・鬆ｻ蠎ｦ縺ｯ貂帙▲縺ｦ縺・∪縺吶・",
+vocabulary: [ "{word: groundbreaking", "meaning: 逕ｻ譛溽噪縺ｪ }", "{word: discovery", "meaning: 逋ｺ隕・ }", "{word: frequently", "meaning: 鬆ｻ郢√↓ }" ],
+grammarNotes: [ "{phrase: getting older", "explanation: <b>getting older</b>: 縲悟ｹｴ繧偵→縺｣縺ｦ縺阪※縺・ｋ縲・ }", "{phrase: being made (蜿怜虚諷矩ｲ陦悟ｽ｢)", "explanation: <b>being made</b>: 縲後↑縺輔ｌ縺ｦ縺・ｋ・磯比ｸｭ縺ｧ縺ゅｋ・峨・ }" ]
+}
+}
+]
+},
+{
+paragraphId: 3,
+sentences: [
+{
+id: 11,
+text: "One theory put forward to explain this tendency is the burden of knowledge.",
+translation: "縺薙・蛯ｾ蜷代ｒ隱ｬ譏弱☆繧九◆繧√↓謠仙罰縺輔ｌ縺・縺､縺ｮ逅・ｫ悶・縲√檎衍隴倥・雋諡・阪〒縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk S-group><span class=text>One theory <span class=modifier>(put forward...)</span></span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>the burden of knowledge</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>荳縺､縺ｮ逅・ｫ悶・</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>縲檎衍隴倥・雋諡・・/span>縲・",
+naturalTranslation: "縺薙・蛯ｾ蜷代ｒ隱ｬ譏弱☆繧倶ｸ縺､縺ｮ逅・ｫ悶→縺励※縲√檎衍隴倥・雋諡・崎ｪｬ縺後≠繧翫∪縺吶・",
+vocabulary: [ "{word: theory", "meaning: 逅・ｫ・ }", "{word: tendency", "meaning: 蛯ｾ蜷・ }", "{word: burden", "meaning: 雋諡・ }" ],
+grammarNotes: [ "{phrase: put forward", "explanation: <b>put forward (驕主悉蛻・ｩ・</b>: 縲梧署蜚ｱ縺輔ｌ縺溘∝・縺輔ｌ縺溘阪Ｕheory繧剃ｿｮ鬟ｾ縲・ }" ]
+}
+},
+{
+id: 12,
+text: "This states that as more innovations are made, the amount of knowledge required to make new ones grows.",
+translation: "縺薙ｌ縺ｯ縲√ｈ繧雁､壹￥縺ｮ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺瑚｡後ｏ繧後ｋ縺ｫ縺､繧後※縲∵眠縺励＞繧ゅ・繧剃ｽ懊ｋ縺溘ａ縺ｫ蠢・ｦ√↑遏･隴倥・驥上′蠅怜､ｧ縺吶ｋ縺ｨ霑ｰ縺ｹ縺ｦ縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "states" ],
+structureHtml: "<span class=chunk S-group><span class=text>This</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>states</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that ... the amount of knowledge ... grows]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>縺薙ｌ縺ｯ</span> <span class=t-V>霑ｰ縺ｹ縺ｦ縺・∪縺・/span> <span class=t-O>[遏･隴倥・驥上′蠅励∴繧九→]</span>縲・",
+naturalTranslation: "縺薙ｌ縺ｯ縲√う繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺碁ｲ繧√・騾ｲ繧縺ｻ縺ｩ縲∵ｬ｡縺ｮ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ繧定ｵｷ縺薙☆縺溘ａ縺ｫ蠢・ｦ√↑遏･隴倬㍼縺悟｢励∴縺ｦ縺・￥縺ｨ縺・≧隱ｬ縺ｧ縺吶・",
+vocabulary: [ "{word: innovation", "meaning: 謚陦馴擠譁ｰ }", "{word: require", "meaning: 蠢・ｦ√→縺吶ｋ }", "{word: grow", "meaning: 蠅怜､ｧ縺吶ｋ縲∵・髟ｷ縺吶ｋ }" ],
+grammarNotes: [ "{phrase: as", "explanation: <b>as</b>: 縲後懊☆繧九↓縺､繧後※縲・ }", "{phrase: required to", "explanation: <b>required to</b>: 縲後懊☆繧九・縺ｫ蠢・ｦ√↑縲・ }" ]
+}
+},
+{
+id: 13,
+text: "Innovations occur as a result of using past knowledge to find solutions to problems, so each generation has to learn an increasing amount of previously accrued knowledge before it can begin to innovate for itself.",
+translation: "繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺ｯ縲∝撫鬘後・隗｣豎ｺ遲悶ｒ隕九▽縺代ｋ縺溘ａ縺ｫ驕主悉縺ｮ遏･隴倥ｒ菴ｿ逕ｨ縺励◆邨先棡縺ｨ縺励※逋ｺ逕溘☆繧九◆繧√∝推荳紋ｻ｣縺ｯ縲∬・繧蛾擠譁ｰ繧貞ｧ九ａ繧句燕縺ｫ縲∽ｻ･蜑阪↓闢・ｩ阪＆繧後◆遏･隴倥・蠅怜刈驥上ｒ蟄ｦ縺ｰ縺ｪ縺代ｌ縺ｰ縺ｪ繧翫∪縺帙ｓ縲・",
+grammarAnalysis: {
+mainVerbs: [ "occur", "has to learn" ],
+structureHtml: "<span class=chunk S-group><span class=text>Innovations</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>occur</span><span class=tag>V</span></span>... so <span class=chunk S-group><span class=text>each generation</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>has to learn</span><span class=tag>V</span></span>...",
+translationHtml: "<span class=t-S>繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺ｯ</span> <span class=t-V>襍ｷ縺阪∪縺・/span>...縺縺九ｉ<span class=t-S>蜷・ｸ紋ｻ｣縺ｯ</span> <span class=t-V>蟄ｦ縺ｰ縺ｪ縺代ｌ縺ｰ縺ｪ繧翫∪縺帙ｓ</span>...",
+naturalTranslation: "繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺ｯ驕主悉縺ｮ遏･隴倥ｒ逕ｨ縺・※蝠城｡瑚ｧ｣豎ｺ繧貞峙繧九％縺ｨ縺ｧ逕溘∪繧後ｋ縺溘ａ縲∝ｾ後・荳紋ｻ｣縺ｻ縺ｩ縲∬・繧蛾擠譁ｰ繧定ｵｷ縺薙○繧九ｈ縺・↓縺ｪ繧句燕縺ｫ蟄ｦ縺ｰ縺ｪ縺代ｌ縺ｰ縺ｪ繧峨↑縺・里遏･縺ｮ遏･隴倬㍼縺悟｢励∴縺ｦ縺・″縺ｾ縺吶・",
+vocabulary: [ "{word: solution", "meaning: 隗｣豎ｺ遲・ }", "{word: accrued", "meaning: 闢・ｩ阪＆繧後◆縲∫函縺倥◆ }", "{word: generation", "meaning: 荳紋ｻ｣ }" ],
+grammarNotes: [ "{phrase: as a result of", "explanation: <b>as a result of</b>: 縲後懊・邨先棡縺ｨ縺励※縲・ }", "{phrase: has to", "explanation: <b>has to</b>: 縲後懊＠縺ｪ縺代ｌ縺ｰ縺ｪ繧峨↑縺・・ }", "{phrase: increasing amount", "explanation: <b>increasing amount</b>: 縲悟｢励∴邯壹￠繧矩㍼縲・ }" ]
+}
+},
+{
+id: 14,
+text: "The only way to do this is to study more, which inevitably takes longer.",
+translation: "縺薙ｌ繧定｡後≧蜚ｯ荳縺ｮ譁ｹ豕輔・縲√ｈ繧雁､壹￥蜍牙ｼｷ縺吶ｋ縺薙→縺ｧ縺ゅｊ縲√％繧後↓縺ｯ蠢・┯逧・↓譎る俣縺後°縺九ｊ縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk S-group><span class=text>The only way</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>to study more</span><span class=tag>C</span></span>, <span class=chunk M-group><span class=text>(which takes longer)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>蜚ｯ荳縺ｮ譁ｹ豕輔・</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>繧医ｊ螟壹￥蟄ｦ縺ｶ縺薙→</span>縲・span class=t-M>(縺昴ｌ縺ｯ譎る俣縺後°縺九ｋ)</span>縲・",
+naturalTranslation: "縺昴・縺溘ａ縺ｫ縺ｯ繧医ｊ螟壹￥蟄ｦ縺ｶ縺ｻ縺九↑縺上√←縺・＠縺ｦ繧よ凾髢薙′縺九°縺｣縺ｦ縺励∪縺・∪縺吶・",
+vocabulary: [ "{word: inevitably", "meaning: 蠢・┯逧・↓ }", "{word: take longer", "meaning: 繧医ｊ譎る俣縺後°縺九ｋ }", "{word: way", "meaning: 譁ｹ豕・ }" ],
+grammarNotes: [ "{phrase: to study", "explanation: <b>to study</b>: 陬懆ｪ・C)縺ｨ縺励※蜒阪￥縲ゅ悟ｭｦ縺ｶ縺薙→縲・ }", "{phrase: which", "explanation: <b>which</b>: 蜑阪・譁・・菴薙√∪縺溘・studying more繧呈欠縺吶・ }" ]
+}
+},
+{
+id: 15,
+text: "Some studies in Germany showed that the average age of researchers in the field of mathematics when they published their first journal articles rose by five years between 1950 and 2013.",
+translation: "繝峨う繝・〒縺ｮ縺・￥縺､縺九・遐皮ｩｶ縺ｯ縲∵焚蟄ｦ縺ｮ蛻・㍽縺ｮ遐皮ｩｶ閠・′譛蛻昴・繧ｸ繝｣繝ｼ繝翫Ν險倅ｺ九ｒ逋ｺ陦ｨ縺励◆縺ｨ縺阪・蟷ｳ蝮・ｹｴ鮨｢縺・950蟷ｴ縺九ｉ2013蟷ｴ縺ｮ髢薙↓5豁ｳ荳頑・縺励◆縺薙→繧堤､ｺ縺励∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "showed" ],
+structureHtml: "<span class=chunk S-group><span class=text>Some studies</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>showed</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that the average age ... rose...]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>縺・￥縺､縺九・遐皮ｩｶ縺ｯ</span> <span class=t-V>遉ｺ縺励∪縺励◆</span> <span class=t-O>[蟷ｳ蝮・ｹｴ鮨｢縺御ｸ翫′縺｣縺溘→]</span>縲・",
+naturalTranslation: "繝峨う繝・・遐皮ｩｶ縺ｫ繧医ｋ縺ｨ縲∵焚蟄ｦ蛻・㍽縺ｮ遐皮ｩｶ閠・′蛻昴ａ縺ｦ隲匁枚繧堤匱陦ｨ縺吶ｋ蟷ｳ蝮・ｹｴ鮨｢縺ｯ縲・950蟷ｴ縺九ｉ2013蟷ｴ縺ｮ髢薙↓5豁ｳ荳頑・縺励∪縺励◆縲・",
+vocabulary: [ "{word: article", "meaning: 險倅ｺ九∬ｫ匁枚 }", "{word: publish", "meaning: 蜃ｺ迚医☆繧九∫匱陦ｨ縺吶ｋ }", "{word: rise", "meaning: 荳翫′繧・ }" ],
+grammarNotes: [ "{phrase: when they published", "explanation: <b>when (謗･邯夊ｩ・</b>: 縲悟ｽｼ繧峨′逋ｺ陦ｨ縺励◆縺ｨ縺阪・ }", "{phrase: rose by", "explanation: <b>rose by</b>: 縲後懊□縺托ｼ亥ｷｮ蛻・ｼ我ｸ頑・縺励◆縲・ }" ]
+}
+},
+{
+id: 16,
+text: "The number of references to other research that were cited in the articles also increased by five times over the same period.",
+translation: "險倅ｺ九〒蠑慕畑縺輔ｌ縺滉ｻ悶・遐皮ｩｶ縺ｸ縺ｮ蜿り・枚迪ｮ縺ｮ謨ｰ繧ゅ∝酔縺俶悄髢薙↓5蛟阪↓蠅怜刈縺励∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "increased" ],
+structureHtml: "<span class=chunk S-group><span class=text>The number of references <span class=modifier>(that were cited...)</span></span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>increased</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(by five times)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>蜿り・枚迪ｮ縺ｮ謨ｰ縺ｯ</span> <span class=t-V>蠅怜刈縺励∪縺励◆</span> <span class=t-M>(5蛟阪↓)</span>縲・",
+naturalTranslation: "蜷梧悄髢薙↓縺翫＞縺ｦ縲∬ｫ匁枚縺ｫ蠑慕畑縺輔ｌ繧句盾閠・枚迪ｮ縺ｮ謨ｰ繧・蛟阪↓蠅励∴縺ｦ縺・∪縺吶・",
+vocabulary: [ "{word: reference", "meaning: 蜿ら・縲∝盾閠・枚迪ｮ }", "{word: cite", "meaning: 蠑慕畑縺吶ｋ }", "{word: period", "meaning: 譛滄俣 }" ],
+grammarNotes: [ "{phrase: that were cited", "explanation: <b>that (髢｢菫ゆｻ｣蜷崎ｩ・</b>: references繧剃ｿｮ鬟ｾ縲・ }", "{phrase: by five times", "explanation: <b>by ... times</b>: 縲後懷搾ｼ医□縺托ｼ峨・ }" ]
+}
+}
+]
+},
+{
+paragraphId: 4,
+sentences: [
+{
+id: 17,
+text: "A further obstacle to scientific and technological innovation often cited by economists is the fact that populations are aging.",
+translation: "邨梧ｸ亥ｭｦ閠・↓繧医▲縺ｦ縺励・縺励・蠑慕畑縺輔ｌ繧狗ｧ大ｭｦ逧・♀繧医・謚陦鍋噪髱ｩ譁ｰ縺ｫ蟇ｾ縺吶ｋ縺輔ｉ縺ｪ繧矩囿螳ｳ縺ｯ縲∽ｺｺ蜿｣縺碁ｫ倬ｽ｢蛹悶＠縺ｦ縺・ｋ縺ｨ縺・≧莠句ｮ溘〒縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk S-group><span class=text>A further obstacle</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>the fact <span class=modifier>[that populations are aging]</span></span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>縺輔ｉ縺ｪ繧矩囿螳ｳ縺ｯ</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>莠句ｮ・[莠ｺ蜿｣縺碁ｫ倬ｽ｢蛹悶＠縺ｦ縺・ｋ縺ｨ縺・≧]</span>縲・",
+naturalTranslation: "邨梧ｸ亥ｭｦ閠・′縺励・縺励・謖・遭縺吶ｋ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺ｸ縺ｮ繧ゅ≧荳縺､縺ｮ髫懷ｮｳ縺ｯ縲∽ｺｺ蜿｣縺ｮ鬮倬ｽ｢蛹悶〒縺吶・",
+vocabulary: [ "{word: obstacle", "meaning: 髫懷ｮｳ }", "{word: refer", "meaning: 險蜿翫☆繧・cited) }", "{word: aging", "meaning: 鬮倬ｽ｢蛹悶＠縺ｦ縺・ｋ }" ],
+grammarNotes: [ "{phrase: cited by", "explanation: <b>cited by (驕主悉蛻・ｩ・</b>: obstacle繧剃ｿｮ鬟ｾ縲・ }", "{phrase: fact that", "explanation: <b>fact that (蜷梧ｼ)</b>: 縲後懊→縺・≧莠句ｮ溘・ }" ]
+}
+},
+{
+id: 18,
+text: "It is believed by some that an aging workforce holds back new discoveries because older workers are less able to learn new skills and less willing to adopt new knowledge.",
+translation: "荳驛ｨ縺ｮ莠ｺ縲・・縲・ｫ倬ｽ｢縺ｮ蜉ｴ蜒崎・・譁ｰ縺励＞繧ｹ繧ｭ繝ｫ繧貞ｭｦ縺ｶ閭ｽ蜉帙′菴弱￥縲∵眠縺励＞遏･隴倥ｒ蜿悶ｊ蜈･繧後ｋ諢乗ｬｲ縺御ｽ弱＞縺溘ａ縲・ｫ倬ｽ｢蛹悶☆繧句感蜒榊鴨縺梧眠縺励＞逋ｺ隕九ｒ螯ｨ縺偵ｋ縺ｨ菫｡縺倥※縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is believed" ],
+structureHtml: "<span class=chunk S-group><span class=text>It</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is believed</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(by some)</span><span class=tag>M</span></span> <span class=chunk O-group><span class=text>[that an aging workforce holds back...]</span><span class=tag>O</span></span>(逵滉ｸｻ隱・.",
+translationHtml: "<span class=t-S>縺昴ｌ縺ｯ</span> <span class=t-V>菫｡縺倥ｉ繧後※縺・∪縺・/span>... <span class=t-O>[鬮倬ｽ｢蛹悶☆繧句感蜒榊鴨縺悟ｦｨ縺偵ｋ縺ｨ]</span>縲・",
+naturalTranslation: "荳驛ｨ縺ｫ縺ｯ縲・ｫ倬ｽ｢縺ｮ蜉ｴ蜒崎・・譁ｰ繧ｹ繧ｭ繝ｫ鄙貞ｾ苓・蜉帙′菴弱￥縲∵眠遏･隴倥・蜿怜ｮｹ縺ｫ繧よｶ域･ｵ逧・〒縺ゅｋ縺溘ａ縲∝感蜒榊鴨縺ｮ鬮倬ｽ｢蛹悶・譁ｰ逋ｺ隕九・螯ｨ縺偵↓縺ｪ繧九→閠・∴繧峨ｌ縺ｦ縺・∪縺吶・",
+vocabulary: [ "{word: workforce", "meaning: 蜉ｴ蜒榊鴨 }", "{word: hold back", "meaning: 謚大宛縺吶ｋ縲∝ｦｨ縺偵ｋ }", "{word: adopt", "meaning: 謗｡逕ｨ縺吶ｋ縲∝叙繧雁・繧後ｋ }" ],
+grammarNotes: [ "{phrase: It is believed ... that", "explanation: <b>It is believed that</b>: 縲後懊□縺ｨ菫｡縺倥ｉ繧後※縺・ｋ・亥ｽ｢蠑丈ｸｻ隱樊ｧ区枚・峨・ }", "{phrase: less able ... less willing", "explanation: <b>less able / less willing</b>: 縲後懊☆繧玖・蜉帙′菴弱＞ / 縲懊☆繧区э谺ｲ縺御ｽ弱＞縲・ }" ]
+}
+},
+{
+id: 19,
+text: "However, some experts believe the opposite to be true.",
+translation: "縺励°縺励∽ｸ驛ｨ縺ｮ蟆る摩螳ｶ縺ｯ蜿榊ｯｾ縺檎悄螳溘〒縺ゅｋ縺ｨ菫｡縺倥※縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "believe" ],
+structureHtml: "<span class=chunk M-group><span class=text>(However)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>some experts</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>believe</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the opposite</span><span class=tag>O</span></span> <span class=chunk C-group><span class=text>to be true</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>荳驛ｨ縺ｮ蟆る摩螳ｶ縺ｯ</span> <span class=t-V>菫｡縺倥※縺・∪縺・/span> <span class=t-O>騾・′</span> <span class=t-C>逵溷ｮ溘□縺ｨ</span>縲・",
+naturalTranslation: "縺励°縺励√◎縺ｮ騾・％縺昴′逵溷ｮ溘□縺ｨ閠・∴繧句ｰる摩螳ｶ繧ゅ＞縺ｾ縺吶・",
+vocabulary: [ "{word: expert", "meaning: 蟆る摩螳ｶ }", "{word: opposite", "meaning: 騾・ }", "{word: true", "meaning: 逵溷ｮ溘・ }" ],
+grammarNotes: [ "{phrase: believe ... to be", "explanation: <b>believe O to be C</b>: 縲薫縺靴縺ｧ縺ゅｋ縺ｨ菫｡縺倥ｋ縲・ }" ]
+}
+},
+{
+id: 20,
+text: "Better diets, advances in medicine, and improved health care mean that people today not only live longer but also stay physically and mentally active until a later age.",
+translation: "繧医ｊ濶ｯ縺・｣滉ｺ九∝現蟄ｦ縺ｮ騾ｲ豁ｩ縲√◎縺励※謾ｹ蝟・＆繧後◆蛹ｻ逋ゅ・縲∽ｻ頑律縺ｮ莠ｺ縲・′髟ｷ逕溘″縺吶ｋ縺縺代〒縺ｪ縺上√ｈ繧企≦縺・ｹｴ鮨｢縺ｾ縺ｧ霄ｫ菴鍋噪縺翫ｈ縺ｳ邊ｾ逾樒噪縺ｫ豢ｻ蜍慕噪縺ｧ縺ゅｊ邯壹￠繧九％縺ｨ繧呈э蜻ｳ縺励∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "mean" ],
+structureHtml: "<span class=chunk S-group><span class=text>Better diets, advances..., and improved health care</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>mean</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that people ... stay active...]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>繧医ｊ濶ｯ縺・｣滉ｺ九↑縺ｩ縺ｯ</span> <span class=t-V>諢丞袖縺励∪縺・/span> <span class=t-O>[莠ｺ縲・・豢ｻ蜍慕噪縺ｧ縺ゅｊ邯壹￠繧九→]</span>縲・",
+naturalTranslation: "鬟溽函豢ｻ縺ｮ謾ｹ蝟・ｄ蛹ｻ逋ゅ・騾ｲ豁ｩ縺ｫ繧医ｊ縲∫樟莉｣莠ｺ縺ｯ蜊倥↓髟ｷ逕溘″縺吶ｋ縺縺代〒縺ｪ縺上・ｫ倬ｽ｢縺ｾ縺ｧ蠢・ｺｫ縺ｨ繧ゅ↓豢ｻ蜍慕噪縺ｧ縺・ｉ繧後ｋ繧医≧縺ｫ縺ｪ縺｣縺ｦ縺・∪縺吶・",
+vocabulary: [ "{word: active", "meaning: 豢ｻ蜍慕噪縺ｪ }", "{word: mentally", "meaning: 邊ｾ逾樒噪縺ｫ }", "{word: advance", "meaning: 騾ｲ豁ｩ }" ],
+grammarNotes: [ "{phrase: not only ... but also", "explanation: <b>not only A but also B</b>: 縲窟縺縺代〒縺ｪ縺州繧ゅ・ }", "{phrase: until a later age", "explanation: <b>until a later age</b>: 縲後ｈ繧企ｫ倥＞蟷ｴ鮨｢縺ｾ縺ｧ縲・ }" ]
+}
+},
+{
+id: 21,
+text: "In addition, because of their experience, older workers are more efficient窶蚤nd therefore more productive窶杯han their younger colleagues and play valuable roles in passing on knowledge.",
+translation: "縺輔ｉ縺ｫ縲∝ｽｼ繧峨・邨碁ｨ薙・縺溘ａ縺ｫ縲・ｫ倬ｽ｢縺ｮ蜉ｴ蜒崎・・闍･縺・酔蜒壹ｈ繧翫ｂ蜉ｹ邇・噪縺ｧ縺ゅｊ縲√＠縺溘′縺｣縺ｦ繧医ｊ逕溽肇逧・〒縺ゅｊ縲∫衍隴倥ｒ莨昴∴繧倶ｸ翫〒雋ｴ驥阪↑蠖ｹ蜑ｲ繧呈棡縺溘＠縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "are", "play" ],
+structureHtml: "<span class=chunk S-group><span class=text>older workers</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>more efficient</span><span class=tag>C</span></span>... and <span class=chunk V-group><span class=text>play</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>valuable roles</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>鬮倬ｽ｢縺ｮ蜉ｴ蜒崎・・</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>繧医ｊ蜉ｹ邇・噪</span>...縺昴＠縺ｦ<span class=t-V>譫懊◆縺励∪縺・/span> <span class=t-O>雋ｴ驥阪↑蠖ｹ蜑ｲ繧・/span>縲・",
+naturalTranslation: "蜉縺医※縲∫ｵ碁ｨ楢ｱ雁ｯ後↑鬮倬ｽ｢蜉ｴ蜒崎・・闍･謇九ｈ繧翫ｂ蜉ｹ邇・噪縺ｧ逕溽肇諤ｧ縺碁ｫ倥￥縲∫衍隴倥・邯呎価縺ｨ縺・≧驥崎ｦ√↑蠖ｹ蜑ｲ繧よ棡縺溘＠縺ｾ縺吶・",
+vocabulary: [ "{word: efficient", "meaning: 蜉ｹ邇・噪縺ｪ }", "{word: productive", "meaning: 逕溽肇逧・↑ }", "{word: colleague", "meaning: 蜷悟・ }" ],
+grammarNotes: [ "{phrase: passing on", "explanation: <b>passing on</b>: 縲御ｼ昴∴繧九∫ｶ呎価縺吶ｋ縲・ }", "{phrase: play ... roles", "explanation: <b>play a role</b>: 縲悟ｽｹ蜑ｲ繧呈棡縺溘☆縲・ }" ]
+}
+},
+{
+id: 22,
+text: "These factors help to promote innovation and counterbalance the effects of the burden of knowledge.",
+translation: "縺薙ｌ繧峨・隕∝屏縺ｯ縲√う繝弱・繝ｼ繧ｷ繝ｧ繝ｳ繧剃ｿ・ｲ縺励∫衍隴倥・雋諡・・蠖ｱ髻ｿ繧堤嶌谿ｺ縺吶ｋ縺ｮ縺ｫ蠖ｹ遶九■縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "help" ],
+structureHtml: "<span class=chunk S-group><span class=text>These factors</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>help</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>to promote ... and counterbalance...</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>縺薙ｌ繧峨・隕∝屏縺ｯ</span> <span class=t-V>蠖ｹ遶九■縺ｾ縺・/span> <span class=t-O>菫・ｲ縺礼嶌谿ｺ縺吶ｋ縺ｮ縺ｫ</span>縲・",
+naturalTranslation: "縺薙ｌ繧峨・隕∫ｴ縺ｯ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ繧剃ｿ・ｲ縺励√檎衍隴倥・雋諡・阪↓繧医ｋ繝槭う繝翫せ蜉ｹ譫懊ｒ逶ｸ谿ｺ縺吶ｋ蜉ｩ縺代→縺ｪ繧翫∪縺吶・",
+vocabulary: [ "{word: factor", "meaning: 隕∝屏 }", "{word: promote", "meaning: 菫・ｲ縺吶ｋ }", "{word: counterbalance", "meaning: 逶ｸ谿ｺ縺吶ｋ縲・・繧雁粋繧上○繧・ }" ],
+grammarNotes: [ "{phrase: help to promote", "explanation: <b>help to do</b>: 縲後懊☆繧九・縺ｫ蠖ｹ遶九▽縲・ }" ]
+}
+}
+]
+}
+],
+questions: [
+{
+id: 28,
+text: "What is one thing the author of the passage says about Moore's law?",
+textTranslation: "闡苓・′繝繝ｼ繧｢縺ｮ豕募援縺ｫ縺､縺・※霑ｰ縺ｹ縺ｦ縺・ｋ縺薙→縺ｯ菴輔〒縺吶°・・",
+keywords: [ "Moore's law", "author says" ],
+keywordExplanations: {
+Moore's law: 繝繝ｼ繧｢縺ｮ豕募援縲らｬｬ1谿ｵ關ｽ縺ｮ荳ｻ鬘後〒縺吶・,
+author says: 闡苓・・荳ｻ蠑ｵ繧・ｺ句ｮ溘・險倩ｿｰ繧呈爾縺励∪縺吶・
+},
+keywordMatches: [
+{sentenceId: 1, text: Moore's law, keyword: Moore's law },
+{sentenceId: 3, text: driving force, keyword: author says }
+],
+hint: "{paragraphId: 1, description: 隨ｬ1谿ｵ關ｽ縺ｮ蠕悟濠縲ゅ慧riving force縲・蜴溷虚蜉・ 繧・ｼ∵･ｭ縺後継lan around縲・蝓ｺ縺ｫ險育判縺励◆) 縺ｨ縺・≧驛ｨ蛻・↓逹逶ｮ縲・, targetSentenceId: 3, highlightWord: driving force, highlightWordSentenceId: 3 }",
+choiceAdvice: "繝繝ｼ繧｢縺ｮ豕募援縺ｮ蠖ｱ髻ｿ縲・: 蠖ｱ髻ｿ繧帝℃螟ｧ隧穂ｾ｡(overestimated?), 2: 蟆・擂豁｣遒ｺ縺ｧ縺ｪ縺・unlikely accurate?), 3: 莠域ｸｬ縺九▽菫・ｲ(predicted and stimulated), 4: 蛻･縺ｮ逶ｮ逧・□縺｣縺溘′譛牙柑(effective though intended different?)縲・",
+logic: [
+{type: text, content: 譛ｬ譁・ intended this as a prediction ..., but it became the driving force behind the rapid progress },
+{type: text, content: 隗｣隱ｬ: 繝繝ｼ繧｢縺ｮ豕募援縺ｯ蜊倥↑繧九御ｺ域ｸｬ・・rediction・峨阪→縺励※諢丞峙縺輔ｌ縺ｾ縺励◆縺後∝ｮ滄圀縺ｫ縺ｯ謚陦馴ｲ豁ｩ縺ｮ縲悟次蜍募鴨・・riving force・峨阪→縺ｪ繧翫∽ｼ∵･ｭ繧ゅ◎繧後↓豐ｿ縺｣縺ｦ髢狗匱繧定｡後＞縺ｾ縺励◆縲ゅ％繧後・縲御ｺ域ｸｬ縺励◆縺縺代〒縺ｪ縺上・幕逋ｺ繧貞絢豼縺励◆・・timulated・峨阪→險縺医∪縺吶・ },
+{type: arrow, content: 竊・ },
+{type: text, content: 驕ｸ謚櫁い3: It not only predicted technological progress but also stimulated the development of new technology. },
+{type: conclusion, content: 豁｣隗｣: 3 }
+],
+choices: [
+{id: 1, text: It overestimated the impact that advances in computer technology would have on our lives., translation: 縺昴ｌ縺ｯ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ謚陦薙・騾ｲ豁ｩ縺檎ｧ√◆縺｡縺ｮ逕滓ｴｻ縺ｫ荳弱∴繧句ｽｱ髻ｿ繧帝℃螟ｧ隧穂ｾ｡縺励※縺・◆縲・, isCorrect: false },
+{id: 2, text: It is unlikely to be accurate in the future because of the increasingly rapid rate at which companies release new products., translation: 莨∵･ｭ縺梧眠陬ｽ蜩√ｒ繝ｪ繝ｪ繝ｼ繧ｹ縺吶ｋ騾溷ｺｦ縺後∪縺吶∪縺咎溘￥縺ｪ縺｣縺ｦ縺・ｋ縺溘ａ縲∝ｰ・擂逧・↓縺ｯ豁｣遒ｺ縺ｧ縺ゅｋ蜿ｯ閭ｽ諤ｧ縺ｯ菴弱＞縲・, isCorrect: false },
+{id: 3, text: It not only predicted technological progress but also stimulated the development of new technology., translation: 縺昴ｌ縺ｯ謚陦鍋噪騾ｲ豁ｩ繧剃ｺ域ｸｬ縺励◆縺縺代〒縺ｪ縺上∵眠縺励＞謚陦薙・髢狗匱繧ょ絢豼縺励◆縲・, isCorrect: true, highlight: predicted ... stimulated },
+{id: 4, text: It was an effective way to predict advances in technology despite the fact that it was intended for a different purpose., translation: 縺昴ｌ縺ｯ逡ｰ縺ｪ繧狗岼逧・・縺溘ａ縺ｫ諢丞峙縺輔ｌ縺ｦ縺・◆縺ｨ縺・≧莠句ｮ溘↓繧ゅ°縺九ｏ繧峨★縲∵橿陦薙・騾ｲ豁ｩ繧剃ｺ域ｸｬ縺吶ｋ蜉ｹ譫懃噪縺ｪ譁ｹ豕輔〒縺ゅ▲縺溘・, isCorrect: false }
+]
+},
+{
+id: 29,
+text: "A paper by researchers in the United States concluded that",
+textTranslation: "邀ｳ蝗ｽ縺ｮ遐皮ｩｶ閠・↓繧医ｋ隲匁枚縺ｯ縲√懊→邨占ｫ紋ｻ倥￠縺ｾ縺励◆縲・",
+keywords: [ "paper by researchers", "concluded" ],
+keywordExplanations: {
+paper by researchers: 邀ｳ蝗ｽ縺ｮ遐皮ｩｶ閠・・隲匁枚縲らｬｬ2谿ｵ關ｽ縺ｫ逋ｻ蝣ｴ縺励∪縺吶・,
+concluded: "邨占ｫ悶▼縺代◆縲よ悽譁・〒縺ｯ concludes縲・"
+},
+keywordMatches: [
+{sentenceId: 7, text: A paper by researchers, keyword: paper by researchers },
+{sentenceId: 7, text: concludes, keyword: concluded }
+],
+hint: "{paragraphId: 2, description: 隨ｬ2谿ｵ關ｽ縺ｮ蠑慕畑隨ｦ縺ｮ荳ｭ縲√茎taggering increase in the amount of resources縲・繝ｪ繧ｽ繝ｼ繧ｹ縺ｮ鬩夂焚逧・↑蠅怜刈) 縺ｫ豕ｨ逶ｮ縲・, targetSentenceId: 7, highlightWord: staggering increase, highlightWordSentenceId: 7 }",
+choiceAdvice: "隲匁枚縺ｮ邨占ｫ悶・: 謾ｿ豐ｻ縺ｫ譛臥畑(politics?), 2: 蠢・ｦ√↑蜉ｴ蜉帙′螟ｧ蟷・｢・effort increased), 3: 繝弱・繝吶Ν雉槭・蛻･(Nobel Prize not case?), 4: 譁ｰ逋ｺ隕九・蝗ｰ髮｣(unlikely to make?)縲・",
+logic: [
+{type: text, content: 譛ｬ譁・ achieved only by a staggering increase in the amount of resources },
+{type: text, content: 隗｣隱ｬ: 繝繝ｼ繧｢縺ｮ豕募援・域欠謨ｰ髢｢謨ｰ逧・・髟ｷ・峨ｒ邯ｭ謖√☆繧九◆繧√↓縺ｯ縲√後Μ繧ｽ繝ｼ繧ｹ縺ｮ鬩夂焚逧・↑蠅怜刈・・taggering increase・峨阪′蠢・ｦ√□縺｣縺溘→霑ｰ縺ｹ繧峨ｌ縺ｦ縺・∪縺吶ゅ％繧後・縲悟ｿ・ｦ√↑蜉ｴ蜉幢ｼ・ffort・峨′螟ｧ蟷・↓蠅励∴縺溘阪→縺・≧驕ｸ謚櫁い2縺ｨ荳閾ｴ縺励∪縺吶・ },
+{type: arrow, content: 竊・ },
+{type: text, content: 驕ｸ謚櫁い2: the amount of effort that is necessary for Moore's law to remain true has increased greatly over time. },
+{type: conclusion, content: 豁｣隗｣: 2 }
+],
+choices: [
+{id: 1, text: there is evidence to show that Moore's law can also be a useful tool in the field of politics., translation: 繝繝ｼ繧｢縺ｮ豕募援縺梧帆豐ｻ縺ｮ蛻・㍽縺ｧ繧よ怏逕ｨ縺ｪ繝・・繝ｫ縺ｫ縺ｪ繧雁ｾ励ｋ縺薙→繧堤､ｺ縺呵ｨｼ諡縺後≠繧九・, isCorrect: false },
+{id: 2, text: the amount of effort that is necessary for Moore's law to remain true has increased greatly over time., translation: 繝繝ｼ繧｢縺ｮ豕募援縺檎悄螳溘〒縺ゅｊ邯壹￠繧九◆繧√↓蠢・ｦ√↑蜉ｴ蜉帙・驥上・縲∵凾髢薙・邨碁℃縺ｨ縺ｨ繧ゅ↓螟ｧ蟷・↓蠅怜刈縺励◆縲・, isCorrect: true, highlight: effort ... increased greatly },
+{id: 3, text: while the age of leaders in the worlds of business and politics is increasing, this is not the case for Nobel Prize winners., translation: 繝薙ず繝阪せ繧・帆豐ｻ縺ｮ荳也阜縺ｮ繝ｪ繝ｼ繝繝ｼ縺ｮ蟷ｴ鮨｢縺ｯ荳頑・縺励※縺・ｋ縺後√％繧後・繝弱・繝吶Ν雉槫女雉櫁・↓縺ｯ蠖薙※縺ｯ縺ｾ繧峨↑縺・・, isCorrect: false },
+{id: 4, text: universities in the United States are unlikely to make major new discoveries because they have limited resources., translation: 邀ｳ蝗ｽ縺ｮ螟ｧ蟄ｦ縺ｯ髯舌ｉ繧後◆繝ｪ繧ｽ繝ｼ繧ｹ縺励°謖√▲縺ｦ縺・↑縺・◆繧√∽ｸｻ隕√↑譁ｰ縺励＞逋ｺ隕九ｒ縺吶ｋ蜿ｯ閭ｽ諤ｧ縺ｯ菴弱＞縲・, isCorrect: false }
+]
+},
+{
+id: 30,
+text: "What is suggested by the theory mentioned in the third paragraph?",
+textTranslation: "隨ｬ3谿ｵ關ｽ縺ｧ險蜿翫＆繧後※縺・ｋ逅・ｫ悶↓繧医▲縺ｦ菴輔′遉ｺ蜚・＆繧後※縺・∪縺吶°・・",
+keywords: [ "theory", "third paragraph" ],
+keywordExplanations: {
+theory: "逅・ｫ悶ゅ恵urden of knowledge縲阪・縺薙→縺ｧ縺吶・",
+third paragraph: 隨ｬ3谿ｵ關ｽ縲・
+},
+keywordMatches: [
+{sentenceId: 11, text: One theory, keyword: theory },
+{sentenceId: 11, text: burden of knowledge, keyword: theory }
+],
+hint: "{paragraphId: 3, description: 縲恵urden of knowledge縲阪・蜀・ｮｹ隱ｬ譏弱ゅ径mount of knowledge required... grows縲阪ｄ縲景nevitably takes longer縲阪↓逹逶ｮ縲・, targetSentenceId: 13, highlightWord: learn an increasing amount, highlightWordSentenceId: 13 }",
+choiceAdvice: "縲檎衍隴倥・雋諡・崎ｪｬ縺ｮ諢丞袖縲・: 遏･隴伜｢怜､ｧ縺ｧ騾ｲ豁ｩ縺悟峅髮｣(difficult because growing pool?), 2: 螳溯ｷｵ蠢懃畑縺御ｸ区焔(less skilled applying?), 3: 雉ｪ縺ｮ蜷台ｸ・quality improved?), 4: 髟ｷ譛溽噪縺ｫ縺ｯ繝阪ぎ繝・ぅ繝・not positive?)縲・",
+logic: [
+{type: text, content: 譛ｬ譁・ each generation has to learn an increasing amount of previously accrued knowledge before it can begin to innovate },
+{type: text, content: 隗｣隱ｬ: 遐皮ｩｶ閠・・繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ繧定ｵｷ縺薙☆蜑阪↓閹ｨ螟ｧ縺ｪ譌｢蟄倡衍隴倥ｒ蟄ｦ縺ｶ蠢・ｦ√′縺ゅｊ縲√◎繧後↓譎る俣縺後°縺九ｋ縺溘ａ縲・擠譁ｰ縺碁≦繧後※縺・∪縺吶ゅ％繧後・縲悟｢励∴邯壹￠繧狗衍隴倥・繝励・繝ｫ・・rowing pool of knowledge・峨阪・縺帙＞縺ｧ縲後ヶ繝ｬ繝ｼ繧ｯ繧ｹ繝ｫ繝ｼ縺碁屮縺励￥縺ｪ縺｣縺ｦ縺・ｋ縲阪％縺ｨ繧堤､ｺ蜚・＠縺ｾ縺吶・ },
+{type: arrow, content: 竊・ },
+{type: text, content: 驕ｸ謚櫁い1: Breakthroughs in science and technology are becoming more difficult to achieve because of a continually growing pool of knowledge. },
+{type: conclusion, content: 豁｣隗｣: 1 }
+],
+choices: [
+{id: 1, text: Breakthroughs in science and technology are becoming more difficult to achieve because of a continually growing pool of knowledge., translation: 遘大ｭｦ謚陦薙・鬟幄ｺ咲噪騾ｲ豁ｩ縺ｯ縲∝｢励∴邯壹￠繧狗衍隴倥・繝励・繝ｫ縺ｮ縺溘ａ縺ｫ驕疲・縺吶ｋ縺ｮ縺後ｈ繧雁峅髮｣縺ｫ縺ｪ縺｣縺ｦ縺・ｋ縲・, isCorrect: true, highlight: more difficult ... growing pool of knowledge },
+{id: 2, text: Although researchers today are very knowledgeable, they are less skilled at applying their knowledge to practical situations., translation: 莉頑律縺ｮ遐皮ｩｶ閠・・髱槫ｸｸ縺ｫ遏･隴倥′雎雁ｯ後□縺後∫衍隴倥ｒ螳滄圀縺ｮ迥ｶ豕√↓驕ｩ逕ｨ縺吶ｋ閭ｽ蜉帙・菴弱＞縲・, isCorrect: false },
+{id: 3, text: The quality of journal articles in mathematics has improved despite the fact that the field attracts fewer researchers than it used to., translation: 謨ｰ蟄ｦ縺ｮ蛻・㍽縺ｮ遐皮ｩｶ閠・′莉･蜑阪ｈ繧雁ｰ代↑縺・↓繧ゅ°縺九ｏ繧峨★縲√ず繝｣繝ｼ繝翫Ν險倅ｺ九・雉ｪ縺ｯ蜷台ｸ翫＠縺ｦ縺・ｋ縲・, isCorrect: false },
+{id: 4, text: New innovations improve society in certain ways, but their overall effect may not be positive in the long term., translation: 譁ｰ縺励＞繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺ｯ迚ｹ螳壹・譁ｹ豕輔〒遉ｾ莨壹ｒ謾ｹ蝟・☆繧九′縲√◎縺ｮ蜈ｨ菴鍋噪縺ｪ蠖ｱ髻ｿ縺ｯ髟ｷ譛溽噪縺ｫ縺ｯ繝励Λ繧ｹ縺ｧ縺ｯ縺ｪ縺・°繧ゅ＠繧後↑縺・・, isCorrect: false }
+]
+},
+{
+id: 31,
+text: "According to the final paragraph, what do some experts believe?",
+textTranslation: "譛邨よｮｵ關ｽ縺ｫ繧医ｋ縺ｨ縲∽ｸ驛ｨ縺ｮ蟆る摩螳ｶ縺ｯ菴輔ｒ菫｡縺倥※縺・∪縺吶°・・",
+keywords: [ "final paragraph", "some experts believe" ],
+keywordExplanations: {
+final paragraph: 譛邨らｬｬ4谿ｵ關ｽ縲・,
+some experts believe: 隨ｬ4谿ｵ關ｽ荳ｭ逶､縺ｮ However, some experts believe the opposite to be true 莉･髯阪・
+},
+keywordMatches: [
+{sentenceId: 19, text: some experts believe, keyword: some experts believe }
+],
+hint: "{paragraphId: 4, description: 縲粂owever, some experts...縲堺ｻ･髯阪・荳ｻ蠑ｵ縲ゅ経lder workers are more efficient縲阪ｄ縲継romote innovation縲阪ｒ隕九▽縺代∪縺励ｇ縺・・, targetSentenceId: 21, highlightWord: more efficient, highlightWordSentenceId: 21 }",
+choiceAdvice: "蟆る摩螳ｶ縺ｮ隕玖ｧ｣・磯ｫ倬ｽ｢蛹悶↓縺､縺・※・峨・: 隱､隗｣縺ｧ謳榊､ｱ(mistaken ideas?), 2: 蛹ｻ逋りｲｻ荳崎ｶｳ(lack of spending?), 3: 闍･閠・′雋諡・younger have to make up?), 4: 繧縺励ｍ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ繧定ｵｷ縺薙ｊ繧・☆縺上☆繧・more likely to happen)縲・",
+logic: [
+{type: text, content: 譛ｬ譁・ older workers are more efficient ... help to promote innovation },
+{type: text, content: 隗｣隱ｬ: 荳驛ｨ縺ｮ蟆る摩螳ｶ縺ｯ縲・ｫ倬ｽ｢蜉ｴ蜒崎・・邨碁ｨ楢ｱ雁ｯ後〒蜉ｹ邇・噪縺ｧ縺ゅｊ縲√う繝弱・繝ｼ繧ｷ繝ｧ繝ｳ繧剃ｿ・ｲ・・romote・峨☆繧九→閠・∴縺ｦ縺・∪縺吶ゅ％繧後・鬮倬ｽ｢蛹悶′繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ繧帝≦繧峨○繧九・縺ｧ縺ｯ縺ｪ縺上√後ｈ繧願ｵｷ縺薙ｊ繧・☆縺上☆繧句庄閭ｽ諤ｧ縺後≠繧具ｼ・ake it more likely to happen・峨阪→縺・≧驕ｸ謚櫁い4縺ｨ荳閾ｴ縺励∪縺吶・ },
+{type: arrow, content: 竊・ },
+{type: text, content: 驕ｸ謚櫁い4: Rather than slowing down innovation, an aging workforce may make it more likely to happen. },
+{type: conclusion, content: 豁｣隗｣: 4 }
+],
+choices: [
+{id: 1, text: Mistaken ideas about the effects of an aging workforce lead to companies losing some of their most valuable workers., translation: 鬮倬ｽ｢蛹門感蜒榊鴨縺ｮ蠖ｱ髻ｿ縺ｫ髢｢縺吶ｋ隱､縺｣縺溯・∴縺ｯ縲∽ｼ∵･ｭ縺梧怙繧ゆｾ｡蛟､縺ｮ縺ゅｋ蜉ｴ蜒崎・・荳驛ｨ繧貞､ｱ縺・％縺ｨ縺ｫ縺､縺ｪ縺後ｋ縲・, isCorrect: false },
+{id: 2, text: A lack of government spending on health care will cause a rise in the number of older people who are unable to work due to poor health., translation: 謾ｿ蠎懊・蛹ｻ逋よ髪蜃ｺ縺ｮ荳崎ｶｳ縺ｯ縲∝▼蠎ｷ迥ｶ諷九′謔ｪ縺・◆繧√↓蜒阪￠縺ｪ縺・ｫ倬ｽ｢閠・・謨ｰ縺ｮ蠅怜刈繧貞ｼ輔″襍ｷ縺薙☆縺繧阪≧縲・, isCorrect: false },
+{id: 3, text: Because younger workers have to make up for the low productivity of their older colleagues, the chance of innovations occurring is reduced., translation: 闍･縺・感蜒崎・′蟷ｴ驟阪・蜷悟・縺ｮ菴弱＞逕溽肇諤ｧ繧定｣懊ｏ縺ｪ縺代ｌ縺ｰ縺ｪ繧峨↑縺・◆繧√√う繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺瑚ｵｷ縺薙ｋ蜿ｯ閭ｽ諤ｧ縺ｯ貂帛ｰ代☆繧九・, isCorrect: false },
+{id: 4, text: Rather than slowing down innovation, an aging workforce may make it more likely to happen., translation: 鬮倬ｽ｢蛹悶☆繧句感蜒榊鴨縺ｯ縲√う繝弱・繝ｼ繧ｷ繝ｧ繝ｳ繧帝≦繧峨○繧九・縺ｧ縺ｯ縺ｪ縺上√◎繧後′襍ｷ縺薙ｋ蜿ｯ閭ｽ諤ｧ繧帝ｫ倥￥縺吶ｋ縺九ｂ縺励ｌ縺ｪ縺・・, isCorrect: true, highlight: more likely to happen }
+]
+}
+],
+summaryForInstructors: {
+title: "Age and Innovation・亥ｹｴ鮨｢縺ｨ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ・・",
+intro: "繝繝ｼ繧｢縺ｮ豕募援縺ｮ邯ｭ謖√↓蠢・ｦ√↑繝ｪ繧ｽ繝ｼ繧ｹ縺ｮ蠅怜､ｧ縺ｨ縲√檎衍隴倥・雋諡・ｼ・urden of knowledge・峨阪↓繧医ｋ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺ｮ驤榊喧縲√◎縺励※鬮倬ｽ｢蛹也､ｾ莨壹′繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺ｫ荳弱∴繧句ｽｱ髻ｿ縺ｫ縺､縺・※隲悶§縺溘ヱ繝・そ繝ｼ繧ｸ縺ｧ縺吶・",
+points: [
+{
+label: "1. 繝繝ｼ繧｢縺ｮ豕募援縺ｮ莉｣蜆・",
+text: "蜊雁ｰ惹ｽ薙・騾ｲ蛹門援縺ｯ邯ｭ謖√＆繧後※縺・∪縺吶′縲√◎繧後ｒ謾ｯ縺医ｋ遐皮ｩｶ閠・ｄ繝ｪ繧ｽ繝ｼ繧ｹ縺ｮ蠢・ｦ・㍼縺ｯ譯・＆縺・↓蠅怜､ｧ縺励※縺・∪縺呻ｼ・970蟷ｴ莉｣縺ｮ75蛟阪・遐皮ｩｶ閠・′蠢・ｦ・ｼ峨・"
+},
+{
+label: "2. 遏･隴倥・雋諡・(Burden of knowledge)",
+text: "譁ｰ縺励＞逋ｺ隕九ｒ縺吶ｋ縺溘ａ縺ｫ蟄ｦ縺ｶ縺ｹ縺埼℃蜴ｻ縺ｮ遏･隴倥′閹ｨ螟ｧ縺ｫ縺ｪ繧翫∫皮ｩｶ閠・′迢ｬ繧顔ｫ九■縺吶ｋ縺ｾ縺ｧ縺ｮ譛滄俣縺碁聞縺上↑縺｣縺ｦ縺・∪縺吶ゅ％繧後′繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺ｮ驤榊喧縺ｮ荳蝗縺ｨ縺輔ｌ縺ｦ縺・∪縺吶・"
+},
+{
+label: "3. 鬮倬ｽ｢蛹悶・蠖ｱ髻ｿ",
+text: "遉ｾ莨壹・鬮倬ｽ｢蛹悶・繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺ｮ蛛懈ｻ櫁ｦ∝屏縺ｨ隕九ｉ繧後′縺｡縺ｧ縺吶′縲∝▼蠎ｷ蟇ｿ蜻ｽ縺ｮ蟒ｶ莨ｸ繧・ｵ碁ｨ楢ｱ雁ｯ後↑鬮倬ｽ｢蜉ｴ蜒崎・・逕溽肇諤ｧ縺後◎繧後ｒ陬懊＞縲√・縺励ｍ菫・ｲ縺吶ｋ蜿ｯ閭ｽ諤ｧ繧よ欠鞫倥＆繧後※縺・∪縺吶・"
+}
+]
+}
+},

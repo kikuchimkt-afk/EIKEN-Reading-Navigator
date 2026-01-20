@@ -1,0 +1,809 @@
+export const problem_2_2024_2_Bonobos = [
+    {
+    id: "2-2024-2-Bonobos",
+    grade: "2邏・",
+    title: "Bonobos",
+    subTitle: "2024年蠎ｦ 第2回大蝠・B",
+    images: {
+    content: "/images/reading/2-2024-2-Bonobos-content.png",
+    question: "/images/reading/2-2024-2-Bonobos-question.png"
+    },
+    content: [
+    {
+    paragraphId: 1,
+    sentences: [
+    {
+    id: 1,
+    text: "Bonobos are animals that look similar to monkeys and chimpanzees.",
+    translation: "繝懊ヮ繝懊・繧ｵ繝ｫ繧・メ繝ｳ繝代Φジー縺ｫ莨ｼ縺ｦがｋ蜍慕黄縺ｧ縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ are ]",
+    structureHtml: "<span class=chunk S-group><span class=text>Bonobos</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>animals [that look similar to monkeys and chimpanzees]</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-S>繝懊ヮ繝懊・</span> <span class=t-V>縺ｧが/span> <span class=t-C>蜍慕黄</span>...",
+    naturalTranslation: "繝懊ヮ繝懊・繧ｵ繝ｫ繧・メ繝ｳ繝代Φジー縺ｫ繧医￥莨ｼ縺溷虚迚ｩ縺ｧ縺吶・",
+    vocabulary: "[ {"
+    word: "similar to",
+    meaning: "縲懊↓莨ｼ縺ｦがｋ"},
+    {
+    word: "chimpanzee",
+    meaning: "繝√Φ繝代Φジー"}],
+    grammarNotes: "[ {"
+    phrase: "that look similar to",
+    explanation: "<b>that (髢｢菫ゆｻ｣蜷崎ｩ・</b>: animals繧剃ｿｮ鬟ｾ縲ゅ後懊↓莨ｼ縺ｦがｋ蜍慕黄、"}]
+    }
+    },
+    {
+    id: 2,
+    text: "Not many people know about bonobos because they do not live in many different areas.",
+    translation: "螟壹￥の逡ｰ縺ｪ繧句慍蝓溘↓菴上ｓ縺ｧがｋ繧上￠縺ｧは縺ｪが・縺ｧ縲√・繝弱・縺ｫ縺､が※遏･っ縺ｦがｋ莠ｺは縺ゅ∪繧雁､壹￥縺ゅｊ縺ｾ縺帙ｓ、",
+    grammarAnalysis: {
+    mainVerbs: "[ know ]",
+    structureHtml: "<span class=chunk S-group><span class=text>Not many people</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>know</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>about bonobos</span><span class=tag>M</span></span> <span class=chunk M-group><span class=text>(because they do not live...)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>螟壹￥の莠ｺは縺ｪが/span> <span class=t-V>遏･っ縺ｦが∪が/span>... <span class=t-M>(縺ｪ縺懊↑繧我ｽ上ｓ縺ｧが↑が°繧・</span>...",
+    naturalTranslation: "逕滓・蝨ｰ縺碁剞繧峨ｌ縺ｦがｋ縺溘ａ縲√・繝弱・の縺薙→は縺ゅ∪繧顔衍繧峨ｌ縺ｦが∪縺帙ｓ、",
+    vocabulary: "[ {"
+    word: "area",
+    meaning: "蝨ｰ蝓・"}],
+    grammarNotes: "[ {"
+    phrase: "Not many people",
+    explanation: "<b>Not many</b>: 縲後≠縺ｾ繧雁､壹￥縺ｪがｼ磯Κ蛻・凄螳壹↓霑代＞・峨・"}]
+    }
+    },
+    {
+    id: 3,
+    text: "They live in just one area of the Democratic Republic of the Congo, in the middle of Africa.",
+    translation: "蠖ｼ繧峨・繧｢繝輔Μ繧ｫの荳ｭ螟ｮ縺ｫ縺ゅｋ繧ｳ繝ｳ繧ｴ豌台ｸｻ蜈ｱ蜥悟嵜の縺溘▲縺滉ｸ縺､の蝨ｰ蝓溘↓菴上ｓ縺ｧが∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ live ]",
+    structureHtml: "<span class=chunk S-group><span class=text>They</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>live</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>in just one area...</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>菴上ｓ縺ｧが∪が/span> <span class=t-M>縺溘▲縺滉ｸ縺､の蝨ｰ蝓溘↓</span>...",
+    naturalTranslation: "蠖ｼ繧峨・繧｢繝輔Μ繧ｫ荳ｭ螟ｮ驛ｨの繧ｳ繝ｳ繧ｴ豌台ｸｻ蜈ｱ蜥悟嵜の荳蝨ｰ蝓溘↓の縺ｿ逕滓・縺励※が∪縺吶・",
+    vocabulary: "[ {"
+    word: "Democratic Republic",
+    meaning: "豌台ｸｻ蜈ｱ蜥悟嵜"},
+    {
+    word: "middle",
+    meaning: "荳ｭ螟ｮ"}],
+    grammarNotes: "[  ]"
+    }
+    },
+    {
+    id: 4,
+    text: "If people find out that they have something in common with them, they might feel more connected to them.",
+    translation: "繧ゅ＠莠ｺ、′蠖ｼ繧峨→菴輔°蜈ｱ騾夂せ縺後≠繧九％縺ｨ縺後ｏ縺九ｌ縺ｰ縲∝ｽｼ繧峨ｒ繧ゅ▲縺ｨ霄ｫ霑代↓諢溘§繧九°繧ゅ＠繧後∪縺帙ｓ、",
+    grammarAnalysis: {
+    mainVerbs: "[ might feel ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(If people find out...)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>they</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>might feel</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>more connected to them</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-M>(繧上°繧後・)</span>、span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>諢溘§繧九°繧ゅ＠繧後∪縺帙ｓ</span> <span class=t-C>繧医ｊ縺､縺ｪ縺後ｊ縺後≠繧具ｼ郁ｺｫ霑代↓・・/span>、",
+    naturalTranslation: "繧ゅ＠莠ｺ髢薙→の蜈ｱ騾夂せ繧堤衍繧後・縲∽ｺｺ、・蠖ｼ繧峨↓繧ゅ▲縺ｨ隕ｪ霑第─繧呈干縺上°繧ゅ＠繧後∪縺帙ｓ、",
+    vocabulary: "[ {"
+    word: "find out",
+    meaning: "隕九▽縺大・縺吶√ｏ縺九ｋ"},
+    {
+    word: "in common",
+    meaning: "蜈ｱ騾壹＠縺ｦ"},
+    {
+    word: "connected",
+    meaning: "縺､縺ｪ縺後▲縺溘∬ｦｪ蟇・↑"}],
+    grammarNotes: "[ {"
+    phrase: "have something in common",
+    explanation: "<b>have ... in common</b>: 縲後懊ｒ蜈ｱ騾壹↓謖√▽、"}]
+    }
+    }
+    ]
+    },
+    {
+    paragraphId: 2,
+    sentences: [
+    {
+    id: 5,
+    text: "Many people probably believe that humans are the only animal that is capable of caring about others.",
+    translation: "螟壹￥の莠ｺ、・縲√♀縺昴ｉ縺丈ｺｺ髢薙′莉冶・ｒ諤昴＞繧・ｋ縺薙→縺後〒縺阪ｋ蜚ｯ荳の蜍慕黄縺縺ｨ菫｡縺倥※が∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ believe ]",
+    structureHtml: "<span class=chunk S-group><span class=text>Many people</span><span class=tag>S</span></span>... <span class=chunk V-group><span class=text>believe</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that humans are the only animal...]</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>螟壹￥の莠ｺは</span> <span class=t-V>菫｡縺倥※が∪が/span> <span class=t-O>[莠ｺ髢薙・蜚ｯ荳の蜍慕黄縺縺ｨ]</span>...",
+    naturalTranslation: "莉冶・ｒ諤昴＞繧・ｌ繧九・は莠ｺ髢薙□縺代□縺ｨ螟壹￥の莠ｺは諤昴▲縺ｦがｋ縺九ｂ縺励ｌ縺ｾ縺帙ｓ、",
+    vocabulary: "[ {"
+    word: "capable",
+    meaning: "閭ｽ蜉帙′縺ゅｋ"},
+    {
+    word: "care about",
+    meaning: "縲懊ｒ豌励↓縺九￠繧九∵昴＞繧・ｋ"}],
+    grammarNotes: "[ {"
+    phrase: "is capable of caring",
+    explanation: "<b>be capable of doing</b>: 縲後懊☆繧玖・蜉帙′縺ゅｋ、"}]
+    }
+    },
+    {
+    id: 6,
+    text: "However, this is not the case.",
+    translation: "縺励°縺励√％繧後・莠句ｮ溘〒は縺ゅｊ縺ｾ縺帙ｓ、",
+    grammarAnalysis: {
+    mainVerbs: "[ is ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(However)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>this</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is not</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>the case</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-M>(縺励°が</span>、span class=t-S>縺薙ｌは</span> <span class=t-V>縺ｧは縺ゅｊ縺ｾ縺帙ｓ</span> <span class=t-C>螳滓ュ・井ｺ句ｮ滂ｼ・/span>、",
+    naturalTranslation: "縺励°縺励∝ｮ滄圀は縺昴≧縺ｧは縺ゅｊ縺ｾ縺帙ｓ、",
+    vocabulary: "[ {"
+    word: "case",
+    meaning: "蝣ｴ蜷医∝ｮ滓ュ"}],
+    grammarNotes: "[ {"
+    phrase: "this is not the case",
+    explanation: "<b>this is not the case</b>: 縲後％繧後・蠖薙※は縺ｾ繧峨↑が∽ｺ句ｮ溘〒は縺ｪが・"}]
+    }
+    },
+    {
+    id: 7,
+    text: "In one study, two bonobos were placed in rooms separated by a fence.",
+    translation: "縺ゅｋ遐皮ｩｶ縺ｧ、鬆ｭの繝懊ヮ繝懊′譟ｵ縺ｧ莉募・繧峨ｌ縺滄Κ螻九↓蜈･繧後ｉ繧後∪縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ were placed ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(In one study)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>two bonobos</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were placed</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>in rooms separated by a fence</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-M>(縺ゅｋ遐皮ｩｶ縺ｧ)</span>、span class=t-S>2鬆ｭの繝懊ヮ繝懊・</span> <span class=t-V>鄂ｮ縺九ｌ縺ｾ縺励◆・亥・繧後ｉ繧後∪縺励◆・・/span> <span class=t-M>驛ｨ螻九↓</span>...",
+    naturalTranslation: "縺ゅｋ遐皮ｩｶ縺ｧ、鬆ｭの繝懊ヮ繝懊ｒ譟ｵ縺ｧ莉募・繧峨ｌ縺溷挨、・驛ｨ螻九↓蜈･繧後∪縺励◆、",
+    vocabulary: "[ {"
+    word: "place",
+    meaning: "鄂ｮが"},
+    {
+    word: "separate",
+    meaning: "蛻・￠繧・"},
+    {
+    word: "fence",
+    meaning: "譟ｵ"}],
+    grammarNotes: "[ {"
+    phrase: "separated by",
+    explanation: "<b>separated by (驕主悉蛻・ｩ・</b>: rooms繧剃ｿｮ鬟ｾ縲ゅ梧涎縺ｧ莉募・繧峨ｌ縺滄Κ螻九・"}]
+    }
+    },
+    {
+    id: 8,
+    text: "An apple was hung from the top of one room, and only the bonobo in the other room could reach and release the apple by climbing the fence.",
+    translation: "迚・婿の驛ｨ螻九・荳企Κ縺九ｉ繝ｪ繝ｳ繧ｴ縺悟衰繧九＆繧後√ｂがｸ譁ｹの驛ｨ螻九↓がｋ繝懊ヮ繝懊□縺代′譟ｵ繧堤匳っ縺ｦ縺昴・繝ｪ繝ｳ繧ｴ縺ｫ謇九′螻翫″縲∬誠縺ｨ縺吶％縺ｨ縺後〒縺阪∪縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: [ "was hung", "could reach", "release" ],
+    structureHtml: "<span class=chunk S-group><span class=text>An apple</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was hung</span><span class=tag>V</span></span>... and <span class=chunk S-group><span class=text>only the bonobo...</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>could reach and release</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the apple</span><span class=tag>O</span></span>...",
+    translationHtml: "<span class=t-S>繝ｪ繝ｳ繧ｴが/span> <span class=t-V>蜷翫ｋ縺輔ｌ縺ｾ縺励◆</span>...縺昴＠縺ｦ<span class=t-S>繝懊ヮ繝懊□縺代′</span> <span class=t-V>螻翫＞縺ｦ隗｣謾ｾ縺ｧ縺阪∪縺励◆</span> <span class=t-O>繝ｪ繝ｳ繧ｴ繧・/span>...",
+    naturalTranslation: "迚・婿の驛ｨ螻九・螟ｩ莠輔°繧峨Μ繝ｳ繧ｴ縺悟衰繧九＆繧後∪縺励◆縺後√◎繧後ｒ螟悶○繧九・は髫｣の驛ｨ螻九↓がｋ繝懊ヮ繝懊′譟ｵ繧堤匳っ縺溷ｴ蜷医□縺代〒縺励◆、",
+    vocabulary: "[ {"
+    word: "hang",
+    meaning: "蜷翫ｋが(hung-hung)"},
+    {
+    word: "release",
+    meaning: "隗｣謾ｾ縺吶ｋ縲∵叛が"}],
+    grammarNotes: "[ {"
+    phrase: "by climbing",
+    explanation: "<b>by doing</b>: 縲後懊☆繧九％縺ｨ縺ｫ繧医▲縺ｦ・域焔谿ｵ・峨・"}]
+    }
+    },
+    {
+    id: 9,
+    text: "Even though they did not get any apples or reward themselves for helping others, the bonobos often dropped the apple when there was another bonobo in the other room.",
+    translation: "莉冶・ｒ蜉ｩ縺代ｋ縺薙→縺ｧ繝ｪ繝ｳ繧ｴ繧ょｱ驟ｬ繧ょｾ励ｉ繧後↑が↓繧ゅ°縺九ｏ繧峨★縲√ｂがｸ譁ｹの驛ｨ螻九↓蛻･の繝懊ヮ繝懊′がｋ縺ｨ縺阪√◎の繝懊ヮ繝懊・鬆ｻ郢√↓繝ｪ繝ｳ繧ｴ繧定誠縺ｨ縺励∪縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ dropped ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(Even though...)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the bonobos</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>often dropped</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the apple</span><span class=tag>O</span></span>...",
+    translationHtml: "<span class=t-M>(縲懊□縺代ｌ縺ｩ繧・</span>、span class=t-S>繝懊ヮ繝懊・</span> <span class=t-V>繧医￥關ｽ縺ｨ縺励∪縺励◆</span> <span class=t-O>繝ｪ繝ｳ繧ｴ繧・/span>...",
+    naturalTranslation: "閾ｪ蛻・↓は菴輔・蝣ｱ驟ｬ繧ゅ↑が↓繧ゅ°縺九ｏ繧峨★、團縺ｫ莉ｲ髢薙′がｋ縺ｨ縲√・繝弱・は繧上＊繧上＊繝ｪ繝ｳ繧ｴ繧定誠縺ｨ縺励※縺ゅ￡繧九％縺ｨ縺悟､壹°っ縺溘・縺ｧ縺吶・",
+    vocabulary: "[ {"
+    word: "reward",
+    meaning: "蝣ｱ驟ｬ"},
+    {
+    word: "drop",
+    meaning: "關ｽ縺ｨが"}],
+    grammarNotes: "[ {"
+    phrase: "Even though",
+    explanation: "<b>Even though</b>: 縲後懊〒縺ゅｋ縺代ｌ縺ｩ繧ゑｼ郁ｭｲ豁ｩ・峨・"},
+    {
+    phrase: "reward themselves",
+    explanation: "<b>themselves</b>: 蜀榊ｸｰ莉｣蜷崎ｩ槭ゅ悟ｽｼ繧芽・霄ｫの蝣ｱ驟ｬ、"}]
+    }
+    },
+    {
+    id: 10,
+    text: "Surprisingly, these bonobos were strangers to each other.",
+    translation: "鬩壹＞縺溘％縺ｨ縺ｫ縲√％繧後ｉの繝懊ヮ繝懊・縺贋ｺ偵＞縺ｫ隕狗衍繧峨〓蜷悟｣ｫ縺ｧ縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ were ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(Surprisingly)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>these bonobos</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>strangers</span><span class=tag>C</span></span>...",
+    translationHtml: "<span class=t-M>(鬩壹＞縺溘％縺ｨ縺ｫ)</span>、span class=t-S>縺薙ｌ繧峨・繝懊ヮ繝懊・</span> <span class=t-V>縺ｧ縺励◆</span> <span class=t-C>莉紋ｺｺ・郁ｦ狗衍繧峨〓蜷悟｣ｫ・・/span>...",
+    naturalTranslation: "鬩壹￥縺ｹ縺阪％縺ｨ縺ｫ縲√％繧後ｉは蛻晏ｯｾ髱｢の繝懊ヮ繝懷酔螢ｫ縺ｧ縺励◆、",
+    vocabulary: "[ {"
+    word: "stranger",
+    meaning: "隕狗衍繧峨〓莠ｺ"},
+    {
+    word: "surprisingly",
+    meaning: "鬩壹＞縺溘％縺ｨ縺ｫ"}],
+    grammarNotes: "[  ]"
+    }
+    }
+    ]
+    },
+    {
+    paragraphId: 3,
+    sentences: [
+    {
+    id: 11,
+    text: "In a different test, bonobos watched two videos.",
+    translation: "蛻･のテせ繝医〒縲√・繝弱・は2縺､の繝薙ョ繧ｪ繧定ｦ九∪縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ watched ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(In a different test)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>bonobos</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>watched</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>two videos</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-M>(蛻･のテせ繝医〒)</span>、span class=t-S>繝懊ヮ繝懊・</span> <span class=t-V>隕九∪縺励◆</span> <span class=t-O>2縺､の繝薙ョ繧ｪ繧・/span>、",
+    naturalTranslation: "蛻･の螳滄ｨ薙〒は縲√・繝弱・縺ｫ2遞ｮ鬘槭・繝薙ョ繧ｪ繧定ｦ九○縺ｾ縺励◆、",
+    vocabulary: "[ {"
+    word: "different",
+    meaning: "逡ｰ縺ｪ繧九∝挨の"}],
+    grammarNotes: "[  ]"
+    }
+    },
+    {
+    id: 12,
+    text: "In one video, their family members were yawning, the act of opening their mouths when they were sleepy.",
+    translation: "1縺､の繝薙ョ繧ｪ縺ｧは縲∝ｽｼ繧峨・螳ｶ譌上′縺ゅ￥縺ｳ繧偵＠縺ｦが∪縺励◆縲ゅ◎繧後・逵が凾縺ｫ蜿｣繧帝幕縺代ｋ陦悟虚縺ｧ縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ were yawning ]",
+    structureHtml: "<span class=chunk S-group><span class=text>their family members</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were yawning</span><span class=tag>V</span></span>, <span class=chunk C-group><span class=text>[the act of opening their mouths...]</span><span class=tag>C(蜷梧ｼ)</span></span>.",
+    translationHtml: "<span class=t-S>螳ｶ譌上・</span> <span class=t-V>縺ゅ￥縺ｳ繧偵＠縺ｦが∪縺励◆</span>、span class=t-C>(縺昴ｌは蜿｣繧帝幕縺代ｋ陦悟虚縺ｧが</span>...",
+    naturalTranslation: "荳譁ｹの繝薙ョ繧ｪ縺ｫは螳ｶ譌上′縺ゅ￥縺ｳ繧偵☆繧区ｧ伜ｭ撰ｼ育悛が凾縺ｫ蜿｣繧帝幕縺代ｋ陦檎ぜ・峨′譏っ縺ｦが∪縺励◆、",
+    vocabulary: "[ {"
+    word: "yawn",
+    meaning: "縺ゅ￥縺ｳ繧偵☆繧・"},
+    {
+    word: "act",
+    meaning: "陦檎ぜ"}],
+    grammarNotes: "[ {"
+    phrase: "the act of opening",
+    explanation: "<b>the act of doing</b>: 蜑阪・譁・・蜀・ｮｹ・・awning・峨ｒ隱ｬ譏弱☆繧句酔譬ｼ繝輔Ξー繧ｺ、"}]
+    }
+    },
+    {
+    id: 13,
+    text: "When bonobos watched their family members yawn, they were also likely to yawn themselves.",
+    translation: "繝懊ヮ繝懊′螳ｶ譌上′縺ゅ￥縺ｳ繧偵☆繧九・繧定ｦ九◆縺ｨ縺阪∝ｽｼ繧芽・霄ｫ繧ゅ≠縺上・繧偵☆繧句だ蜷代′縺ゅｊ縺ｾ縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ were ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(When bonobos watched...)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>they</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were also likely to yawn</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>themselves</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-M>(隕九◆縺ｨが</span>、span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>縺ゅ￥縺ｳ縺励◎が〒縺励◆</span> <span class=t-M>閾ｪ蛻・◆縺｡繧・/span>、",
+    naturalTranslation: "螳ｶ譌上・縺ゅ￥縺ｳ繧定ｦ九ｋ縺ｨ縲√・繝弱・繧ゅ▽繧峨ｌ縺ｦ縺ゅ￥縺ｳ繧偵☆繧句だ蜷代′縺ゅｊ縺ｾ縺励◆、",
+    vocabulary: "[ {"
+    word: "likely to",
+    meaning: "縲懊＠縺昴≧縺ｧ縺ゅｋ"}],
+    grammarNotes: "[ {"
+    phrase: "watched their family members yawn",
+    explanation: "<b>watch O do</b>: 縲薫縺後懊☆繧九・繧定ｦ九ｋ・育衍隕壼虚隧橸ｼ峨・"},
+    {
+    phrase: "likely to yawn",
+    explanation: "<b>be likely to do</b>: 縲後懊☆繧句庄閭ｽ諤ｧ縺碁ｫ倥＞縲√懊＠縺後■縺ｧ縺ゅｋ、"}]
+    }
+    },
+    {
+    id: 14,
+    text: "Another video showed strangers yawning.",
+    translation: "繧ゅ≧1縺､の繝薙ョ繧ｪは縲∬ｦ狗衍繧峨〓莠ｺ縺後≠縺上・繧偵＠縺ｦがｋ縺ｨ縺薙ｍ繧呈丐縺励※が∪縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ showed ]",
+    structureHtml: "<span class=chunk S-group><span class=text>Another video</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>showed</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>strangers yawning</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>蛻･の繝薙ョ繧ｪは</span> <span class=t-V>隕九○縺ｾ縺励◆</span> <span class=t-O>隕狗衍繧峨〓莠ｺ縺後≠縺上・縺励※がｋの繧・/span>、",
+    naturalTranslation: "繧ゅ≧荳譁ｹの繝薙ョ繧ｪ縺ｧは縲∬ｦ狗衍繧峨〓繝懊ヮ繝懊′縺ゅ￥縺ｳ繧偵＠縺ｦが∪縺励◆、",
+    vocabulary: "[  ]",
+    grammarNotes: "[ {"
+    phrase: "strangers yawning",
+    explanation: "<b>strangers yawning</b>: 縲後≠縺上・繧偵＠縺ｦがｋ隕狗衍繧峨〓閠・ｼ育樟蝨ｨ蛻・ｩ槭・菫ｮ鬟ｾ・峨・"}]
+    }
+    },
+    {
+    id: 15,
+    text: "The bonobos who watched this video yawned as much as when they watched their families yawn.",
+    translation: "縺薙・繝薙ョ繧ｪ繧定ｦ九◆繝懊ヮ繝懊・縲∝ｮｶ譌上′縺ゅ￥縺ｳ繧偵☆繧九・繧定ｦ九◆縺ｨ縺阪→蜷後§縺上ｉが≠縺上・繧偵＠縺ｾ縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ yawned ]",
+    structureHtml: "<span class=chunk S-group><span class=text>The bonobos [who watched this video]</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>yawned</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>as much as [when they watched...]</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>[縺薙・繝薙ョ繧ｪ繧定ｦ九◆]繝懊ヮ繝懊・</span> <span class=t-V>縺ゅ￥縺ｳ縺励∪縺励◆</span> <span class=t-M>蜷後§縺上ｉが/span>...",
+    naturalTranslation: "縺薙・繝薙ョ繧ｪ繧定ｦ九◆蝣ｴ蜷医〒繧ゅ∝ｮｶ譌上・縺ｨ縺阪→蜷後§縺上ｉがｻ郢√↓縺ゅ￥縺ｳ縺御ｼ晄沒縺励∪縺励◆、",
+    vocabulary: "[ {"
+    word: "as much",
+    meaning: "蜷後§縺上ｉが"}],
+    grammarNotes: "[ {"
+    phrase: "as much as",
+    explanation: "<b>as much as</b>: 縲後懊→蜷後§縺上ｉがｼ亥酔遲画ｯ碑ｼ・ｼ峨・"}]
+    }
+    },
+    {
+    id: 16,
+    text: "In a similar setting, humans were more likely to yawn after seeing their friends or family members yawn than after seeing strangers yawn.",
+    translation: "蜷梧ｧ倥・迥ｶ豕√〒縲∽ｺｺ髢薙・隕狗衍繧峨〓莠ｺの縺ゅ￥縺ｳ繧定ｦ九◆蠕後ｈ繧翫ｂ縲∝暑莠ｺ繧・ｮｶ譌上・縺ゅ￥縺ｳ繧定ｦ九◆蠕後・譁ｹ縺後≠縺上・繧偵☆繧句だ蜷代′蠑ｷ縺九▲縺溘〒縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ were ]",
+    structureHtml: "<span class=chunk S-group><span class=text>humans</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>more likely to yawn</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>than after seeing strangers yawn</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>莠ｺ髢薙・</span> <span class=t-V>縺ｧ縺励◆</span> <span class=t-C>繧医ｊ縺ゅ￥縺ｳ縺励′縺｡</span> <span class=t-M>(莉紋ｺｺ繧定ｦ九◆蠕後ｈ繧翫ｂ)</span>、",
+    naturalTranslation: "莠ｺ髢薙・蝣ｴ蜷医∝酔讒倥・螳滄ｨ薙ｒ陦後≧縺ｨ縲∽ｻ紋ｺｺ繧医ｊ繧ょｮｶ譌上ｄ蜿倶ｺｺの縺ゅ￥縺ｳの譁ｹ縺御ｼ晄沒縺励ｄ縺吶＞蛯ｾ蜷代′縺ゅｊ縺ｾ縺吶・",
+    vocabulary: "[ {"
+    word: "setting",
+    meaning: "迺ｰ蠅・∬ｨｭ実"}],
+    grammarNotes: "[ {"
+    phrase: "more likely to ... than",
+    explanation: "<b>more likely to ... than</b>: 縲後懊ｈ繧・..縺励ｄ縺吶＞・域ｯ碑ｼ・ｴ夲ｼ峨・"}]
+    }
+    },
+    {
+    id: 17,
+    text: "This suggests that bonobos ability to feel one another's feelings is more widespread than that of humans.",
+    translation: "縺薙ｌは縲√♀莠偵＞の諢滓ュ繧呈─縺伜叙繧九・繝弱・の閭ｽ蜉帙′縲∽ｺｺ髢薙・縺昴ｌ繧医ｊ繧ょｺ・ｯ・峇縺ｫ蜿翫・縺薙→繧堤､ｺ蜚・＠縺ｦが∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ suggests ]",
+    structureHtml: "<span class=chunk S-group><span class=text>This</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>suggests</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that bonobos ability... is more widespread...]</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>縺薙ｌは</span> <span class=t-V>遉ｺ蜚・＠縺ｾが/span> <span class=t-O>[繝懊ヮ繝懊・閭ｽ蜉帙′繧医ｊ蠎・ｯ・峇縺縺ｨ]</span>、",
+    naturalTranslation: "縺薙ｌは縲√・繝弱・の蜈ｱ諢溯・蜉幢ｼ井ｻ冶・・諢滓ュ繧呈─縺倥ｋ蜉幢ｼ峨′莠ｺ髢薙ｈ繧翫ｂ蠎・＞遽・峇縺ｫ蜷代￠繧峨ｌ縺ｦがｋ縺薙→繧堤､ｺ蜚・＠縺ｦが∪縺吶・",
+    vocabulary: "[ {"
+    word: "suggest",
+    meaning: "遉ｺ蜚・☆繧・"},
+    {
+    word: "widespread",
+    meaning: "蠎・ｯ・峇縺ｫ繧上◆繧・"}],
+    grammarNotes: "[ {"
+    phrase: "that of humans",
+    explanation: "<b>that of humans</b>: that = ability縲ゅ御ｺｺ髢薙・縺昴ｌ・郁・蜉幢ｼ峨・"}]
+    }
+    }
+    ]
+    },
+    {
+    paragraphId: 4,
+    sentences: [
+    {
+    id: 18,
+    text: "Bonobos ability to care about others is probably due to the group structure that they live in.",
+    translation: "莉冶・ｒ諤昴＞繧・ｋ繝懊ヮ繝懊・閭ｽ蜉帙・縺翫◎繧峨￥縲∝ｽｼ繧峨′菴上・髮・屮讒矩縺ｫ繧医ｋ繧ゅ・縺ｧ縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ is ]",
+    structureHtml: "<span class=chunk S-group><span class=text>Bonobos ability...</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>probably due to the group structure...</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-S>繝懊ヮ繝懊・閭ｽ蜉帙・</span> <span class=t-V>縺ｧが/span> <span class=t-C>縺翫◎繧峨￥髮・屮讒矩縺ｫ繧医ｋ</span>、",
+    naturalTranslation: "繝懊ヮ繝懊・縺薙・諤昴＞繧・ｊの閭ｽ蜉帙・縲√♀縺昴ｉ縺丞ｽｼ繧峨・遉ｾ莨壽ｧ矩縺ｫ襍ｷ蝗縺励※が∪縺吶・",
+    vocabulary: "[ {"
+    word: "due to",
+    meaning: "縲懊′蜴溷屏縺ｧ"},
+    {
+    word: "structure",
+    meaning: "讒矩"}],
+    grammarNotes: "[ {"
+    phrase: "structure that they live in",
+    explanation: "<b>that</b>: group structure繧剃ｿｮ鬟ｾ縺吶ｋ髢｢菫ゆｻ｣蜷崎ｩ槭・"}]
+    }
+    },
+    {
+    id: 19,
+    text: "This becomes clear when we look at chimpanzees.",
+    translation: "縺薙ｌは繝√Φ繝代Φジー繧定ｦ九ｋ縺ｨ譏弱ｉ縺九↓縺ｪ繧翫∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ becomes ]",
+    structureHtml: "<span class=chunk S-group><span class=text>This</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>becomes</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>clear</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>(when we look at chimpanzees)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>縺薙ｌは</span> <span class=t-V>縺ｪ繧翫∪が/span> <span class=t-C>譏弱ｉ縺九↓</span> <span class=t-M>(繝√Φ繝代Φジー繧定ｦ九ｋ縺ｨ)</span>、",
+    naturalTranslation: "繝√Φ繝代Φジー縺ｨ豈碑ｼ・☆繧九→縲√％の縺薙→は繧医￥繧上°繧翫∪縺吶・",
+    vocabulary: "[ {"
+    word: "clear",
+    meaning: "譏弱ｉ縺九↑"}],
+    grammarNotes: "[  ]"
+    }
+    },
+    {
+    id: 20,
+    text: "Bonobos live in large groups where there is no clear leadership.",
+    translation: "繝懊ヮ繝懊・譏守｢ｺ縺ｪ繝ｪー繝ー繧ｷテ・の縺ｪが､ｧ縺阪↑髮・屮縺ｧ逕滓ｴｻ縺励※が∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ live ]",
+    structureHtml: "<span class=chunk S-group><span class=text>Bonobos</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>live</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>in large groups [where there is no clear leadership]</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>繝懊ヮ繝懊・</span> <span class=t-V>菴上ｓ縺ｧが∪が/span> <span class=t-M>大縺阪↑髮・屮縺ｧ</span>...",
+    naturalTranslation: "繝懊ヮ繝懊・譏守｢ｺ縺ｪ繝ｪー繝ーのが↑が､ｧ縺阪↑髮・屮縺ｧ證ｮ繧峨＠縺ｦが∪縺吶・",
+    vocabulary: "[ {"
+    word: "leadership",
+    meaning: "謖・ｰ取ｨｩ縲√Μー繝ー繧ｷテ・"}],
+    grammarNotes: "[ {"
+    phrase: "where",
+    explanation: "<b>where (髢｢菫ょ憶隧・</b>: large groups繧剃ｿｮ鬟ｾ縲ゅ後◎縺薙〒は繝ｪー繝ー繧ｷテ・縺後↑が・"}]
+    }
+    },
+    {
+    id: 21,
+    text: "However, there is a distinct power structure within a chimpanzee group, and a large, strong male takes on a leadership role.",
+    translation: "縺励°縺励√メ繝ｳ繝代Φジーの髮・屮蜀・↓は譏守｢ｺ縺ｪ讓ｩ蜉帶ｧ矩縺後≠繧翫∝､ｧ縺阪￥蠑ｷがが繧ｹ縺後Μー繝ー繧ｷテ・の蠖ｹ蜑ｲ繧呈球が∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: [ "is", "takes on" ],
+    structureHtml: "<span class=chunk M-group><span class=text>(However)</span><span class=tag>M</span></span>, <span class=chunk V-group><span class=text>there is</span><span class=tag>V</span></span> <span class=chunk S-group><span class=text>a distinct power structure</span><span class=tag>S</span></span>... and <span class=chunk S-group><span class=text>a large, strong male</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>takes on</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>a leadership role</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-M>(縺励°が</span>、span class=t-V>縺ゅｊ縺ｾが/span> <span class=t-S>譏守｢ｺ縺ｪ讓ｩ蜉帶ｧ矩が/span>...縺昴＠縺ｦ<span class=t-S>蠑ｷがが繧ｹが/span> <span class=t-V>蠑輔″蜿励￠縺ｾが/span> <span class=t-O>蠖ｹ蜑ｲ繧・/span>、",
+    naturalTranslation: "荳譁ｹ繝√Φ繝代Φジーの鄒､繧後↓は譏守｢ｺ縺ｪ蠎丞・縺後≠繧翫∝､ｧ縺阪￥蠑ｷがが繧ｹ縺後Μー繝ー讓ｩ繧呈升繧翫∪縺吶・",
+    vocabulary: "[ {"
+    word: "distinct",
+    meaning: "はっ縺阪ｊ縺励◆縲∵・遒ｺ縺ｪ"},
+    {
+    word: "take on",
+    meaning: "蠑輔″蜿励￠繧・"}],
+    grammarNotes: "[  ]"
+    }
+    },
+    {
+    id: 22,
+    text: "Because of this, they have less reason to be friendly.",
+    translation: "縺薙・縺溘ａ縲∝ｽｼ繧峨′蜿句･ｽ逧・〒縺ゅｋ逅・罰は蟆代↑縺上↑繧翫∪縺呻ｼ亥暑螂ｽ逧・〒縺ゅｋ蠢・ｦ∵ｧ縺御ｽ弱＞縺ｧ縺呻ｼ峨・",
+    grammarAnalysis: {
+    mainVerbs: "[ have ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(Because of this)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>they</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>have</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>less reason to be friendly</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-M>(縺薙・縺溘ａ)</span>、span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>謖√▲縺ｦが∪が/span> <span class=t-O>蜿句･ｽ逧・↓縺ｪ繧九ｈ繧雁ｰ代↑が炊逕ｱ繧・/span>、",
+    naturalTranslation: "縺昴・縺溘ａ縲√メ繝ｳ繝代Φジー縺ｫは蜿句･ｽ逧・↓謖ｯ繧玖・が炊逕ｱ縺後≠縺ｾ繧翫≠繧翫∪縺帙ｓ、",
+    vocabulary: "[ {"
+    word: "less",
+    meaning: "繧医ｊ蟆代↑が"},
+    {
+    word: "friendly",
+    meaning: "蜿句･ｽ逧・↑"}],
+    grammarNotes: "[ {"
+    phrase: "less",
+    explanation: "<b>less</b>: littleの豈碑ｼ・ｴ壹ゅ後ｈ繧雁ｰ代↑が・"}]
+    }
+    },
+    {
+    id: 23,
+    text: "Bonobos, however, live in peace and work together more because of how their groups are set up, while chimpanzees are more unfriendly.",
+    translation: "縺励°縺励・繝弱・は、寔蝗｣の讒区・の縺輔ｌ譁ｹの縺翫°縺偵〒縲√ｈ繧雁ｹｳ蜥後↓證ｮ繧峨＠蜊泌鴨縺怜粋が∪縺吶′縲√メ繝ｳ繝代Φジーは繧医ｊ髱槫暑螂ｽ逧・〒縺吶・",
+    grammarAnalysis: {
+    mainVerbs: [ "live", "work" ],
+    structureHtml: "<span class=chunk S-group><span class=text>Bonobos</span><span class=tag>S</span></span>... <span class=chunk V-group><span class=text>live... and work together</span><span class=tag>V</span></span>... <span class=chunk M-group><span class=text>while chimpanzees are more unfriendly</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>繝懊ヮ繝懊・</span> <span class=t-V>蟷ｳ蜥後↓證ｮ繧峨＠蜊泌鴨縺励∪が/span>... <span class=t-M>(繝√Φ繝代Φジーは髱槫暑螂ｽ逧・〒縺吶′)</span>、",
+    naturalTranslation: "蟇ｾ縺励※繝懊ヮ繝懊・縲√◎の遉ｾ莨壽ｧ矩の縺翫°縺偵〒蟷ｳ蜥檎噪縺ｫ蜊泌鴨縺励※證ｮ繧峨＠縺ｦ縺翫ｊ縲√メ繝ｳ繝代Φジー繧医ｊ繧ょ暑螂ｽ逧・↑の縺ｧ縺吶・",
+    vocabulary: "[ {"
+    word: "peace",
+    meaning: "蟷ｳ蜥・"},
+    {
+    word: "work together",
+    meaning: "蜊泌鴨縺吶ｋ"},
+    {
+    word: "set up",
+    meaning: "讒区・縺吶ｋ"},
+    {
+    word: "unfriendly",
+    meaning: "繧医◎繧医◎縺励＞、撼蜿句･ｽ逧・↑"}],
+    grammarNotes: "[ {"
+    phrase: "how ... set up",
+    explanation: "<b>how ... set up</b>: 縲後←の繧医≧縺ｫ讒区・縺輔ｌ縺ｦがｋ縺具ｼ磯俣謗･逍大撫・峨・"},
+    {
+    phrase: "while",
+    explanation: "<b>while (謗･邯夊ｩ・</b>: 縲後懊〒縺ゅｋ荳譁ｹ縺ｧ・亥ｯｾ豈費ｼ峨・"}]
+    }
+    }
+    ]
+    }
+    ],
+    questions: [
+    {
+    id: "q1",
+    questionNo: 27,
+    text: "Why do many people not know much about bonobos?",
+    translation: "縺ｪ縺懷､壹￥の莠ｺ、・繝懊ヮ繝懊↓縺､が※縺ゅ∪繧顔衍繧峨↑が・縺ｧ縺吶°・・",
+    keywords: [ "not know", "bonobos", "many people" ],
+    keywordMatches: [
+    {
+    text: "Not many people know about bonobos",
+    sentenceId: 2},
+    {
+    text: "because",
+    sentenceId: 2}
+    ],
+    paragraphStrategy: "第1谿ｵ關ｽ繧定ｦ九ｋ",
+    hint: {
+    description: "第1谿ｵ關ｽの Not many people know... 縺九ｉ蟋九∪繧区枚繧呈爾縺昴≧縲ら炊逕ｱ繧定｡ｨ縺呎磁邯夊ｩ・because 縺ｫ豕ｨ逶ｮ、",
+    targetSentenceId: 2
+    },
+    choices: [
+    {
+    id: 1,
+    text: "The country where they live does not make much effort to protect them.",
+    translation: "蠖ｼ繧峨′菴上・蝗ｽは蠖ｼ繧峨ｒ菫晁ｭｷ縺吶ｋ蜉ｪ蜉帙ｒ縺ゅ∪繧翫＠縺ｦが↑が・"},
+    {
+    id: 2,
+    text: "They are not as friendly as animals such as monkeys or chimpanzees.",
+    translation: "蠖ｼ繧峨・繧ｵ繝ｫ繧・メ繝ｳ繝代Φジー縺ｻ縺ｩ蜿句･ｽ逧・〒は縺ｪが・"},
+    {
+    id: 3,
+    text: "They avoid contact with humans as much as possible to protect their babies.",
+    translation: "蠖ｼ繧峨・襍､縺｡繧・ｓ繧貞ｮ医ｋ縺溘ａ縺ｫ莠ｺ髢薙→の謗･隗ｦ繧帝∩縺代※がｋ、"},
+    {
+    id: 4,
+    text: "The location where they live is only in a certain area of Africa.",
+    translation: "蠖ｼ繧峨′菴上ｓ縺ｧがｋ蝣ｴ謇は繧｢繝輔Μ繧ｫの迚ｹ螳壹・蝨ｰ蝓溘□縺代〒縺ゅｋ、",
+    isCorrect: true}
+    ],
+    correctAnswer: 4,
+    type: "text",
+    explanation: "第1谿ｵ關ｽの縲君ot many people know about bonobos because they do not live in many different areas.縲搾ｼ亥､壹￥の逡ｰ縺ｪ繧句慍蝓溘↓菴上ｓ縺ｧが↑がｼ晞剞繧峨ｌ縺溷慍蝓溘↓縺励°が↑がｼ峨→が≧險倩ｿｰ縺ｨ荳閾ｴ縺励∪縺吶・",
+    logic: [
+    {
+    type: "text",
+    content: "險ｭ蝠上・ Why do many people not know... (縺ｪ縺懊≠縺ｾ繧顔衍繧峨ｌ縺ｦが↑が・が 縺ｫ豕ｨ逶ｮ"},
+    {
+    type: "arrow"},
+    {
+    type: "text",
+    content: "譛ｬ譁・ Not many people know about bonobos because they do not live in many different areas. (螟壹￥の逡ｰ縺ｪ繧句慍蝓溘↓菴上ｓ縺ｧが↑が°繧・"},
+    {
+    type: "arrow"},
+    {
+    type: "text",
+    content: "險が鋤が do not live in many different areas = The location... is only in a certain area (迚ｹ螳壹・蝨ｰ蝓溘↓縺励°縺ｪが"},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣は 4"}
+    ]
+    },
+    {
+    id: "q2",
+    questionNo: 28,
+    text: "In one study",
+    translation: "縺ゅｋ遐皮ｩｶ縺ｫ縺翫＞縺ｦ、",
+    keywords: "[ one study ]",
+    keywordMatches: [
+    {
+    text: "In one study",
+    sentenceId: 7},
+    {
+    text: "dropped the apple",
+    sentenceId: 9},
+    {
+    text: "without getting a reward",
+    sentenceId: 9,
+    type: "paraphrase"}
+    ],
+    paragraphStrategy: "第2谿ｵ關ｽ繧定ｦ九ｋ",
+    hint: {
+    description: "第2谿ｵ關ｽの螳滄ｨ薙・縲檎ｵ先棡縲阪′譖ｸ縺九ｌ縺ｦがｋ譁・ｒ謗｢縺昴≧、ven though・医懊□縺代ｌ縺ｩ繧ゑｼ峨・譁・↓豕ｨ逶ｮ、",
+    targetSentenceId: 9
+    },
+    choices: [
+    {
+    id: 1,
+    text: "bonobos were seen to help other bonobos without getting a reward.",
+    translation: "繝懊ヮ繝懊・蝣ｱ驟ｬ繧貞ｾ励ｋ縺薙→縺ｪ縺丈ｻ悶・繝懊ヮ繝懊ｒ蜉ｩ縺代ｋ縺薙→縺瑚ｦｳ蟇溘＆繧後◆、",
+    isCorrect: true},
+    {
+    id: 2,
+    text: "bonobos were required to push a button on the wall to get a piece of fruit.",
+    translation: "繝懊ヮ繝懊・譫懃黄繧貞ｾ励ｋ縺溘ａ縺ｫ螢√・繝懊ち繝ｳ繧呈款縺吶ｈがｦ∵ｱゅ＆繧後◆、"},
+    {
+    id: 3,
+    text: "some bonobos were able to jump out of the cage after getting some fruit.",
+    translation: "菴募源縺九・繝懊ヮ繝懊・譫懃黄繧貞ｾ励◆蠕後↓讙ｻ縺九ｉ鬟帙・蜃ｺ縺吶％縺ｨ縺後〒縺阪◆、"},
+    {
+    id: 4,
+    text: "researchers decided that bonobos and chimpanzees were very similar.",
+    translation: "遐皮ｩｶ閠・◆縺｡は繝懊ヮ繝懊→繝√Φ繝代Φジーは髱槫ｸｸ縺ｫ繧医￥莨ｼ縺ｦがｋ縺ｨ邨占ｫ紋ｻ倥￠縺溘・"}
+    ],
+    correctAnswer: 1,
+    type: "text",
+    explanation: "螳滄ｨ薙〒は縲∬・蛻・・繝ｪ繝ｳ繧ｴ繧貞ｾ励ｉ繧後↑縺上※繧・did not get any apples or reward themselves)、團の莉ｲ髢薙・縺溘ａ縺ｫ繝ｪ繝ｳ繧ｴ繧定誠縺ｨ縺励※縺ゅ￡がdropped the apple)縺薙→縺瑚ｨ倩ｿｰ縺輔ｌ縺ｦが∪縺吶・",
+    logic: [
+    {
+    type: "text",
+    content: "螳滄ｨ薙・邨先棡(縺ｩが＞が｡悟虚繧偵＠縺溘°)繧堤｢ｺ隱・"},
+    {
+    type: "arrow"},
+    {
+    type: "text",
+    content: "譛ｬ譁・ ...did not get any apples or reward themselves for helping others... dropped the apple (蝣ｱ驟ｬ縺悟ｾ励ｉ繧後↑縺上※繧ゅΜ繝ｳ繧ｴ繧定誠縺ｨ縺励◆)"},
+    {
+    type: "arrow"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い 1: help other bonobos without getting a reward (蝣ｱ驟ｬ縺ｪ縺励〒莉冶・ｒ蜉ｩ縺代◆) 縺ｨ荳閾ｴ"},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣は 1"}
+    ]
+    },
+    {
+    id: "q3",
+    questionNo: 29,
+    text: "In a study about yawning, researchers found",
+    translation: "縺ゅ￥縺ｳ縺ｫ髢｢縺吶ｋ遐皮ｩｶ縺ｧ縲∫皮ｩｶ閠・・莉･荳九・縺薙→繧堤匱隕九＠縺ｾ縺励◆、",
+    keywords: [ "yawning", "researchers found" ],
+    keywordMatches: [
+    {
+    text: "watched two videos",
+    sentenceId: 11},
+    {
+    text: "This suggests",
+    sentenceId: 17},
+    {
+    text: "more widespread",
+    sentenceId: 17}
+    ],
+    paragraphStrategy: "第3谿ｵ關ｽ繧定ｦ九ｋ",
+    hint: {
+    description: "第3谿ｵ關ｽの譛蠕後∫皮ｩｶ閠・・逋ｺ隕具ｼ・his suggests...・峨・蜀・ｮｹ繧堤｢ｺ隱阪＠繧医≧、",
+    targetSentenceId: 17
+    },
+    choices: [
+    {
+    id: 1,
+    text: "bonobos copied what people did instead of copying other bonobos.",
+    translation: "繝懊ヮ繝懊・莉悶・繝懊ヮ繝懊ｒ逵滉ｼｼ縺吶ｋ莉｣繧上ｊ縺ｫ莠ｺ髢薙′縺励◆縺薙→繧堤悄莨ｼ縺励◆、"},
+    {
+    id: 2,
+    text: "bonobos could feel others feelings even more than humans.",
+    translation: "繝懊ヮ繝懊・莠ｺ髢謎ｻ･荳翫↓莉冶・・諢滓ュ繧呈─縺伜叙繧九％縺ｨ縺後〒縺阪◆、",
+    isCorrect: true},
+    {
+    id: 3,
+    text: "most bonobos did not yawn when they were feeling tired.",
+    translation: "縺ｻ縺ｨ繧薙←の繝懊ヮ繝懊・逍ｲ繧後※がｋ縺ｨ縺阪↓谺莨ｸ繧偵＠縺ｪ縺九▲縺溘・"},
+    {
+    id: 4,
+    text: "yawning was more common for younger bonobos than for older ones.",
+    translation: "谺莨ｸは年驟阪・繝懊ヮ繝懊ｈ繧翫ｂ闍･が・繝弱・の譁ｹ縺ｫ繧医￥隕九ｉ繧後◆、"}
+    ],
+    correctAnswer: 2,
+    type: "text",
+    explanation: "邨占ｫ夜Κ蛻・〒縲√・繝弱・の蜈ｱ諢溯・蜉帙・縲御ｺｺ髢薙・縺昴ｌ繧医ｊ繧ょｺ・ｯ・峇縺ｧ縺ゅｋ(more widespread than that of humans)縲阪→霑ｰ縺ｹ繧峨ｌ縺ｦが∪縺吶ゅ％繧後・莠ｺ髢謎ｻ･荳翫↓莉冶・・諢滓ュ繧呈─縺伜叙繧後ｋ縺薙→繧呈э蜻ｳ縺励∪縺吶・",
+    logic: [
+    {
+    type: "text",
+    content: "縺ゅ￥縺ｳの遐皮ｩｶの邨占ｫ・found)繧呈爾が"},
+    {
+    type: "arrow"},
+    {
+    type: "text",
+    content: "譛ｬ譁・ bonobos ability to feel one another's feelings is more widespread than that of humans (繝懊ヮ繝懊・蜈ｱ諢溯・蜉帙・莠ｺ髢薙ｈ繧翫ｂ蠎・ｯ・峇)"},
+    {
+    type: "arrow"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い 2: feel others feelings even more than humans (莠ｺ髢謎ｻ･荳翫↓諢溘§蜿悶ｌ繧・ 縺ｨ荳閾ｴ"},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣は 2"}
+    ]
+    },
+    {
+    id: "q4",
+    questionNo: 30,
+    text: "Chimpanzees",
+    translation: "繝√Φ繝代Φジーは、",
+    keywords: "[ Chimpanzees ]",
+    keywordMatches: [
+    {
+    text: "This becomes clear when we look at chimpanzees",
+    sentenceId: 19},
+    {
+    text: "distinct power structure",
+    sentenceId: 21},
+    {
+    text: "strong male takes on a leadership role",
+    sentenceId: 21},
+    {
+    text: "less reason to be friendly",
+    sentenceId: 22}
+    ],
+    paragraphStrategy: "第4谿ｵ關ｽ繧定ｦ九ｋ",
+    hint: {
+    description: "第4谿ｵ關ｽの繝√Φ繝代Φジー縺ｫ髢｢縺吶ｋ險倩ｿｰ縲∫音縺ｫ繝ｪー繝ー繧ｷテ・縺ｨ蜿句･ｽ逧・＆の髢｢菫ゅｒ謗｢縺昴≧、",
+    targetSentenceId: 21
+    },
+    choices: [
+    {
+    id: 1,
+    text: "organize their groups in the same way that bonobo groups organize themselves.",
+    translation: "繝懊ヮ繝懊・髮・屮縺ｨ蜷後§譁ｹ豕輔〒閾ｪ蛻・◆縺｡の髮・屮繧堤ｵ・ｹ斐☆繧九・"},
+    {
+    id: 2,
+    text: "tend to be less friendly because there is a strong leader among them.",
+    translation: "蠑ｷがΜー繝ー縺後＞繧九◆繧√√≠縺ｾ繧雁暑螂ｽ逧・〒縺ｪ縺上↑繧句だ蜷代′縺ゅｋ、",
+    isCorrect: true},
+    {
+    id: 3,
+    text: "form a larger group than bonobos to maintain strong connections between individuals.",
+    translation: "蛟倶ｽ馴俣の蠑ｷがｵ舌・縺､縺阪ｒ邯ｭ謖√☆繧九◆繧√↓繝懊ヮ繝懊ｈ繧翫ｂ大縺阪↑髮・屮繧剃ｽ懊ｋ、"},
+    {
+    id: 4,
+    text: "move from one place to another to find a better living environment.",
+    translation: "繧医ｊ濶ｯが函豢ｻ迺ｰ蠅・ｒ隕九▽縺代ｋ縺溘ａ縺ｫ縺ゅｋ蝣ｴ謇縺九ｉ蛻･の蝣ｴ謇縺ｸ遘ｻ蜍輔☆繧九・"}
+    ],
+    correctAnswer: 2,
+    type: "text",
+    explanation: "繝√Φ繝代Φジーの髮・屮縺ｫは縲慧istinct power structure・域・遒ｺ縺ｪ讓ｩ蜉帶ｧ矩・峨阪′縺ゅｊ縲√茎trong male takes on a leadership role・亥ｼｷがが繧ｹ縺後Μー繝ー・峨阪〒縺吶ゅ◎の邨先棡縲√畦ess reason to be friendly・亥暑螂ｽ逧・〒縺ゅｋ逅・罰縺悟ｰ代↑がｼ峨阪→霑ｰ縺ｹ繧峨ｌ縺ｦが∪縺吶・",
+    logic: [
+    {
+    type: "text",
+    content: "繝√Φ繝代Φジーの迚ｹ蠕ｴ繧呈爾が"},
+    {
+    type: "arrow"},
+    {
+    type: "text",
+    content: "譛ｬ譁・ a strong male takes on a leadership role... Because of this, they have less reason to be friendly"},
+    {
+    type: "arrow"},
+    {
+    type: "text",
+    content: "蝗譫憺未菫・ 蠑ｷがΜー繝ー縺後＞繧・-> 蜿句･ｽ逧・〒縺ｪが"},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣は 2"}
+    ]
+    },
+    {
+    id: "q5",
+    questionNo: 31,
+    text: "Which of the following statements is true?",
+    translation: "谺｡の險倩ｿｰのが■縲∵ｭ｣縺励＞繧ゅ・は縺ｩ繧後〒縺吶°・・",
+    keywords: "[ true ]",
+    keywordMatches: [
+    {
+    text: "live in peace",
+    sentenceId: 23},
+    {
+    text: "no clear leadership",
+    sentenceId: 20}
+    ],
+    paragraphStrategy: "第4谿ｵ關ｽ蜈ｨ菴薙ｒ隕九ｋ",
+    hint: {
+    description: "第4谿ｵ關ｽの繝懊ヮ繝懊↓髢｢縺吶ｋ險倩ｿｰ・・o clear leardership縺ｪ縺ｩ・峨ｒ遒ｺ隱阪＠繧医≧、",
+    targetSentenceId: 20
+    },
+    choices: [
+    {
+    id: 1,
+    text: "Bonobos almost never yawn when they are with bonobos from other families.",
+    translation: "繝懊ヮ繝懊・莉悶・螳ｶ譌上・繝懊ヮ繝懊→荳邱偵↓がｋ縺ｨ縺阪・縺ｻ縺ｨ繧薙←谺莨ｸ繧偵＠縺ｪが・"},
+    {
+    id: 2,
+    text: "All experiments involving bonobos were conducted by the Democratic Republic of the Congo.",
+    translation: "繝懊ヮ繝懊↓髢｢縺吶ｋ縺吶∋縺ｦの螳滄ｨ薙・繧ｳ繝ｳ繧ｴ豌台ｸｻ蜈ｱ蜥悟嵜縺ｫ繧医▲縺ｦ陦後ｏ繧後◆、"},
+    {
+    id: 3,
+    text: "Bonobos live peacefully in groups that have no strong leaders.",
+    translation: "繝懊ヮ繝懊・蠑ｷがΜー繝ーのが↑が寔蝗｣縺ｧ蟷ｳ蜥後↓證ｮ繧峨＠縺ｦがｋ、",
+    isCorrect: true},
+    {
+    id: 4,
+    text: "Chimpanzees help others even when such actions will not benefit themselves.",
+    translation: "繝√Φ繝代Φジーは閾ｪ蛻・◆縺｡の蛻ｩ逶翫↓縺ｪ繧峨↑がｴ蜷医〒繧ゆｻ冶・ｒ蜉ｩ縺代ｋ、"}
+    ],
+    correctAnswer: 3,
+    type: "text",
+    explanation: "第4谿ｵ關ｽ縺ｧ縲沓onobos live in large groups where there is no clear leadership.・域・遒ｺ縺ｪ繝ｪー繝ー繧ｷテ・の縺ｪが寔蝗｣・峨阪ｄ縲畦ive in peace・亥ｹｳ蜥後↓證ｮ繧峨☆・峨阪→霑ｰ縺ｹ繧峨ｌ縺ｦが∪縺吶・",
+    logic: [
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い繧剃ｸ縺､縺壹▽讀懆ｨｼ縺吶ｋ縺九√・繝弱・の迚ｹ蠕ｴ・医Μー繝ー荳榊惠繝ｻ蟷ｳ蜥鯉ｼ峨ｒ謗｢が"},
+    {
+    type: "arrow"},
+    {
+    type: "text",
+    content: "譛ｬ譁・ Bonobos live in large groups where there is no clear leadership. ... live in peace"},
+    {
+    type: "arrow"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い 3: live peacefully / no strong leaders 縺ｨ螳悟・縺ｫ荳閾ｴ"},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣は 3"}
+    ]
+    }
+    ],
+    summaryForInstructors: {
+    title: "繝懊ヮ繝懊・蜈ｱ諢滓ｧ縺ｫ髢｢縺吶ｋ遐皮ｩｶ",
+    intro: "莠ｺ髢薙□縺代・迚ｹ諤ｧ縺縺ｨ諤昴ｏ繧後※が◆縲御ｻ冶・∈の蜈ｱ諢溘阪ｄ縲悟茜莉也噪陦悟虚縲阪′縲√・繝弱・縺ｫ繧りｦ九ｉ繧後ｋ・医＠縺九ｂ莠ｺ髢薙ｈ繧雁・縺鷹囈縺ｦ縺ｪ縺擾ｼ峨％縺ｨ繧堤､ｺが縺､の螳滄ｨ薙→縲√◎の逅・罰縺ｨ縺励※の遉ｾ莨壽ｧ矩の驕輔＞繧定ｪｬ譏弱☆繧区枚遶、",
+    points: [
+    {
+    label: "1. 蛻ｩ莉也噪陦悟虚の螳滄ｨ・",
+    text: "繝懊ヮ繝懊・隕狗衍繧峨〓逶ｸ謇九〒縺ゅ▲縺ｦ繧ゅ∬・蛻・・蛻ｩ逶奇ｼ亥ｱ驟ｬ・峨′縺ｪが憾豕√〒縺輔∴縲∵涎縺斐＠縺ｫ逶ｸ謇九・縺溘ａ縺ｫ繝ｪ繝ｳ繧ｴ繧定誠縺ｨ縺励※縺ゅ￡繧玖｡悟虚縺瑚ｦ九ｉ繧後◆、"
+    },
+    {
+    label: "2. 蜈ｱ諢滓ｧ・医≠縺上・・峨・螳滄ｨ・",
+    text: "莠ｺ髢薙・隕ｪ縺励＞髢捺氛の譁ｹ縺後≠縺上・縺御ｼ晄沒縺励ｄ縺吶＞・亥・諢溘＠繧・☆がｼ峨′縲√・繝弱・は螳ｶ譌上〒繧りｦ狗衍繧峨〓逶ｸ謇九〒繧ょ酔遞句ｺｦ縺ｫ莨晄沒縺励◆縲ゅ％繧後・繝懊ヮ繝懊・蜈ｱ諢溷ｯｾ雎｡縺御ｺｺ髢薙ｈ繧雁ｺ・＞縺薙→繧堤､ｺ蜚・☆繧九・"
+    },
+    {
+    label: "3. 遉ｾ莨壽ｧ矩の驕輔＞",
+    text: "繝√Φ繝代Φジーは蜉帙・縺ゅｋ繧ｪ繧ｹ縺梧髪驟阪☆繧句ｺ丞・遉ｾ莨壹・縺溘ａ髱槫暑螂ｽ逧・↓縺ｪ繧翫′縺｡縺縺後√・繝弱・は繝ｪー繝ーのが↑がｯｾ遲峨↑髮・屮の縺溘ａ縲∝ｹｳ蜥檎噪縺ｧ蜊泌鴨逧・↑髢｢菫ゅｒ遽峨＞縺ｦがｋ、"
+    }
+    ]
+    }
+    },
+];

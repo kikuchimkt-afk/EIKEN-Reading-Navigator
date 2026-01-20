@@ -1,0 +1,1005 @@
+{
+id: "pre1-2024-1-WolfPacks",
+grade: "貅・邏・",
+title: "Wolf Packs",
+subTitle: "2024蟷ｴ蠎ｦ 隨ｬ1蝗・螟ｧ蝠・",
+images: {
+content: "/images/reading/pre1-2024-1-WolfPacks-content.png",
+question: "/images/reading/pre1-2024-1-WolfPacks-question.png"
+},
+content: [
+{
+paragraphId: 1,
+sentences: [
+{
+id: 1,
+text: "There is a widespread idea that wild packs of wolves are led by an aggressive leader窶蚤n alpha male窶杯hat dominates the group, and that this results in violent power struggles when other members of the group challenge the alpha male.",
+translation: "驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後・謾ｻ謦・噪縺ｪ繝ｪ繝ｼ繝繝ｼ縲√▽縺ｾ繧顔ｾ､繧後ｒ謾ｯ驟阪☆繧九い繝ｫ繝輔ぃ繧ｪ繧ｹ縺ｫ邇・＞繧峨ｌ縺ｦ縺翫ｊ縲∫ｾ､繧後・莉悶・繝｡繝ｳ繝舌・縺後い繝ｫ繝輔ぃ繧ｪ繧ｹ縺ｫ謖第姶縺吶ｋ縺ｨ豼縺励＞讓ｩ蜉幃利莠峨′襍ｷ縺薙ｋ縺ｨ縺・≧閠・∴縺悟ｺ・￥豬ｸ騾上＠縺ｦ縺・ｋ縲・",
+grammarAnalysis: {
+mainVerbs: [
+is
+],
+structureHtml: "<div style=line-height: 2.2; font-size: 1.05em; margin-bottom: 16px>There <span style=color:#16a34a; font-weight:bold; border-bottom: 3px solid #16a34a>is</span> a widespread idea <span style=border-bottom: 2px solid #2563eb>[that wild packs of wolves <u style=color:#dc2626>are led</u> by an aggressive leader窶蚤n alpha male窶杯hat dominates the group]</span>, and <span style=border-bottom: 2px solid #9333ea>[that this <u style=color:#dc2626>results</u> in violent power struggles when other members of the group challenge the alpha male]</span>.</div><div style=padding: 14px; background:linear-gradient(135deg, #f8fafc 0%, #e0f2fe 100%); border-radius: 10px; border-left: 4px solid #0284c7><div style=font-weight:bold; color:#0369a1; margin-bottom: 10px; font-size: 1.05em>当 讒矩隗｣隱ｬ</div><div style=margin-bottom: 8px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold>荳ｻ遽</span> There <b style=color:#16a34a>is</b> a widespread idea・亥ｺ・￥豬ｸ騾上＠縺溯・∴縺後≠繧具ｼ・/div><div style=margin-bottom: 8px><span style=background:#dbeafe; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#2563eb>蜷梧ｼ遽竭</span> that wild packs of wolves <b style=color:#dc2626>are led</b> by an aggressive leader...<br><span style=margin-left: 60px; color:#475569>竊・驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後・謾ｻ謦・噪縺ｪ繝ｪ繝ｼ繝繝ｼ・医い繝ｫ繝輔ぃ繧ｪ繧ｹ・峨↓邇・＞繧峨ｌ縺ｦ縺・ｋ</span></div><div><span style=background:#f3e8ff; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#9333ea>蜷梧ｼ遽竭｡</span> and that this <b style=color:#dc2626>results</b> in violent power struggles...<br><span style=margin-left: 60px; color:#475569>竊・縺昴＠縺ｦ縺薙ｌ縺ｯ豼縺励＞讓ｩ蜉幃利莠峨ｒ蠑輔″襍ｷ縺薙☆・井ｻ悶・繝｡繝ｳ繝舌・縺後い繝ｫ繝輔ぃ縺ｫ謖代・縺ｨ・・/span></div></div>",
+translationHtml: "<div style=line-height: 1.9><div style=margin-bottom: 10px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold>荳ｻ遽</span> 蠎・￥豬ｸ騾上＠縺ｦ縺・ｋ閠・∴縺・span style=color:#16a34a; font-weight:bold>縺ゅｋ</span></div><div style=margin-bottom: 10px><span style=background:#dbeafe; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#2563eb>蜷梧ｼ遽竭</span> 驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後・縲∫ｾ､繧後ｒ謾ｯ驟阪☆繧区判謦・噪縺ｪ繝ｪ繝ｼ繝繝ｼ・医い繝ｫ繝輔ぃ繧ｪ繧ｹ・峨↓<span style=color:#dc2626; font-weight:bold>邇・＞繧峨ｌ縺ｦ縺・ｋ</span></div><div><span style=background:#f3e8ff; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#9333ea>蜷梧ｼ遽竭｡</span> 縺昴＠縺ｦ縺薙ｌ縺ｯ縲∫ｾ､繧後・莉悶・繝｡繝ｳ繝舌・縺後い繝ｫ繝輔ぃ繧ｪ繧ｹ縺ｫ謖第姶縺吶ｋ縺ｨ縲∵ｿ縺励＞讓ｩ蜉幃利莠峨ｒ<span style=color:#dc2626; font-weight:bold>蠑輔″襍ｷ縺薙☆</span></div></div>",
+naturalTranslation: "驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後・謾ｻ謦・噪縺ｪ繝ｪ繝ｼ繝繝ｼ・医い繝ｫ繝輔ぃ繧ｪ繧ｹ・峨↓謾ｯ驟阪＆繧後∽ｻ悶・繝｡繝ｳ繝舌・縺後◎繧後↓謖代・縺ｨ豼縺励＞讓ｩ蜉幃利莠峨′襍ｷ縺薙ｋ縲√→縺・≧閠・∴縺悟ｺ・￥豬ｸ騾上＠縺ｦ縺・ｋ縲・",
+vocabulary: [
+{
+word: "widespread",
+meaning: "蠎・ｯ・峇縺ｫ繧上◆繧九∵勸蜿翫＠縺・"
+},
+{
+word: "aggressive",
+meaning: "謾ｻ謦・噪縺ｪ"
+},
+{
+word: "dominate",
+meaning: "謾ｯ驟阪☆繧・"
+},
+{
+word: "power struggle",
+meaning: "讓ｩ蜉幃利莠・"
+}
+],
+grammarNotes: [
+{
+phrase: "There is",
+explanation: "<b>There讒区枚</b>: 縲後懊′縺ゅｋ縲榊ｭ伜惠繧定｡ｨ縺吶ら悄荳ｻ隱槭・ a widespread idea縲・"
+},
+{
+phrase: "idea that",
+explanation: "<b>蜷梧ｼ縺ｮthat遽</b>: idea縺ｮ蜀・ｮｹ繧定ｪｬ譏弱ゅ後懊→縺・≧閠・∴縲阪・"
+},
+{
+phrase: "窶蚤n alpha male窶・",
+explanation: "<b>繝繝・す繝･縺ｫ繧医ｋ謖ｿ蜈･</b>: an aggressive leader縺ｮ險縺・鋤縺医・陬懆ｶｳ隱ｬ譏弱・"
+}
+]
+}
+},
+{
+id: 2,
+text: "It turns out, however, that this idea may largely be a myth.",
+translation: "縺励°縺励↑縺後ｉ縲√％縺ｮ閠・∴縺ｯ荳ｻ縺ｫ逾櫁ｩｱ・郁ｪ､縺｣縺滄壼ｿｵ・峨〒縺ゅｋ蜿ｯ閭ｽ諤ｧ縺後≠繧九％縺ｨ縺悟愛譏弱＠縺ｦ縺・ｋ縲・",
+grammarAnalysis: {
+mainVerbs: [
+turns out
+],
+structureHtml: "<span class=chunk S-group><span class=text>It</span><span class=tag>莉ｮS</span></span> <span class=chunk V-group><span class=text>turns out</span><span class=tag>V</span></span>, however, <span class=chunk O-group><span class=text>[that this idea may largely be a myth]</span><span class=tag>逵欖</span></span>.",
+translationHtml: "<span class=t-S>縺昴ｌ縺ｯ</span> <span class=t-V>蛻､譏弱＠縺ｦ縺・ｋ</span>縲√＠縺九＠縲・span class=t-O>[縺薙・閠・∴縺御ｸｻ縺ｫ逾櫁ｩｱ縺ｧ縺ゅｋ蜿ｯ閭ｽ諤ｧ縺後≠繧九→]</span>縲・",
+naturalTranslation: "縺励°縺励√％縺ｮ閠・∴縺ｯ螟ｧ驛ｨ蛻・′菴懊ｊ隧ｱ縺ｧ縺ゅｋ蜿ｯ閭ｽ諤ｧ縺後≠繧九％縺ｨ縺後ｏ縺九▲縺ｦ縺・ｋ縲・",
+vocabulary: [
+{
+word: "turn out",
+meaning: "縲懊〒縺ゅｋ縺薙→縺悟愛譏弱☆繧・"
+},
+{
+word: "largely",
+meaning: "荳ｻ縺ｫ縲∝､ｧ驛ｨ蛻・・"
+},
+{
+word: "myth",
+meaning: "逾櫁ｩｱ縲∽ｽ懊ｊ隧ｱ"
+}
+],
+grammarNotes: [
+{
+phrase: "It turns out that",
+explanation: "<b>蠖｢蠑丈ｸｻ隱樊ｧ区枚</b>: It縺ｯ莉ｮ荳ｻ隱槭》hat遽縺檎悄荳ｻ隱槭ゅ後懊〒縺ゅｋ縺薙→縺悟愛譏弱☆繧九阪・"
+},
+{
+phrase: "may largely be",
+explanation: "<b>蜉ｩ蜍戊ｩ枸ay + 蜑ｯ隧・/b>: 謗ｨ驥上後懊〒縺ゅｋ蜿ｯ閭ｽ諤ｧ縺後≠繧九阪・"
+},
+{
+phrase: "however",
+explanation: "<b>騾・磁縺ｮ蜑ｯ隧・/b>: 譁・ｸｭ縺ｫ謖ｿ蜈･縺輔ｌ縲後＠縺九＠縺ｪ縺後ｉ縲阪・諢丞袖縲・"
+}
+]
+}
+},
+{
+id: 3,
+text: "It appears to have arisen from research on captured wolves, which often demonstrated such behavior.",
+translation: "縺昴ｌ・医％縺ｮ閠・∴・峨・縲√◎縺ｮ繧医≧縺ｪ陦悟虚繧偵＠縺ｰ縺励・遉ｺ縺励◆謐慕佐縺輔ｌ縺溘が繧ｪ繧ｫ繝溘・遐皮ｩｶ縺九ｉ逕溘§縺溘ｈ縺・〒縺ゅｋ縲・",
+grammarAnalysis: {
+mainVerbs: [
+appears
+],
+structureHtml: "<span class=chunk S-group><span class=text>It</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>appears to have arisen</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(from research on captured wolves)</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>[which often demonstrated such behavior]</span><span class=tag>M(髢｢菫りｩ・</span></span>.",
+translationHtml: "<span class=t-S>縺昴ｌ縺ｯ</span> <span class=t-V>逕溘§縺溘ｈ縺・〒縺ゅｋ</span> <span class=t-M>(謐慕佐縺輔ｌ縺溘が繧ｪ繧ｫ繝溘・遐皮ｩｶ縺九ｉ)</span>, <span class=t-M>[縺昴＠縺ｦ縺昴ｌ繧峨・縺励・縺励・縺昴・繧医≧縺ｪ陦悟虚繧堤､ｺ縺励◆]</span>縲・",
+naturalTranslation: "縺薙・閠・∴縺ｯ縲∵黒迯ｲ縺輔ｌ縺溘が繧ｪ繧ｫ繝滂ｼ医ｈ縺上◎縺・＞縺・判謦・噪縺ｪ陦悟虚繧堤､ｺ縺励◆・峨・遐皮ｩｶ縺九ｉ逕溘∪繧後◆繧医≧縺縲・",
+vocabulary: [
+{
+word: "appear to",
+meaning: "縲懊・繧医≧縺ｫ隕九∴繧九√懊ｉ縺励＞"
+},
+{
+word: "arise from",
+meaning: "縲懊°繧臥函縺倥ｋ"
+},
+{
+word: "captured",
+meaning: "謐慕佐縺輔ｌ縺・"
+}
+],
+grammarNotes: [
+{
+phrase: "appears to have arisen",
+explanation: "<b>appear to + 螳御ｺ・ｸ榊ｮ夊ｩ・/b>: 驕主悉縺ｮ蜃ｺ譚･莠九↓蟇ｾ縺吶ｋ迴ｾ蝨ｨ縺ｮ謗ｨ驥上・"
+},
+{
+phrase: "which often demonstrated",
+explanation: "<b>髢｢菫ゆｻ｣蜷崎ｩ槭・髱槫宛髯千畑豕・/b>: captured wolves繧定｣懆ｶｳ隱ｬ譏弱・"
+},
+{
+phrase: "such behavior",
+explanation: "<b>such + 蜷崎ｩ・/b>: 蜑崎ｿｰ縺ｮ蜀・ｮｹ繧呈欠縺吶後◎縺ｮ繧医≧縺ｪ陦悟虚縲阪・"
+}
+]
+}
+},
+{
+id: 4,
+text: "Captive packs are usually made up of adult wolves being forced to live together even though they did not grow up with each other and are not related, which is why it is common for power struggles in such packs to result in violence.",
+translation: "鬟ｼ閧ｲ荳九・鄒､繧後・騾壼ｸｸ縲∽ｸ邱偵↓閧ｲ縺｣縺ｦ縺翫ｉ縺夊｡邵・未菫ゅｂ縺ｪ縺・・菴薙・繧ｪ繧ｪ繧ｫ繝溘′蠑ｷ蛻ｶ逧・↓荳邱偵↓逕滓ｴｻ縺輔○繧峨ｌ縺ｦ讒区・縺輔ｌ縺ｦ縺翫ｊ縲√◎縺ｮ縺溘ａ縺昴・繧医≧縺ｪ鄒､繧後〒縺ｯ讓ｩ蜉幃利莠峨′證ｴ蜉帙↓逋ｺ螻輔☆繧九％縺ｨ縺御ｸ闊ｬ逧・〒縺ゅｋ縲・",
+grammarAnalysis: {
+mainVerbs: [
+are usually made up
+],
+structureHtml: "<div style=line-height: 2.2; font-size: 1.05em; margin-bottom: 16px><span style=color:#2563eb; font-weight:bold>Captive packs</span> <span style=color:#16a34a; font-weight:bold; border-bottom: 3px solid #16a34a>are usually made up</span> of adult wolves being forced to live together <span style=border-bottom: 2px solid #f59e0b>[even though they did not grow up with each other and are not related]</span>, <span style=border-bottom: 2px solid #9333ea>[which is why it is common for power struggles in such packs to result in violence]</span>.</div><div style=padding: 14px; background:linear-gradient(135deg, #f8fafc 0%, #e0f2fe 100%); border-radius: 10px; border-left: 4px solid #0284c7><div style=font-weight:bold; color:#0369a1; margin-bottom: 10px; font-size: 1.05em>当 讒矩隗｣隱ｬ</div><div style=margin-bottom: 10px><span style=background:#dbeafe; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#2563eb>S 荳ｻ隱・/span> Captive packs・磯｣ｼ閧ｲ荳九・鄒､繧後・・・/div><div style=margin-bottom: 10px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#16a34a>V 蜍戊ｩ・/span> are usually made up of ...・磯壼ｸｸ縲懊〒讒区・縺輔ｌ縺ｦ縺・ｋ・・/div><div style=margin-bottom: 10px><span style=background:#fef3c7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#d97706>隴ｲ豁ｩ遽</span> even though they did not grow up with each other and are not related<br><span style=margin-left: 60px; color:#475569>竊・荳邱偵↓閧ｲ縺｣縺ｦ縺翫ｉ縺夊｡邵・未菫ゅｂ縺ｪ縺・↓繧ゅ°縺九ｏ繧峨★</span></div><div><span style=background:#f3e8ff; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#9333ea>髢｢菫りｩ樒ｯ</span> which is why it is common for power struggles in such packs to result in violence<br><span style=margin-left: 60px; color:#475569>竊・縺縺九ｉ縺昴・繧医≧縺ｪ鄒､繧後〒縺ｯ讓ｩ蜉幃利莠峨′證ｴ蜉帙↓逋ｺ螻輔☆繧九％縺ｨ縺御ｸ闊ｬ逧・〒縺ゅｋ</span></div></div>",
+translationHtml: "<div style=line-height: 1.9><div style=margin-bottom: 12px><span style=background:#dbeafe; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#2563eb>S</span> <b>Captive packs</b> = 鬟ｼ閧ｲ荳九・鄒､繧後・</div><div style=margin-bottom: 12px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#16a34a>V</span> <b>are usually made up of adult wolves being forced to live together</b><br>= 蠑ｷ蛻ｶ逧・↓荳邱偵↓逕滓ｴｻ縺輔○繧峨ｌ縺ｦ縺・ｋ謌蝉ｽ薙・繧ｪ繧ｪ繧ｫ繝溘〒<span style=color:#16a34a; font-weight:bold>騾壼ｸｸ讒区・縺輔ｌ縺ｦ縺・ｋ</span></div><div style=margin-bottom: 12px><span style=background:#fef3c7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#d97706>隴ｲ豁ｩ</span> <b>even though they did not grow up with each other and are not related</b><br>= 荳邱偵↓閧ｲ縺｣縺ｦ縺翫ｉ縺夊｡邵・未菫ゅｂ縺ｪ縺・↓繧ゅ°縺九ｏ繧峨★</div><div><span style=background:#f3e8ff; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#9333ea>髢｢菫りｩ・/span> <b>which is why it is common for power struggles in such packs to result in violence</b><br>= 縺縺九ｉ縺昴・繧医≧縺ｪ鄒､繧後〒縺ｯ讓ｩ蜉幃利莠峨′證ｴ蜉帙↓逋ｺ螻輔☆繧九％縺ｨ縺御ｸ闊ｬ逧・〒縺ゅｋ</div></div>",
+naturalTranslation: "鬟ｼ閧ｲ荳九・鄒､繧後・縲∬｡邵・未菫ゅ・縺ｪ縺・・繧ｪ繧ｪ繧ｫ繝溘ｒ辟｡逅・ｄ繧雁酔螻・＆縺帙※菴懊ｉ繧後ｋ縺薙→縺悟､壹￥縲√◎縺ｮ縺溘ａ讓ｩ蜉幃利莠峨′證ｴ蜉帙↓逋ｺ螻輔＠繧・☆縺・・",
+vocabulary: [
+{
+word: "captive",
+meaning: "鬟ｼ閧ｲ荳九・縲∵黒繧峨ｏ繧後◆"
+},
+{
+word: "be made up of",
+meaning: "縲懊〒讒区・縺輔ｌ繧・"
+},
+{
+word: "related",
+meaning: "陦邵・未菫ゅ′縺ゅｋ"
+},
+{
+word: "result in",
+meaning: "縲懊→縺・≧邨先棡縺ｫ縺ｪ繧・"
+}
+],
+grammarNotes: [
+{
+phrase: "even though",
+explanation: "<b>隴ｲ豁ｩ縺ｮ謗･邯夊ｩ・/b>: 縲後懊〒縺ゅｋ縺ｫ繧ゅ°縺九ｏ繧峨★縲堺ｺ句ｮ溘↓蝓ｺ縺･縺剰ｭｲ豁ｩ縲・"
+},
+{
+phrase: "being forced to",
+explanation: "<b>蜿怜虚諷九・蛻・ｩ・/b>: adult wolves繧剃ｿｮ鬟ｾ縲悟ｼｷ蛻ｶ縺輔ｌ縺ｦ縺・ｋ縲阪・"
+},
+{
+phrase: "which is why",
+explanation: "<b>髢｢菫りｩ槭・髱槫宛髯千畑豕・/b>: 蜑肴枚蜈ｨ菴薙ｒ蜿励￠縲後□縺九ｉ縲懊阪→逅・罰繝ｻ邨先棡繧貞ｰ弱￥縲・"
+}
+]
+}
+},
+{
+id: 5,
+text: "Research has now found, though, that captive and wild wolves are too dissimilar to assume that the behaviors of one resemble those of the other.",
+translation: "縺励°縺礼樟蝨ｨ縺ｮ遐皮ｩｶ縺ｧ縺ｯ縲・｣ｼ閧ｲ荳九・繧ｪ繧ｪ繧ｫ繝溘→驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘・縺ゅ∪繧翫↓繧ら焚縺ｪ縺｣縺ｦ縺・ｋ縺溘ａ縲∽ｸ譁ｹ縺ｮ陦悟虚縺後ｂ縺・ｸ譁ｹ縺ｫ莨ｼ縺ｦ縺・ｋ縺ｨ莉ｮ螳壹☆繧九％縺ｨ縺ｯ縺ｧ縺阪↑縺・％縺ｨ縺悟愛譏弱＠縺ｦ縺・ｋ縲・",
+grammarAnalysis: {
+mainVerbs: [
+has found
+],
+structureHtml: "<span class=chunk S-group><span class=text>Research</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>has now found</span><span class=tag>V</span></span>, though, <span class=chunk O-group><span class=text>[that captive and wild wolves are too dissimilar to assume...]</span><span class=tag>O</span></span>・磯｣ｼ閧ｲ荳九→驥守函縺ｯ逡ｰ縺ｪ繧翫☆縺弱※迚・婿縺九ｉ莉匁婿繧呈耳貂ｬ縺ｧ縺阪↑縺・ｼ・",
+translationHtml: "<span class=t-S>遐皮ｩｶ縺ｯ</span> <span class=t-V>迴ｾ蝨ｨ蛻､譏弱＆縺帙※縺・ｋ</span>, 縺励°縺・ <span class=t-O>[鬟ｼ閧ｲ荳九→驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘・逡ｰ縺ｪ繧翫☆縺弱※謗ｨ貂ｬ縺ｧ縺阪↑縺・→]</span>縲・",
+naturalTranslation: "縺励°縺玲怙譁ｰ縺ｮ遐皮ｩｶ縺ｧ縺ｯ縲・｣ｼ閧ｲ荳九→驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘・陦悟虚繝代ち繝ｼ繝ｳ縺悟・縺冗焚縺ｪ繧翫∫援譁ｹ縺九ｉ莉匁婿繧呈耳貂ｬ縺吶ｋ縺薙→縺ｯ縺ｧ縺阪↑縺・→蛻､譏弱＠縺ｦ縺・ｋ縲・",
+vocabulary: [
+{
+word: "dissimilar",
+meaning: "逡ｰ縺ｪ繧九∽ｼｼ縺ｦ縺・↑縺・"
+},
+{
+word: "assume",
+meaning: "莉ｮ螳壹☆繧・"
+},
+{
+word: "resemble",
+meaning: "莨ｼ縺ｦ縺・ｋ"
+}
+],
+grammarNotes: [
+{
+phrase: "has now found",
+explanation: "<b>迴ｾ蝨ｨ螳御ｺ・/b>: 驕主悉縺九ｉ迴ｾ蝨ｨ縺ｫ閾ｳ繧狗匱隕九ｒ陦ｨ縺吶・"
+},
+{
+phrase: "too...to...",
+explanation: "<b>too...to讒区枚</b>: 縲後≠縺ｾ繧翫↓縲懊☆縺弱※...縺ｧ縺阪↑縺・阪・"
+},
+{
+phrase: "those of the other",
+explanation: "<b>those = the behaviors</b>: 蜷後§蜷崎ｩ槭・郢ｰ繧願ｿ斐＠繧帝∩縺代ｋ莉｣蜷崎ｩ槭・"
+}
+]
+}
+},
+{
+id: 6,
+text: "As one biologist describes it, a wild wolf pack operates much like a multigenerational human family, while a captive pack has more in common behaviorally with humans in prisons, where strangers are forced to live together.",
+translation: "縺ゅｋ逕溽黄蟄ｦ閠・′霑ｰ縺ｹ繧九ｈ縺・↓縲・㍽逕溘・繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後・螟壻ｸ紋ｻ｣縺ｮ莠ｺ髢灘ｮｶ譌上↓繧医￥莨ｼ縺溷ｽ｢縺ｧ驕句霧縺輔ｌ繧九′縲・｣ｼ閧ｲ荳九・鄒､繧後・隕狗衍繧峨〓閠・酔螢ｫ縺悟ｼｷ蛻ｶ逧・↓荳邱偵↓菴上・蛻大漁謇縺ｮ莠ｺ髢薙→陦悟虚逧・↓蜈ｱ騾夂せ縺悟､壹＞縲・",
+grammarAnalysis: {
+mainVerbs: [
+operates
+],
+structureHtml: "<span class=chunk M-group><span class=text>(As one biologist describes it)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>a wild wolf pack</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>operates</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(much like a multigenerational human family)</span><span class=tag>M</span></span>, while <span class=chunk S-group><span class=text>a captive pack</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>has</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>more in common behaviorally with humans in prisons</span><span class=tag>O</span></span>...",
+translationHtml: "<span class=t-M>(縺ゅｋ逕溽黄蟄ｦ閠・′霑ｰ縺ｹ繧九ｈ縺・↓)</span>, <span class=t-S>驥守函縺ｮ鄒､繧後・</span> <span class=t-V>驕句霧縺輔ｌ繧・/span> <span class=t-M>(螟壻ｸ紋ｻ｣螳ｶ譌上・繧医≧縺ｫ)</span>, 荳譁ｹ <span class=t-S>鬟ｼ閧ｲ荳九・鄒､繧後・</span> <span class=t-V>謖√▲縺ｦ縺・ｋ</span> <span class=t-O>蛻大漁謇縺ｮ莠ｺ髢薙→縺ｮ蜈ｱ騾夂せ繧・/span>縲・",
+naturalTranslation: "逕溽黄蟄ｦ閠・↓繧医ｌ縺ｰ縲・㍽逕溘・鄒､繧後・莠ｺ髢薙・螟ｧ螳ｶ譌上・繧医≧縺ｫ讖溯・縺吶ｋ縺後・｣ｼ閧ｲ荳九・鄒､繧後・蛻大漁謇縺ｮ繧医≧縺ｫ莉紋ｺｺ蜷悟｣ｫ縺悟ｼｷ蛻ｶ逧・↓證ｮ繧峨☆迥ｶ豕√↓霑代＞縲・",
+vocabulary: [
+{
+word: "operate",
+meaning: "驕句霧縺吶ｋ縲∵ｩ溯・縺吶ｋ"
+},
+{
+word: "multigenerational",
+meaning: "螟壻ｸ紋ｻ｣縺ｮ"
+},
+{
+word: "have...in common",
+meaning: "縲懊→蜈ｱ騾夂せ縺後≠繧・"
+}
+],
+grammarNotes: [
+{
+phrase: "As one biologist describes it",
+explanation: "<b>讒俶・縺ｮas</b>: 縲後懊′霑ｰ縺ｹ繧九ｈ縺・↓縲阪・"
+},
+{
+phrase: "while",
+explanation: "<b>蟇ｾ豈斐・while</b>: 縲御ｸ譁ｹ縺ｧ縲懊堺ｺ後▽縺ｮ迥ｶ豕√ｒ蟇ｾ豈斐・"
+},
+{
+phrase: "where strangers are forced",
+explanation: "<b>髢｢菫ょ憶隧檜here</b>: prisons繧貞・陦瑚ｩ槭→縺励※菫ｮ鬟ｾ縲・"
+}
+]
+}
+}
+]
+},
+{
+paragraphId: 2,
+sentences: [
+{
+id: 7,
+text: "Biologists studying wild wolves in the 1980s and 1990s made some interesting observations.",
+translation: "1980蟷ｴ莉｣縺ｨ1990蟷ｴ莉｣縺ｫ驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘ｒ遐皮ｩｶ縺励※縺・◆逕溽黄蟄ｦ閠・◆縺｡縺ｯ縲∬・蜻ｳ豺ｱ縺・ｦｳ蟇溽ｵ先棡繧貞ｾ励◆縲・",
+grammarAnalysis: {
+mainVerbs: [
+made
+],
+structureHtml: "<div style=line-height: 2.2; font-size: 1.05em; margin-bottom: 16px><span style=color:#dc2626; font-weight:bold; border-bottom: 3px solid #dc2626>Biologists</span> <span style=border-bottom: 2px solid #94a3b8>[studying wild wolves in the 1980s and 1990s]</span> <span style=color:#16a34a; font-weight:bold; border-bottom: 3px solid #16a34a>made</span> <span style=color:#2563eb; border-bottom: 2px solid #2563eb>some interesting observations</span>.</div><div style=padding: 14px; background:linear-gradient(135deg, #f8fafc 0%, #e0f2fe 100%); border-radius: 10px; border-left: 4px solid #0284c7><div style=font-weight:bold; color:#0369a1; margin-bottom: 10px; font-size: 1.05em>当 讒矩隗｣隱ｬ</div><div style=margin-bottom: 8px><span style=background:#fee2e2; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#dc2626>S 荳ｻ隱・/span> Biologists・育函迚ｩ蟄ｦ閠・◆縺｡縺ｯ・・/div><div style=margin-bottom: 8px><span style=background:#f1f5f9; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#64748b>菫ｮ鬟ｾ</span> studying wild wolves in the 1980s and 1990s<br><span style=margin-left: 60px; color:#475569>竊・1980蟷ｴ莉｣縺ｨ1990蟷ｴ莉｣縺ｫ驥守函繧ｪ繧ｪ繧ｫ繝溘ｒ遐皮ｩｶ縺励※縺・◆</span></div><div style=margin-bottom: 8px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#16a34a>V 蜍戊ｩ・/span> made・郁｡後▲縺滂ｼ・/div><div><span style=background:#dbeafe; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#2563eb>O 逶ｮ逧・ｪ・/span> some interesting observations・医＞縺上▽縺九・闊亥袖豺ｱ縺・ｦｳ蟇溘ｒ・・/div></div>",
+translationHtml: "<div style=line-height: 1.9><div style=margin-bottom: 10px><span style=background:#fee2e2; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#dc2626>S</span> <b style=color:#dc2626>Biologists</b> = <b>逕溽黄蟄ｦ閠・◆縺｡縺ｯ</b></div><div style=margin-bottom: 10px><span style=background:#f1f5f9; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#64748b>菫ｮ鬟ｾ</span> studying wild wolves in the 1980s and 1990s<br>= 1980蟷ｴ莉｣縺ｨ1990蟷ｴ莉｣縺ｫ驥守函繧ｪ繧ｪ繧ｫ繝溘ｒ遐皮ｩｶ縺励※縺・◆</div><div style=margin-bottom: 10px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#16a34a>V</span> <b style=color:#16a34a>made</b> = <b>陦後▲縺・/b></div><div><span style=background:#dbeafe; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#2563eb>O</span> <b style=color:#2563eb>some interesting observations</b> = 縺・￥縺､縺九・闊亥袖豺ｱ縺・ｦｳ蟇溘ｒ</div></div>",
+naturalTranslation: "1980縲・0蟷ｴ莉｣縺ｫ驥守函繧ｪ繧ｪ繧ｫ繝溘ｒ遐皮ｩｶ縺励◆逕溽黄蟄ｦ閠・◆縺｡縺ｯ縲∬・蜻ｳ豺ｱ縺・匱隕九ｒ縺励◆縲・",
+vocabulary: [
+{
+word: "biologist",
+meaning: "逕溽黄蟄ｦ閠・"
+},
+{
+word: "observation",
+meaning: "隕ｳ蟇溘∬ｦｳ蟇溽ｵ先棡"
+}
+],
+grammarNotes: [
+{
+phrase: "studying wild wolves",
+explanation: "<b>迴ｾ蝨ｨ蛻・ｩ槭・蠕檎ｽｮ菫ｮ鬟ｾ</b>: Biologists繧剃ｿｮ鬟ｾ縲後懊ｒ遐皮ｩｶ縺励※縺・ｋ縲阪・"
+},
+{
+phrase: "made observations",
+explanation: "<b>make + 蜷崎ｩ・/b>: 縲瑚ｦｳ蟇溘☆繧九阪・諢丞袖縺ｮ諷｣逕ｨ陦ｨ迴ｾ縲・"
+},
+{
+phrase: "in the 1980s and 1990s",
+explanation: "<b>蟷ｴ莉｣縺ｮ陦ｨ迴ｾ</b>: 縲・980蟷ｴ莉｣縺ｨ1990蟷ｴ莉｣縺ｫ縲阪・"
+}
+]
+}
+},
+{
+id: 8,
+text: "They found that a pair of wolves consisting of an older adult male and a female wolf generally acted as the leaders of a pack composed of their offspring and other adult wolves without partners.",
+translation: "蠖ｼ繧峨・縲∝ｹｴ髟ｷ縺ｮ謌蝉ｽ薙が繧ｹ縺ｨ繝｡繧ｹ縺ｮ繧ｪ繧ｪ繧ｫ繝溘・繝壹い縺後∝ｽｼ繧峨・蟄仙ｭｫ縺ｨ繝代・繝医リ繝ｼ縺ｮ縺・↑縺・ｻ悶・謌蝉ｽ薙が繧ｪ繧ｫ繝溘〒讒区・縺輔ｌ繧狗ｾ､繧後・繝ｪ繝ｼ繝繝ｼ縺ｨ縺励※荳闊ｬ逧・↓陦悟虚縺励※縺・ｋ縺薙→繧堤匱隕九＠縺溘・",
+grammarAnalysis: {
+mainVerbs: [
+found,
+acted
+],
+structureHtml: "<span class=chunk S-group><span class=text>They</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>found</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that a pair of wolves ... acted as the leaders ...]</span><span class=tag>O</span></span>・亥ｹｴ髟ｷ縺ｮ繧ｪ繧ｹ繝｡繧ｹ繝壹い縺檎ｾ､繧後・繝ｪ繝ｼ繝繝ｼ縺ｨ縺励※陦悟虚縺吶ｋ・・",
+translationHtml: "<span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>逋ｺ隕九＠縺・/span> <span class=t-O>[蟷ｴ髟ｷ縺ｮ繧ｪ繧ｹ繝｡繧ｹ繝壹い縺檎ｾ､繧後・繝ｪ繝ｼ繝繝ｼ縺ｨ縺励※陦悟虚縺吶ｋ縺ｨ]</span>縲・",
+naturalTranslation: "蟷ｴ髟ｷ縺ｮ繧ｪ繧ｹ縺ｨ繝｡繧ｹ縺ｮ繝壹い縺後∝ｭ蝉ｾ帙ｄ迢ｬ繧願ｺｫ縺ｮ繝｡繝ｳ繝舌・縺九ｉ縺ｪ繧狗ｾ､繧後ｒ邇・＞縺ｦ縺・ｋ縺薙→縺後ｏ縺九▲縺溘・",
+vocabulary: [
+{
+word: "consist of",
+meaning: "縲懊°繧画・繧・"
+},
+{
+word: "offspring",
+meaning: "蟄仙ｭｫ"
+},
+{
+word: "partner",
+meaning: "繝代・繝医リ繝ｼ縲・・蛛ｶ閠・"
+}
+],
+grammarNotes: [
+{
+phrase: "found that",
+explanation: "<b>find + that遽</b>: 縲後懊〒縺ゅｋ縺薙→繧堤匱隕九☆繧九阪・"
+},
+{
+phrase: "consisting of",
+explanation: "<b>迴ｾ蝨ｨ蛻・ｩ・/b>: a pair繧剃ｿｮ鬟ｾ縲後懊°繧画・繧九阪・"
+},
+{
+phrase: "composed of",
+explanation: "<b>驕主悉蛻・ｩ・/b>: a pack繧剃ｿｮ鬟ｾ縲後懊〒讒区・縺輔ｌ縺溘阪・"
+}
+]
+}
+},
+{
+id: 9,
+text: "All wolves in the pack follow the lead male's decisions, and all but the lead male also submit to the lead female.",
+translation: "鄒､繧後・縺吶∋縺ｦ縺ｮ繧ｪ繧ｪ繧ｫ繝溘・繝ｪ繝ｼ繝峨が繧ｹ縺ｮ豎ｺ螳壹↓蠕薙＞縲√Μ繝ｼ繝峨が繧ｹ莉･螟悶・縺吶∋縺ｦ縺後Μ繝ｼ繝峨Γ繧ｹ縺ｫ繧ょｾ薙≧縲・",
+grammarAnalysis: {
+mainVerbs: [
+follow,
+submit
+],
+structureHtml: "<span class=chunk S-group><span class=text>All wolves in the pack</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>follow</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the lead male's decisions</span><span class=tag>O</span></span>, and <span class=chunk S-group><span class=text>all but the lead male</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(also)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>submit</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(to the lead female)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>鄒､繧後・縺吶∋縺ｦ縺ｮ繧ｪ繧ｪ繧ｫ繝溘・</span> <span class=t-V>蠕薙≧</span> <span class=t-O>繝ｪ繝ｼ繝峨が繧ｹ縺ｮ豎ｺ螳壹↓</span>縲√◎縺励※ <span class=t-S>繝ｪ繝ｼ繝峨が繧ｹ莉･螟悶・縺吶∋縺ｦ縺ｯ</span> <span class=t-M>(縺ｾ縺・</span> <span class=t-V>蠕薙≧</span> <span class=t-M>(繝ｪ繝ｼ繝峨Γ繧ｹ縺ｫ)</span>縲・",
+naturalTranslation: "鄒､繧後・蜈ｨ蜩｡縺後Μ繝ｼ繝峨が繧ｹ縺ｮ豎ｺ螳壹↓蠕薙＞縲√Μ繝ｼ繝峨が繧ｹ莉･螟悶・繝ｪ繝ｼ繝峨Γ繧ｹ縺ｫ繧ょｾ薙≧縲・",
+vocabulary: [
+{
+word: "follow",
+meaning: "蠕薙≧"
+},
+{
+word: "decision",
+meaning: "豎ｺ螳・"
+},
+{
+word: "submit to",
+meaning: "縲懊↓蠕薙≧縲∵恪蠕薙☆繧・"
+}
+],
+grammarNotes: [
+{
+phrase: "all but the lead male",
+explanation: "<b>all but縲・/b>: 縲後應ｻ･螟悶・縺吶∋縺ｦ縲阪Ｃut縺ｯ縲後懊ｒ髯､縺・※縲阪・"
+},
+{
+phrase: "submit to",
+explanation: "<b>submit to + 蜷崎ｩ・/b>: 縲後懊↓蠕薙≧縲阪・"
+},
+{
+phrase: "lead male",
+explanation: "<b>蠖｢螳ｹ隧槭→縺励※縺ｮlead</b>: 縲悟・鬆ｭ縺ｮ縲∽ｸｻ蟆弱☆繧九阪・"
+}
+]
+}
+},
+{
+id: 10,
+text: "This system appears to be fully accepted by most wild wolves and is usually enforced by communication rather than violence.",
+translation: "縺薙・繧ｷ繧ｹ繝・Β縺ｯ縺ｻ縺ｨ繧薙←縺ｮ驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘↓螳悟・縺ｫ蜿励￠蜈･繧後ｉ繧後※縺・ｋ繧医≧縺ｧ縺ゅｊ縲・壼ｸｸ縺ｯ證ｴ蜉帙〒縺ｯ縺ｪ縺上さ繝溘Η繝九こ繝ｼ繧ｷ繝ｧ繝ｳ縺ｫ繧医▲縺ｦ邯ｭ謖√＆繧後※縺・ｋ縲・",
+grammarAnalysis: {
+mainVerbs: [
+appears,
+is enforced
+],
+structureHtml: "<div style=line-height: 2.2; font-size: 1.05em; margin-bottom: 16px><span style=color:#dc2626; font-weight:bold; border-bottom: 3px solid #dc2626>This system</span> <span style=color:#16a34a; font-weight:bold; border-bottom: 3px solid #16a34a>appears to be fully accepted</span> <span style=border-bottom: 2px solid #94a3b8>(by most wild wolves)</span> and <span style=color:#16a34a; font-weight:bold; border-bottom: 3px solid #16a34a>is usually enforced</span> <span style=border-bottom: 2px solid #94a3b8>(by communication rather than violence)</span>.</div><div style=padding: 14px; background:linear-gradient(135deg, #f8fafc 0%, #e0f2fe 100%); border-radius: 10px; border-left: 4px solid #0284c7><div style=font-weight:bold; color:#0369a1; margin-bottom: 10px; font-size: 1.05em>当 讒矩隗｣隱ｬ</div><div style=margin-bottom: 8px><span style=background:#fee2e2; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#dc2626>S 荳ｻ隱・/span> This system・医％縺ｮ繧ｷ繧ｹ繝・Β縺ｯ・・/div><div style=margin-bottom: 8px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#16a34a>V竄・蜍戊ｩ・/span> appears to be fully accepted・亥ｮ悟・縺ｫ蜿励￠蜈･繧後ｉ繧後※縺・ｋ繧医≧縺ｧ縺ゅｋ・・/div><div style=margin-bottom: 8px><span style=background:#f1f5f9; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#64748b>M 菫ｮ鬟ｾ</span> by most wild wolves・医⊇縺ｨ繧薙←縺ｮ驥守函繧ｪ繧ｪ繧ｫ繝溘↓繧医▲縺ｦ・・/div><div style=margin-bottom: 8px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#16a34a>V竄・蜍戊ｩ・/span> is usually enforced・磯壼ｸｸ邯ｭ謖√＆繧後※縺・ｋ・・/div><div><span style=background:#f1f5f9; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#64748b>M 菫ｮ鬟ｾ</span> by communication rather than violence・域垓蜉帙〒縺ｯ縺ｪ縺上さ繝溘Η繝九こ繝ｼ繧ｷ繝ｧ繝ｳ縺ｫ繧医▲縺ｦ・・/div></div>",
+translationHtml: "<div style=line-height: 1.9><div style=margin-bottom: 10px><span style=background:#fee2e2; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#dc2626>S</span> <b style=color:#dc2626>This system</b> = <b>縺薙・繧ｷ繧ｹ繝・Β縺ｯ</b></div><div style=margin-bottom: 10px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#16a34a>V竄・/span> <b style=color:#16a34a>appears to be fully accepted</b> = 螳悟・縺ｫ蜿励￠蜈･繧後ｉ繧後※縺・ｋ繧医≧縺ｧ縺ゅｋ</div><div style=margin-bottom: 10px><span style=background:#f1f5f9; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#64748b>M</span> by most wild wolves = 縺ｻ縺ｨ繧薙←縺ｮ驥守函繧ｪ繧ｪ繧ｫ繝溘↓繧医▲縺ｦ</div><div style=margin-bottom: 10px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#16a34a>V竄・/span> <b style=color:#16a34a>is usually enforced</b> = 騾壼ｸｸ邯ｭ謖√＆繧後※縺・ｋ</div><div><span style=background:#f1f5f9; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#64748b>M</span> by communication rather than violence = 證ｴ蜉帙〒縺ｯ縺ｪ縺上さ繝溘Η繝九こ繝ｼ繧ｷ繝ｧ繝ｳ縺ｫ繧医▲縺ｦ</div></div>",
+naturalTranslation: "縺薙・遘ｩ蠎上・驥守函繧ｪ繧ｪ繧ｫ繝溘↓蠎・￥蜿励￠蜈･繧後ｉ繧後∵垓蜉帙〒縺ｯ縺ｪ縺上さ繝溘Η繝九こ繝ｼ繧ｷ繝ｧ繝ｳ縺ｧ邯ｭ謖√＆繧後ｋ縲・",
+vocabulary: [
+{
+word: "enforce",
+meaning: "譁ｽ陦後☆繧九∫ｶｭ謖√☆繧・"
+},
+{
+word: "rather than",
+meaning: "縲懊〒縺ｯ縺ｪ縺・"
+},
+{
+word: "violence",
+meaning: "證ｴ蜉・"
+}
+],
+grammarNotes: [
+{
+phrase: "appears to be",
+explanation: "<b>appear + to荳榊ｮ夊ｩ・/b>: 縲後懊・繧医≧縺縲肴耳驥上・"
+},
+{
+phrase: "is enforced by",
+explanation: "<b>蜿怜虚諷・/b>: 縲後懊↓繧医▲縺ｦ邯ｭ謖√＆繧後ｋ縲阪・"
+},
+{
+phrase: "rather than",
+explanation: "<b>rather than</b>: 縲後懊ｈ繧翫ｂ繧縺励ｍ縲榊ｯｾ豈碑｡ｨ迴ｾ縲・"
+}
+]
+}
+},
+{
+id: 11,
+text: "The social structure is also flexible窶杷or example, when food is hard to find, the wolf leaders often ensure that the pack's youngest are fed first.",
+translation: "遉ｾ莨壽ｧ矩繧よ沐霆溘〒縺ゅｋ窶披比ｾ九∴縺ｰ縲・｣滓侭縺瑚ｦ九▽縺代↓縺上＞縺ｨ縺阪√が繧ｪ繧ｫ繝溘・繝ｪ繝ｼ繝繝ｼ縺溘■縺ｯ鄒､繧後・譛蟷ｴ蟆代′譛蛻昴↓鬢後ｒ荳弱∴繧峨ｌ繧九ｈ縺・↓縺吶ｋ縺薙→縺悟､壹＞縲・",
+grammarAnalysis: {
+mainVerbs: [
+ensure
+],
+structureHtml: "<span class=chunk S-group><span class=text>The social structure</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(also)</span><span class=tag>M</span></span> <span class=chunk C-group><span class=text>flexible</span><span class=tag>C</span></span>窶・span class=chunk M-group><span class=text>(for example, when food is hard to find)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the wolf leaders</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(often)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>ensure</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that the pack's youngest are fed first]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>遉ｾ莨壽ｧ矩縺ｯ</span> <span class=t-V>縺ｧ縺ゅｋ</span> <span class=t-M>(縺ｾ縺・</span> <span class=t-C>譟碑ｻ・/span>窶・span class=t-M>(萓九∴縺ｰ鬟滓侭縺御ｹ上＠縺・→縺・</span>, <span class=t-S>繝ｪ繝ｼ繝繝ｼ縺溘■縺ｯ</span> <span class=t-M>(縺励・縺励・)</span> <span class=t-V>遒ｺ菫昴☆繧・/span> <span class=t-O>[譛蟷ｴ蟆代′譛蛻昴↓鬢後ｒ荳弱∴繧峨ｌ繧九％縺ｨ繧綻</span>縲・",
+naturalTranslation: "遉ｾ莨壽ｧ矩縺ｯ譟碑ｻ溘〒縲∽ｾ九∴縺ｰ鬟滓侭荳崎ｶｳ譎ゅ↓縺ｯ蟷ｼ縺・倶ｽ薙ｒ蜆ｪ蜈医＠縺ｦ鬟溘∋縺輔○繧九％縺ｨ繧ゅ≠繧九・",
+vocabulary: [
+{
+word: "flexible",
+meaning: "譟碑ｻ溘↑"
+},
+{
+word: "ensure",
+meaning: "遒ｺ菫昴☆繧九∽ｿ晁ｨｼ縺吶ｋ"
+},
+{
+word: "fed",
+meaning: "鬢後ｒ荳弱∴繧峨ｌ縺滂ｼ・eed縺ｮ驕主悉蛻・ｩ橸ｼ・"
+}
+],
+grammarNotes: [
+{
+phrase: "hard to find",
+explanation: "<b>蠖｢螳ｹ隧・+ to荳榊ｮ夊ｩ・/b>: 縲瑚ｦ九▽縺代↓縺上＞縲阪・"
+},
+{
+phrase: "ensure that",
+explanation: "<b>ensure + that遽</b>: 縲後懊〒縺ゅｋ縺薙→繧堤｢ｺ菫昴☆繧九阪・"
+},
+{
+phrase: "are fed",
+explanation: "<b>蜿怜虚諷・/b>: 縲碁､後ｒ荳弱∴繧峨ｌ繧九阪・"
+}
+]
+}
+},
+{
+id: 12,
+text: "Such behavior demonstrates how these leaders act similarly to the human parents of a large family.",
+translation: "縺昴・繧医≧縺ｪ陦悟虚縺ｯ縲√％繧後ｉ縺ｮ繝ｪ繝ｼ繝繝ｼ縺悟､ｧ螳ｶ譌上・莠ｺ髢薙・隕ｪ縺ｨ蜷梧ｧ倥↓縺ｩ縺ｮ繧医≧縺ｫ陦悟虚縺吶ｋ縺九ｒ遉ｺ縺励※縺・ｋ縲・",
+grammarAnalysis: {
+mainVerbs: [
+demonstrates
+],
+structureHtml: "<span class=chunk S-group><span class=text>Such behavior</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>demonstrates</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[how these leaders act similarly to the human parents of a large family]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>縺昴・繧医≧縺ｪ陦悟虚縺ｯ</span> <span class=t-V>遉ｺ縺励※縺・ｋ</span> <span class=t-O>[縺薙ｌ繧峨・繝ｪ繝ｼ繝繝ｼ縺悟､ｧ螳ｶ譌上・隕ｪ縺ｮ繧医≧縺ｫ陦悟虚縺吶ｋ縺薙→繧綻</span>縲・",
+naturalTranslation: "縺薙・繧医≧縺ｪ陦悟虚縺ｯ縲√Μ繝ｼ繝繝ｼ縺悟､ｧ螳ｶ譌上・莠ｺ髢薙・隕ｪ縺ｮ繧医≧縺ｫ謖ｯ繧玖・縺・％縺ｨ繧堤､ｺ縺励※縺・ｋ縲・",
+vocabulary: [
+{
+word: "demonstrate",
+meaning: "遉ｺ縺吶∝ｮ溯ｨｼ縺吶ｋ"
+},
+{
+word: "similarly to",
+meaning: "縲懊→蜷梧ｧ倥↓"
+}
+],
+grammarNotes: [
+{
+phrase: "Such behavior",
+explanation: "<b>such + 蜷崎ｩ・/b>: 蜑崎ｿｰ縺ｮ蜀・ｮｹ繧呈欠縺吶後◎縺ｮ繧医≧縺ｪ陦悟虚縲阪・"
+},
+{
+phrase: "how these leaders act",
+explanation: "<b>髢捺磁逍大撫譁・/b>: 縲後％繧後ｉ縺ｮ繝ｪ繝ｼ繝繝ｼ縺後←縺ｮ繧医≧縺ｫ陦悟虚縺吶ｋ縺九阪・"
+},
+{
+phrase: "similarly to",
+explanation: "<b>similarly to + 蜷崎ｩ・/b>: 縲後懊→蜷梧ｧ倥↓縲阪・"
+}
+]
+}
+}
+]
+},
+{
+paragraphId: 3,
+sentences: [
+{
+id: 13,
+text: "When a significant conflict does occur among the members, dissatisfied wolves may leave the pack.",
+translation: "繝｡繝ｳ繝舌・髢薙〒驥榊､ｧ縺ｪ蟇ｾ遶九′襍ｷ縺薙ｋ縺ｨ縲∽ｸ肴ｺ繧呈干縺・◆繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後ｒ蜴ｻ繧九％縺ｨ縺後≠繧九・",
+grammarAnalysis: {
+mainVerbs: [
+may leave
+],
+structureHtml: "<span class=chunk M-group><span class=text>(When a significant conflict does occur among the members)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>dissatisfied wolves</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>may leave</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the pack</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(繝｡繝ｳ繝舌・髢薙〒驥榊､ｧ縺ｪ蟇ｾ遶九′襍ｷ縺薙ｋ縺ｨ)</span>, <span class=t-S>荳肴ｺ繧呈干縺・◆繧ｪ繧ｪ繧ｫ繝溘・</span> <span class=t-V>蜴ｻ繧九％縺ｨ縺後≠繧・/span> <span class=t-O>鄒､繧後ｒ</span>縲・",
+naturalTranslation: "驥榊､ｧ縺ｪ蟇ｾ遶九′襍ｷ縺阪ｋ縺ｨ縲∽ｸ肴ｺ繧呈戟縺､繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後ｒ髮｢繧後ｋ縺薙→縺後≠繧九・",
+vocabulary: [
+{
+word: "significant",
+meaning: "驥榊､ｧ縺ｪ"
+},
+{
+word: "conflict",
+meaning: "蟇ｾ遶九∫ｴ帑ｺ・"
+},
+{
+word: "dissatisfied",
+meaning: "荳肴ｺ繧呈干縺・◆"
+}
+],
+grammarNotes: [
+{
+phrase: "does occur",
+explanation: "<b>蠑ｷ隱ｿ縺ｮdo</b>: 縲悟ｮ滄圀縺ｫ襍ｷ縺薙ｋ縲榊虚隧槭ｒ蠑ｷ隱ｿ縲・"
+},
+{
+phrase: "dissatisfied wolves",
+explanation: "<b>驕主悉蛻・ｩ槭・蠖｢螳ｹ隧樒畑豕・/b>: 縲御ｸ肴ｺ繧呈干縺・◆縲阪・"
+},
+{
+phrase: "may leave",
+explanation: "<b>蜉ｩ蜍戊ｩ枸ay</b>: 縲後懊☆繧九％縺ｨ縺後≠繧雁ｾ励ｋ縲榊庄閭ｽ諤ｧ縲・"
+}
+]
+}
+},
+{
+id: 14,
+text: "These wolves often seek out protection in a different pack, while some start their own pack after finding a mate.",
+translation: "縺薙ｌ繧峨・繧ｪ繧ｪ繧ｫ繝溘・縺励・縺励・蛻･縺ｮ鄒､繧後〒菫晁ｭｷ繧呈ｱゅａ縲∽ｸ驛ｨ縺ｯ驟榊・閠・ｒ隕九▽縺代◆蠕後↓閾ｪ蛻・・鄒､繧後ｒ菴懊ｋ縲・",
+grammarAnalysis: {
+mainVerbs: [
+seek out,
+start
+],
+structureHtml: "<span class=chunk S-group><span class=text>These wolves</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(often)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>seek out</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>protection in a different pack</span><span class=tag>O</span></span>, <span class=chunk M-group><span class=text>(while)</span><span class=tag>M</span></span> <span class=chunk S-group><span class=text>some</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>start</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>their own pack</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(after finding a mate)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺薙ｌ繧峨・繧ｪ繧ｪ繧ｫ繝溘・</span> <span class=t-M>(縺励・縺励・)</span> <span class=t-V>豎ゅａ繧・/span> <span class=t-O>蛻･縺ｮ鄒､繧後〒縺ｮ菫晁ｭｷ繧・/span>, <span class=t-M>(荳譁ｹ)</span> <span class=t-S>荳驛ｨ縺ｯ</span> <span class=t-V>蟋九ａ繧・/span> <span class=t-O>閾ｪ蛻・・鄒､繧後ｒ</span> <span class=t-M>(驟榊・閠・ｒ隕九▽縺代◆蠕後↓)</span>縲・",
+naturalTranslation: "鄒､繧後ｒ髮｢繧後◆繧ｪ繧ｪ繧ｫ繝溘・蛻･縺ｮ鄒､繧後ｒ謗｢縺吶°縲√▽縺後＞繧定ｦ九▽縺代※譁ｰ縺励＞鄒､繧後ｒ菴懊ｋ縺薙→繧ゅ≠繧九・",
+vocabulary: [
+{
+word: "seek out",
+meaning: "謗｢縺玲ｱゅａ繧・"
+},
+{
+word: "protection",
+meaning: "菫晁ｭｷ"
+},
+{
+word: "mate",
+meaning: "縺､縺後＞縲・・蛛ｶ閠・"
+}
+],
+grammarNotes: [
+{
+phrase: "seek out",
+explanation: "<b>蜿･蜍戊ｩ・/b>: 縲梧爾縺玲ｱゅａ繧九腔ut縺ｯ螳碁≠縺ｮ繝九Η繧｢繝ｳ繧ｹ縲・"
+},
+{
+phrase: "while some",
+explanation: "<b>蟇ｾ豈斐・while</b>: 縲御ｸ譁ｹ縺ｧ縲懊阪・"
+},
+{
+phrase: "after finding",
+explanation: "<b>蜑咲ｽｮ隧・+ 蜍募錐隧・/b>: 縲後懊＠縺溷ｾ後↓縲阪・"
+}
+]
+}
+},
+{
+id: 15,
+text: "In 2022, researchers discovered that wild wolves that had started their own pack often had something in common: many of them were carrying a particular parasite called Toxoplasma gondii.",
+translation: "2022蟷ｴ縲∫皮ｩｶ閠・◆縺｡縺ｯ閾ｪ蛻・・鄒､繧後ｒ蟋九ａ縺滄㍽逕溘・繧ｪ繧ｪ繧ｫ繝溘↓縺ｯ縺励・縺励・蜈ｱ騾夂せ縺後≠繧九％縺ｨ繧堤匱隕九＠縺滂ｼ壹◎繧後ｉ縺ｮ螟壹￥縺ｯ繝医く繧ｽ繝励Λ繧ｺ繝槭・繧ｴ繝ｳ繝・ぅ縺ｨ蜻ｼ縺ｰ繧後ｋ迚ｹ螳壹・蟇・函陌ｫ繧呈戟縺｣縺ｦ縺・◆縲・",
+grammarAnalysis: {
+mainVerbs: [
+discovered
+],
+structureHtml: "<div style=line-height: 2.2; font-size: 1.05em; margin-bottom: 16px><span style=border-bottom: 2px solid #94a3b8>(In 2022)</span>, <span style=color:#dc2626; font-weight:bold; border-bottom: 3px solid #dc2626>researchers</span> <span style=color:#16a34a; font-weight:bold; border-bottom: 3px solid #16a34a>discovered</span> <span style=color:#2563eb; border-bottom: 2px solid #2563eb>[that wild wolves that had started their own pack often had something in common]</span>: <span style=border-bottom: 2px solid #94a3b8>many of them were carrying a particular parasite called Toxoplasma gondii</span>.</div><div style=padding: 14px; background:linear-gradient(135deg, #f8fafc 0%, #e0f2fe 100%); border-radius: 10px; border-left: 4px solid #0284c7><div style=font-weight:bold; color:#0369a1; margin-bottom: 10px; font-size: 1.05em>当 讒矩隗｣隱ｬ</div><div style=margin-bottom: 8px><span style=background:#f1f5f9; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#64748b>M 譎ゅ・菫ｮ鬟ｾ</span> In 2022・・022蟷ｴ縺ｫ・・/div><div style=margin-bottom: 8px><span style=background:#fee2e2; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#dc2626>S 荳ｻ隱・/span> researchers・育皮ｩｶ閠・◆縺｡縺ｯ・・/div><div style=margin-bottom: 8px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#16a34a>V 蜍戊ｩ・/span> discovered・育匱隕九＠縺滂ｼ・/div><div style=margin-bottom: 8px><span style=background:#dbeafe; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#2563eb>O that遽</span> that wild wolves ... had something in common<br><span style=margin-left: 80px; color:#475569>竊・閾ｪ蛻・・鄒､繧後ｒ蟋九ａ縺滄㍽逕溘が繧ｪ繧ｫ繝溘↓蜈ｱ騾夂せ縺後≠繧九→</span></div><div><span style=background:#f1f5f9; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#64748b>陬懆ｶｳ</span> many of them were carrying ... Toxoplasma gondii<br><span style=margin-left: 50px; color:#475569>竊・縺昴・螟壹￥縺後ヨ繧ｭ繧ｽ繝励Λ繧ｺ繝槭・繧ｴ繝ｳ繝・ぅ繧呈戟縺｣縺ｦ縺・◆</span></div></div>",
+translationHtml: "<div style=line-height: 1.9><div style=margin-bottom: 10px><span style=background:#f1f5f9; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#64748b>M</span> In 2022 = 2022蟷ｴ縺ｫ</div><div style=margin-bottom: 10px><span style=background:#fee2e2; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#dc2626>S</span> <b style=color:#dc2626>researchers</b> = <b>遐皮ｩｶ閠・◆縺｡縺ｯ</b></div><div style=margin-bottom: 10px><span style=background:#dcfce7; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#16a34a>V</span> <b style=color:#16a34a>discovered</b> = 逋ｺ隕九＠縺・/div><div style=margin-bottom: 10px><span style=background:#dbeafe; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#2563eb>O</span> that wild wolves ... had something in common<br>= 閾ｪ蛻・・鄒､繧後ｒ蟋九ａ縺滄㍽逕溘が繧ｪ繧ｫ繝溘↓蜈ｱ騾夂せ縺後≠繧九→</div><div><span style=background:#f1f5f9; padding: 2px 6px; border-radius: 4px; font-weight:bold; color:#64748b>陬懆ｶｳ</span> many of them were carrying ... Toxoplasma gondii<br>= 縺昴・螟壹￥縺後ヨ繧ｭ繧ｽ繝励Λ繧ｺ繝槭・繧ｴ繝ｳ繝・ぅ繧呈戟縺｣縺ｦ縺・◆</div></div>",
+naturalTranslation: "2022蟷ｴ縺ｮ遐皮ｩｶ縺ｧ縲∵眠縺溘↓鄒､繧後ｒ菴懊▲縺溘が繧ｪ繧ｫ繝溘・螟壹￥縺後ヨ繧ｭ繧ｽ繝励Λ繧ｺ繝槭・繧ｴ繝ｳ繝・ぅ縺ｫ諢滓沒縺励※縺・◆縺薙→縺後ｏ縺九▲縺溘・",
+vocabulary: [
+{
+word: "researcher",
+meaning: "遐皮ｩｶ閠・"
+},
+{
+word: "in common",
+meaning: "蜈ｱ騾壹＠縺ｦ"
+},
+{
+word: "parasite",
+meaning: "蟇・函陌ｫ"
+}
+],
+grammarNotes: [
+{
+phrase: "had started",
+explanation: "<b>驕主悉螳御ｺ・/b>: 逋ｺ隕九ｈ繧雁燕縺ｫ鄒､繧後ｒ菴懊▲縺ｦ縺・◆縲・"
+},
+{
+phrase: "have...in common",
+explanation: "<b>have + O + in common</b>: 縲悟・騾夂せ縺後≠繧九阪・"
+},
+{
+phrase: "called Toxoplasma",
+explanation: "<b>驕主悉蛻・ｩ槭・蠕檎ｽｮ菫ｮ鬟ｾ</b>: 縲後懊→蜻ｼ縺ｰ繧後ｋ縲阪・"
+}
+]
+}
+},
+{
+id: 16,
+text: "This parasite appears to make the wolves more likely to take bolder and riskier actions, which can aid their survival in some situations.",
+translation: "縺薙・蟇・函陌ｫ縺ｯ繧ｪ繧ｪ繧ｫ繝溘ｒ繧医ｊ螟ｧ閭・〒繝ｪ繧ｹ繧ｯ縺ｮ鬮倥＞陦悟虚繧貞叙繧翫ｄ縺吶￥縺吶ｋ繧医≧縺ｧ縲√％繧後・迥ｶ豕√↓繧医▲縺ｦ縺ｯ蠖ｼ繧峨・逕溷ｭ倥ｒ蜉ｩ縺代ｋ縺薙→縺後〒縺阪ｋ縲・",
+grammarAnalysis: {
+mainVerbs: [
+appears to
+],
+structureHtml: "<span class=chunk S-group><span class=text>This parasite</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>appears to make</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the wolves more likely to take bolder and riskier actions</span><span class=tag>O</span></span>, <span class=chunk M-group><span class=text>[which can aid their survival in some situations]</span><span class=tag>M(髢｢菫りｩ・</span></span>.",
+translationHtml: "<span class=t-S>縺薙・蟇・函陌ｫ縺ｯ</span> <span class=t-V>縲懊＆縺帙ｋ繧医≧縺</span> <span class=t-O>繧ｪ繧ｪ繧ｫ繝溘ｒ繧医ｊ螟ｧ閭・↑陦悟虚繧貞叙繧翫ｄ縺吶￥</span>, <span class=t-M>[縺昴ｌ縺ｯ蠖ｼ繧峨・逕溷ｭ倥ｒ蜉ｩ縺代≧繧犠</span>縲・",
+naturalTranslation: "縺薙・蟇・函陌ｫ縺ｯ繧ｪ繧ｪ繧ｫ繝溘ｒ螟ｧ閭・↓縺輔○縲∫憾豕√↓繧医▲縺ｦ縺ｯ逕溷ｭ倥↓譛牙茜縺ｫ蜒阪￥縺薙→繧ゅ≠繧九・",
+vocabulary: [
+{
+word: "bold",
+meaning: "螟ｧ閭・↑"
+},
+{
+word: "risky",
+meaning: "蜊ｱ髯ｺ縺ｪ"
+},
+{
+word: "aid",
+meaning: "蜉ｩ縺代ｋ"
+}
+],
+grammarNotes: [
+{
+phrase: "appears to make",
+explanation: "<b>appear to + 蜍戊ｩ・/b>: 縲後懊☆繧九ｈ縺・□縲肴耳驥上・"
+},
+{
+phrase: "make + O + likely to",
+explanation: "<b>菴ｿ蠖ｹ蜍戊ｩ枸ake</b>: 縲薫繧偵懊↓縺輔○繧九阪・"
+},
+{
+phrase: "which can aid",
+explanation: "<b>髢｢菫りｩ槭・髱槫宛髯千畑豕・/b>: 蜑肴枚蜈ｨ菴薙ｒ蜿励￠繧九・"
+}
+]
+}
+},
+{
+id: 17,
+text: "Scientists continue to be fascinated by the social relationships of wild wolves and their packs.",
+translation: "遘大ｭｦ閠・◆縺｡縺ｯ驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘→縺昴・鄒､繧後・遉ｾ莨夂噪髢｢菫ゅ↓鬲・ｺ・＆繧檎ｶ壹￠縺ｦ縺・ｋ縲・",
+grammarAnalysis: {
+mainVerbs: [
+continue
+],
+structureHtml: "<span class=chunk S-group><span class=text>Scientists</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>continue to be fascinated</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(by the social relationships of wild wolves and their packs)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>遘大ｭｦ閠・◆縺｡縺ｯ</span> <span class=t-V>鬲・ｺ・＆繧檎ｶ壹￠縺ｦ縺・ｋ</span> <span class=t-M>(驥守函繧ｪ繧ｪ繧ｫ繝溘→縺昴・鄒､繧後・遉ｾ莨夂噪髢｢菫ゅ↓)</span>縲・",
+naturalTranslation: "遘大ｭｦ閠・◆縺｡縺ｯ驥守函繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後・遉ｾ莨夐未菫ゅ↓莉翫ｂ鬲・ｺ・＆繧後※縺・ｋ縲・",
+vocabulary: [
+{
+word: "continue to",
+meaning: "縲懊＠邯壹￠繧・"
+},
+{
+word: "be fascinated by",
+meaning: "縲懊↓鬲・ｺ・＆繧後ｋ"
+},
+{
+word: "social relationship",
+meaning: "遉ｾ莨夂噪髢｢菫・"
+}
+],
+grammarNotes: [
+{
+phrase: "continue to be fascinated",
+explanation: "<b>continue to + 蜿怜虚諷・/b>: 縲碁ｭ・ｺ・＆繧檎ｶ壹￠繧九阪・"
+},
+{
+phrase: "be fascinated by",
+explanation: "<b>蜿怜虚諷・+ by</b>: 縲後懊↓鬲・ｺ・＆繧後ｋ縲阪・"
+},
+{
+phrase: "their packs",
+explanation: "<b>their = wild wolves</b>: 繧ｪ繧ｪ繧ｫ繝溘◆縺｡縺ｮ鄒､繧後・"
+}
+]
+}
+}
+]
+}
+],
+questions: [
+{
+id: 25,
+text: "The idea of an alpha male wolf is described as a myth because",
+textTranslation: "繧｢繝ｫ繝輔ぃ繧ｪ繧ｹ縺ｮ繧ｪ繧ｪ繧ｫ繝溘→縺・≧閠・∴縺檎･櫁ｩｱ縺ｨ縺輔ｌ繧狗炊逕ｱ縺ｯ",
+keywords: [
+alpha male,
+myth
+],
+keywordExplanations: {
+myth: "隨ｬ1谿ｵ關ｽ縺ｧ縲檎･櫁ｩｱ縲阪→險繧上ｌ繧狗炊逕ｱ繧呈爾縺吶よ枚2縲荊his idea may largely be a myth縲阪→譁・縲径risen from research on captured wolves縲阪ｒ遒ｺ隱阪・",
+alpha male: 縲後い繝ｫ繝輔ぃ繧ｪ繧ｹ縲阪・讎ょｿｵ縺後←縺薙°繧画擂縺溘°繧呈爾縺吶・
+},
+keywordMatches: [
+{
+sentenceId: 2,
+text: "this idea may largely be a myth",
+keyword: "myth"
+},
+{
+sentenceId: 3,
+text: "arisen from research on captured wolves",
+keyword: "myth",
+type: "paraphrase"
+},
+{
+sentenceId: 4,
+text: "Captive packs are usually made up of adult wolves being forced to live together",
+keyword: "alpha male",
+type: "paraphrase"
+}
+],
+choiceAdvice: "驕ｸ謚櫁い縺ｯ縲檎･櫁ｩｱ縲阪・逅・罰繧定ｿｰ縺ｹ縺ｦ縺・∪縺吶・1)謐慕佐繧ｪ繧ｪ繧ｫ繝溘′驥守函縺ｫ謌ｻ繧・(2)莠ｺ髢薙・蛻大漁謇縺ｧ縺ｮ縺ｿ隕九ｉ繧後ｋ陦悟虚 (3)鬟ｼ閧ｲ荳九・鄒､繧後′蛻・｣・(4)隕ｳ蟇溘′謐慕佐繧ｪ繧ｪ繧ｫ繝溘↓蝓ｺ縺･縺・",
+choices: [
+{
+id: 1,
+text: "researchers have observed some captured wolves successfully joining packs in the wild after escaping.",
+translation: "遐皮ｩｶ閠・・謐慕佐縺輔ｌ縺溘が繧ｪ繧ｫ繝溘′閼ｱ襍ｰ蠕後↓驥守函縺ｮ鄒､繧後↓縺・∪縺丞刈繧上ｋ縺ｮ繧定ｦｳ蟇溘＠縺溘・",
+isCorrect: false
+},
+{
+id: 2,
+text: "the behavior thought to be demonstrated by alpha male wolves has only ever been seen in human males in prisons.",
+translation: "繧｢繝ｫ繝輔ぃ繧ｪ繧ｹ縺ｮ繧ｪ繧ｪ繧ｫ繝溘′遉ｺ縺吶→閠・∴繧峨ｌ縺ｦ縺・◆陦悟虚縺ｯ縲∝・蜍呎園縺ｮ莠ｺ髢鍋塙諤ｧ縺ｧ縺ｮ縺ｿ隕ｳ蟇溘＆繧後※縺・ｋ縲・",
+isCorrect: false
+},
+{
+id: 3,
+text: "members of captive wolf packs that disagree with each other often end up forming smaller packs.",
+translation: "鬟ｼ閧ｲ荳九・繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後〒諢剰ｦ九′蜷医ｏ縺ｪ縺・Γ繝ｳ繝舌・縺ｯ縲√＠縺ｰ縺励・蟆上＆縺ｪ鄒､繧後ｒ蠖｢謌舌☆繧九％縺ｨ縺ｫ縺ｪ繧九・",
+isCorrect: false
+},
+{
+id: 4,
+text: "the concept of alpha male behavior in wolf packs originally came from observations of captured wolves instead of wild ones.",
+translation: "繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後↓縺翫￠繧九い繝ｫ繝輔ぃ繧ｪ繧ｹ縺ｮ陦悟虚縺ｨ縺・≧讎ょｿｵ縺ｯ縲√ｂ縺ｨ繧ゅ→驥守函縺ｧ縺ｯ縺ｪ縺乗黒迯ｲ縺輔ｌ縺溘が繧ｪ繧ｫ繝溘・隕ｳ蟇溘°繧画擂縺溘・",
+isCorrect: true,
+highlight: "observations of captured wolves"
+}
+],
+hint: {
+paragraphId: 1,
+description: "隨ｬ1谿ｵ關ｽ縲ゅ栗t appears to have arisen from research on captured wolves縲阪°繧峨√％縺ｮ閠・∴縺ｯ謐慕佐縺輔ｌ縺溘が繧ｪ繧ｫ繝溘・遐皮ｩｶ縺九ｉ逕溘§縺溘％縺ｨ縺後ｏ縺九ｋ縲・",
+targetSentenceId: 3,
+highlightWord: "captured wolves",
+highlightWordSentenceId: 3
+},
+logic: [
+{
+type: "text",
+content: "縲先ｱｺ螳夊ｦ∝屏縲第悽譁・ It appears to have arisen from research on captured wolves・医が繝ｬ繝ｳ繧ｸ濶ｲ縺ｮ繝上う繝ｩ繧､繝茨ｼ・"
+},
+{
+type: "arrow",
+content: "縲梧黒迯ｲ縺輔ｌ縺溘が繧ｪ繧ｫ繝溘・遐皮ｩｶ縺九ｉ逕溘§縺溘坂・ 驥守函縺ｧ縺ｯ縺ｪ縺乗黒迯ｲ縺輔ｌ縺溘が繧ｪ繧ｫ繝溘・隕ｳ蟇溘′蜈・"
+},
+{
+type: "text",
+content: "驕ｸ謚櫁い4: originally came from observations of captured wolves instead of wild ones"
+},
+{
+type: "conclusion",
+content: "豁｣隗｣: 4"
+}
+],
+paragraphStrategy: "闍ｱ讀懊・髟ｷ譁・撫鬘後〒縺ｯ縲∬ｨｭ蝠城・→谿ｵ關ｽ鬆・′荳閾ｴ縺吶ｋ縺薙→縺悟､壹＞縺ｧ縺吶・25)縺ｯ譛蛻昴・險ｭ蝠上↑縺ｮ縺ｧ縲√∪縺壹・縲千ｬｬ1谿ｵ關ｽ縲代ｒ髮・ｸｭ逧・↓謗｢縺励∪縺励ｇ縺・・"
+},
+{
+id: 26,
+text: "What did biologists learn about wild wolves in the 1980s and 1990s?",
+textTranslation: "1980蟷ｴ莉｣縺ｨ1990蟷ｴ莉｣縺ｫ逕溽黄蟄ｦ閠・◆縺｡縺ｯ驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘↓縺､縺・※菴輔ｒ蟄ｦ縺ｳ縺ｾ縺励◆縺具ｼ・",
+keywords: [
+1980s,
+1990s,
+biologists,
+wild wolves
+],
+keywordExplanations: {
+1980s and 1990s: 隨ｬ2谿ｵ關ｽ縺ｮ蜀帝ｭ縲沓iologists studying wild wolves in the 1980s and 1990s縲阪ｒ遒ｺ隱阪・,
+biologists: "縺薙・譎よ悄縺ｮ遐皮ｩｶ縺ｧ菴輔′繧上°縺｣縺溘°繧呈爾縺吶・"
+},
+keywordMatches: [
+{
+sentenceId: 7,
+text: "Biologists studying wild wolves in the 1980s and 1990s",
+keyword: "1980s"
+},
+{
+sentenceId: 10,
+text: "is usually enforced by communication rather than violence",
+keyword: "biologists",
+type: "paraphrase"
+}
+],
+choiceAdvice: "驕ｸ謚櫁い縺ｯ1980-90蟷ｴ莉｣縺ｮ逋ｺ隕九↓縺､縺・※霑ｰ縺ｹ縺ｦ縺・∪縺吶・1)證ｴ蜉帙ｒ菴ｿ繧上↑縺・(2)繝｡繧ｹ縺瑚・蛻・・蟄舌↓縺ｮ縺ｿ蜻ｽ莉､ (3)譛蠑ｷ繝壹い縺檎紫縺・ｋ (4)讓ｩ蜉帶ｧ矩縺悟崋螳夂噪",
+choices: [
+{
+id: 1,
+text: "Members of a wild wolf pack tend not to use violence to make sure other wolves follow the rules of the group.",
+translation: "驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後・繝｡繝ｳ繝舌・縺ｯ縲∽ｻ悶・繧ｪ繧ｪ繧ｫ繝溘↓鄒､繧後・繝ｫ繝ｼ繝ｫ縺ｫ蠕薙ｏ縺帙ｋ縺溘ａ縺ｫ證ｴ蜉帙ｒ菴ｿ繧上↑縺・だ蜷代′縺ゅｋ縲・",
+isCorrect: true,
+highlight: "tend not to use violence"
+},
+{
+id: 2,
+text: "The lead female wolf generally only gives orders to other wolves in the pack that are her own offspring.",
+translation: "繝ｪ繝ｼ繝峨Γ繧ｹ縺ｮ繧ｪ繧ｪ繧ｫ繝溘・荳闊ｬ逧・↓縲∫ｾ､繧後・荳ｭ縺ｧ閾ｪ蛻・・蟄仙ｭｫ縺ｧ縺ゅｋ繧ｪ繧ｪ繧ｫ繝溘↓縺ｮ縺ｿ蜻ｽ莉､繧貞・縺吶・",
+isCorrect: false
+},
+{
+id: 3,
+text: "Many wild packs are likely to be led by the strongest pair of wolves that do not yet have partners.",
+translation: "螟壹￥縺ｮ驥守函縺ｮ鄒､繧後・縲√ヱ繝ｼ繝医リ繝ｼ縺後＞縺ｪ縺・怙繧ょｼｷ縺・が繧ｪ繧ｫ繝溘・繝壹い縺ｫ邇・＞繧峨ｌ繧句庄閭ｽ諤ｧ縺碁ｫ倥＞縲・",
+isCorrect: false
+},
+{
+id: 4,
+text: "The power structure of their packs tends to be firmly fixed until the younger members have grown into adult wolves.",
+translation: "鄒､繧後・讓ｩ蜉帶ｧ矩縺ｯ縲∬凶縺・Γ繝ｳ繝舌・縺梧・菴薙が繧ｪ繧ｫ繝溘↓謌宣聞縺吶ｋ縺ｾ縺ｧ蝗ｺ螳壹＆繧後ｋ蛯ｾ蜷代′縺ゅｋ縲・",
+isCorrect: false
+}
+],
+hint: {
+paragraphId: 2,
+description: "隨ｬ2谿ｵ關ｽ縲ゅ景s usually enforced by communication rather than violence縲阪°繧峨∵垓蜉帙〒縺ｯ縺ｪ縺上さ繝溘Η繝九こ繝ｼ繧ｷ繝ｧ繝ｳ縺ｧ遘ｩ蠎上′邯ｭ謖√＆繧後ｋ縺薙→縺後ｏ縺九ｋ縲・",
+targetSentenceId: 10,
+highlightWord: "communication rather than violence",
+highlightWordSentenceId: 10
+},
+logic: [
+{
+type: "text",
+content: "縲先ｱｺ螳夊ｦ∝屏縲第悽譁・ is usually enforced by communication rather than violence・医が繝ｬ繝ｳ繧ｸ濶ｲ縺ｮ繝上う繝ｩ繧､繝茨ｼ・"
+},
+{
+type: "arrow",
+content: "縲梧垓蜉帙〒縺ｯ縺ｪ縺上さ繝溘Η繝九こ繝ｼ繧ｷ繝ｧ繝ｳ縺ｧ邯ｭ謖√坂・縲梧垓蜉帙ｒ菴ｿ繧上↑縺・だ蜷代・"
+},
+{
+type: "text",
+content: "驕ｸ謚櫁い1: tend not to use violence to make sure other wolves follow the rules"
+},
+{
+type: "conclusion",
+content: "豁｣隗｣: 1"
+}
+],
+paragraphStrategy: "闍ｱ讀懊・髟ｷ譁・撫鬘後〒縺ｯ縲∬ｨｭ蝠城・→谿ｵ關ｽ鬆・′荳閾ｴ縺吶ｋ縺薙→縺悟､壹＞縺ｧ縺吶・26)縺ｯ2逡ｪ逶ｮ縺ｮ險ｭ蝠上↑縺ｮ縺ｧ縲√千ｬｬ2谿ｵ關ｽ縲代ｒ髮・ｸｭ逧・↓謗｢縺励∪縺励ｇ縺・・"
+},
+{
+id: 27,
+text: "According to the passage, what did researchers discover about wild wolves that left their packs?",
+textTranslation: "譛ｬ譁・↓繧医ｋ縺ｨ縲∫皮ｩｶ閠・・鄒､繧後ｒ蜴ｻ縺｣縺滄㍽逕溘・繧ｪ繧ｪ繧ｫ繝溘↓縺､縺・※菴輔ｒ逋ｺ隕九＠縺ｾ縺励◆縺具ｼ・",
+keywords: [
+researchers,
+discover,
+left their packs
+],
+keywordExplanations: {
+left their packs: 隨ｬ3谿ｵ關ｽ縲慧issatisfied wolves may leave the pack縲阪ｒ遒ｺ隱阪・,
+researchers: "2022蟷ｴ縺ｮ遐皮ｩｶ閠・・逋ｺ隕九ｒ謗｢縺吶・"
+},
+keywordMatches: [
+{
+sentenceId: 13,
+text: "dissatisfied wolves may leave the pack",
+keyword: "left their packs"
+},
+{
+sentenceId: 15,
+text: "researchers discovered that wild wolves that had started their own pack",
+keyword: "researchers"
+},
+{
+sentenceId: 15,
+text: "many of them were carrying a particular parasite called Toxoplasma gondii",
+keyword: "discover"
+}
+],
+choiceAdvice: "驕ｸ謚櫁い縺ｯ鄒､繧後ｒ髮｢繧後◆繧ｪ繧ｪ繧ｫ繝溘↓縺､縺・※霑ｰ縺ｹ縺ｦ縺・∪縺吶・1)譁ｰ縺励＞鄒､繧後↓蜈･繧後↑縺・→逕溷ｭ倡紫菴惹ｸ・(2)蛻･縺ｮ逕溽黄縺ｫ蠖ｱ髻ｿ縺輔ｌ縺ｦ縺・◆蜿ｯ閭ｽ諤ｧ (3)蜊倡峡繧ｪ繧ｪ繧ｫ繝溘・蟇・函陌ｫ縺悟ｰ代↑縺・(4)證ｴ蜉帷噪縺ｪ莠峨＞",
+choices: [
+{
+id: 1,
+text: "If they were not able to join a new pack soon after leaving, then their survival rate would dramatically decrease.",
+translation: "鄒､繧後ｒ蜴ｻ縺｣縺溷ｾ後☆縺舌↓譁ｰ縺励＞鄒､繧後↓蜈･繧後↑縺代ｌ縺ｰ縲∫函蟄倡紫縺ｯ蜉・噪縺ｫ菴惹ｸ九☆繧九・",
+isCorrect: false
+},
+{
+id: 2,
+text: "The actions of those that eventually established their own packs may often have been influenced by another organism.",
+translation: "譛邨ら噪縺ｫ閾ｪ蛻・・鄒､繧後ｒ菴懊▲縺溘が繧ｪ繧ｫ繝溘・陦悟虚縺ｯ縲∝挨縺ｮ逕溽黄縺ｫ蠖ｱ髻ｿ縺輔ｌ縺ｦ縺・◆蜿ｯ閭ｽ諤ｧ縺後≠繧九・",
+isCorrect: true,
+highlight: "influenced by another organism"
+},
+{
+id: 3,
+text: "Wolves that lived alone were found to have far fewer fatal parasites than those that stayed with their packs.",
+translation: "蜊倡峡縺ｧ逕滓ｴｻ縺励◆繧ｪ繧ｪ繧ｫ繝溘・縲∫ｾ､繧後↓谿九▲縺溘が繧ｪ繧ｫ繝溘ｈ繧翫ｂ縺ｯ繧九°縺ｫ閾ｴ蜻ｽ逧・↑蟇・函陌ｫ縺悟ｰ代↑縺・％縺ｨ縺後ｏ縺九▲縺溘・",
+isCorrect: false
+},
+{
+id: 4,
+text: "Although they did not leave their packs in an unfriendly way, they often ended up fighting violently with their old packs.",
+translation: "鄒､繧後ｒ蜿句･ｽ逧・↓髮｢繧後◆縺ｫ繧ゅ°縺九ｏ繧峨★縲√＠縺ｰ縺励・蜈・・鄒､繧後→豼縺励￥莠峨≧縺薙→縺ｫ縺ｪ縺｣縺溘・",
+isCorrect: false
+}
+],
+hint: {
+paragraphId: 3,
+description: "隨ｬ3谿ｵ關ｽ縲ゅ稽any of them were carrying a particular parasite called Toxoplasma gondii縲阪°繧峨∝､壹￥縺後ヨ繧ｭ繧ｽ繝励Λ繧ｺ繝橸ｼ亥挨縺ｮ逕溽黄=蟇・函陌ｫ・峨↓諢滓沒縺励※縺・◆縺薙→縺後ｏ縺九ｋ縲・",
+targetSentenceId: 15,
+highlightWord: "Toxoplasma gondii",
+highlightWordSentenceId: 15
+},
+logic: [
+{
+type: "text",
+content: "縲先ｱｺ螳夊ｦ∝屏縲第悽譁・ many of them were carrying a particular parasite called Toxoplasma gondii・医が繝ｬ繝ｳ繧ｸ濶ｲ縺ｮ繝上う繝ｩ繧､繝茨ｼ・"
+},
+{
+type: "arrow",
+content: "縲悟ｯ・函陌ｫ繧呈戟縺｣縺ｦ縺・◆縲坂・縲悟挨縺ｮ逕溽黄縺ｫ蠖ｱ髻ｿ縺輔ｌ縺ｦ縺・◆蜿ｯ閭ｽ諤ｧ縲・"
+},
+{
+type: "text",
+content: "縲占ｨ縺・鋤縺医・譬ｹ諡縲叢arasite・亥ｯ・函陌ｫ・・ another organism・亥挨縺ｮ逕溽黄・・"
+},
+{
+type: "text",
+content: "驕ｸ謚櫁い2: may often have been influenced by another organism"
+},
+{
+type: "conclusion",
+content: "豁｣隗｣: 2"
+}
+],
+paragraphStrategy: "闍ｱ讀懊・髟ｷ譁・撫鬘後〒縺ｯ縲∬ｨｭ蝠城・→谿ｵ關ｽ鬆・′荳閾ｴ縺吶ｋ縺薙→縺悟､壹＞縺ｧ縺吶・27)縺ｯ譛蠕後・險ｭ蝠上↑縺ｮ縺ｧ縲√千ｬｬ3谿ｵ關ｽ縲代ｒ髮・ｸｭ逧・↓謗｢縺励∪縺励ｇ縺・・"
+}
+],
+summaryForInstructors: {
+title: "Wolf Packs・医が繧ｪ繧ｫ繝溘・鄒､繧鯉ｼ・",
+intro: "驥守函縺ｮ繧ｪ繧ｪ繧ｫ繝溘・鄒､繧後↓縺翫￠繧九後い繝ｫ繝輔ぃ繧ｪ繧ｹ縲阪・讎ょｿｵ縺悟ｮ溘・鬟ｼ閧ｲ荳九・隕ｳ蟇溘°繧臥函縺ｾ繧後◆隱､隗｣縺ｧ縺ゅｊ縲∝ｮ滄圀縺ｮ驥守函縺ｮ鄒､繧後・螟壻ｸ紋ｻ｣螳ｶ譌上・繧医≧縺ｫ讖溯・縺吶ｋ縺薙→繧定ｧ｣隱ｬ縲・022蟷ｴ縺ｮ遐皮ｩｶ縺ｧ縺ｯ蟇・函陌ｫ縺瑚｡悟虚縺ｫ蠖ｱ髻ｿ縺吶ｋ蜿ｯ閭ｽ諤ｧ繧ら匱隕九＆繧後◆縲・",
+points: [
+{
+label: "1. 繧｢繝ｫ繝輔ぃ繧ｪ繧ｹ縺ｮ逾櫁ｩｱ・育ｬｬ1谿ｵ關ｽ・・",
+text: "謾ｻ謦・噪縺ｪ繧｢繝ｫ繝輔ぃ繧ｪ繧ｹ縺檎ｾ､繧後ｒ謾ｯ驟阪☆繧九→縺・≧閠・∴縺ｯ逾櫁ｩｱ縲ゅ％繧後・謐慕佐縺輔ｌ縺溘が繧ｪ繧ｫ繝溘・遐皮ｩｶ縺九ｉ逕溘∪繧後◆隱､隗｣縲る｣ｼ閧ｲ荳九〒縺ｯ陦邵・未菫ゅ・縺ｪ縺・・繧ｪ繧ｪ繧ｫ繝溘′蠑ｷ蛻ｶ逧・↓蜷悟ｱ・＆縺帙ｉ繧後ｋ縺溘ａ證ｴ蜉帷噪縺ｫ縺ｪ繧九′縲・㍽逕溘〒縺ｯ迥ｶ豕√′逡ｰ縺ｪ繧九・"
+},
+{
+label: "2. 驥守函縺ｮ鄒､繧後・螳滓・・育ｬｬ2谿ｵ關ｽ・・",
+text: "1980縲・0蟷ｴ莉｣縺ｮ遐皮ｩｶ縺ｧ縲・㍽逕溘・鄒､繧後・蟷ｴ髟ｷ縺ｮ繧ｪ繧ｹ繝｡繧ｹ繝壹い縺後Μ繝ｼ繝繝ｼ縺ｨ縺ｪ繧翫∝ｭ舌←繧ゅｄ迢ｬ繧願ｺｫ縺ｮ繝｡繝ｳ繝舌・縺ｧ讒区・縺輔ｌ繧九％縺ｨ縺悟愛譏弱らｧｩ蠎上・證ｴ蜉帙〒縺ｯ縺ｪ縺上さ繝溘Η繝九こ繝ｼ繧ｷ繝ｧ繝ｳ縺ｧ邯ｭ謖√＆繧後・｣滓侭荳崎ｶｳ譎ゅ↓縺ｯ蟷ｼ縺・倶ｽ薙ｒ蜆ｪ蜈医☆繧九↑縺ｩ譟碑ｻ滓ｧ縺後≠繧九・"
+},
+{
+label: "3. 鄒､繧後ｒ髮｢繧後ｋ繧ｪ繧ｪ繧ｫ繝滂ｼ育ｬｬ3谿ｵ關ｽ・・",
+text: "驥榊､ｧ縺ｪ蟇ｾ遶九′襍ｷ縺阪ｋ縺ｨ荳驛ｨ縺ｯ鄒､繧後ｒ髮｢繧後∝挨縺ｮ鄒､繧後↓蜉繧上ｋ縺玖・蛻・・鄒､繧後ｒ菴懊ｋ縲・022蟷ｴ縺ｮ遐皮ｩｶ縺ｧ縲∵眠縺溘↓鄒､繧後ｒ菴懊▲縺溘が繧ｪ繧ｫ繝溘・螟壹￥縺後ヨ繧ｭ繧ｽ繝励Λ繧ｺ繝槭・繧ｴ繝ｳ繝・ぅ縺ｫ諢滓沒縺励※縺翫ｊ縲√％縺ｮ蟇・函陌ｫ縺悟､ｧ閭・↑陦悟虚繧剃ｿ・＠縺ｦ縺・ｋ蜿ｯ閭ｽ諤ｧ縺檎､ｺ縺輔ｌ縺溘・"
+}
+]
+}
+},

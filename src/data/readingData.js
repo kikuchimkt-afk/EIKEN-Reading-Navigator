@@ -1,4 +1,7 @@
+import { gradePre2OriginalData } from './gradePre2OriginalData.js';
 import { grade2OriginalData } from './grade2OriginalData.js';
+import { grade3OriginalData } from './grade3OriginalData.js';
+import { gradePre2PlusOriginalData } from './gradePre2PlusOriginalData.js';
 
 const readingDataBase = [
     // 準1級 オリジナル問題: The Software Pioneers of ENIAC
@@ -32689,4 +32692,4 @@ const readingDataBase = [
 ];
 
 // 2級オリジナル問題を追加
-export const readingData = [...readingDataBase, ...grade2OriginalData];
+export const readingData = [...readingDataBase, ...grade2OriginalData, ...gradePre2OriginalData, ...grade3OriginalData, ...gradePre2PlusOriginalData];

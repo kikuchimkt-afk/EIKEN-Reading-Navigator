@@ -1,0 +1,523 @@
+{
+id: "pre2-2023-3-4B",
+grade: "貅・邏・",
+title: "Feel the Heat",
+subTitle: "2023蟷ｴ蠎ｦ 隨ｬ3蝗・螟ｧ蝠・B",
+images: {
+content: "/images/reading/pre2-2023-3-4B-content.png",
+question: "/images/reading/pre2-2023-3-4B-question.png"
+},
+content: [
+{
+paragraphId: 1,
+sentences: [
+{
+id: 1,
+text: "Although people usually avoid pain, there are some situations where people seem to enjoy it.",
+translation: "莠ｺ縲・・譎ｮ谿ｵ縺ｯ逞帙∩繧帝∩縺代∪縺吶′縲√◎繧後ｒ讌ｽ縺励ｓ縺ｧ縺・ｋ繧医≧縺ｫ隕九∴繧狗憾豕√ｂ縺・￥縺､縺九≠繧翫∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "are", "seem" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Although people usually avoid pain)</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>there</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk S-group><span class=text>some situations <span class=modifier>[where people seem to enjoy it]</span></span><span class=tag>S</span></span>.",
+translationHtml: "<span class=t-M>(莠ｺ縲・・譎ｮ谿ｵ逞帙∩繧帝∩縺代∪縺吶′)</span>縲・span class=t-V>縺ゅｊ縺ｾ縺・/span> <span class=t-S>縺・￥縺､縺九・迥ｶ豕√′ <span class=t-M>[莠ｺ縲・′縺昴ｌ繧呈･ｽ縺励ｓ縺ｧ縺・ｋ繧医≧縺ｫ隕九∴繧犠</span></span>縲・",
+naturalTranslation: "譎ｮ谿ｵ縲∽ｺｺ縺ｯ逞帙∩繧帝∩縺代ｋ繧ゅ・縺ｧ縺吶′縲∫李縺ｿ繧呈･ｽ縺励ｓ縺ｧ縺・ｋ繧医≧縺ｫ隕九∴繧句ｴ髱｢繧ゅ≠繧翫∪縺吶・",
+vocabulary: [
+{ word: avoid, meaning: 驕ｿ縺代ｋ },
+{ word: situation, meaning: 迥ｶ豕・ },
+{ word: seem to do, meaning: 縲懊☆繧九ｈ縺・↓隕九∴繧・ }
+],
+grammarNotes: [
+{ phrase: where, explanation: <b>髢｢菫ょ憶隧・/b>: situations繧剃ｿｮ鬟ｾ縲・ }
+]
+}
+},
+{
+id: 2,
+text: "For example, some people really like eating spicy foods with chili peppers.",
+translation: "萓九∴縺ｰ縲∝柏霎帛ｭ舌・蜈･縺｣縺溯ｾ帙＞鬟溘∋迚ｩ繧帝｣溘∋繧九・縺梧悽蠖薙↓螂ｽ縺阪↑莠ｺ縺溘■縺後＞縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "like" ],
+structureHtml: "<span class=chunk M-group><span class=text>(For example)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>some people</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(really)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>like</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>eating spicy foods <span class=modifier>(with chili peppers)</span></span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(萓九∴縺ｰ)</span>縲・span class=t-S>荳驛ｨ縺ｮ莠ｺ縲・・</span> <span class=t-V>螂ｽ縺ｿ縺ｾ縺・/span> <span class=t-O>霎帙＞鬟溘∋迚ｩ繧帝｣溘∋繧九％縺ｨ繧・<span class=t-M>(蜚占ｾ帛ｭ仙・繧翫・)</span></span>縲・",
+naturalTranslation: "萓九∴縺ｰ縲∝柏霎帛ｭ舌・蜈･縺｣縺滓ｿ霎帶侭逅・ｒ螂ｽ繧薙〒鬟溘∋繧倶ｺｺ縺溘■縺後＞縺ｾ縺吶・",
+vocabulary: [
+{ word: spicy, meaning: 霎帙＞縲・ｦ呵ｾ帶侭縺ｮ蜉ｹ縺・◆ },
+{ word: chili pepper, meaning: 蜚占ｾ帛ｭ・ }
+],
+grammarNotes: [
+{ phrase: eating, explanation: <b>蜍募錐隧・/b>: like縺ｮ逶ｮ逧・ｪ槭・ }
+]
+}
+},
+{
+id: 3,
+text: "Eating chili peppers can make people's mouths feel like they are burning.",
+translation: "蜚占ｾ帛ｭ舌ｒ鬟溘∋繧九→縲∝哨縺ｮ荳ｭ縺檎㏍縺医※縺・ｋ繧医≧縺ｫ諢溘§繧九％縺ｨ縺後≠繧翫∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "make" ],
+structureHtml: "<span class=chunk S-group><span class=text>Eating chili peppers</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>can make</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>people's mouths</span><span class=tag>O</span></span> <span class=chunk C-group><span class=text>feel <span class=modifier>(like they are burning)</span></span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>蜚占ｾ帛ｭ舌ｒ鬟溘∋繧九％縺ｨ縺ｯ</span> <span class=t-V>縺輔○繧九％縺ｨ縺後≠繧翫∪縺・/span> <span class=t-O>莠ｺ縲・・蜿｣繧・/span> <span class=t-C>諢溘§繧九ｈ縺・↓ <span class=t-M>(縺昴ｌ繧峨′辯・∴縺ｦ縺・ｋ縺九・繧医≧縺ｫ)</span></span>縲・",
+naturalTranslation: "蜚占ｾ帛ｭ舌ｒ鬟溘∋繧九→縲∝哨縺ｮ荳ｭ縺檎㏍縺医※縺・ｋ繧医≧縺ｪ諢溯ｦ壹↓髯･繧九％縺ｨ縺後≠繧翫∪縺吶・",
+vocabulary: [
+{ word: burn, meaning: 辯・∴繧九∫┥縺代ｋ }
+],
+grammarNotes: [
+{ phrase: make + O + do, explanation: <b>菴ｿ蠖ｹ蜍戊ｩ枸ake</b>: 縲薫縺ｫ縲懊＆縺帙ｋ縲阪Ｇeel縺ｯ蜴溷ｽ｢荳榊ｮ夊ｩ槭・ },
+{ phrase: feel like, explanation: 縲後懊・繧医≧縺ｫ諢溘§繧九阪・ }
+]
+}
+},
+{
+id: 4,
+text: "Chili peppers can also make people sweat and cry.",
+translation: "蜚占ｾ帛ｭ舌・縺ｾ縺溘∽ｺｺ縲・↓豎励ｒ縺九°縺帙◆繧翫∵ｶ吶ｒ蜃ｺ縺輔○縺溘ｊ縺吶ｋ縺薙→繧ゅ≠繧翫∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "make" ],
+structureHtml: "<span class=chunk S-group><span class=text>Chili peppers</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>can <span class=modifier>(also)</span> make</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>people</span><span class=tag>O</span></span> <span class=chunk C-group><span class=text>sweat and cry</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>蜚占ｾ帛ｭ舌・</span> <span class=t-V>縺輔○繧九％縺ｨ繧ゅ≠繧翫∪縺・/span> <span class=t-O>莠ｺ縲・ｒ</span> <span class=t-C>豎励ｒ縺九″縲∵ｳ｣縺上ｈ縺・↓</span>縲・",
+naturalTranslation: "縺ｾ縺溘∝柏霎帛ｭ舌ｒ鬟溘∋繧九→豎励′蜃ｺ縺溘ｊ縲∵ｶ吶′蜃ｺ縺溘ｊ縺吶ｋ縺薙→繧ゅ≠繧翫∪縺吶・",
+vocabulary: [
+{ word: sweat, meaning: 豎励ｒ縺九￥ },
+{ word: cry, meaning: 豕｣縺上∵ｶ吶′蜃ｺ繧・ }
+],
+grammarNotes: [
+{ phrase: make + O + do, explanation: <b>菴ｿ蠖ｹ蜍戊ｩ・/b>縲・ }
+]
+}
+},
+{
+id: 5,
+text: "However, they are very popular, and they have become an important part of the food culture in places such as Mexico, India, and Korea.",
+translation: "縺励°縺励√◎繧後ｉ縺ｯ髱槫ｸｸ縺ｫ莠ｺ豌励′縺ゅｊ縲√Γ繧ｭ繧ｷ繧ｳ縲√う繝ｳ繝峨・沒蝗ｽ縺ｪ縺ｩ縺ｮ蝣ｴ謇縺ｧ縺ｯ鬟滓枚蛹悶・驥崎ｦ√↑荳驛ｨ縺ｫ縺ｪ縺｣縺ｦ縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "are", "have become" ],
+structureHtml: "<span class=chunk M-group><span class=text>(However)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>they</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>very popular</span><span class=tag>C</span></span>, and <span class=chunk S-group><span class=text>they</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>have become</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>an important part <span class=modifier>(of the food culture in places such as Mexico, India, and Korea)</span></span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-M>(縺励°縺・</span>縲・span class=t-S>縺昴ｌ繧峨・</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>縺ｨ縺ｦ繧ゆｺｺ豌・/span>縲√◎縺励※ <span class=t-S>縺昴ｌ繧峨・</span> <span class=t-V>縺ｪ繧翫∪縺励◆</span> <span class=t-C>驥崎ｦ√↑荳驛ｨ縺ｫ <span class=t-M>(鬟滓枚蛹悶・縲√Γ繧ｭ繧ｷ繧ｳ縲√う繝ｳ繝峨・沒蝗ｽ縺ｮ繧医≧縺ｪ蝣ｴ謇縺ｫ縺翫￠繧・</span></span>縲・",
+naturalTranslation: "縺励°縺励∝柏霎帛ｭ舌・髱槫ｸｸ縺ｫ莠ｺ豌励′縺ゅｊ縲√Γ繧ｭ繧ｷ繧ｳ縲√う繝ｳ繝峨・沒蝗ｽ縺ｪ縺ｩ縺ｧ縺ｯ鬟滓枚蛹悶・驥崎ｦ√↑荳驛ｨ縺ｨ縺ｪ縺｣縺ｦ縺・∪縺吶・",
+vocabulary: [
+{ word: culture, meaning: 譁・喧 },
+{ word: such as, meaning: 縲懊・繧医≧縺ｪ }
+],
+grammarNotes: [
+{ phrase: have become, explanation: <b>迴ｾ蝨ｨ螳御ｺ・ｽ｢</b>縲・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 2,
+sentences: [
+{
+id: 6,
+text: "There are a variety of shapes, colors, and sizes of chili peppers.",
+translation: "蜚占ｾ帛ｭ舌↓縺ｯ縺輔∪縺悶∪縺ｪ蠖｢縲∬牡縲∝､ｧ縺阪＆縺後≠繧翫∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "are" ],
+structureHtml: "<span class=chunk M-group><span class=text>There</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk S-group><span class=text>a variety of shapes, colors, and sizes <span class=modifier>(of chili peppers)</span></span><span class=tag>S</span></span>.",
+translationHtml: "<span class=t-V>縺ゅｊ縺ｾ縺・/span> <span class=t-S>縺輔∪縺悶∪縺ｪ蠖｢縲∬牡縲∝､ｧ縺阪＆縺・<span class=t-M>(蜚占ｾ帛ｭ舌・)</span></span>縲・",
+naturalTranslation: "蜚占ｾ帛ｭ舌↓縺ｯ縲√＆縺ｾ縺悶∪縺ｪ蠖｢縲∬牡縲∝､ｧ縺阪＆縺ｮ繧ゅ・縺後≠繧翫∪縺吶・",
+vocabulary: [
+{ word: a variety of, meaning: 縺輔∪縺悶∪縺ｪ },
+{ word: shape, meaning: 蠖｢ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 7,
+text: "Some kinds of chili peppers, such as poblano peppers, are not very spicy at all.",
+translation: "繝昴ヶ繝ｩ繝弱・繝壹ャ繝代・縺ｪ縺ｩ縺ｮ縺・￥縺､縺九・遞ｮ鬘槭・蜚占ｾ帛ｭ舌・縲∝・縺剰ｾ帙￥縺ゅｊ縺ｾ縺帙ｓ縲・",
+grammarAnalysis: {
+mainVerbs: [ "are" ],
+structureHtml: "<span class=chunk S-group><span class=text>Some kinds <span class=modifier>(of chili peppers, such as poblano peppers)</span></span><span class=tag>S</span></span>, <span class=chunk V-group><span class=text>are not</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>very spicy <span class=modifier>(at all)</span></span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>縺・￥縺､縺九・遞ｮ鬘槭・ <span class=t-M>(蜚占ｾ帛ｭ舌・縲√・繝悶Λ繝弱・繧医≧縺ｪ)</span></span> <span class=t-V>縺ゅｊ縺ｾ縺帙ｓ</span> <span class=t-C>縺ゅ∪繧願ｾ帙￥ <span class=t-M>(蜈ｨ縺・</span></span>縲・",
+naturalTranslation: "繝昴ヶ繝ｩ繝弱・繧医≧縺ｪ遞ｮ鬘槭・蜚占ｾ帛ｭ舌・縲∝・縺剰ｾ帙￥縺ゅｊ縺ｾ縺帙ｓ縲・",
+vocabulary: [
+{ word: not ... at all, meaning: 蜈ｨ縺上懊↑縺・ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 8,
+text: "Other kinds of chili peppers, such as habanero peppers, are really spicy.",
+translation: "繝上ヰ繝阪Ο縺ｪ縺ｩ縺ｮ莉悶・遞ｮ鬘槭・蜚占ｾ帛ｭ舌・縲∵悽蠖薙↓霎帙＞縺ｧ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "are" ],
+structureHtml: "<span class=chunk S-group><span class=text>Other kinds <span class=modifier>(of chili peppers, such as habanero peppers)</span></span><span class=tag>S</span></span>, <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>really spicy</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>莉悶・遞ｮ鬘槭・ <span class=t-M>(蜚占ｾ帛ｭ舌・縲√ワ繝舌ロ繝ｭ縺ｮ繧医≧縺ｪ)</span></span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>譛ｬ蠖薙↓霎帙＞</span>縲・",
+naturalTranslation: "繝上ヰ繝阪Ο縺ｮ繧医≧縺ｪ莉悶・遞ｮ鬘槭・蜚占ｾ帛ｭ舌・縲∵悽蠖薙↓霎帙＞縺ｧ縺吶・",
+vocabulary: [ "" ],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 9,
+text: "Even a small amount of such peppers can be too much for most people.",
+translation: "縺昴・繧医≧縺ｪ・郁ｾ帙＞・牙柏霎帛ｭ舌・縲√＃縺丞ｰ鷹㍼縺ｧ繧ゅ⊇縺ｨ繧薙←縺ｮ莠ｺ縺ｫ縺ｨ縺｣縺ｦ縺ｯ縺阪▽縺吶℃繧九°繧ゅ＠繧後∪縺帙ｓ縲・",
+grammarAnalysis: {
+mainVerbs: [ "can be" ],
+structureHtml: "<span class=chunk S-group><span class=text>Even a small amount <span class=modifier>(of such peppers)</span></span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>can be</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>too much</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>(for most people)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>蟆鷹㍼縺ｮ縲懊〒縺輔∴ <span class=t-M>(縺昴・繧医≧縺ｪ蜚占ｾ帛ｭ舌・)</span></span> <span class=t-V>縺ゅｊ縺医∪縺・/span> <span class=t-C>驕主臆縺吶℃繧九→</span> <span class=t-M>(縺ｻ縺ｨ繧薙←縺ｮ莠ｺ縺ｫ縺ｨ縺｣縺ｦ)</span>縲・",
+naturalTranslation: "縺昴≧縺励◆蜚占ｾ帛ｭ舌・縲√⊇繧薙・蟆代＠縺ｧ繧ゅ√◆縺・※縺・・莠ｺ縺ｫ縺ｯ蛻ｺ豼縺悟ｼｷ縺吶℃繧九％縺ｨ縺後≠繧翫∪縺吶・",
+vocabulary: [
+{ word: amount, meaning: 驥・ },
+{ word: too much, meaning: 驕主臆縺ｪ縲∬舌∴繧峨ｌ縺ｪ縺・ }
+],
+grammarNotes: [
+{ phrase: Even, explanation: 縲後懊〒縺輔∴縲阪ょｼｷ隱ｿ縲・ }
+]
+}
+},
+{
+id: 10,
+text: "Chili peppers are spicy because they contain a chemical called capsaicin.",
+translation: "蜚占ｾ帛ｭ舌′霎帙＞縺ｮ縺ｯ縲√き繝励し繧､繧ｷ繝ｳ縺ｨ蜻ｼ縺ｰ繧後ｋ蛹門ｭｦ迚ｩ雉ｪ繧貞性繧薙〒縺・ｋ縺九ｉ縺ｧ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "are" ],
+structureHtml: "<span class=chunk S-group><span class=text>Chili peppers</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>spicy</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>(because they contain a chemical called capsaicin)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>蜚占ｾ帛ｭ舌・</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>霎帙＞</span> <span class=t-M>(縺ｪ縺懊↑繧峨◎繧後ｉ縺後き繝励し繧､繧ｷ繝ｳ縺ｨ蜻ｼ縺ｰ繧後ｋ蛹門ｭｦ迚ｩ雉ｪ繧貞性繧縺九ｉ)</span>縲・",
+naturalTranslation: "蜚占ｾ帛ｭ舌′霎帙＞縺ｮ縺ｯ縲√き繝励し繧､繧ｷ繝ｳ縺ｨ縺・≧蛹門ｭｦ迚ｩ雉ｪ繧貞性繧薙〒縺・ｋ縺九ｉ縺ｧ縺吶・",
+vocabulary: [
+{ word: contain, meaning: 蜷ｫ繧 },
+{ word: chemical, meaning: 蛹門ｭｦ迚ｩ雉ｪ },
+{ word: called, meaning: 縲懊→蜻ｼ縺ｰ繧後ｋ・磯℃蜴ｻ蛻・ｩ橸ｼ・ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 11,
+text: "Most of the capsaicin is in the white parts inside a chili pepper that hold the pepper's seeds.",
+translation: "繧ｫ繝励し繧､繧ｷ繝ｳ縺ｮ螟ｧ驛ｨ蛻・・縲∝柏霎帛ｭ舌・遞ｮ繧剃ｿ晄戟縺励※縺・ｋ蜀・・縺ｮ逋ｽ縺・Κ蛻・↓縺ゅｊ縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk S-group><span class=text>Most of the capsaicin</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(in the white parts inside a chili pepper <span class=modifier>[that hold the pepper's seeds]</span>)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>繧ｫ繝励し繧､繧ｷ繝ｳ縺ｮ螟ｧ驛ｨ蛻・・</span> <span class=t-V>縺ゅｊ縺ｾ縺・/span> <span class=t-M>(蜚占ｾ帛ｭ舌・蜀・Κ縺ｮ逋ｽ縺・Κ蛻・↓ <span class=t-M>[縺昴・遞ｮ繧剃ｿ晄戟縺励※縺・ｋ]</span>)</span>縲・",
+naturalTranslation: "繧ｫ繝励し繧､繧ｷ繝ｳ縺ｮ螟ｧ驛ｨ蛻・・縲∫ｨｮ縺後▽縺・※縺・ｋ蜚占ｾ帛ｭ舌・蜀・Κ縺ｮ逋ｽ縺・Κ蛻・↓蜷ｫ縺ｾ繧後※縺・∪縺吶・",
+vocabulary: [
+{ word: seed, meaning: 遞ｮ },
+{ word: hold, meaning: 菫晄戟縺吶ｋ縲∵髪縺医ｋ }
+],
+grammarNotes: [
+{ phrase: that hold, explanation: <b>髢｢菫ゆｻ｣蜷崎ｩ柎hat</b>: 蜈郁｡瑚ｩ槭・parts縲・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 3,
+sentences: [
+{
+id: 12,
+text: "Scientists guess that chili peppers produce capsaicin to protect their seeds.",
+translation: "遘大ｭｦ閠・◆縺｡縺ｯ縲∝柏霎帛ｭ舌・遞ｮ繧貞ｮ医ｋ縺溘ａ縺ｫ繧ｫ繝励し繧､繧ｷ繝ｳ繧剃ｽ懊ｊ蜃ｺ縺励※縺・ｋ縺ｮ縺ｧ縺ｯ縺ｪ縺・°縺ｨ謗ｨ貂ｬ縺励※縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "guess" ],
+structureHtml: "<span class=chunk S-group><span class=text>Scientists</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>guess</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>that chili peppers produce capsaicin <span class=modifier>(to protect their seeds)</span></span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>遘大ｭｦ閠・・</span> <span class=t-V>謗ｨ貂ｬ縺励∪縺・/span> <span class=t-O>蜚占ｾ帛ｭ舌′繧ｫ繝励し繧､繧ｷ繝ｳ繧剃ｽ懊ｊ蜃ｺ縺吶→ <span class=t-M>(遞ｮ繧貞ｮ医ｋ縺溘ａ縺ｫ)</span></span>縲・",
+naturalTranslation: "遘大ｭｦ閠・◆縺｡縺ｯ縲∝柏霎帛ｭ舌′遞ｮ繧貞ｮ医ｋ縺溘ａ縺ｫ繧ｫ繝励し繧､繧ｷ繝ｳ繧剃ｽ懊ｊ蜃ｺ縺励※縺・ｋ縺ｨ閠・∴縺ｦ縺・∪縺吶・",
+vocabulary: [
+{ word: guess, meaning: 謗ｨ貂ｬ縺吶ｋ },
+{ word: produce, meaning: 逕溽肇縺吶ｋ縲∽ｽ懊ｊ蜃ｺ縺・ },
+{ word: protect, meaning: 螳医ｋ }
+],
+grammarNotes: [
+{ phrase: to protect, explanation: <b>荳榊ｮ夊ｩ槭・蜑ｯ隧樒噪逕ｨ豕・/b>: 逶ｮ逧・・ }
+]
+}
+},
+{
+id: 13,
+text: "Animals like mice damage the seeds when they eat chili peppers, but capsaicin is too spicy for such animals.",
+translation: "繝阪ぜ繝溘・繧医≧縺ｪ蜍慕黄縺ｯ蜚占ｾ帛ｭ舌ｒ鬟溘∋繧九→縺阪↓遞ｮ繧貞す縺､縺代※縺励∪縺・∪縺吶′縲√き繝励し繧､繧ｷ繝ｳ縺ｯ縺昴・繧医≧縺ｪ蜍慕黄縺ｫ縺ｨ縺｣縺ｦ縺ｯ霎帙☆縺弱∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "damage", "is" ],
+structureHtml: "<span class=chunk S-group><span class=text>Animals like mice</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>damage</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the seeds</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(when they eat chili peppers)</span><span class=tag>M</span></span>, but <span class=chunk S-group><span class=text>capsaicin</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>too spicy</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>(for such animals)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>繝阪ぜ繝溘・繧医≧縺ｪ蜍慕黄縺ｯ</span> <span class=t-V>蛯ｷ縺､縺代∪縺・/span> <span class=t-O>遞ｮ繧・/span> <span class=t-M>(蠖ｼ繧峨′蜚占ｾ帛ｭ舌ｒ鬟溘∋繧九→縺・</span>縲√＠縺九＠ <span class=t-S>繧ｫ繝励し繧､繧ｷ繝ｳ縺ｯ</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>霎帙☆縺弱∪縺・/span> <span class=t-M>(縺昴・繧医≧縺ｪ蜍慕黄縺ｫ縺ｨ縺｣縺ｦ)</span>縲・",
+naturalTranslation: "繝阪ぜ繝溘↑縺ｩ縺ｮ蜍慕黄縺悟柏霎帛ｭ舌ｒ鬟溘∋繧九→遞ｮ繧貞す縺､縺代※縺励∪縺・∪縺吶′縲√き繝励し繧､繧ｷ繝ｳ縺ｯ縺昴≧縺励◆蜍慕黄縺ｫ縺ｯ霎帙☆縺弱∪縺吶・",
+vocabulary: [
+{ word: damage, meaning: 蛯ｷ縺､縺代ｋ縲∵錐螳ｳ繧剃ｸ弱∴繧・ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 14,
+text: "However, birds do not damage the seeds when they eat chili peppers, and capsaicin has no effect on birds.",
+translation: "縺励°縺励・ｳ･縺ｯ蜚占ｾ帛ｭ舌ｒ鬟溘∋縺ｦ繧らｨｮ繧貞す縺､縺代★縲√∪縺溘き繝励し繧､繧ｷ繝ｳ縺ｯ魑･縺ｫ縺ｯ菴輔・蠖ｱ髻ｿ繧ゆｸ弱∴縺ｾ縺帙ｓ縲・",
+grammarAnalysis: {
+mainVerbs: [ "do not damage", "has" ],
+structureHtml: "<span class=chunk M-group><span class=text>(However)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>birds</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>do not damage</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the seeds</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(when they eat chili peppers)</span><span class=tag>M</span></span>, and <span class=chunk S-group><span class=text>capsaicin</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>has</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>no effect</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(on birds)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(縺励°縺・</span>縲・span class=t-S>魑･縺ｯ</span> <span class=t-V>蛯ｷ縺､縺代∪縺帙ｓ</span> <span class=t-O>遞ｮ繧・/span> <span class=t-M>(蠖ｼ繧峨′蜚占ｾ帛ｭ舌ｒ鬟溘∋繧九→縺・</span>縲√◎縺励※ <span class=t-S>繧ｫ繝励し繧､繧ｷ繝ｳ縺ｯ</span> <span class=t-V>謖√▲縺ｦ縺・∪縺・/span> <span class=t-O>菴輔・蜉ｹ譫懊ｂ縲懊↑縺・/span> <span class=t-M>(魑･縺ｫ蟇ｾ縺励※)</span>縲・",
+naturalTranslation: "縺励°縺励・ｳ･縺ｯ蜚占ｾ帛ｭ舌ｒ鬟溘∋縺ｦ繧らｨｮ繧貞す縺､縺代∪縺帙ｓ縺励√き繝励し繧､繧ｷ繝ｳ縺ｯ魑･縺ｫ蜈ｨ縺丞柑縺阪∪縺帙ｓ縲・",
+vocabulary: [
+{ word: effect, meaning: 蜉ｹ譫懊∝ｽｱ髻ｿ }
+],
+grammarNotes: [
+{ phrase: have an effect on, explanation: 縲後懊↓蠖ｱ髻ｿ繧剃ｸ弱∴繧九阪ゅ％縺薙〒縺ｯno effect縺ｪ縺ｮ縺ｧ縲悟ｽｱ髻ｿ繧剃ｸ弱∴縺ｪ縺・阪・ }
+]
+}
+},
+{
+id: 15,
+text: "Humans can eat chili peppers because they mix the peppers with other foods so that they are not too spicy.",
+translation: "莠ｺ髢薙・縲√≠縺ｾ繧願ｾ帙￥縺ｪ繧峨↑縺・ｈ縺・↓蜚占ｾ帛ｭ舌ｒ莉悶・鬟溘∋迚ｩ縺ｨ豺ｷ縺懊ｋ縺ｮ縺ｧ縲∝柏霎帛ｭ舌ｒ鬟溘∋繧九％縺ｨ縺後〒縺阪∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "can eat", "mix" ],
+structureHtml: "<span class=chunk S-group><span class=text>Humans</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>can eat</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>chili peppers</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(because they mix the peppers with other foods so that they are not too spicy)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>莠ｺ髢薙・</span> <span class=t-V>鬟溘∋繧九％縺ｨ縺後〒縺阪∪縺・/span> <span class=t-O>蜚占ｾ帛ｭ舌ｒ</span> <span class=t-M>(霎帙￥縺ｪ繧翫☆縺弱↑縺・ｈ縺・↓莉悶・鬟溘∋迚ｩ縺ｨ豺ｷ縺懊ｋ縺九ｉ)</span>縲・",
+naturalTranslation: "莠ｺ髢薙・縲∬ｾ帙￥縺ｪ繧翫☆縺弱↑縺・ｈ縺・↓莉悶・鬟溘∋迚ｩ縺ｨ豺ｷ縺懊ｋ縺溘ａ縲∝柏霎帛ｭ舌ｒ鬟溘∋繧九％縺ｨ縺後〒縺阪∪縺吶・",
+vocabulary: [
+{ word: mix, meaning: 豺ｷ縺懊ｋ }
+],
+grammarNotes: [
+{ phrase: so that, explanation: 縲後懊☆繧九ｈ縺・↓縲√懊☆繧九◆繧√↓縲阪ら岼逧・ｄ邨先棡繧定｡ｨ縺吶・ }
+]
+}
+},
+{
+id: 16,
+text: "They also discovered that adding small amounts of chili pepper improved the flavor of their food and kept it fresh for longer.",
+translation: "縺ｾ縺溘∝ｰ鷹㍼縺ｮ蜚占ｾ帛ｭ舌ｒ蜉縺医ｋ縺ｨ鬟溘∋迚ｩ縺ｮ鬚ｨ蜻ｳ縺瑚憶縺上↑繧翫√ｈ繧企聞縺乗眠魄ｮ縺ｫ菫昴※繧九％縺ｨ繧ら匱隕九＠縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "discovered" ],
+structureHtml: "<span class=chunk S-group><span class=text>They</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(also)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>discovered</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>that <span class=modifier>[adding small amounts of chili pepper]</span> improved the flavor of their food and kept it fresh <span class=modifier>(for longer)</span></span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>蠖ｼ繧峨・</span> <span class=t-M>(縺ｾ縺・</span> <span class=t-V>逋ｺ隕九＠縺ｾ縺励◆</span> <span class=t-O><span class=t-M>[蟆鷹㍼縺ｮ蜚占ｾ帛ｭ舌ｒ蜉縺医ｋ縺薙→]</span>縺碁｣溘∋迚ｩ縺ｮ鬚ｨ蜻ｳ繧定憶縺上＠縲√◎繧後ｒ<span class=t-M>(繧医ｊ髟ｷ縺・</span>譁ｰ魄ｮ縺ｫ菫昴▽縺薙→繧・/span>縲・",
+naturalTranslation: "縺ｾ縺溘∽ｺｺ縲・・蟆鷹㍼縺ｮ蜚占ｾ帛ｭ舌ｒ蜉縺医ｋ縺薙→縺ｧ譁咏炊縺ｮ鬚ｨ蜻ｳ縺悟｢励＠縲∽ｿ晏ｭ俶ｧ縺碁ｫ倥∪繧九％縺ｨ繧ら匱隕九＠縺ｾ縺励◆縲・",
+vocabulary: [
+{ word: improve, meaning: 濶ｯ縺上☆繧九∵隼蝟・☆繧・ },
+{ word: flavor, meaning: 鬚ｨ蜻ｳ縲∝袖 },
+{ word: fresh, meaning: 譁ｰ魄ｮ縺ｪ }
+],
+grammarNotes: [
+{ phrase: adding, explanation: <b>蜍募錐隧・/b>: that遽蜀・・荳ｻ隱槭ゅ後懊☆繧九％縺ｨ縲阪・ },
+{ phrase: keep + O + C, explanation: 縲薫繧辰・医・迥ｶ諷具ｼ峨↓菫昴▽縲阪Ｌept it (food) fresh (譁ｰ魄ｮ縺ｪ迥ｶ諷九↓)縲・ },
+{ phrase: improved ... and kept, explanation: that遽蜀・・2縺､縺ｮ蜍戊ｩ槭′and縺ｧ邨舌・繧後※縺・ｋ縲・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 4,
+sentences: [
+{
+id: 17,
+text: "People have been growing and eating chili peppers in South America for thousands of years.",
+translation: "蜊礼ｱｳ縺ｧ縺ｯ縲∽ｽ募鴻蟷ｴ繧ゅ・髢薙∽ｺｺ縲・・蜚占ｾ帛ｭ舌ｒ譬ｽ蝓ｹ縺励・｣溘∋縺ｦ縺阪∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "have been growing and eating" ],
+structureHtml: "<span class=chunk S-group><span class=text>People</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>have been growing and eating</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>chili peppers</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(in South America)</span><span class=tag>M</span></span> <span class=chunk M-group><span class=text>(for thousands of years)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>莠ｺ縲・・</span> <span class=t-V>閧ｲ縺ｦ縲・｣溘∋邯壹￠縺ｦ縺阪∪縺励◆</span> <span class=t-O>蜚占ｾ帛ｭ舌ｒ</span> <span class=t-M>(蜊礼ｱｳ縺ｧ)</span> <span class=t-M>(菴募鴻蟷ｴ繧・</span>縲・",
+naturalTranslation: "蜊礼ｱｳ縺ｧ縺ｯ菴募鴻蟷ｴ繧ゅ・髢薙∽ｺｺ縲・・蜚占ｾ帛ｭ舌ｒ譬ｽ蝓ｹ縺励・｣溘∋縺ｦ縺阪∪縺励◆縲・",
+vocabulary: [
+{ word: grow, meaning: 閧ｲ縺ｦ繧九∵ｽ蝓ｹ縺吶ｋ },
+{ word: thousands of, meaning: 菴募鴻繧ゅ・ }
+],
+grammarNotes: [
+{ phrase: have been doing, explanation: <b>迴ｾ蝨ｨ螳御ｺ・ｲ陦悟ｽ｢</b>: 縲後★縺｣縺ｨ縲懊＠邯壹￠縺ｦ縺・ｋ縲阪・ }
+]
+}
+},
+{
+id: 18,
+text: "European explorers first took chili peppers from South America to Europe over 400 years ago.",
+translation: "繝ｨ繝ｼ繝ｭ繝・ヱ縺ｮ謗｢讀懷ｮｶ縺溘■縺後・00蟷ｴ莉･荳雁燕縺ｫ蛻昴ａ縺ｦ蜊礼ｱｳ縺九ｉ繝ｨ繝ｼ繝ｭ繝・ヱ縺ｫ蜚占ｾ帛ｭ舌ｒ謖√■霎ｼ縺ｿ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "took" ],
+structureHtml: "<span class=chunk S-group><span class=text>European explorers</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(first)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>took</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>chili peppers</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(from South America to Europe)</span><span class=tag>M</span></span> <span class=chunk M-group><span class=text>(over 400 years ago)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>繝ｨ繝ｼ繝ｭ繝・ヱ縺ｮ謗｢讀懷ｮｶ縺溘■縺ｯ</span> <span class=t-M>(譛蛻昴↓)</span> <span class=t-V>謖√▲縺ｦ陦後″縺ｾ縺励◆</span> <span class=t-O>蜚占ｾ帛ｭ舌ｒ</span> <span class=t-M>(蜊礼ｱｳ縺九ｉ繝ｨ繝ｼ繝ｭ繝・ヱ縺ｸ)</span> <span class=t-M>(400蟷ｴ莉･荳雁燕縺ｫ)</span>縲・",
+naturalTranslation: "400蟷ｴ莉･荳雁燕縲√Κ繝ｼ繝ｭ繝・ヱ縺ｮ謗｢讀懷ｮｶ縺溘■縺悟・繧√※蜊礼ｱｳ縺九ｉ繝ｨ繝ｼ繝ｭ繝・ヱ縺ｸ蜚占ｾ帛ｭ舌ｒ謖√■霎ｼ縺ｿ縺ｾ縺励◆縲・",
+vocabulary: [
+{ word: explorer, meaning: 謗｢讀懷ｮｶ },
+{ word: take A to B, meaning: A繧達縺ｸ謖√▲縺ｦ陦後￥/騾｣繧後※陦後￥ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 19,
+text: "They soon became popular there.",
+translation: "縺昴ｌ繧峨・縺吶＄縺ｫ縺昴％縺ｧ莠ｺ豌励↓縺ｪ繧翫∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "became" ],
+structureHtml: "<span class=chunk S-group><span class=text>They</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(soon)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>became</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>popular</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>(there)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺昴ｌ繧峨・</span> <span class=t-M>(縺吶＄縺ｫ)</span> <span class=t-V>縺ｪ繧翫∪縺励◆</span> <span class=t-C>莠ｺ豌励↓</span> <span class=t-M>(縺昴％縺ｧ)</span>縲・",
+naturalTranslation: "蜚占ｾ帛ｭ舌・縲√Κ繝ｼ繝ｭ繝・ヱ縺ｧ縺吶＄縺ｫ莠ｺ豌励′蜃ｺ縺ｾ縺励◆縲・",
+vocabulary: [ "" ],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 20,
+text: "As chili peppers were traded for goods around the world, their popularity spread to Asia and Africa, too.",
+translation: "蜚占ｾ帛ｭ舌′荳也阜荳ｭ縺ｧ蝠・刀縺ｨ莠､謠帙＆繧後ｋ縺ｫ縺､繧後※縲√◎縺ｮ莠ｺ豌励・繧｢繧ｸ繧｢繧・い繝輔Μ繧ｫ縺ｫ繧ょｺ・′繧翫∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "were traded", "spread" ],
+structureHtml: "<span class=chunk M-group><span class=text>(As chili peppers were traded for goods around the world)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>their popularity</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>spread</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(to Asia and Africa, too)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(蜚占ｾ帛ｭ舌′荳也阜荳ｭ縺ｧ蝠・刀縺ｨ縺励※蜿門ｼ輔＆繧後ｋ縺ｫ縺､繧後※)</span>縲・span class=t-S>縺昴ｌ繧峨・莠ｺ豌励・</span> <span class=t-V>蠎・′繧翫∪縺励◆</span> <span class=t-M>(繧｢繧ｸ繧｢繧・い繝輔Μ繧ｫ縺ｸ繧・</span>縲・",
+naturalTranslation: "蜚占ｾ帛ｭ舌′莠､譏灘刀縺ｨ縺励※荳也阜荳ｭ縺ｧ蜿門ｼ輔＆繧後ｋ繧医≧縺ｫ縺ｪ繧九→縲√◎縺ｮ莠ｺ豌励・繧｢繧ｸ繧｢繧・い繝輔Μ繧ｫ縺ｫ繧ょｺ・′繧翫∪縺励◆縲・",
+vocabulary: [
+{ word: trade, meaning: 雋ｿ譏薙☆繧九∽ｺ､謠帙☆繧・ },
+{ word: spread, meaning: 蠎・′繧・ }
+],
+grammarNotes: [
+{ phrase: As, explanation: 縲後懊☆繧九↓縺､繧後※縲阪よｯ比ｾ九・謗ｨ遘ｻ縲・ }
+]
+}
+}
+]
+}
+],
+questions: [
+{
+id: 34,
+text: "Eating spicy foods with chili peppers",
+textTranslation: "蜚占ｾ帛ｭ仙・繧翫・霎帙＞鬟溘∋迚ｩ繧帝｣溘∋繧九％縺ｨ縺ｯ縲・",
+keywords: [ "Eating", "chili peppers" ],
+keywordExplanations: {
+popular: "隨ｬ1谿ｵ關ｽ縺ｮHowever, they are very popular..."
+},
+keywordMatches: [
+{ sentenceId: 5, text: become an important part of the food culture in places such as Mexico, India, and Korea, keyword: popular }
+],
+choiceAdvice: "縲御ｸ也阜縺ｮ縺・￥縺､縺九・蝨ｰ蝓溘〒莠ｺ豌励阪→縺・≧蜀・ｮｹ縺後∵悽譁・・縲後Γ繧ｭ繧ｷ繧ｳ縲√う繝ｳ繝峨・沒蝗ｽ縺ｪ縺ｩ縺ｧ鬟滓枚蛹悶・驥崎ｦ√↑荳驛ｨ縺ｫ縺ｪ縺｣縺溘阪→荳閾ｴ縺吶ｋ縲・",
+choices: [
+{ id: 1, text: is recommended by doctors in some situations., translation: 縺・￥縺､縺九・迥ｶ豕√〒蛹ｻ閠・↓繧医▲縺ｦ謗ｨ螂ｨ縺輔ｌ縺ｦ縺・ｋ縲・, isCorrect: false },
+{
+id: "2, text: has become very popular in some parts of the world., translation: 荳也阜縺ｮ荳驛ｨ縺ｮ蝨ｰ蝓溘〒髱槫ｸｸ縺ｫ莠ｺ豌励↓縺ｪ縺｣縺ｦ縺・ｋ縲・, isCorrect: true, highlight: become very popular in some parts of the world }",
+{ id: 3, text: usually helps people to avoid feeling pain., translation: 騾壼ｸｸ縲∽ｺｺ縲・′逞帙∩繧呈─縺倥ｋ縺ｮ繧帝∩縺代ｋ縺ｮ縺ｫ蠖ｹ遶九▽縲・, isCorrect: false },
+{ id: 4, text: makes people sweat less when the weather is hot., translation: 證代＞螟ｩ豌励・譎ゅ↓莠ｺ縲・′豎励ｒ縺九￥縺ｮ繧呈ｸ帙ｉ縺吶・, isCorrect: false }
+],
+paragraphStrategy: "闍ｱ讀懊・髟ｷ譁・撫鬘後〒縺ｯ縲∬ｨｭ蝠城・→谿ｵ關ｽ鬆・′荳閾ｴ縺吶ｋ縺薙→縺悟､壹＞縺ｧ縺吶・34)縺ｯ譛蛻昴・險ｭ蝠上↑縺ｮ縺ｧ縲√∪縺壹・縲千ｬｬ1谿ｵ關ｽ縲代ｒ髮・ｸｭ逧・↓謗｢縺励∪縺励ｇ縺・・",
+hint: {
+paragraphId: 1,
+description: "隨ｬ1谿ｵ關ｽ縺ｮ譛蠕後ゅ荊hey ... have become an important part of the food culture in places such as Mexico, India, and Korea・医Γ繧ｭ繧ｷ繧ｳ縲√う繝ｳ繝峨・沒蝗ｽ縺ｪ縺ｩ縺ｮ蝣ｴ謇縺ｧ鬟滓枚蛹悶・驥崎ｦ√↑荳驛ｨ縺ｫ縺ｪ縺｣縺ｦ縺・ｋ・峨阪→縺・≧險倩ｿｰ縺ｫ豕ｨ逶ｮ縲・",
+targetSentenceId: 5,
+highlightWord: "become an important part of the food culture",
+highlightWordSentenceId: 5
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ they have become an important part of the food culture in places such as Mexico, India, and Korea. },
+{ type: arrow, content: 縲檎音螳壹・蝨ｰ蝓溘〒鬟滓枚蛹悶・荳驛ｨ・昜ｺｺ豌励′縺ゅｋ縲・ },
+{ type: text, content: 驕ｸ謚櫁い2: has become very popular in some parts of the world. },
+{ type: conclusion, content: 豁｣隗｣: 2 }
+]
+},
+{
+id: 35,
+text: "What is one difference between poblano peppers and habanero peppers?",
+textTranslation: "繝昴ヶ繝ｩ繝弱・繝・ヱ繝ｼ縺ｨ繝上ヰ繝阪Ο繝壹ャ繝代・縺ｮ1縺､縺ｮ驕輔＞縺ｯ菴輔〒縺吶°・・",
+keywords: [ "difference", "poblano", "habanero" ],
+keywordExplanations: {
+poblano: "not very spicy at all・亥・縺剰ｾ帙￥縺ｪ縺・ｼ・",
+habanero: "really spicy・域悽蠖薙↓霎帙＞・・"
+},
+keywordMatches: [
+{ sentenceId: 7, text: poblano peppers, are not very spicy at all, keyword: poblano },
+{ sentenceId: 8, text: habanero peppers, are really spicy, keyword: habanero },
+{ sentenceId: 10, text: spicy because they contain a chemical called capsaicin, keyword: capsaicin }
+],
+choiceAdvice: "霎帙＆縺ｮ驕輔＞縺ｯ縲後き繝励し繧､繧ｷ繝ｳ縺ｮ驥上阪↓逕ｱ譚･縺吶ｋ縲１oblano縺ｯ霎帙￥縺ｪ縺・ｼ昴き繝励し繧､繧ｷ繝ｳ縺悟ｰ代↑縺・・",
+choices: [
+{ id: 1, text: Habanero peppers are much larger than poblano peppers., translation: 繝上ヰ繝阪Ο縺ｯ繝昴ヶ繝ｩ繝弱ｈ繧翫ｂ縺ｯ繧九°縺ｫ螟ｧ縺阪＞縲・, isCorrect: false },
+{ id: 2, text: Habanero peppers contain a smaller number of seeds., translation: 繝上ヰ繝阪Ο縺ｯ繧医ｊ蟆代↑縺・焚縺ｮ遞ｮ繧貞性繧薙〒縺・ｋ縲・, isCorrect: false },
+{ id: 3, text: Poblano peppers are available in a wider variety of colors., translation: 繝昴ヶ繝ｩ繝弱・繧医ｊ螟壽ｧ倥↑濶ｲ縺ｧ謇九↓蜈･繧九・, isCorrect: false },
+{ id: 4, text: Poblano peppers have less capsaicin than habanero peppers., translation: 繝昴ヶ繝ｩ繝弱・繝上ヰ繝阪Ο繧医ｊ繧ゅき繝励し繧､繧ｷ繝ｳ縺悟ｰ代↑縺・・, isCorrect: true, highlight: have less capsaicin than habanero peppers }
+],
+paragraphStrategy: "闍ｱ讀懊・髟ｷ譁・撫鬘後〒縺ｯ縲∬ｨｭ蝠城・→谿ｵ關ｽ鬆・′荳閾ｴ縺吶ｋ縺薙→縺悟､壹＞縺ｧ縺吶・35)縺ｯ2逡ｪ逶ｮ縺ｮ險ｭ蝠上↑縺ｮ縺ｧ縲∵ｬ｡縺ｯ縲千ｬｬ2谿ｵ關ｽ縲代ｒ髮・ｸｭ逧・↓謗｢縺励∪縺励ｇ縺・・",
+hint: {
+paragraphId: 2,
+description: "隨ｬ2谿ｵ關ｽ縲１oblano縺ｯ縲系ot very spicy縲阪？abanero縺ｯ縲罫eally spicy縲阪ゅ◎縺励※霎帙＆縺ｮ蜴溷屏縺ｯ縲慶apsaicin縲阪ゅ▽縺ｾ繧・..",
+targetSentenceId: 10,
+highlightWord: "spicy because they contain a chemical called capsaicin",
+highlightWordSentenceId: 10
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ Poblano = not very spicy, Habanero = really spicy. spicy = contain capsaicin },
+{ type: arrow, content: 霎帙￥縺ｪ縺・ｼ昴き繝励し繧､繧ｷ繝ｳ縺悟ｰ代↑縺・ },
+{ type: text, content: 驕ｸ謚櫁い4: Poblano peppers have less capsaicin than habanero peppers. },
+{ type: conclusion, content: 豁｣隗｣: 4 }
+]
+},
+{
+id: 36,
+text: "Why do chili peppers probably make capsaicin?",
+textTranslation: "縺ｪ縺懷柏霎帛ｭ舌・縺翫◎繧峨￥繧ｫ繝励し繧､繧ｷ繝ｳ繧剃ｽ懊ｋ縺ｮ縺ｧ縺吶°・・",
+keywords: [ "Why", "make capsaicin" ],
+keywordExplanations: {
+make: "produce縺ｮ險縺・鋤縺・",
+reason: "to protect their seeds"
+},
+keywordMatches: [
+{ sentenceId: 12, text: produce capsaicin to protect their seeds, keyword: Why }
+],
+choiceAdvice: "縲檎ｨｮ繧貞ｮ医ｋ縺溘ａ (to protect their seeds)縲阪→縺・≧險倩ｿｰ繧偵◎縺ｮ縺ｾ縺ｾ驕ｸ縺ｶ縲・",
+choices: [
+{ id: 1, text: Because humans grow chili peppers with other foods., translation: 莠ｺ髢薙′莉悶・鬟溘∋迚ｩ縺ｨ荳邱偵↓蜚占ｾ帛ｭ舌ｒ閧ｲ縺ｦ繧九°繧峨・, isCorrect: false },
+{ id: 2, text: Because their original flavor did not attract many birds., translation: 蜈・・・蜻ｳ縺悟､壹￥縺ｮ魑･繧貞ｼ輔″縺､縺代↑縺九▲縺溘°繧峨・, isCorrect: false },
+{ id: 3, text: So that the peppers stay fresh for a longer period of time., translation: 蜚占ｾ帛ｭ舌′繧医ｊ髟ｷ縺・悄髢捺眠魄ｮ縺ｧ縺・ｉ繧後ｋ繧医≧縺ｫ縲・, isCorrect: false },
+{ id: 4, text: So that their seeds will not be damaged by animals., translation: 遞ｮ縺悟虚迚ｩ縺ｫ繧医▲縺ｦ蛯ｷ縺､縺代ｉ繧後↑縺・ｈ縺・↓縲・, isCorrect: true, highlight: seeds will not be damaged by animals }
+],
+paragraphStrategy: "闍ｱ讀懊・髟ｷ譁・撫鬘後〒縺ｯ縲∬ｨｭ蝠城・→谿ｵ關ｽ鬆・′荳閾ｴ縺吶ｋ縺薙→縺悟､壹＞縺ｧ縺吶・36)縺ｯ3逡ｪ逶ｮ縺ｮ險ｭ蝠上↑縺ｮ縺ｧ縲√◎縺ｮ谺｡縺ｯ縲千ｬｬ3谿ｵ關ｽ縲代ｒ髮・ｸｭ逧・↓謗｢縺励∪縺励ｇ縺・・",
+hint: {
+paragraphId: 3,
+description: "隨ｬ3谿ｵ關ｽ縺ｮ譛蛻昴・譁・ゅ継roduce capsaicin to protect their seeds・育ｨｮ繧貞ｮ医ｋ縺溘ａ縺ｫ繧ｫ繝励し繧､繧ｷ繝ｳ繧剃ｽ懊ｋ・峨阪′逶ｴ謗･縺ｮ遲斐∴縺ｧ縺吶・",
+targetSentenceId: 12,
+highlightWord: "produce capsaicin to protect their seeds",
+highlightWordSentenceId: 12
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ produce capsaicin to protect their seeds. },
+{ type: arrow, content: 縲檎ｨｮ繧貞ｮ医ｋ縺溘ａ縲搾ｼ昴悟虚迚ｩ縺ｫ蛯ｷ縺､縺代ｉ繧後↑縺・ｈ縺・↓縲・ },
+{ type: text, content: 驕ｸ謚櫁い4: So that their seeds will not be damaged by animals. },
+{ type: conclusion, content: 豁｣隗｣: 4 }
+]
+},
+{
+id: 37,
+text: "When did chili peppers become popular in Europe?",
+textTranslation: "縺・▽繝ｨ繝ｼ繝ｭ繝・ヱ縺ｧ蜚占ｾ帛ｭ舌・莠ｺ豌励↓縺ｪ繧翫∪縺励◆縺具ｼ・",
+keywords: [ "When", "Europe", "popular" ],
+keywordExplanations: {
+popular: "They soon became popular there縺ｮthere縺ｯEurope縲・"
+},
+keywordMatches: [
+{ sentenceId: 18, text: European explorers first took chili peppers ... over 400 years ago, keyword: When },
+{ sentenceId: 19, text: They soon became popular there, keyword: popular }
+],
+choiceAdvice: "縲梧爾讀懷ｮｶ縺梧戟縺｡蟶ｰ縺｣縺溽峩蠕・(soon after)縲阪→縺・≧譎らｳｻ蛻励ｒ隱ｭ縺ｿ蜿悶ｋ縲・",
+choices: [
+{ id: 1, text: After it became possible to trade them for goods around the world., translation: 荳也阜荳ｭ縺ｧ蝠・刀縺ｨ莠､謠帙〒縺阪ｋ繧医≧縺ｫ縺ｪ縺｣縺溷ｾ後・, isCorrect: false },
+{ id: 2, text: Since they were first grown and eaten there thousands of years ago., translation: 菴募鴻蟷ｴ繧ょ燕縺ｫ縺昴％縺ｧ蛻昴ａ縺ｦ譬ｽ蝓ｹ縺輔ｌ鬟溘∋繧峨ｌ縺ｦ莉･譚･縲・, isCorrect: false },
+{ id: 3, text: Over 400 years after they were first taken to Asia and Africa., translation: 繧｢繧ｸ繧｢繧・い繝輔Μ繧ｫ縺ｫ蛻昴ａ縺ｦ謖√■霎ｼ縺ｾ繧後※縺九ｉ400蟷ｴ莉･荳顔ｵ後▲縺ｦ縲・, isCorrect: false },
+{ id: 4, text: Soon after explorers brought them back from South America., translation: 謗｢讀懷ｮｶ縺溘■縺悟漉邀ｳ縺九ｉ謖√■蟶ｰ縺｣縺溘☆縺仙ｾ後・, isCorrect: true, highlight: Soon after explorers brought them back from South America }
+],
+paragraphStrategy: "闍ｱ讀懊・髟ｷ譁・撫鬘後〒縺ｯ縲∬ｨｭ蝠城・→谿ｵ關ｽ鬆・′荳閾ｴ縺吶ｋ縺薙→縺悟､壹＞縺ｧ縺吶・37)縺ｯ譛蠕後・險ｭ蝠上↑縺ｮ縺ｧ縲∵怙蠕後・縲千ｬｬ4谿ｵ關ｽ縲代ｒ髮・ｸｭ逧・↓謗｢縺励∪縺励ｇ縺・・",
+hint: {
+paragraphId: 4,
+description: "隨ｬ4谿ｵ關ｽ縲ゅ窪uropean explorers first took chili peppers ... to Europe ... They soon became popular there・医Κ繝ｼ繝ｭ繝・ヱ縺ｮ謗｢讀懷ｮｶ縺梧戟縺｡霎ｼ縺ｿ...縺吶＄縺ｫ莠ｺ豌励↓縺ｪ縺｣縺滂ｼ峨阪→縺・≧豬√ｌ繧堤｢ｺ隱阪・",
+targetSentenceId: 19,
+highlightWord: "They soon became popular there",
+highlightWordSentenceId: 19
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ Explorers took them to Europe -> They soon became popular there. },
+{ type: arrow, content: 縲梧爾讀懷ｮｶ縺梧戟縺｡霎ｼ繧薙□縺吶＄蠕後↓縲・ },
+{ type: text, content: 驕ｸ謚櫁い4: Soon after explorers brought them back from South America. },
+{ type: conclusion, content: 豁｣隗｣: 4 }
+]
+}
+],
+summaryForInstructors: {
+title: "Feel the Heat (霎帙＆繧呈─縺倥※)",
+intro: "蜚占ｾ帛ｭ舌・霎帙＆縺ｮ遘伜ｯ・ｼ医き繝励し繧､繧ｷ繝ｳ・峨→縲√◎繧後′縺ｪ縺懷ｭ伜惠縺吶ｋ縺ｮ縺具ｼ育ｨｮ縺ｮ菫晁ｭｷ・峨√◎縺励※縺ｩ縺ｮ繧医≧縺ｫ荳也阜縺ｫ蠎・∪縺｣縺溘・縺九ｒ隗｣隱ｬ縺吶ｋ遘大ｭｦ逧・・豁ｴ蜿ｲ逧・ヱ繝・そ繝ｼ繧ｸ縲・",
+points: [
+{ label: 1. 霎帙＆縺ｮ豁｣菴・, text: 繧ｫ繝励し繧､繧ｷ繝ｳ縺ｨ縺・≧蛹門ｭｦ迚ｩ雉ｪ縺悟次蝗縲らｨｮ繧貞ｮ医ｋ縺溘ａ縺ｮ騾ｲ蛹悶→閠・∴繧峨ｌ繧九・ },
+{ label: 2. 魑･縺ｨ蜩ｺ荵ｳ鬘槭・驕輔＞, text: 蜩ｺ荵ｳ鬘橸ｼ医ロ繧ｺ繝溘↑縺ｩ・峨・遞ｮ繧貞剱縺ｿ遐輔￥縺溘ａ霎帙＆繧呈─縺倥ｋ縺後∫ｨｮ繧剃ｸｸ蜻代∩縺吶ｋ魑･縺ｯ霎帙＆繧呈─縺倥↑縺・・ },
+{ label: 3. 豁ｴ蜿ｲ逧・ｼ晄眺, text: 蜊礼ｱｳ蜴溽肇縺ｧ縲√Κ繝ｼ繝ｭ繝・ヱ縺ｮ謗｢讀懷ｮｶ縺ｫ繧医▲縺ｦ荳也阜荳ｭ縺ｫ蠎・ａ繧峨ｌ縺溘・ }
+]
+}
+},

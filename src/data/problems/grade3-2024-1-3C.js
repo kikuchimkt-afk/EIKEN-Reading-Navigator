@@ -1,0 +1,810 @@
+export const problem_grade3_2024_1_3C = [
+    {
+    id: "grade3-2024-1-3C",
+    grade: "3邏・",
+    title: "The Quokka",
+    subTitle: "2024年蠎ｦ 第1回大蝠・C",
+    images: {
+    content: "/images/reading/grade3-2024-1-3C-content.png",
+    question: "/images/reading/grade3-2024-1-3C-question.png"
+    },
+    content: [
+    {
+    paragraphId: 1,
+    sentences: [
+    {
+    id: 1,
+    text: "The quokka is a special animal from Australia.",
+    translation: "ク繧ｪテきは繧ｪー繧ｹ繝医Λ繝ｪ繧｢蜃ｺ霄ｫの迚ｹ蛻･縺ｪ蜍慕黄縺ｧ縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ is ]",
+    structureHtml: "<span class=chunk S-group><span class=text>The quokka</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>a special animal <span class=modifier>(from Australia)</span></span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-S>ク繧ｪテきは</span> <span class=t-V>縺ｧが/span> <span class=t-C>迚ｹ蛻･縺ｪ蜍慕黄 (繧ｪー繧ｹ繝医Λ繝ｪ繧｢蜃ｺ霄ｫの)</span>、",
+    naturalTranslation: "ク繧ｪテきは繧ｪー繧ｹ繝医Λ繝ｪ繧｢の迚ｹ蛻･縺ｪ蜍慕黄縺ｧ縺吶・",
+    vocabulary: [
+    {
+    word: "quokka",
+    meaning: "ク繧ｪテき"},
+    {
+    word: "special",
+    meaning: "迚ｹ蛻･縺ｪ"}
+    ],
+    grammarNotes: "[  ]"
+    }
+    },
+    {
+    id: 2,
+    text: "They are marsupials, like kangaroos, but smaller.",
+    translation: "繧ｫ繝ｳ繧ｬ繝ｫーの繧医≧縺ｪ譛芽｢矩｡槭〒縺吶′縲√ｂっ縺ｨ蟆上＆が〒縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ are ]",
+    structureHtml: "<span class=chunk S-group><span class=text>They</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>marsupials, like kangaroos, but smaller</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-S>縺昴ｌ繧峨・</span> <span class=t-V>縺ｧが/span> <span class=t-C>譛芽｢矩｡槭√き繝ｳ繧ｬ繝ｫーの繧医≧縺ｪ縲√＠縺九＠繧ゅ▲縺ｨ蟆上＆が/span>、",
+    naturalTranslation: "繧ｫ繝ｳ繧ｬ繝ｫー縺ｨ蜷後§譛芽｢矩｡槭〒縺吶′縲√ｈ繧雁ｰ丞梛縺ｧ縺吶・",
+    vocabulary: [
+    {
+    word: "marsupial",
+    meaning: "譛芽｢矩｡・"},
+    {
+    word: "kangaroo",
+    meaning: "繧ｫ繝ｳ繧ｬ繝ｫー"}
+    ],
+    grammarNotes: "[  ]"
+    }
+    },
+    {
+    id: 3,
+    text: "They have round bodies about 45 centimeters long.",
+    translation: "菴薙・荳ｸ縺上∫ｴ・5繧ｻ繝ｳ繝√Γー繝医Νの髟ｷ縺輔〒縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ have ]",
+    structureHtml: "<span class=chunk S-group><span class=text>They</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>have</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>round bodies <span class=modifier>(about 45 centimeters long)</span></span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>縺昴ｌ繧峨・</span> <span class=t-V>謖√▲縺ｦが∪が/span> <span class=t-O>荳ｸがｽ薙ｒ (邏・5繧ｻ繝ｳ繝√・髟ｷ縺輔・)</span>、",
+    naturalTranslation: "邏・5繧ｻ繝ｳ繝√Γー繝医Νの荳ｸがｽ薙ｒ謖√▲縺ｦが∪縺吶・",
+    vocabulary: [
+    {
+    word: "round",
+    meaning: "荳ｸが"},
+    {
+    word: "centimeter",
+    meaning: "繧ｻ繝ｳ繝√Γー繝医Ν"}
+    ],
+    grammarNotes: "[  ]"
+    }
+    },
+    {
+    id: 4,
+    text: "Their ears are small and round, and they have a black nose.",
+    translation: "閠ｳは蟆上＆縺上※荳ｸ縺上・ｻ偵＞鮠ｻ繧呈戟っ縺ｦが∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: [ "are", "have" ],
+    structureHtml: "<span class=chunk S-group><span class=text>Their ears</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>small and round</span><span class=tag>C</span></span>, and <span class=chunk S-group><span class=text>they</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>have</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>a black nose</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>閠ｳは</span> <span class=t-V>縺ｧが/span> <span class=t-C>蟆上＆縺上※荳ｸが/span>縲√◎縺励※ <span class=t-S>縺昴ｌ繧峨・</span> <span class=t-V>謖√▲縺ｦが∪が/span> <span class=t-O>鮟偵＞鮠ｻ繧・/span>、",
+    naturalTranslation: "閠ｳは蟆上＆縺上※荳ｸ縺上・ｻ偵＞鮠ｻ繧偵＠縺ｦが∪縺吶・",
+    vocabulary: [
+    {
+    word: "ear",
+    meaning: "閠ｳ"},
+    {
+    word: "nose",
+    meaning: "鮠ｻ"}
+    ],
+    grammarNotes: "[  ]"
+    }
+    }
+    ]
+    },
+    {
+    paragraphId: 2,
+    sentences: [
+    {
+    id: 5,
+    text: "Many quokkas live on Rottnest Island.",
+    translation: "螟壹￥のク繧ｪテきは繝ｭテヨ繝阪せ繝亥ｳｶ縺ｫ菴上ｓ縺ｧが∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ live ]",
+    structureHtml: "<span class=chunk S-group><span class=text>Many quokkas</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>live</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(on Rottnest Island)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>螟壹￥のク繧ｪテきは</span> <span class=t-V>菴上ｓ縺ｧが∪が/span> <span class=t-M>(繝ｭテヨ繝阪せ繝亥ｳｶ縺ｫ)</span>、",
+    naturalTranslation: "螟壹￥のク繧ｪテきは繝ｭテヨ繝阪せ繝亥ｳｶ縺ｫ逕滓・縺励※が∪縺吶・",
+    vocabulary: [
+    {
+    word: "Rottnest Island",
+    meaning: "繝ｭテヨ繝阪せ繝亥ｳｶ"}
+    ],
+    grammarNotes: "[  ]"
+    }
+    },
+    {
+    id: 6,
+    text: "Rottnest Island is near the city of Perth, and its name came from the Dutch word for rat's nest.",
+    translation: "繝ｭテヨ繝阪せ繝亥ｳｶは繝代・繧ｹ蟶ゅ・霑代￥縺ｫ縺ゅｊ縲√◎の蜷榊燕は繧ｪ繝ｩ繝ｳ繝隱槭・縲後ロ繧ｺ繝溘・蟾｣縲阪→が≧險闡峨↓逕ｱ譚･縺励※が∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: [ "is", "came" ],
+    structureHtml: "<span class=chunk S-group><span class=text>Rottnest Island</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(near the city of Perth)</span><span class=tag>M</span></span>, and <span class=chunk S-group><span class=text>its name</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>came</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(from the Dutch word for rat's nest)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>繝ｭテヨ繝阪せ繝亥ｳｶは</span> <span class=t-V>縺ゅｊ縺ｾが/span> <span class=t-M>(繝代・繧ｹ蟶ゅ・霑代￥縺ｫ)</span>縲√◎縺励※ <span class=t-S>縺昴・蜷榊燕は</span> <span class=t-V>譚･縺ｾ縺励◆</span> <span class=t-M>(繧ｪ繝ｩ繝ｳ繝隱槭・縲後ロ繧ｺ繝溘・蟾｣縲阪→が≧險闡峨°繧・</span>、",
+    naturalTranslation: "繝ｭテヨ繝阪せ繝亥ｳｶは繝代・繧ｹ蟶ゅ・霑代￥縺ｫ縺ゅｊ縲∝錐蜑阪・繧ｪ繝ｩ繝ｳ繝隱槭・縲後ロ繧ｺ繝溘・蟾｣縲阪↓逕ｱ譚･縺励∪縺吶・",
+    vocabulary: [
+    {
+    word: "Perth",
+    meaning: "繝代・繧ｹ・医がー繧ｹ繝医Λ繝ｪ繧｢の驛ｽ蟶ゑｼ・"},
+    {
+    word: "Dutch",
+    meaning: "繧ｪ繝ｩ繝ｳ繝隱・"},
+    {
+    word: "rat",
+    meaning: "繝阪ぜテ"},
+    {
+    word: "nest",
+    meaning: "蟾｣"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "came from",
+    explanation: "<b>come from</b>: 縲後懊↓逕ｱ譚･縺吶ｋ縲√懊°繧画擂繧九阪・"}
+    ]
+    }
+    },
+    {
+    id: 7,
+    text: "Long ago, a man named Willem de Vlamingh thought quokkas looked like big rats.",
+    translation: "譏斐√え繧｣繝ｬ繝繝ｻテ・繝輔Λ繝溘Φ繧ｰ縺ｨが≧逕ｷ諤ｧ縺後け繧ｪテき繧貞､ｧ縺阪↑繝阪ぜ繝溘・繧医≧縺ｫ隕九∴繧九→諤昴＞縺ｾ縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: [ "thought", "looked" ],
+    structureHtml: "<span class=chunk M-group><span class=text>(Long ago)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>a man [named Willem de Vlamingh]</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>thought</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[quokkas looked like big rats]</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-M>(譏・</span>、span class=t-S>繧ｦ繧｣繝ｬ繝繝ｻテ・繝輔Λ繝溘Φ繧ｰ縺ｨが≧蜷阪・逕ｷ諤ｧが/span> <span class=t-V>諤昴＞縺ｾ縺励◆</span> <span class=t-O>[ク繧ｪテきは大縺阪↑繝阪ぜ繝溘・繧医≧縺ｫ隕九∴繧九→]</span>、",
+    naturalTranslation: "譏斐√え繧｣繝ｬ繝繝ｻテ・繝輔Λ繝溘Φ繧ｰ縺ｨが≧莠ｺは縲√け繧ｪテき繧貞､ｧ縺阪↑繝阪ぜ繝溘□縺ｨ諤昴＞縺ｾ縺励◆、",
+    vocabulary: [
+    {
+    word: "long ago",
+    meaning: "譏・"},
+    {
+    word: "look like",
+    meaning: "縲懊・繧医≧縺ｫ隕九∴繧・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "named Willem",
+    explanation: "<b>驕主悉蛻・ｩ槭・蠖｢螳ｹ隧樒噪逕ｨ豕・/b>: a man繧剃ｿｮ鬟ｾ縲ゅ後え繧｣繝ｬ繝縺ｨが≧蜷阪・縲阪・"},
+    {
+    phrase: "looked like",
+    explanation: "<b>look like</b>: 縲後懊・繧医≧縺ｫ隕九∴繧九阪・"}
+    ]
+    }
+    }
+    ]
+    },
+    {
+    paragraphId: 3,
+    sentences: [
+    {
+    id: 8,
+    text: "Quokkas are also found on Bald Island and in other parts of Western Australia.",
+    translation: "ク繧ｪテきは繝懊・繝ｫ繝牙ｳｶ繧・･ｿ繧ｪー繧ｹ繝医Λ繝ｪ繧｢の莉悶・蝨ｰ蝓溘↓繧りｦ九ｉ繧後∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ are found ]",
+    structureHtml: "<span class=chunk S-group><span class=text>Quokkas</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are also found</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(on Bald Island and in other parts of Western Australia)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>ク繧ｪテきは</span> <span class=t-V>隕九ｉ繧後∪縺呻ｼ医∪縺滂ｼ・/span> <span class=t-M>(繝懊・繝ｫ繝牙ｳｶ繧・･ｿ繧ｪー繧ｹ繝医Λ繝ｪ繧｢の莉悶・蝨ｰ蝓溘↓)</span>、",
+    naturalTranslation: "ク繧ｪテきは繝懊・繝ｫ繝牙ｳｶ繧・･ｿ繧ｪー繧ｹ繝医Λ繝ｪ繧｢の莉悶・蝨ｰ蝓溘〒繧りｦ九ｉ繧後∪縺吶・",
+    vocabulary: [
+    {
+    word: "Bald Island",
+    meaning: "繝懊・繝ｫ繝牙ｳｶ"},
+    {
+    word: "Western Australia",
+    meaning: "隘ｿ繧ｪー繧ｹ繝医Λ繝ｪ繧｢"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "are found",
+    explanation: "<b>蜿怜虚諷・/b>: 縲瑚ｦ九ｉ繧後ｋ縲∫匱隕九＆繧後ｋ縲阪・"}
+    ]
+    }
+    },
+    {
+    id: 9,
+    text: "They like living in areas with tall grass, can climb trees, and mostly eat at night.",
+    translation: "蠖ｼ繧峨・閭後・鬮倥＞闕峨・縺ゅｋ蝨ｰ蝓溘↓菴上・縺薙→繧貞･ｽ縺ｿ縲∵惠縺ｫ逋ｻ繧九％縺ｨ縺後〒縺阪∽ｸｻ縺ｫ螟懊↓鬟溘∋縺ｾ縺吶・",
+    grammarAnalysis: {
+    mainVerbs: [ "like", "can climb", "eat" ],
+    structureHtml: "<span class=chunk S-group><span class=text>They</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>like</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>living in areas with tall grass</span><span class=tag>O</span></span>, <span class=chunk V-group><span class=text>can climb</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>trees</span><span class=tag>O</span></span>, and <span class=chunk M-group><span class=text>(mostly)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>eat</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(at night)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>螂ｽ縺ｿ縺ｾが/span> <span class=t-O>閭後・鬮倥＞闕峨・縺ゅｋ蝨ｰ蝓溘↓菴上・縺薙→繧・/span>、span class=t-V>逋ｻ繧後∪が/span> <span class=t-O>譛ｨ縺ｫ</span>縲√◎縺励※ <span class=t-M>(荳ｻ縺ｫ)</span> <span class=t-V>鬟溘∋縺ｾが/span> <span class=t-M>(螟懊↓)</span>、",
+    naturalTranslation: "閭後・鬮倥＞闕峨′縺ゅｋ蝣ｴ謇繧貞･ｽ縺ｿ縲∵惠逋ｻ繧翫′縺ｧ縺阪∽ｸｻ縺ｫ螟憺俣縺ｫ鬟滉ｺ九ｒ縺励∪縺吶・",
+    vocabulary: [
+    {
+    word: "tall grass",
+    meaning: "閭後・鬮倥＞闕・"},
+    {
+    word: "climb",
+    meaning: "逋ｻ繧・"},
+    {
+    word: "mostly",
+    meaning: "荳ｻ縺ｫ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "like living",
+    explanation: "<b>like + 蜍募錐隧・/b>: 縲後懊☆繧九％縺ｨ縺悟･ｽ縺阪阪・"}
+    ]
+    }
+    },
+    {
+    id: 10,
+    text: "On mainland Australia, the number of quokkas has gone down.",
+    translation: "繧ｪー繧ｹ繝医Λ繝ｪ繧｢譛ｬ蝨溘〒は縲√け繧ｪテきの謨ｰ縺梧ｸ帛ｰ代＠縺ｦが∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ has gone down ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(On mainland Australia)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the number of quokkas</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>has gone down</span><span class=tag>V</span></span>.",
+    translationHtml: "<span class=t-M>(繧ｪー繧ｹ繝医Λ繝ｪ繧｢譛ｬ蝨溘〒は)</span>、span class=t-S>ク繧ｪテきの謨ｰは</span> <span class=t-V>貂帛ｰ代＠縺ｦが∪が/span>、",
+    naturalTranslation: "繧ｪー繧ｹ繝医Λ繝ｪ繧｢譛ｬ蝨溘〒はク繧ｪテきの謨ｰ縺梧ｸ帛ｰ代＠縺ｾ縺励◆、",
+    vocabulary: [
+    {
+    word: "mainland",
+    meaning: "譛ｬ蝨・"},
+    {
+    word: "go down",
+    meaning: "貂帛ｰ代☆繧・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "has gone down",
+    explanation: "<b>迴ｾ蝨ｨ螳御ｺ・ｽ｢</b>: 縲梧ｸ帛ｰ代＠縺滂ｼ医◎の迥ｶ諷九′邯壹＞縺ｦがｋ・峨阪・"}
+    ]
+    }
+    },
+    {
+    id: 11,
+    text: "This is because the environment has changed there.",
+    translation: "縺薙ｌは縺昴％の迺ｰ蠅・′螟牙喧縺励◆縺九ｉ縺ｧ縺吶・",
+    grammarAnalysis: {
+    mainVerbs: [ "is", "has changed" ],
+    structureHtml: "<span class=chunk S-group><span class=text>This</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>because the environment has changed there</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-S>縺薙ｌは</span> <span class=t-V>縺ｧが/span> <span class=t-C>縺昴％の迺ｰ蠅・′螟牙喧縺励◆縺九ｉ</span>、",
+    naturalTranslation: "縺薙ｌは迺ｰ蠅・′螟牙喧縺励◆縺溘ａ縺ｧ縺吶・",
+    vocabulary: [
+    {
+    word: "environment",
+    meaning: "迺ｰ蠅・"},
+    {
+    word: "change",
+    meaning: "螟峨ｏ繧・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "because",
+    explanation: "<b>because遽</b>: 逅・罰繧定ｿｰ縺ｹ繧九・"}
+    ]
+    }
+    },
+    {
+    id: 12,
+    text: "Also, there are wild cats and foxes that hunt them.",
+    translation: "縺ｾ縺溘√け繧ｪテき繧堤叫繧矩㍽逕溘・迪ｫ繧・くテロ縺後＞縺ｾ縺吶・",
+    grammarAnalysis: {
+    mainVerbs: [ "are", "hunt" ],
+    structureHtml: "Also, <span class=chunk M-group><span class=text>(there)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk S-group><span class=text>wild cats and foxes [that hunt them]</span><span class=tag>S</span></span>.",
+    translationHtml: "縺ｾ縺溘・span class=t-V>が∪が/span> <span class=t-S>驥守函の迪ｫ繧・くテロが[蠖ｼ繧峨ｒ迢ｩ繧犠</span>、",
+    naturalTranslation: "縺ｾ縺溘√け繧ｪテき繧呈黒鬟溘☆繧矩㍽逕溘・迪ｫ繧・くテロ繧ゅ＞縺ｾ縺吶・",
+    vocabulary: [
+    {
+    word: "wild",
+    meaning: "驥守函の"},
+    {
+    word: "fox",
+    meaning: "繧ｭテロ"},
+    {
+    word: "hunt",
+    meaning: "迢ｩ繧九∵黒鬟溘☆繧・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "that hunt them",
+    explanation: "<b>髢｢菫ゆｻ｣蜷崎ｩ柎hat</b>: wild cats and foxes繧剃ｿｮ鬟ｾ、"}
+    ]
+    }
+    },
+    {
+    id: 13,
+    text: "The weather is also changing, and this is not good for them.",
+    translation: "豌怜吶ｂ螟牙喧縺励※縺翫ｊ縲√％繧後・蠖ｼ繧峨↓縺ｨっ縺ｦ濶ｯ縺上≠繧翫∪縺帙ｓ、",
+    grammarAnalysis: {
+    mainVerbs: [ "is changing", "is" ],
+    structureHtml: "<span class=chunk S-group><span class=text>The weather</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is also changing</span><span class=tag>V</span></span>, and <span class=chunk S-group><span class=text>this</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>not good for them</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-S>豌怜吶ｂ</span> <span class=t-V>螟牙喧縺励※が∪が/span>縲√◎縺励※ <span class=t-S>縺薙ｌは</span> <span class=t-V>縺ｧが/span> <span class=t-C>蠖ｼ繧峨↓縺ｨっ縺ｦ濶ｯ縺上↑が/span>、",
+    naturalTranslation: "豌怜吶ｂ螟牙喧縺励※縺翫ｊ縲√％繧後・蠖ｼ繧峨↓縺ｨっ縺ｦ濶ｯ縺上≠繧翫∪縺帙ｓ、",
+    vocabulary: [
+    {
+    word: "weather",
+    meaning: "螟ｩ豌励∵ｰ怜・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "is changing",
+    explanation: "<b>迴ｾ蝨ｨ騾ｲ陦悟ｽ｢</b>: 縲悟､牙喧縺励※がｋ縲阪・"}
+    ]
+    }
+    }
+    ]
+    },
+    {
+    paragraphId: 4,
+    sentences: [
+    {
+    id: 14,
+    text: "Many people think quokkas are cute, and these days, taking photos with them is popular.",
+    translation: "螟壹￥の莠ｺ、・ク繧ｪテき縺後°繧上＞が→諤昴▲縺ｦ縺翫ｊ縲∵怙霑代〒は蠖ｼ繧峨→蜀咏悄繧呈聴繧九％縺ｨ縺御ｺｺ豌励〒縺吶・",
+    grammarAnalysis: {
+    mainVerbs: [ "think", "is" ],
+    structureHtml: "<span class=chunk S-group><span class=text>Many people</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>think</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[quokkas are cute]</span><span class=tag>O</span></span>, and <span class=chunk M-group><span class=text>(these days)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>taking photos with them</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>popular</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-S>螟壹￥の莠ｺ、・</span> <span class=t-V>諤昴＞縺ｾが/span> <span class=t-O>[ク繧ｪテき縺後°繧上＞が→]</span>縲√◎縺励※ <span class=t-M>(譛霑・</span>、span class=t-S>蠖ｼ繧峨→蜀咏悄繧呈聴繧九％縺ｨは</span> <span class=t-V>縺ｧが/span> <span class=t-C>莠ｺ豌・/span>、",
+    naturalTranslation: "螟壹￥の莠ｺ縺後け繧ｪテき繧偵°繧上＞が→諤昴＞縲∵怙霑代〒はク繧ｪテき縺ｨ荳邱偵↓蜀咏悄繧呈聴繧九％縺ｨ縺御ｺｺ豌励〒縺吶・",
+    vocabulary: [
+    {
+    word: "cute",
+    meaning: "縺九ｏが＞"},
+    {
+    word: "these days",
+    meaning: "譛霑・"},
+    {
+    word: "take photos",
+    meaning: "蜀咏悄繧呈聴繧・"},
+    {
+    word: "popular",
+    meaning: "莠ｺ豌励・縺ゅｋ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "taking photos",
+    explanation: "<b>蜍募錐隧・/b>: 荳ｻ隱槭→縺励※縲悟・逵溘ｒ謦ｮ繧九％縺ｨ縲阪・"}
+    ]
+    }
+    },
+    {
+    id: 15,
+    text: "This became even more popular after an Australian actor took pictures with a quokka and shared them on the Internet.",
+    translation: "繧ｪー繧ｹ繝医Λ繝ｪ繧｢莠ｺ菫ｳ蜆ｪ縺後け繧ｪテき縺ｨ蜀咏悄繧呈聴繧翫う繝ｳ繧ｿー繝阪ャ繝医〒蜈ｱ譛峨＠縺溷ｾ後√％繧後・縺輔ｉ縺ｫ莠ｺ豌励↓縺ｪ繧翫∪縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: [ "became", "took", "shared" ],
+    structureHtml: "<span class=chunk S-group><span class=text>This</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>became</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>even more popular</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>(after an Australian actor took pictures with a quokka and shared them on the Internet)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>縺薙ｌは</span> <span class=t-V>縺ｪ繧翫∪縺励◆</span> <span class=t-C>縺輔ｉ縺ｫ莠ｺ豌励↓</span> <span class=t-M>(繧ｪー繧ｹ繝医Λ繝ｪ繧｢莠ｺ菫ｳ蜆ｪ縺後け繧ｪテき縺ｨ蜀咏悄繧呈聴繧翫う繝ｳ繧ｿー繝阪ャ繝医〒蜈ｱ譛峨＠縺溷ｾ・</span>、",
+    naturalTranslation: "繧ｪー繧ｹ繝医Λ繝ｪ繧｢の菫ｳ蜆ｪ縺後け繧ｪテき縺ｨの蜀咏悄繧偵ロテヨ縺ｫ荳翫￡縺溘％縺ｨ縺ｧ縲√＆繧峨↓莠ｺ豌励′鬮倥∪繧翫∪縺励◆、",
+    vocabulary: [
+    {
+    word: "even more",
+    meaning: "縺輔ｉ縺ｫ"},
+    {
+    word: "actor",
+    meaning: "菫ｳ蜆ｪ"},
+    {
+    word: "share",
+    meaning: "蜈ｱ譛峨☆繧・"},
+    {
+    word: "Internet",
+    meaning: "繧､繝ｳ繧ｿー繝阪ャテ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "after ... took and shared",
+    explanation: "<b>after遽</b>: 縲後懊＠縺溷ｾ後阪・"}
+    ]
+    }
+    },
+    {
+    id: 16,
+    text: "The morning and the evening are good times to take photos with them.",
+    translation: "譛昴→螟墓婿は蠖ｼ繧峨→蜀咏悄繧呈聴繧九・縺ｫ濶ｯが凾髢薙〒縺吶・",
+    grammarAnalysis: {
+    mainVerbs: "[ are ]",
+    structureHtml: "<span class=chunk S-group><span class=text>The morning and the evening</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>good times [to take photos with them]</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-S>譛昴→螟墓婿は</span> <span class=t-V>縺ｧが/span> <span class=t-C>濶ｯが凾髢・[蠖ｼ繧峨→蜀咏悄繧呈聴繧九・縺ｫ]</span>、",
+    naturalTranslation: "譛昴→螟墓婿縺後け繧ｪテき縺ｨの謦ｮ蠖ｱ縺ｫ驕ｩ縺励◆譎る俣蟶ｯ縺ｧ縺吶・",
+    vocabulary: "[  ]",
+    grammarNotes: [
+    {
+    phrase: "good times to take",
+    explanation: "<b>荳榊ｮ夊ｩ槭・蠖｢螳ｹ隧樒噪逕ｨ豕・/b>: times繧剃ｿｮ鬟ｾ、"}
+    ]
+    }
+    },
+    {
+    id: 17,
+    text: "However, some people who want to protect quokkas say there are some important rules for taking photos with quokkas.",
+    translation: "縺励°縺励√け繧ｪテき繧貞ｮ医ｊ縺溘＞莠ｺ、・縲√け繧ｪテき縺ｨ蜀咏悄繧呈聴繧矩圀縺ｫはが￥縺､縺九・驥崎ｦ√↑繝ｫー繝ｫ縺後≠繧九→險っ縺ｦが∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: [ "say", "are" ],
+    structureHtml: "However, <span class=chunk S-group><span class=text>some people [who want to protect quokkas]</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>say</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[there are some important rules for taking photos with quokkas]</span><span class=tag>O</span></span>.",
+    translationHtml: "縺励°縺励・span class=t-S>ク繧ｪテき繧貞ｮ医ｊ縺溘＞莠ｺ、・</span> <span class=t-V>險っ縺ｦが∪が/span> <span class=t-O>[ク繧ｪテき縺ｨ蜀咏悄繧呈聴繧矩圀縺ｫはが￥縺､縺九・驥崎ｦ√↑繝ｫー繝ｫ縺後≠繧九→]</span>、",
+    naturalTranslation: "縺励°縺励√け繧ｪテき繧剃ｿ晁ｭｷ縺励◆がｺｺ、・縲∝・逵滓聴蠖ｱ縺ｫは驥崎ｦ√↑繝ｫー繝ｫ縺後≠繧九→險が∪縺吶・",
+    vocabulary: [
+    {
+    word: "protect",
+    meaning: "螳医ｋ縲∽ｿ晁ｭｷ縺吶ｋ"},
+    {
+    word: "rule",
+    meaning: "繝ｫー繝ｫ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "who want to protect",
+    explanation: "<b>髢｢菫ゆｻ｣蜷崎ｩ檜ho</b>: some people繧剃ｿｮ鬟ｾ、"}
+    ]
+    }
+    },
+    {
+    id: 18,
+    text: "For example, people should wait for quokkas to come close before they take photos with them, and they should not touch quokkas.",
+    translation: "萓九∴縺ｰ縲∽ｺｺ、・蜀咏悄繧呈聴繧句燕縺ｫク繧ｪテき縺瑚ｿ代▼が※縺上ｋの繧貞ｾ・▽縺ｹ縺阪〒縺ゅｊ縲√け繧ｪテき縺ｫ隗ｦ繧後ｋ縺ｹ縺阪〒は縺ゅｊ縺ｾ縺帙ｓ、",
+    grammarAnalysis: {
+    mainVerbs: [ "should wait", "take", "should not touch" ],
+    structureHtml: "For example, <span class=chunk S-group><span class=text>people</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>should wait</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(for quokkas to come close)</span><span class=tag>M</span></span> <span class=chunk M-group><span class=text>(before they take photos with them)</span><span class=tag>M</span></span>, and <span class=chunk S-group><span class=text>they</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>should not touch</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>quokkas</span><span class=tag>O</span></span>.",
+    translationHtml: "萓九∴縺ｰ、span class=t-S>莠ｺ、・</span> <span class=t-V>蠕・▽縺ｹ縺阪〒が/span> <span class=t-M>(ク繧ｪテき縺瑚ｿ代▼が※縺上ｋの繧・</span> <span class=t-M>(蜀咏悄繧呈聴繧句燕縺ｫ)</span>縲√◎縺励※ <span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>隗ｦ繧後ｋ縺ｹ縺阪〒は縺ゅｊ縺ｾ縺帙ｓ</span> <span class=t-O>ク繧ｪテき縺ｫ</span>、",
+    naturalTranslation: "萓九∴縺ｰ縲√け繧ｪテき縺瑚ｿ代▼が※縺上ｋの繧貞ｾ・▲縺ｦ縺九ｉ蜀咏悄繧呈聴繧翫∬ｧｦ繧峨↑がｈが↓縺吶∋縺阪〒縺吶・",
+    vocabulary: [
+    {
+    word: "wait for",
+    meaning: "縲懊ｒ蠕・▽"},
+    {
+    word: "come close",
+    meaning: "霑代▼が"},
+    {
+    word: "touch",
+    meaning: "隗ｦ繧・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "wait for ... to come",
+    explanation: "<b>wait for + O + to do</b>: 縲薫縺後懊☆繧九・繧貞ｾ・▽縲阪・"}
+    ]
+    }
+    },
+    {
+    id: 19,
+    text: "Also, they say people should not feed them because human food can make them sick.",
+    translation: "縺ｾ縺溘∽ｺｺ髢薙・鬟溘∋迚ｩはク繧ｪテき繧堤羅豌励↓縺輔○繧句庄閭ｽ諤ｧ縺後≠繧九◆繧√・､後ｒ荳弱∴繧九∋縺阪〒は縺ｪが→險っ縺ｦが∪縺吶・",
+    grammarAnalysis: {
+    mainVerbs: [ "say", "should not feed", "can make" ],
+    structureHtml: "Also, <span class=chunk S-group><span class=text>they</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>say</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[people should not feed them]</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(because human food can make them sick)</span><span class=tag>M</span></span>.",
+    translationHtml: "縺ｾ縺溘・span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>險っ縺ｦが∪が/span> <span class=t-O>[莠ｺ、・ク繧ｪテき縺ｫ鬢後ｒ荳弱∴繧九∋縺阪〒は縺ｪが→]</span> <span class=t-M>(莠ｺ髢薙・鬟溘∋迚ｩ縺悟ｽｼ繧峨ｒ逞・ｰ励↓縺輔○繧句庄閭ｽ諤ｧ縺後≠繧九°繧・</span>、",
+    naturalTranslation: "縺ｾ縺溘∽ｺｺ髢薙・鬟溘∋迚ｩは逞・ｰ励・蜴溷屏縺ｫ縺ｪ繧九◆繧√・､後ｒ荳弱∴縺ｦはが￠縺ｪが→繧りｨ繧上ｌ縺ｦが∪縺吶・",
+    vocabulary: [
+    {
+    word: "feed",
+    meaning: "鬢後ｒ荳弱∴繧・"},
+    {
+    word: "human food",
+    meaning: "莠ｺ髢薙・鬟溘∋迚ｩ"},
+    {
+    word: "make ... sick",
+    meaning: "縲懊ｒ逞・ｰ励↓縺輔○繧・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "make them sick",
+    explanation: "<b>make + O + C</b>: 縲薫繧偵懊・迥ｶ諷九↓縺吶ｋ縲搾ｼ井ｽｿ蠖ｹ・峨・"}
+    ]
+    }
+    }
+    ]
+    }
+    ],
+    questions: [
+    {
+    id: 26,
+    text: "What did Willem de Vlamingh think when he saw some quokkas?",
+    textTranslation: "繧ｦ繧｣繝ｬ繝繝ｻテ・繝輔Λ繝溘Φ繧ｰはク繧ｪテき繧定ｦ九◆縺ｨ縺堺ｽ輔ｒ諤昴＞縺ｾ縺励◆縺具ｼ・",
+    keywords: [ "Willem de Vlamingh", "think" ],
+    keywordExplanations: {
+    "Willem de Vlamingh": "第2谿ｵ關ｽ縺ｧ縺薙・莠ｺ迚ｩの閠・∴繧呈爾縺吶・"
+    },
+    keywordMatches: [
+    {
+    sentenceId: 7,
+    text: "thought quokkas looked like big rats",
+    keyword: "think"}
+    ],
+    choiceAdvice: "驕ｸ謚櫁いは繧ｦ繧｣繝ｬ繝繝ｻテ・繝輔Λ繝溘Φ繧ｰの閠・∴・・angerous / kangaroos / rats / popular pet・峨ｒ霑ｰ縺ｹ縺ｦが∪縺吶らｬｬ2谿ｵ關ｽ繧堤｢ｺ隱阪＠縺ｾ縺励ｇが・",
+    choices: [
+    {
+    id: 1,
+    text: "He thought they were dangerous.",
+    translation: "蜊ｱ髯ｺ縺縺ｨ諤昴▲縺溘・",
+    isCorrect: false},
+    {
+    id: 2,
+    text: "He thought they were kangaroos.",
+    translation: "繧ｫ繝ｳ繧ｬ繝ｫー縺縺ｨ諤昴▲縺溘・",
+    isCorrect: false},
+    {
+    id: 3,
+    text: "He thought they looked like rats.",
+    translation: "繝阪ぜ繝溘・繧医≧縺ｫ隕九∴繧九→諤昴▲縺溘・",
+    isCorrect: true,
+    highlight: "looked like rats"},
+    {
+    id: 4,
+    text: "He thought they were a popular pet.",
+    translation: "莠ｺ豌励・繝壹ャ繝医□縺ｨ諤昴▲縺溘・",
+    isCorrect: false}
+    ],
+    hint: {
+    paragraphId: 2,
+    description: "第2谿ｵ關ｽ縲ゅ径 man named Willem de Vlamingh thought quokkas looked like big rats縲阪→が≧譁・ｒ遒ｺ隱阪・",
+    targetSentenceId: 7,
+    highlightWord: "thought quokkas looked like big rats",
+    highlightWordSentenceId: 7
+    },
+    logic: [
+    {
+    type: "text",
+    content: "譛ｬ譁・ a man named Willem de Vlamingh thought quokkas looked like big rats."},
+    {
+    type: "arrow",
+    content: "縲後け繧ｪテき繧貞､ｧ縺阪↑繝阪ぜ繝溘・繧医≧縺ｫ隕九∴繧九→諤昴▲縺溘・"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い3: He thought they looked like rats."},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣: 3"}
+    ]
+    },
+    {
+    id: 27,
+    text: "Where do quokkas like to live?",
+    textTranslation: "ク繧ｪテきは縺ｩ縺薙↓菴上・の縺悟･ｽ縺阪〒縺吶°・・",
+    keywords: "[ like to live ]",
+    keywordExplanations: {
+    "like to live": "第3谿ｵ關ｽ縺ｧク繧ｪテきの螂ｽ繧逕滓・蝨ｰ繧呈爾縺吶・"
+    },
+    keywordMatches: [
+    {
+    sentenceId: 9,
+    text: "like living in areas with tall grass",
+    keyword: "like to live"}
+    ],
+    choiceAdvice: "驕ｸ謚櫁いは逕滓・蝨ｰ・・ig cities / tall grass / people's homes / coldest town・峨ｒ霑ｰ縺ｹ縺ｦが∪縺吶らｬｬ3谿ｵ關ｽ繧堤｢ｺ隱阪＠縺ｾ縺励ｇが・",
+    choices: [
+    {
+    id: 1,
+    text: "In big cities like Perth.",
+    translation: "繝代・繧ｹの繧医≧縺ｪ大驛ｽ蟶ゅ↓、",
+    isCorrect: false},
+    {
+    id: 2,
+    text: "In places with tall grass.",
+    translation: "閭後・鬮倥＞闕峨・縺ゅｋ蝣ｴ謇縺ｫ、",
+    isCorrect: true,
+    highlight: "places with tall grass"},
+    {
+    id: 3,
+    text: "Under people's homes on Rottnest Island.",
+    translation: "繝ｭテヨ繝阪せ繝亥ｳｶの莠ｺ、・螳ｶの荳九↓、",
+    isCorrect: false},
+    {
+    id: 4,
+    text: "In the coldest town in Australia.",
+    translation: "繧ｪー繧ｹ繝医Λ繝ｪ繧｢縺ｧ譛繧ょｯ偵＞逕ｺ縺ｫ、",
+    isCorrect: false}
+    ],
+    hint: {
+    paragraphId: 3,
+    description: "第3谿ｵ關ｽ縲ゅ卦hey like living in areas with tall grass縲阪→が≧譁・ｒ遒ｺ隱阪・",
+    targetSentenceId: 9,
+    highlightWord: "like living in areas with tall grass",
+    highlightWordSentenceId: 9
+    },
+    logic: [
+    {
+    type: "text",
+    content: "譛ｬ譁・ They like living in areas with tall grass."},
+    {
+    type: "arrow",
+    content: "縲瑚レの鬮倥＞闕峨・縺ゅｋ蝨ｰ蝓溘↓菴上・縺薙→繧貞･ｽ繧、"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い2: In places with tall grass."},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣: 2"}
+    ]
+    },
+    {
+    id: 28,
+    text: "These days, some people like to",
+    textTranslation: "譛霑代∽ｸ驛ｨの莠ｺ、・縲懊′螂ｽ縺阪〒が",
+    keywords: [ "these days", "like to" ],
+    keywordExplanations: {
+    "these days": "第4谿ｵ關ｽ縺ｧ縲荊hese days縲阪・險倩ｿｰ繧呈爾縺吶・"
+    },
+    keywordMatches: [
+    {
+    sentenceId: 14,
+    text: "these days",
+    "taking photos with them is popular, keyword": "these days"}
+    ],
+    choiceAdvice: "驕ｸ謚櫁いは譛霑台ｺｺ豌励・豢ｻ蜍包ｼ・limb trees / take photos / protect houses / hunt for food・峨ｒ霑ｰ縺ｹ縺ｦが∪縺吶らｬｬ4谿ｵ關ｽ繧堤｢ｺ隱阪＠縺ｾ縺励ｇが・",
+    choices: [
+    {
+    id: 1,
+    text: "climb trees with quokkas.",
+    translation: "ク繧ｪテき縺ｨ譛ｨ縺ｫ逋ｻ繧九・",
+    isCorrect: false},
+    {
+    id: 2,
+    text: "take photos with quokkas.",
+    translation: "ク繧ｪテき縺ｨ蜀咏悄繧呈聴繧九・",
+    isCorrect: true,
+    highlight: "take photos with quokkas"},
+    {
+    id: 3,
+    text: "use quokkas to protect their houses.",
+    translation: "ク繧ｪテき繧剃ｽｿっ縺ｦ螳ｶ繧貞ｮ医ｋ、",
+    isCorrect: false},
+    {
+    id: 4,
+    text: "hunt quokkas for food.",
+    translation: "鬟溘∋迚ｩの縺溘ａ縺ｫク繧ｪテき繧堤叫繧九・",
+    isCorrect: false}
+    ],
+    hint: {
+    paragraphId: 4,
+    description: "第4谿ｵ關ｽ縲ゅ荊hese days, taking photos with them is popular縲阪→が≧譁・ｒ遒ｺ隱阪・",
+    targetSentenceId: 14,
+    highlightWord: "these days, taking photos with them is popular",
+    highlightWordSentenceId: 14
+    },
+    logic: [
+    {
+    type: "text",
+    content: "譛ｬ譁・ these days, taking photos with them is popular."},
+    {
+    type: "arrow",
+    content: "縲梧怙霑代∝ｽｼ繧峨→蜀咏悄繧呈聴繧九％縺ｨ縺御ｺｺ豌励・"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い2: take photos with quokkas."},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣: 2"}
+    ]
+    },
+    {
+    id: 29,
+    text: "What do some people who want to protect quokkas say about human food?",
+    textTranslation: "ク繧ｪテき繧貞ｮ医ｊ縺溘＞莠ｺ、・莠ｺ髢薙・鬟溘∋迚ｩ縺ｫ縺､が※菴輔→險っ縺ｦが∪縺吶°・・",
+    keywords: [ "protect quokkas", "human food" ],
+    keywordExplanations: {
+    "human food": "第4谿ｵ關ｽ縺ｧ莠ｺ髢薙・鬟溘∋迚ｩ縺ｫ髢｢縺吶ｋ隴ｦ蜻翫ｒ謗｢縺吶・"
+    },
+    keywordMatches: [
+    {
+    sentenceId: 19,
+    text: "human food can make them sick",
+    keyword: "human food"}
+    ],
+    choiceAdvice: "驕ｸ謚櫁いは莠ｺ髢薙・鬟溘∋迚ｩ縺ｫ髢｢縺吶ｋ諢剰ｦ具ｼ・hare / only morning / make sick / good・峨ｒ霑ｰ縺ｹ縺ｦが∪縺吶らｬｬ4谿ｵ關ｽの邨ゅｏ繧翫ｒ遒ｺ隱阪＠縺ｾ縺励ｇが・",
+    choices: [
+    {
+    id: 1,
+    text: "Quokkas often share it with other animals.",
+    translation: "ク繧ｪテきは繧医￥莉悶・蜍慕黄縺ｨ縺昴ｌ繧貞・譛峨☆繧九・",
+    isCorrect: false},
+    {
+    id: 2,
+    text: "Quokkas can only eat it in the morning.",
+    translation: "ク繧ｪテきは譛昴□縺代◎繧後ｒ鬟溘∋繧峨ｌ繧九・",
+    isCorrect: false},
+    {
+    id: 3,
+    text: "It can make quokkas sick.",
+    translation: "縺昴ｌはク繧ｪテき繧堤羅豌励↓縺輔○繧句庄閭ｽ諤ｧ縺後≠繧九・",
+    isCorrect: true,
+    highlight: "make quokkas sick"},
+    {
+    id: 4,
+    text: "It is good for quokkas.",
+    translation: "縺昴ｌはク繧ｪテき縺ｫ縺ｨっ縺ｦ濶ｯが・",
+    isCorrect: false}
+    ],
+    hint: {
+    paragraphId: 4,
+    description: "第4谿ｵ關ｽの譛蠕後ゅ継eople should not feed them because human food can make them sick縲阪→が≧譁・ｒ遒ｺ隱阪・",
+    targetSentenceId: 19,
+    highlightWord: "human food can make them sick",
+    highlightWordSentenceId: 19
+    },
+    logic: [
+    {
+    type: "text",
+    content: "譛ｬ譁・ people should not feed them because human food can make them sick."},
+    {
+    type: "arrow",
+    content: "縲御ｺｺ髢薙・鬟溘∋迚ｩはク繧ｪテき繧堤羅豌励↓縺輔○繧句庄閭ｽ諤ｧ縺後≠繧九・"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い3: It can make quokkas sick."},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣: 3"}
+    ]
+    },
+    {
+    id: 30,
+    text: "What is this story about?",
+    textTranslation: "縺薙・隧ｱは菴輔↓縺､が※縺ｧ縺吶°・・",
+    keywords: "[ story about ]",
+    keywordExplanations: {
+    "story about": "譁・ｫ蜈ｨ菴薙・テ・繝槭ｒ蝠上≧蝠城｡後ゅち繧､繝医Ν縺ｨ蜀・ｮｹ縺九ｉ蛻､譁ｭ、"
+    },
+    keywordMatches: [
+    {
+    sentenceId: 1,
+    text: "The quokka is a special animal from Australia",
+    keyword: "story about"}
+    ],
+    choiceAdvice: "驕ｸ謚櫁いは譁・ｫ蜈ｨ菴薙・テ・繝橸ｼ・nimal with small ears / zoo / actor's pet / island with rats・峨ｒ陦ｨ縺励※が∪縺吶ゅち繧､繝医Ν縲卦he Quokka縲阪°繧牙愛譁ｭ縺励∪縺励ｇが・",
+    choices: [
+    {
+    id: 1,
+    text: "An Australian animal with small ears.",
+    translation: "蟆上＆縺ｪ閠ｳ繧呈戟縺､繧ｪー繧ｹ繝医Λ繝ｪ繧｢の蜍慕黄、",
+    isCorrect: true,
+    highlight: "An Australian animal with small ears"},
+    {
+    id: 2,
+    text: "A zoo with many popular Australian animals.",
+    translation: "莠ｺ豌励・縺ゅｋ繧ｪー繧ｹ繝医Λ繝ｪ繧｢の蜍慕黄縺後◆縺上＆繧薙＞繧句虚迚ｩ蝨偵・",
+    isCorrect: false},
+    {
+    id: 3,
+    text: "An Australian actor's pet.",
+    translation: "繧ｪー繧ｹ繝医Λ繝ｪ繧｢莠ｺ菫ｳ蜆ｪの繝壹ャ繝医・",
+    isCorrect: false},
+    {
+    id: 4,
+    text: "An island in Australia with many rats.",
+    translation: "繧ｪー繧ｹ繝医Λ繝ｪ繧｢縺ｫ縺ゅｋ繝阪ぜ繝溘′縺溘￥縺輔ｓがｋ蟲ｶ、",
+    isCorrect: false}
+    ],
+    hint: {
+    paragraphId: 1,
+    description: "譁・ｫ蜈ｨ菴薙・テ・繝槫撫鬘後ゅち繧､繝医Ν縲卦he Quokka縲阪→第1谿ｵ關ｽ縲径 special animal from Australia縲阪卦heir ears are small and round縲阪°繧峨∝ｰ上＆縺ｪ閠ｳ繧呈戟縺､繧ｪー繧ｹ繝医Λ繝ｪ繧｢の蜍慕黄縺ｫ縺､が※の隧ｱ、",
+    targetSentenceId: 4,
+    highlightWord: "Their ears are small and round",
+    highlightWordSentenceId: 4
+    },
+    logic: [
+    {
+    type: "text",
+    content: "繧ｿ繧､繝医Ν: The Quokka / 譛ｬ譁・ a special animal from Australia + Their ears are small and round"},
+    {
+    type: "arrow",
+    content: "縲悟ｰ上＆縺ｪ閠ｳ繧呈戟縺､繧ｪー繧ｹ繝医Λ繝ｪ繧｢の蜍慕黄の隧ｱ、"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い1: An Australian animal with small ears."},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣: 1"}
+    ]
+    }
+    ],
+    summaryForInstructors: {
+    title: "The Quokka・医け繧ｪテき・・",
+    intro: "繧ｪー繧ｹ繝医Λ繝ｪ繧｢蝗ｺ譛峨・譛芽｢矩｡槭け繧ｪテき縺ｫ縺､が※縲ゅ◎の螟冶ｦ九∫函諱ｯ蝨ｰ縲∽ｺｺ豌励・蜀咏悄謦ｮ蠖ｱ縲√◎縺励※菫晁ｭｷの縺溘ａの豕ｨ諢丈ｺ矩・ｒ隗｣隱ｬ縺吶ｋ繝代ャ繧ｻージ、",
+    points: [
+    {
+    label: "1. 螟冶ｦ九→迚ｹ蠕ｴ",
+    text: "繧ｫ繝ｳ繧ｬ繝ｫー縺ｫ莨ｼ縺滓怏陲矩｡槭□縺後√ｈ繧雁ｰ丞梛・育ｴ・5cm・峨ゆｸｸがｽ薙∝ｰ上＆縺上※荳ｸがｳ、ｻ偵＞鮠ｻ繧呈戟縺､、"},
+    {
+    label: "2. 蜷榊燕の逕ｱ譚･",
+    text: "荳ｻ縺ｫ繝ｭテヨ繝阪せ繝亥ｳｶ・医ヱー繧ｹ霑代￥・峨↓逕滓・縲ゅが繝ｩ繝ｳ繝莠ｺ謗｢讀懷ｮｶ繧ｦ繧｣繝ｬ繝繝ｻテ・繝輔Λ繝溘Φ繧ｰ縺後け繧ｪテき繧貞､ｧ縺阪↑繝阪ぜ繝溘→蜍倬＆が＠縺溘％縺ｨ縺九ｉ縲後ロ繧ｺ繝溘・蟾｣縲阪→が≧諢丞袖の蜷榊燕縺後▽が◆、"},
+    {
+    label: "3. 逕滓・迥ｶ豕√・隱ｲ鬘・",
+    text: "隘ｿ繧ｪー繧ｹ繝医Λ繝ｪ繧｢縺ｫ逕滓・縲りレの鬮倥＞闕峨・縺ゅｋ蝣ｴ謇繧貞･ｽ縺ｿ縲∵惠逋ｻ繧翫′縺ｧ縺阪∝､懆｡梧ｧ縲よ悽蝨溘〒は迺ｰ蠅・､牙喧、㍽逕溘・迪ｫ繧・くテロ縲∵ｰ怜吝､牙虚縺ｫ繧医ｊ謨ｰ縺梧ｸ帛ｰ代・"},
+    {
+    label: "4. 蜀咏悄謦ｮ蠖ｱ縺ｨ菫晁ｭｷ",
+    text: "縺九ｏが＞縺ｨ莠ｺ豌励〒縲∽ｿｳ蜆ｪ縺郡NS縺ｫ謚慕ｨｿ縺励◆縺薙→縺ｧ縺輔ｉ縺ｫ莠ｺ豌励↓縲ゅ＠縺九＠菫晁ｭｷの縺溘ａ縲∬ｿ代▼が※縺上ｋの繧貞ｾ・▽縲∬ｧｦ繧峨↑が∽ｺｺ髢薙・鬟溘∋迚ｩ繧剃ｸ弱∴縺ｪがｼ育羅豌励↓縺ｪ繧具ｼ峨↑縺ｩの繝ｫー繝ｫ縺後≠繧九・"}
+    ]
+    }
+    },
+];

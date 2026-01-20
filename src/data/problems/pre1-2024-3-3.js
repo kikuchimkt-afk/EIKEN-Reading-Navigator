@@ -1,0 +1,1050 @@
+export const problem_pre1_2024_3_3 = [
+    {
+    id: "pre1-2024-3-3",
+    grade: "貅・邏・",
+    title: "Bretton Woods",
+    subTitle: "2024年蠎ｦ 第3回大蝠・",
+    images: {
+    content: "/images/grade_pre1_2024_3_3_content.png",
+    question: "/images/grade_pre1_2024_3_3_question.png"
+    },
+    content: [
+    {
+    paragraphId: 1,
+    sentences: [
+    {
+    id: 1,
+    text: "In 1944, at Bretton Woods in the US state of New Hampshire, a conference of Allied countries was convened to create a stable international monetary and financial order.",
+    translation: "1944年縲√い繝｡繝ｪ繧ｫの繝九Ηー繝上Φ繝励す繝｣ー蟾槭↓縺ゅｋ繝悶Ξ繝医Φ繧ｦテぜ縺ｧ縲∝ｮ牙ｮ壹＠縺溷嵜髫帷噪縺ｪ驥題檮遘ｩ蠎上ｒ讒狗ｯ峨☆繧九◆繧√↓騾｣蜷亥嵜の莨夊ｭｰ縺梧魚髮・＆繧後◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ was convened ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(In 1944, at Bretton Woods in the US state of New Hampshire)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>a conference of Allied countries</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was convened</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(to create a stable international monetary and financial order)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-M>(1944年縲√い繝｡繝ｪ繧ｫの繝九Ηー繝上Φ繝励す繝｣ー蟾槭↓縺ゅｋ繝悶Ξ繝医Φ繧ｦテぜ縺ｧ)</span>、span class=t-S>騾｣蜷亥嵜の莨夊ｭｰが/span> <span class=t-V>諡幃寔縺輔ｌが/span> <span class=t-M>(螳牙ｮ壹＠縺溷嵜髫帷噪縺ｪ驥題檮遘ｩ蠎上ｒ讒狗ｯ峨☆繧九◆繧√↓)</span>、",
+    naturalTranslation: "1944年縲√い繝｡繝ｪ繧ｫの繝九Ηー繝上Φ繝励す繝｣ー蟾槭ヶ繝ｬ繝医Φ繧ｦテぜ縺ｧ縲∝ｮ牙ｮ壹＠縺溷嵜髫幃≡陞咲ｧｩ蠎上ｒ讒狗ｯ峨☆繧九◆繧√↓騾｣蜷亥嵜莨夊ｭｰ縺梧魚髮・＆繧後◆、",
+    vocabulary: [
+    {
+    word: "convene",
+    meaning: "諡幃寔縺吶ｋ"},
+    {
+    word: "Allied countries",
+    meaning: "騾｣蜷亥嵜"},
+    {
+    word: "monetary",
+    meaning: "驥題檮の、夊ｲｨの"},
+    {
+    word: "financial order",
+    meaning: "驥題檮遘ｩ蠎・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "was convened",
+    explanation: "<b>was convened (蜿怜虚諷・</b>: 縲梧魚髮・＆繧後◆縲阪ゆｼ夊ｭｰ縺御ｸｻ隱槭〒縲∬ｪｰ縺九↓諡幃寔縺輔ｌ繧句女縺題ｺｫの蠖｢、"},
+    {
+    phrase: "to create",
+    explanation: "<b>to create (荳榊ｮ夊ｩ槭・蜑ｯ隧樒噪逕ｨ豕・</b>: 縲後懊☆繧九◆繧√↓縲阪ら岼逧・ｒ陦ｨ縺吶・"}
+    ]
+    }
+    },
+    {
+    id: 2,
+    text: "The period since World War I had been one of turmoil that witnessed protectionist trade policies, hyperinflation, the Great Depression, and, ultimately, World War II.",
+    translation: "第荳谺｡荳也阜大謌ｦ莉･髯阪・譛滄俣は縲∽ｿ晁ｭｷ荳ｻ鄒ｩ逧・↑雋ｿ譏捺帆遲悶√ワ繧､繝代・繧､繝ｳ繝輔Ξ縲∝､ｧ諱先・縲√◎縺励※譛邨ら噪縺ｫは第莠梧ｬ｡荳也阜大謌ｦ繧堤ｵ碁ｨ薙＠縺滓ｿ蜍輔・譎ゆｻ｣縺っ縺溘・",
+    grammarAnalysis: {
+    mainVerbs: "[ had been ]",
+    structureHtml: "<span class=chunk S-group><span class=text>The period since World War I</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>had been</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>one of turmoil [that witnessed ...]</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-S>第荳谺｡荳也阜大謌ｦ莉･髯阪・譛滄俣は</span> <span class=t-V>縺っが/span> <span class=t-C>豼蜍輔・譎ゆｻ｣ [縲懊ｒ邨碁ｨ薙＠縺歉</span>、",
+    naturalTranslation: "第荳谺｡荳也阜大謌ｦ莉･髯阪・縲∽ｿ晁ｭｷ荳ｻ鄒ｩ逧・ｲｿ譏捺帆遲悶√ワ繧､繝代・繧､繝ｳ繝輔Ξ縲∝､ｧ諱先・縲√◎縺励※譛邨ら噪縺ｫ第莠梧ｬ｡荳也阜大謌ｦ繧堤岼謦・＠縺滓ｿ蜍輔・譎ゆｻ｣縺っ縺溘・",
+    vocabulary: [
+    {
+    word: "turmoil",
+    meaning: "豺ｷ荵ｱ縲∵ｿ蜍・"},
+    {
+    word: "protectionist",
+    meaning: "菫晁ｭｷ荳ｻ鄒ｩ逧・↑"},
+    {
+    word: "hyperinflation",
+    meaning: "繝上う繝代・繧､繝ｳ繝輔Ξ"},
+    {
+    word: "the Great Depression",
+    meaning: "大諱先・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "had been",
+    explanation: "<b>had been (驕主悉螳御ｺ・</b>: 1944年譎らせ縺九ｉ隕九※縲√◎繧御ｻ･蜑阪・迥ｶ諷九ｒ陦ｨ縺吶・"},
+    {
+    phrase: "that witnessed",
+    explanation: "<b>that witnessed (髢｢菫ゆｻ｣蜷崎ｩ・</b>: turmoil繧剃ｿｮ鬟ｾ縲ゅ後懊ｒ邨碁ｨ薙＠縺滓ｿ蜍輔阪・"}
+    ]
+    }
+    },
+    {
+    id: 3,
+    text: "Such events weighed on delegates shoulders but also underpinned their belief that reform was urgent.",
+    translation: "縺昴・繧医≧縺ｪ蜃ｺ譚･莠九・莉｣陦ｨ閠・◆縺｡の閧ｩ縺ｫ驥阪￥の縺励°縺九▲縺溘′縲∝酔譎ゅ↓謾ｹ髱ｩ縺梧･蜍吶〒縺ゅｋ縺ｨが≧菫｡蠢ｵ繧呈髪縺医※繧ゅ＞縺溘・",
+    grammarAnalysis: {
+    mainVerbs: "[ weighed ]",
+    structureHtml: "<span class=chunk S-group><span class=text>Such events</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>weighed on</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>delegates shoulders</span><span class=tag>O</span></span> <span class=chunk V-group><span class=text>but also underpinned</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>their belief [that reform was urgent]</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>縺昴・繧医≧縺ｪ蜃ｺ譚･莠九・</span> <span class=t-V>の縺励°縺九▲が/span> <span class=t-O>莉｣陦ｨ閠・◆縺｡の閧ｩ縺ｫ</span> <span class=t-V>縺励°縺励∪縺滓髪縺医◆</span> <span class=t-O>蠖ｼ繧峨・菫｡蠢ｵ繧・[謾ｹ髱ｩ縺梧･蜍吶〒縺ゅｋ縺ｨが≧]</span>、",
+    naturalTranslation: "縺昴・繧医≧縺ｪ蜃ｺ譚･莠九・莉｣陦ｨ閠・◆縺｡の閧ｩ縺ｫ驥阪￥の縺励°縺九▲縺溘′縲∝酔譎ゅ↓謾ｹ髱ｩ縺梧･蜍吶□縺ｨが≧蠖ｼ繧峨・菫｡蠢ｵ繧定｣丈ｻ倥￠縺ｦ繧ゅ＞縺溘・",
+    vocabulary: [
+    {
+    word: "weigh on",
+    meaning: "縲懊↓驥阪￥の縺励°縺九ｋ"},
+    {
+    word: "underpin",
+    meaning: "謾ｯ縺医ｋ縲∬｣丈ｻ倥￠繧・"},
+    {
+    word: "delegate",
+    meaning: "莉｣陦ｨ閠・"},
+    {
+    word: "urgent",
+    meaning: "邱頑･の縲∵･蜍吶・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "but also",
+    explanation: "<b>but also (蟇ｾ豈・</b>: not only A but also Bの螟牙ｽ｢縲ゅ後懊□縺代〒縺ｪ縺鞘ｦ繧ゅ阪・"},
+    {
+    phrase: "that reform was urgent",
+    explanation: "<b>that遽 (蜷梧ｼ)</b>: beliefの蜀・ｮｹ繧定ｪｬ譏弱☆繧句酔譬ｼ遽、"}
+    ]
+    }
+    },
+    {
+    id: 4,
+    text: "Although World War II continued to rage, the pendulum was swinging strongly in the Allies favor.",
+    translation: "第莠梧ｬ｡荳也阜大謌ｦは縺ｾ縺邯壹＞縺ｦが◆縺後∵険繧雁ｭ舌・騾｣蜷亥嵜蛛ｴ縺ｫ大縺阪￥蛯ｾが※が◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ was swinging ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(Although World War II continued to rage)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the pendulum</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was swinging</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(strongly)</span><span class=tag>M</span></span> <span class=chunk M-group><span class=text>(in the Allies favor)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-M>(第莠梧ｬ｡荳也阜大謌ｦは縺ｾ縺邯壹＞縺ｦが◆が</span>、span class=t-S>謖ｯ繧雁ｭ舌・</span> <span class=t-V>蛯ｾが※が◆</span> <span class=t-M>(大縺阪￥)</span> <span class=t-M>(騾｣蜷亥嵜蛛ｴ縺ｫ譛牙茜縺ｫ)</span>、",
+    naturalTranslation: "第莠梧ｬ｡荳也阜大謌ｦは縺ｾ縺迪帛ｨ√ｒ謖ｯ繧九▲縺ｦが◆縺後∵ュ蜍｢は騾｣蜷亥嵜縺ｫ大縺阪￥譛牙茜縺ｫ蛯ｾが※が◆、",
+    vocabulary: [
+    {
+    word: "rage",
+    meaning: "迪帛ｨ√ｒ謖ｯ繧九≧"},
+    {
+    word: "pendulum",
+    meaning: "謖ｯ繧雁ｭ・"},
+    {
+    word: "in one's favor",
+    meaning: "縲懊↓譛牙茜縺ｫ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "Although",
+    explanation: "<b>Although (隴ｲ豁ｩ)</b>: 縲後懊↓繧ゅ°縺九ｏ繧峨★縲阪後懊□縺代ｌ縺ｩ繧ゅ阪ょｾ灘ｱ樒ｯ繧貞ｰ弱￥、"},
+    {
+    phrase: "was swinging",
+    explanation: "<b>was swinging (驕主悉騾ｲ陦悟ｽ｢)</b>: 縲悟だが※が◆縲阪ら憾豕√′螟牙喧荳ｭ縺っ縺溘％縺ｨ繧定｡ｨ縺吶・"}
+    ]
+    }
+    },
+    {
+    id: 5,
+    text: "Nevertheless, delegates had concerns.",
+    translation: "縺昴ｌ縺ｫ繧ゅ°縺九ｏ繧峨★縲∽ｻ｣陦ｨ閠・◆縺｡縺ｫは諛ｸ蠢ｵ縺後≠っ縺溘・",
+    grammarAnalysis: {
+    mainVerbs: "[ had ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(Nevertheless)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>delegates</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>had</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>concerns</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-M>(縺昴ｌ縺ｫ繧ゅ°縺九ｏ繧峨★)</span>、span class=t-S>莉｣陦ｨ閠・◆縺｡は</span> <span class=t-V>謖√▲縺ｦが◆</span> <span class=t-O>諛ｸ蠢ｵ繧・/span>、",
+    naturalTranslation: "縺昴ｌ縺ｫ繧ゅ°縺九ｏ繧峨★縲∽ｻ｣陦ｨ閠・◆縺｡縺ｫは諛ｸ蠢ｵ縺後≠っ縺溘・",
+    vocabulary: [
+    {
+    word: "nevertheless",
+    meaning: "縺昴ｌ縺ｫ繧ゅ°縺九ｏ繧峨★"},
+    {
+    word: "concern",
+    meaning: "諛ｸ蠢ｵ縲∝ｿ・・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "Nevertheless",
+    explanation: "<b>Nevertheless (蜑ｯ隧・</b>: 縲後◎繧後↓繧ゅ°縺九ｏ繧峨★縲阪ょ燕譁・→騾・磁の髢｢菫ゅｒ遉ｺ縺吶・"}
+    ]
+    }
+    },
+    {
+    id: 6,
+    text: "As one US delegate put it, We fight together on sodden battlefields. . . . The test of this conference is whether we can walk together, solve our economic problems, down the road to peace as we today march to victory.",
+    translation: "縺ゅｋ繧｢繝｡繝ｪ繧ｫ莉｣陦ｨ閠・′霑ｰ縺ｹ縺溘ｈが↓縲√梧・、・縺ｬ縺九ｋ繧薙□謌ｦ蝣ｴ縺ｧ蜈ｱ縺ｫ謌ｦっ縺ｦがｋ縲ゅ％の莨夊ｭｰの隧ｦ驥醍浹は縲∝享蛻ｩ縺ｫ蜷代°っ縺ｦ陦碁ｲ縺吶ｋ莉頑律の繧医≧縺ｫ縲∝・縺ｫ豁ｩ縺ｿ縲∫ｵ梧ｸ亥撫鬘後ｒ隗｣豎ｺ縺励∝ｹｳ蜥後∈の驕薙ｒ騾ｲ繧√ｋ縺九←が°縺ｧ縺ゅｋ縲ゅ・",
+    grammarAnalysis: {
+    mainVerbs: "[ put ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(As one US delegate put it)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>We</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>fight</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(together on sodden battlefields)</span><span class=tag>M</span></span>. ... <span class=chunk S-group><span class=text>The test of this conference</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>whether we can walk together ...</span><span class=tag>C</span></span>",
+    translationHtml: "<span class=t-M>(縺ゅｋ繧｢繝｡繝ｪ繧ｫ莉｣陦ｨ縺瑚ｿｰ縺ｹ縺溘ｈが↓)</span>縲√・span class=t-S>謌代・・</span> <span class=t-V>謌ｦっ縺ｦがｋ</span> <span class=t-M>(蜈ｱ縺ｫ縺ｬ縺九ｋ繧薙□謌ｦ蝣ｴ縺ｧ)</span>、.. <span class=t-S>縺薙・莨夊ｭｰの隧ｦ驥醍浹は</span> <span class=t-V>縺ｧ縺ゅｋ</span> <span class=t-C>蜈ｱ縺ｫ豁ｩ繧√ｋ縺九←が°...</span>、",
+    naturalTranslation: "縺ゅｋ繧｢繝｡繝ｪ繧ｫ莉｣陦ｨ縺瑚ｪ槭▲縺溘ｈが↓縲√梧・、・縺ｬ縺九ｋ繧薙□謌ｦ蝣ｴ縺ｧ蜈ｱ縺ｫ謌ｦっ縺ｦがｋ縲ゅ％の莨夊ｭｰの隧ｦ驥醍浹は縲∽ｻ頑律蜍晏茜縺ｫ蜷代°っ縺ｦ陦碁ｲ縺吶ｋ繧医≧縺ｫ縲∝・縺ｫ豁ｩ縺ｿ邨梧ｸ亥撫鬘後ｒ隗｣豎ｺ縺励∝ｹｳ蜥後∈の驕薙ｒ騾ｲ繧√ｋ縺九←が°縺縲ゅ・",
+    vocabulary: [
+    {
+    word: "sodden",
+    meaning: "縺ｳ縺励ｇ豼｡繧後・縲√〓縺九ｋ繧薙□"},
+    {
+    word: "the test of",
+    meaning: "縲懊・隧ｦ驥醍浹"},
+    {
+    word: "march to victory",
+    meaning: "蜍晏茜縺ｫ蜷代°っ縺ｦ陦碁ｲ縺吶ｋ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "As ... put it",
+    explanation: "<b>As ... put it (蠑慕畑陦ｨ迴ｾ)</b>: 縲後懊′霑ｰ縺ｹ縺溘ｈが↓縲阪ょｼ慕畑繧貞ｰ主・縺吶ｋ陦ｨ迴ｾ、"},
+    {
+    phrase: "whether we can",
+    explanation: "<b>whether遽 (蜷崎ｩ樒ｯ)</b>: 縲後懊°縺ｩが°縲阪Ｊsの陬懆ｪ槭→縺ｪ繧句錐隧樒ｯ、"}
+    ]
+    }
+    }
+    ]
+    },
+    {
+    paragraphId: 2,
+    sentences: [
+    {
+    id: 7,
+    text: "The conference delegates included Harry Dexter White of the US Treasury and John Maynard Keynes, a well-known British economist.",
+    translation: "莨夊ｭｰの莉｣陦ｨ閠・↓は縲√い繝｡繝ｪ繧ｫ雋｡蜍咏怐の繝上Μー繝ｻテけ繧ｹ繧ｿー繝ｻ繝帙Ρ繧､繝医→縲∬送蜷阪↑繧､繧ｮ繝ｪ繧ｹの邨梧ｸ亥ｭｦ閠・ず繝ｧ繝ｳ繝ｻ繝｡繧､繝翫・繝峨・繧ｱ繧､繝ｳ繧ｺ縺悟性縺ｾ繧後※が◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ included ]",
+    structureHtml: "<span class=chunk S-group><span class=text>The conference delegates</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>included</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>Harry Dexter White of the US Treasury and John Maynard Keynes, [a well-known British economist]</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>莨夊ｭｰの莉｣陦ｨ閠・↓は</span> <span class=t-V>縺悟性縺ｾ繧後※が◆</span> <span class=t-O>繧｢繝｡繝ｪ繧ｫ雋｡蜍咏怐の繝上Μー繝ｻテけ繧ｹ繧ｿー繝ｻ繝帙Ρ繧､繝医→縲ー闡怜錐縺ｪ繧､繧ｮ繝ｪ繧ｹの邨梧ｸ亥ｭｦ閠・ ジ繝ｧ繝ｳ繝ｻ繝｡繧､繝翫・繝峨・繧ｱ繧､繝ｳ繧ｺ</span>、",
+    naturalTranslation: "莨夊ｭｰの莉｣陦ｨ閠・↓は縲√い繝｡繝ｪ繧ｫ雋｡蜍咏怐の繝上Μー繝ｻテけ繧ｹ繧ｿー繝ｻ繝帙Ρ繧､繝医→縲∬送蜷阪↑繧､繧ｮ繝ｪ繧ｹ莠ｺ邨梧ｸ亥ｭｦ閠・ず繝ｧ繝ｳ繝ｻ繝｡繧､繝翫・繝峨・繧ｱ繧､繝ｳ繧ｺ縺悟性縺ｾ繧後※が◆、",
+    vocabulary: [
+    {
+    word: "Treasury",
+    meaning: "雋｡蜍咏怐"},
+    {
+    word: "economist",
+    meaning: "邨梧ｸ亥ｭｦ閠・"},
+    {
+    word: "well-known",
+    meaning: "闡怜錐縺ｪ縲∵怏蜷阪↑"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "a well-known British economist",
+    explanation: "<b>蜷梧ｼ</b>: John Maynard Keynes繧定ｪｬ譏弱☆繧句錐隧槫唱縲ゅ瑚送蜷阪↑繧､繧ｮ繝ｪ繧ｹ莠ｺ邨梧ｸ亥ｭｦ閠・ｼ医〒縺ゅｋ・峨阪・"}
+    ]
+    }
+    },
+    {
+    id: 8,
+    text: "The United States had become the world's most powerful economy, overtaking the colonial European powers, and the agreement that emerged reinforced its dominant position.",
+    translation: "繧｢繝｡繝ｪ繧ｫは讀肴ｰ大慍荳ｻ鄒ｩの繝ｨー繝ｭテヱ蛻怜ｼｷ繧定ｿｽが栢縺阪∽ｸ也阜譛蠑ｷの邨梧ｸ亥､ｧ蝗ｽ縺ｨ縺ｪっ縺ｦ縺翫ｊ縲∫函縺ｾ繧後◆蜊泌ｮ壹・縺昴・謾ｯ驟咲噪縺ｪ蝨ｰ菴阪ｒ蠑ｷ蛹悶＠縺溘・",
+    grammarAnalysis: {
+    mainVerbs: [ "had become", "reinforced" ],
+    structureHtml: "<span class=chunk S-group><span class=text>The United States</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>had become</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>the world's most powerful economy</span><span class=tag>C</span></span>, <span class=chunk M-group><span class=text>(overtaking the colonial European powers)</span><span class=tag>M</span></span>, and <span class=chunk S-group><span class=text>the agreement [that emerged]</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>reinforced</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>its dominant position</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>繧｢繝｡繝ｪ繧ｫは</span> <span class=t-V>縺ｪっ縺ｦが◆</span> <span class=t-C>荳也阜譛蠑ｷの邨梧ｸ亥､ｧ蝗ｽ縺ｫ</span>、span class=t-M>(讀肴ｰ大慍荳ｻ鄒ｩの繝ｨー繝ｭテヱ蛻怜ｼｷ繧定ｿｽが栢が※)</span>縲√◎縺励※ <span class=t-S>逕溘∪繧後◆蜊泌ｮ壹・</span> <span class=t-V>蠑ｷ蛹悶＠が/span> <span class=t-O>縺昴・謾ｯ驟咲噪縺ｪ蝨ｰ菴阪ｒ</span>、",
+    naturalTranslation: "繧｢繝｡繝ｪ繧ｫは讀肴ｰ大慍荳ｻ鄒ｩ逧・↑繝ｨー繝ｭテヱ蛻怜ｼｷ繧定ｿｽが栢が※荳也阜譛蠑ｷの邨梧ｸ亥､ｧ蝗ｽ縺ｨ縺ｪっ縺ｦ縺翫ｊ縲√◎縺薙°繧臥函縺ｾ繧後◆蜊泌ｮ壹・縺昴・蜆ｪ菴阪↑遶句ｴ繧貞ｼｷ蛹悶＠縺溘・",
+    vocabulary: [
+    {
+    word: "overtake",
+    meaning: "霑ｽが栢が"},
+    {
+    word: "colonial",
+    meaning: "讀肴ｰ大慍の"},
+    {
+    word: "dominant",
+    meaning: "謾ｯ驟咲噪縺ｪ縲∝━菴阪↑"},
+    {
+    word: "reinforce",
+    meaning: "蠑ｷ蛹悶☆繧・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "overtaking",
+    explanation: "<b>蛻・ｩ樊ｧ区枚</b>: 縲瑚ｿｽが栢が※縲阪ゆｻ伜ｸｯ迥ｶ豕√ｒ陦ｨ縺咏樟蝨ｨ蛻・ｩ槭・"},
+    {
+    phrase: "that emerged",
+    explanation: "<b>髢｢菫ゆｻ｣蜷崎ｩ樒ｯ</b>: agreement繧剃ｿｮ鬟ｾ縲ゅ檎函縺ｾ繧後◆蜊泌ｮ壹阪・"}
+    ]
+    }
+    },
+    {
+    id: 9,
+    text: "The Bretton Woods system hinged on an arrangement that directly linked the value of the US dollar to gold.",
+    translation: "繝悶Ξ繝医Φ繧ｦテぜ菴灘宛は縲∫ｱｳ繝峨Νの萓｡蛟､繧帝≡縺ｫ逶ｴ謗･邨舌・縺､縺代ｋ蜿悶ｊ豎ｺ繧√ｒ霆ｸ縺ｨ縺励※が◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ hinged ]",
+    structureHtml: "<span class=chunk S-group><span class=text>The Bretton Woods system</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>hinged on</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>an arrangement [that directly linked the value of the US dollar to gold]</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>繝悶Ξ繝医Φ繧ｦテぜ菴灘宛は</span> <span class=t-V>繧定ｻｸ縺ｨ縺励※が◆</span> <span class=t-O>蜿悶ｊ豎ｺ繧・[邀ｳ繝峨Νの萓｡蛟､繧帝≡縺ｫ逶ｴ謗･邨舌・縺､縺代ｋ]</span>、",
+    naturalTranslation: "繝悶Ξ繝医Φ繧ｦテぜ菴灘宛は縲∫ｱｳ繝峨Νの萓｡蛟､繧帝≡縺ｫ逶ｴ謗･騾｣蜍輔＆縺帙ｋ蜿悶ｊ豎ｺ繧√ｒ蝓ｺ逶､縺ｨ縺励※が◆、",
+    vocabulary: [
+    {
+    word: "hinge on",
+    meaning: "縲懊ｒ霆ｸ縺ｨ縺吶ｋ縲√懊↓縺九°っ縺ｦがｋ"},
+    {
+    word: "arrangement",
+    meaning: "蜿悶ｊ豎ｺ繧√∝鵠実"},
+    {
+    word: "link A to B",
+    meaning: "A繧達縺ｫ邨舌・縺､縺代ｋ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "hinged on",
+    explanation: "<b>hinge on (鄒､蜍戊ｩ・</b>: 縲後懊ｒ霆ｸ縺ｨ縺吶ｋ縲阪後懊↓縺九°っ縺ｦがｋ縲阪・"},
+    {
+    phrase: "that directly linked",
+    explanation: "<b>髢｢菫ゆｻ｣蜷崎ｩ樒ｯ</b>: arrangement繧剃ｿｮ鬟ｾ縲ゅ檎峩謗･邨舌・縺､縺代ｋ縲阪・"}
+    ]
+    }
+    },
+    {
+    id: 10,
+    text: "At the time, the US Federal Reserve possessed the world's largest reserves of gold, so as White pointed out, it seemed unlikely the United States would run out.",
+    translation: "蠖捺凾縲∫ｱｳ騾｣驍ｦ貅門ｙ蛻ｶ蠎ｦ逅・ｺ倶ｼ壹・荳也阜譛大の驥第ｺ門ｙ繧剃ｿ晄怏縺励※縺翫ｊ縲√・繝ｯ繧､繝医′謖・遭縺励◆繧医≧縺ｫ縲√い繝｡繝ｪ繧ｫ縺碁≡繧剃ｽｿが棡縺溘☆縺薙→は縺ゅｊ縺昴≧縺ｫ縺ｪ縺九▲縺溘・",
+    grammarAnalysis: {
+    mainVerbs: [ "possessed", "seemed" ],
+    structureHtml: "<span class=chunk M-group><span class=text>(At the time)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the US Federal Reserve</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>possessed</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the world's largest reserves of gold</span><span class=tag>O</span></span>, so <span class=chunk M-group><span class=text>(as White pointed out)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>it</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>seemed unlikely</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>[the United States would run out]</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-M>(蠖捺凾)</span>、span class=t-S>邀ｳ騾｣驍ｦ貅門ｙ蛻ｶ蠎ｦは</span> <span class=t-V>菫晄怏縺励※が◆</span> <span class=t-O>荳也阜譛大の驥第ｺ門ｙ繧・/span>縲√□縺九ｉ <span class=t-M>(繝帙Ρ繧､繝医′謖・遭縺励◆繧医≧縺ｫ)</span>、span class=t-S>縺昴ｌは</span> <span class=t-V>縺ゅｊ縺昴≧縺ｫ縺ｪ縺九▲が/span> <span class=t-C>[繧｢繝｡繝ｪ繧ｫ縺御ｽｿが棡縺溘☆縺薙→は]</span>、",
+    naturalTranslation: "蠖捺凾縲∫ｱｳ騾｣驍ｦ貅門ｙ蛻ｶ蠎ｦは荳也阜譛大の驥第ｺ門ｙ繧剃ｿ晄怏縺励※縺翫ｊ縲√・繝ｯ繧､繝医′謖・遭縺励◆繧医≧縺ｫ縲√い繝｡繝ｪ繧ｫ縺後◎繧後ｒ菴ｿが棡縺溘☆縺薙→は縺ｪ縺輔◎が□っ縺溘・",
+    vocabulary: [
+    {
+    word: "Federal Reserve",
+    meaning: "騾｣驍ｦ貅門ｙ蛻ｶ蠎ｦ・・RB・・"},
+    {
+    word: "reserves",
+    meaning: "貅門ｙ驥代∝ｙ闢・"},
+    {
+    word: "possess",
+    meaning: "菫晄怏縺吶ｋ縲∵園譛峨☆繧・"},
+    {
+    word: "run out",
+    meaning: "蟆ｽ縺阪ｋ縲∽ｽｿが棡縺溘☆"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "as White pointed out",
+    explanation: "<b>謖ｿ蜈･遽</b>: 縲後・繝ｯ繧､繝医′謖・遭縺励◆繧医≧縺ｫ縲阪り｣懆ｶｳ隱ｬ譏弱ｒ蜉縺医ｋ謖ｿ蜈･陦ｨ迴ｾ、"},
+    {
+    phrase: "it seemed unlikely",
+    explanation: "<b>蠖｢蠑丈ｸｻ隱樊ｧ区枚</b>: itは蠕檎ｶ壹・that遽・育怐逡･・峨ｒ謖・☆縲ゅ後懊・縺ゅｊ縺昴≧縺ｫ縺ｪ縺九▲縺溘阪・"}
+    ]
+    }
+    },
+    {
+    id: 11,
+    text: "The knowledge that the US dollar was backed by gold helped establish it as the world's primary reserve currency, and the other signees agreed to tie the value of their currencies to the US dollar.",
+    translation: "邀ｳ繝峨Ν縺碁≡縺ｫ陬丈ｻ倥￠繧峨ｌ縺ｦがｋ縺ｨが≧遏･隴倥′縲√◎繧後ｒ荳也阜の荳ｻ隕√↑蝓ｺ霆ｸ騾夊ｲｨ縺ｨ縺励※遒ｺ遶九☆繧九・縺ｫ蠖ｹ遶九■縲∽ｻ悶・鄂ｲ蜷榊嵜は閾ｪ蝗ｽ騾夊ｲｨの萓｡蛟､繧堤ｱｳ繝峨Ν縺ｫ騾｣蜍輔＆縺帙ｋ縺薙→縺ｫ蜷梧э縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: [ "helped", "agreed" ],
+    structureHtml: "<span class=chunk S-group><span class=text>The knowledge [that the US dollar was backed by gold]</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>helped establish</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>it as the world's primary reserve currency</span><span class=tag>O</span></span>, and <span class=chunk S-group><span class=text>the other signees</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>agreed to tie</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the value of their currencies to the US dollar</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>遏･隴・[邀ｳ繝峨Ν縺碁≡縺ｫ陬丈ｻ倥￠繧峨ｌ縺ｦがｋ縺ｨが≧] は</span> <span class=t-V>遒ｺ遶九☆繧九・縺ｫ蠖ｹ遶九▲が/span> <span class=t-O>縺昴ｌ繧剃ｸ也阜の荳ｻ隕√↑蝓ｺ霆ｸ騾夊ｲｨ縺ｨ縺励※</span>縲√◎縺励※ <span class=t-S>莉悶・鄂ｲ蜷榊嵜は</span> <span class=t-V>騾｣蜍輔＆縺帙ｋ縺薙→縺ｫ蜷梧э縺励◆</span> <span class=t-O>閾ｪ蝗ｽ騾夊ｲｨの萓｡蛟､繧堤ｱｳ繝峨Ν縺ｫ</span>、",
+    naturalTranslation: "邀ｳ繝峨Ν縺碁≡縺ｫ陬丈ｻ倥￠繧峨ｌ縺ｦがｋ縺ｨが≧隱崎ｭ倥′縲√ラ繝ｫ繧剃ｸ也阜の荳ｻ隕∝渕霆ｸ騾夊ｲｨ縺ｨ縺励※遒ｺ遶九☆繧九・縺ｫ蟇・ｸ弱＠縲∽ｻ悶・鄂ｲ蜷榊嵜は閾ｪ蝗ｽ騾夊ｲｨの萓｡蛟､繧堤ｱｳ繝峨Ν縺ｫ騾｣蜍輔＆縺帙ｋ縺薙→縺ｫ蜷梧э縺励◆、",
+    vocabulary: [
+    {
+    word: "back",
+    meaning: "陬丈ｻ倥￠繧九∵髪縺医ｋ"},
+    {
+    word: "reserve currency",
+    meaning: "蝓ｺ霆ｸ騾夊ｲｨ縲∵ｺ門ｙ騾夊ｲｨ"},
+    {
+    word: "signee",
+    meaning: "鄂ｲ蜷崎・∫ｽｲ蜷榊嵜"},
+    {
+    word: "tie A to B",
+    meaning: "A繧達縺ｫ騾｣蜍輔＆縺帙ｋ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "that the US dollar was backed",
+    explanation: "<b>蜷梧ｼのthat遽</b>: knowledgeの蜀・ｮｹ繧定ｪｬ譏弱ゅ檎ｱｳ繝峨Ν縺瑚｣丈ｻ倥￠繧峨ｌ縺ｦがｋ縺ｨが≧縲阪・"},
+    {
+    phrase: "helped establish",
+    explanation: "<b>help + 蜴溷ｽ｢</b>: 縲後懊☆繧九・繧貞勧縺代ｋ縲阪Ｆstablish縺悟次蠖｢荳榊ｮ夊ｩ槭・"}
+    ]
+    }
+    }
+    ]
+    },
+    {
+    paragraphId: 3,
+    sentences: [
+    {
+    id: 12,
+    text: "Initially, the dollar's stability brought some success.",
+    translation: "蠖灘・縲√ラ繝ｫの螳牙ｮ壽ｧはが￥繧峨°の謌仙粥繧偵ｂ縺溘ｉ縺励◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ brought ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(Initially)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the dollar's stability</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>brought</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>some success</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-M>(蠖灘・)</span>、span class=t-S>繝峨Νの螳牙ｮ壽ｧは</span> <span class=t-V>繧ゅ◆繧峨＠が/span> <span class=t-O>が￥繧峨°の謌仙粥繧・/span>、",
+    naturalTranslation: "蠖灘・縲√ラ繝ｫの螳牙ｮ壽ｧ縺後≠繧狗ｨ句ｺｦの謌仙粥繧偵ｂ縺溘ｉ縺励◆、",
+    vocabulary: [
+    {
+    word: "initially",
+    meaning: "蠖灘・は縲∵怙蛻昴・"},
+    {
+    word: "stability",
+    meaning: "螳牙ｮ壽ｧ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "brought",
+    explanation: "<b>brought (SVO)</b>: bring-brought-brought縲ゅ後ｂ縺溘ｉ縺吶阪・驕主悉蠖｢、"}
+    ]
+    }
+    },
+    {
+    id: 13,
+    text: "However, cracks began to appear.",
+    translation: "縺励°縺励∽ｺ陬ゅ′迴ｾ繧悟ｧ九ａ縺溘・",
+    grammarAnalysis: {
+    mainVerbs: "[ began ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(However)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>cracks</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>began to appear</span><span class=tag>V</span></span>.",
+    translationHtml: "<span class=t-M>(縺励°が</span>、span class=t-S>莠陬ゅ′</span> <span class=t-V>迴ｾ繧悟ｧ九ａが/span>、",
+    naturalTranslation: "縺励°縺励√⊇縺薙ｍ縺ｳ縺瑚ｦ九∴蟋九ａ縺溘・",
+    vocabulary: [
+    {
+    word: "crack",
+    meaning: "莠陬ゅ√・縺ｳ縲√⊇縺薙ｍ縺ｳ"},
+    {
+    word: "appear",
+    meaning: "迴ｾ繧後ｋ縲∝ｧｿ繧堤樟が"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "began to appear",
+    explanation: "<b>begin to do</b>: 縲後懊＠蟋九ａ繧九阪ゆｸ榊ｮ夊ｩ槭ｒ蜿悶ｋ陦ｨ迴ｾ、"}
+    ]
+    }
+    },
+    {
+    id: 14,
+    text: "The leading European powers, for example, whose productive capabilities had been severely damaged in the war, were heavily dependent on US imports.",
+    translation: "萓九∴縺ｰ縲∵姶莠峨〒逕溽肇閭ｽ蜉帙′豺ｱ蛻ｻ縺ｪ謇捺茶繧貞女縺代◆繝ｨー繝ｭテヱの荳ｻ隕∝嵜は縲√い繝｡繝ｪ繧ｫ縺九ｉの霈ｸ蜈･縺ｫ大縺阪￥萓晏ｭ倥＠縺ｦが◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ were ]",
+    structureHtml: "<span class=chunk S-group><span class=text>The leading European powers</span><span class=tag>S</span></span>, <span class=chunk M-group><span class=text>(for example)</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>(whose productive capabilities had been severely damaged in the war)</span><span class=tag>M</span></span>, <span class=chunk V-group><span class=text>were</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>heavily dependent on US imports</span><span class=tag>C</span></span>.",
+    translationHtml: "<span class=t-S>繝ｨー繝ｭテヱの荳ｻ隕∝嵜は</span>、span class=t-M>(萓九∴縺ｰ)</span>、span class=t-M>(謌ｦ莠峨〒逕溽肇閭ｽ蜉帙′豺ｱ蛻ｻ縺ｪ謇捺茶繧貞女縺代◆)</span>、span class=t-V>縺っが/span> <span class=t-C>繧｢繝｡繝ｪ繧ｫ縺九ｉの霈ｸ蜈･縺ｫ大縺阪￥萓晏ｭ倥＠縺ｦ</span>、",
+    naturalTranslation: "萓九∴縺ｰ縲∵姶莠峨〒逕溽肇閭ｽ蜉帙′大縺阪￥謳阪↑繧上ｌ縺溘Κー繝ｭテヱの荳ｻ隕∝嵜は縲√い繝｡繝ｪ繧ｫ縺九ｉの霈ｸ蜈･縺ｫ大縺阪￥萓晏ｭ倥＠縺ｦが◆、",
+    vocabulary: [
+    {
+    word: "productive capabilities",
+    meaning: "逕溽肇閭ｽ蜉・"},
+    {
+    word: "severely",
+    meaning: "豺ｱ蛻ｻ縺ｫ縲√・縺ｩが"},
+    {
+    word: "dependent on",
+    meaning: "縲懊↓萓晏ｭ倥＠縺ｦがｋ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "whose productive capabilities",
+    explanation: "<b>髢｢菫ゆｻ｣蜷崎ｩ檜hose</b>: 謇譛画ｼの髢｢菫ゆｻ｣蜷崎ｩ槭ゅ後◎の逕溽肇閭ｽ蜉帙′縲懊＠縺溘阪・"},
+    {
+    phrase: "for example",
+    explanation: "<b>謖ｿ蜈･蜿･</b>: 縲御ｾ九∴縺ｰ縲阪ゆｸｻ隱槭→蜍戊ｩ槭・髢薙↓謖ｿ蜈･縺輔ｌ縺滉ｾ狗､ｺ陦ｨ迴ｾ、"}
+    ]
+    }
+    },
+    {
+    id: 15,
+    text: "These had to be paid for in US dollars, but some countries had insufficient dollar funds to do this.",
+    translation: "縺薙ｌ繧峨・繝峨Ν縺ｧ謾ｯ謇輔ｏ縺ｪ縺代ｌ縺ｰ縺ｪ繧峨↑縺九▲縺溘′縲∽ｸ驛ｨの蝗ｽ縺ｫは縺昴≧縺吶ｋ縺溘ａの蜊∝・縺ｪ繝峨Ν雉・≡縺後↑縺九▲縺溘・",
+    grammarAnalysis: {
+    mainVerbs: [ "had to be paid", "had" ],
+    structureHtml: "<span class=chunk S-group><span class=text>These</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>had to be paid for</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(in US dollars)</span><span class=tag>M</span></span>, but <span class=chunk S-group><span class=text>some countries</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>had</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>insufficient dollar funds [to do this]</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>縺薙ｌ繧峨・</span> <span class=t-V>謾ｯ謇輔ｏ繧後↑縺代ｌ縺ｰ縺ｪ繧峨↑縺九▲が/span> <span class=t-M>(繝峨Ν縺ｧ)</span>縲√＠縺九＠ <span class=t-S>荳驛ｨの蝗ｽ縺ｫは</span> <span class=t-V>縺ゅ▲が/span> <span class=t-O>荳榊香蛻・↑繝峨Ν雉・≡ [縺昴≧縺吶ｋ縺溘ａの]</span>、",
+    naturalTranslation: "縺薙ｌ繧峨・繝峨Ν縺ｧ謾ｯ謇輔≧蠢・ｦ√′縺ゅ▲縺溘′縲∽ｸ驛ｨの蝗ｽ縺ｫは縺昴≧縺吶ｋ縺溘ａの蜊∝・縺ｪ繝峨Ν雉・≡縺後↑縺九▲縺溘・",
+    vocabulary: [
+    {
+    word: "insufficient",
+    meaning: "荳榊香蛻・↑"},
+    {
+    word: "funds",
+    meaning: "雉・≡縲∝渕驥・"},
+    {
+    word: "pay for",
+    meaning: "縲懊・莉｣驥代ｒ謾ｯ謇輔≧"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "had to be paid for",
+    explanation: "<b>蜿怜虚諷九・have to</b>: 縲梧髪謇輔ｏ繧後↑縺代ｌ縺ｰ縺ｪ繧峨↑縺九▲縺溘阪らｾｩ蜍吶・蜿怜虚諷九・"},
+    {
+    phrase: "to do this",
+    explanation: "<b>荳榊ｮ夊ｩ槭・蠖｢螳ｹ隧樒噪逕ｨ豕・/b>: 縲後◎が☆繧九◆繧√・縲阪Ｇunds繧剃ｿｮ鬟ｾ、"}
+    ]
+    }
+    },
+    {
+    id: 16,
+    text: "As George C. Marshall, the US secretary of state, said at the time, Europe's requirements for food imports and essential products are so much greater than her present ability to pay that she must have substantial additional help or face economic, social, and political deterioration of a very grave character.",
+    translation: "蠖捺凾の繧｢繝｡繝ｪ繧ｫ蝗ｽ蜍咎聞螳倥ず繝ｧージ繝ｻC繝ｻ繝槭・繧ｷ繝｣繝ｫ縺瑚ｿｰ縺ｹ縺溘ｈが↓縲√Κー繝ｭテヱの鬟滓侭霈ｸ蜈･縺ｨ蠢・怙蜩√↓蟇ｾ縺吶ｋ髴隕√・縲檎樟蝨ｨの謾ｯ謇輔＞閭ｽ蜉帙ｒは繧九°縺ｫ荳雁屓っ縺ｦ縺翫ｊ縲∫嶌蠖薙↑霑ｽ蜉謠ｴ蜉ｩ繧貞女縺代↑縺代ｌ縺ｰ、撼蟶ｸ縺ｫ豺ｱ蛻ｻ縺ｪ邨梧ｸ育噪縲∫､ｾ莨夂噪縲∵帆豐ｻ逧・が蛹悶↓逶ｴ髱｢縺吶ｋ縺薙→縺ｫ縺ｪ繧九阪・",
+    grammarAnalysis: {
+    mainVerbs: [ "said", "are" ],
+    structureHtml: "<span class=chunk M-group><span class=text>(As George C. Marshall, the US secretary of state, said at the time)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>Europe's requirements for food imports and essential products</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>so much greater than her present ability to pay</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>(that she must have substantial additional help or face ... deterioration)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-M>(蠖捺凾の繧｢繝｡繝ｪ繧ｫ蝗ｽ蜍咎聞螳倥ず繝ｧージ繝ｻC繝ｻ繝槭・繧ｷ繝｣繝ｫ縺瑚ｿｰ縺ｹ縺溘ｈが↓)</span>、span class=t-S>繝ｨー繝ｭテヱの鬟滓侭霈ｸ蜈･縺ｨ蠢・怙蜩√∈の髴隕√・</span>、span class=t-V>縺ｧ縺ゅｋ</span> <span class=t-C>迴ｾ蝨ｨの謾ｯ謇輔＞閭ｽ蜉帙ｈ繧翫・繧九°縺ｫ大縺阪＞</span> <span class=t-M>(縺昴・縺溘ａ逶ｸ蠖薙↑霑ｽ蜉謠ｴ蜉ｩ繧貞ｾ励↑縺代ｌ縺ｰ...謔ｪ蛹悶↓逶ｴ髱｢縺吶ｋ)</span>縲阪・",
+    naturalTranslation: "蠖捺凾の邀ｳ蝗ｽ蜍咎聞螳倥ず繝ｧージ繝ｻC繝ｻ繝槭・繧ｷ繝｣繝ｫ縺瑚ｿｰ縺ｹ縺溘ｈが↓縲√Κー繝ｭテヱの鬟滓侭霈ｸ蜈･繧・ｿ・怙蜩√∈の髴隕√・縲檎樟蝨ｨの謾ｯ謇輔＞閭ｽ蜉帙ｒは繧九°縺ｫ雜・∴縺ｦ縺翫ｊ縲√°縺ｪ繧翫・霑ｽ蜉謠ｴ蜉ｩ繧貞女縺代↑縺代ｌ縺ｰ、撼蟶ｸ縺ｫ豺ｱ蛻ｻ縺ｪ邨梧ｸ医・遉ｾ莨壹・謾ｿ豐ｻの謔ｪ蛹悶↓逶ｴ髱｢縺吶ｋ縺繧阪≧縲阪・",
+    vocabulary: [
+    {
+    word: "secretary of state",
+    meaning: "蝗ｽ蜍咎聞実"},
+    {
+    word: "substantial",
+    meaning: "逶ｸ蠖薙↑縲√°縺ｪ繧翫・"},
+    {
+    word: "deterioration",
+    meaning: "謔ｪ蛹悶∝乾蛹・"},
+    {
+    word: "grave",
+    meaning: "豺ｱ蛻ｻ縺ｪ、㍾大縺ｪ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "so ... that",
+    explanation: "<b>so縲徼hat讒区枚</b>: 縲碁撼蟶ｸ縺ｫ縲懊↑の縺ｧ窶ｦ縲阪らｵ先棡繧定｡ｨ縺吝憶隧樒ｯ繧貞ｰ弱￥、"},
+    {
+    phrase: "the US secretary of state",
+    explanation: "<b>蜷梧ｼ</b>: George C. Marshall繧定ｪｬ譏弱☆繧句錐隧槫唱、"}
+    ]
+    }
+    },
+    {
+    id: 17,
+    text: "Concerns were raised that Europe might return to protectionist trade policies, which might negatively affect the free-trade-supporting United States.",
+    translation: "繝ｨー繝ｭテヱ縺御ｿ晁ｭｷ荳ｻ鄒ｩ逧・↑雋ｿ譏捺帆遲悶↓謌ｻ繧翫∬・逕ｱ雋ｿ譏薙ｒ謾ｯ謖√☆繧九い繝｡繝ｪ繧ｫ縺ｫ謔ｪ蠖ｱ髻ｿ繧貞所縺ｼ縺吶°繧ゅ＠繧後↑が→が≧諛ｸ蠢ｵ縺梧署襍ｷ縺輔ｌ縺溘・",
+    grammarAnalysis: {
+    mainVerbs: "[ were raised ]",
+    structureHtml: "<span class=chunk S-group><span class=text>Concerns</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were raised</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>[that Europe might return to protectionist trade policies]</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>(which might negatively affect the free-trade-supporting United States)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-S>諛ｸ蠢ｵが/span> <span class=t-V>謠占ｵｷ縺輔ｌが/span> <span class=t-M>[繝ｨー繝ｭテヱ縺御ｿ晁ｭｷ荳ｻ鄒ｩ逧・↑雋ｿ譏捺帆遲悶↓謌ｻ繧九°繧ゅ＠繧後↑が→が≧]</span>、span class=t-M>(縺昴ｌは閾ｪ逕ｱ雋ｿ譏薙ｒ謾ｯ謖√☆繧九い繝｡繝ｪ繧ｫ縺ｫ謔ｪ蠖ｱ髻ｿ繧貞所縺ｼ縺吶°繧ゅ＠繧後↑が</span>、",
+    naturalTranslation: "繝ｨー繝ｭテヱ縺御ｿ晁ｭｷ荳ｻ鄒ｩ逧・↑雋ｿ譏捺帆遲悶↓謌ｻ繧翫∬・逕ｱ雋ｿ譏薙ｒ謾ｯ謖√☆繧九い繝｡繝ｪ繧ｫ縺ｫ謔ｪ蠖ｱ髻ｿ繧剃ｸ弱∴繧九°繧ゅ＠繧後↑が→が≧諛ｸ蠢ｵ縺檎函縺倥◆、",
+    vocabulary: [
+    {
+    word: "protectionist",
+    meaning: "菫晁ｭｷ荳ｻ鄒ｩ逧・↑"},
+    {
+    word: "negatively affect",
+    meaning: "謔ｪ蠖ｱ髻ｿ繧貞所縺ｼが"},
+    {
+    word: "free-trade-supporting",
+    meaning: "閾ｪ逕ｱ雋ｿ譏薙ｒ謾ｯ謖√☆繧・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "that Europe might return",
+    explanation: "<b>蜷梧ｼのthat遽</b>: Concernsの蜀・ｮｹ繧定ｪｬ譏弱ゅ後Κー繝ｭテヱ縺梧綾繧九°繧ゅ＠繧後↑が→が≧縲阪・"},
+    {
+    phrase: "which might negatively affect",
+    explanation: "<b>髱槫宛髯千畑豕輔・髢｢菫ゆｻ｣蜷崎ｩ・/b>: 蜈郁｡瑚ｩ槭・protectionist trade policies縲り｣懆ｶｳ隱ｬ譏弱・"}
+    ]
+    }
+    },
+    {
+    id: 18,
+    text: "To address these and other concerns, the Marshall Plan was approved to provide billions of dollars in aid.",
+    translation: "縺薙ｌ繧峨・諛ｸ蠢ｵ繧・◎の莉悶・諛ｸ蠢ｵ縺ｫ蟇ｾ蜃ｦ縺吶ｋ縺溘ａ縲∵焚蜊∝т繝峨Νの謠ｴ蜉ｩ繧呈署萓帙☆繧九・ー繧ｷ繝｣繝ｫ繝ｻ繝励Λ繝ｳ縺梧価隱阪＆繧後◆、",
+    grammarAnalysis: {
+    mainVerbs: "[ was approved ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(To address these and other concerns)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the Marshall Plan</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was approved</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(to provide billions of dollars in aid)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-M>(縺薙ｌ繧峨・諛ｸ蠢ｵ繧・◎の莉悶・諛ｸ蠢ｵ縺ｫ蟇ｾ蜃ｦ縺吶ｋ縺溘ａ)</span>、span class=t-S>繝槭・繧ｷ繝｣繝ｫ繝ｻ繝励Λ繝ｳは</span> <span class=t-V>謇ｿ隱阪＆繧後◆</span> <span class=t-M>(謨ｰ蜊∝т繝峨Νの謠ｴ蜉ｩ繧呈署萓帙☆繧九◆繧√↓)</span>、",
+    naturalTranslation: "縺薙ｌ繧峨ｄ縺昴・莉悶・諛ｸ蠢ｵ縺ｫ蟇ｾ蜃ｦ縺吶ｋ縺溘ａ縲∵焚蜊∝т繝峨Ν隕乗ｨ｡の謠ｴ蜉ｩ繧呈署萓帙☆繧九・ー繧ｷ繝｣繝ｫ繝ｻ繝励Λ繝ｳ縺梧価隱阪＆繧後◆、",
+    vocabulary: [
+    {
+    word: "address",
+    meaning: "蟇ｾ蜃ｦ縺吶ｋ縲∝叙繧顔ｵ・・"},
+    {
+    word: "approve",
+    meaning: "謇ｿ隱阪☆繧・"},
+    {
+    word: "billions of dollars",
+    meaning: "謨ｰ蜊∝т繝峨Ν"},
+    {
+    word: "aid",
+    meaning: "謠ｴ蜉ｩ縲∵髪謠ｴ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "To address",
+    explanation: "<b>荳榊ｮ夊ｩ槭・蜑ｯ隧樒噪逕ｨ豕・/b>: 縲悟ｯｾ蜃ｦ縺吶ｋ縺溘ａ縺ｫ縲阪ら岼逧・ｒ陦ｨ縺吶・"},
+    {
+    phrase: "to provide",
+    explanation: "<b>荳榊ｮ夊ｩ槭・蜑ｯ隧樒噪逕ｨ豕・/b>: 縲梧署萓帙☆繧九◆繧√↓縲阪ら岼逧・ｒ陦ｨ縺吶・"}
+    ]
+    }
+    }
+    ]
+    },
+    {
+    paragraphId: 4,
+    sentences: [
+    {
+    id: 19,
+    text: "Despite such efforts, further economic challenges occurred.",
+    translation: "縺昴・繧医≧縺ｪ蜉ｪ蜉帙↓繧ゅ°縺九ｏ繧峨★縲√＆繧峨↑繧狗ｵ梧ｸ育噪隱ｲ鬘後′逋ｺ逕溘＠縺溘・",
+    grammarAnalysis: {
+    mainVerbs: "[ occurred ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(Despite such efforts)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>further economic challenges</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>occurred</span><span class=tag>V</span></span>.",
+    translationHtml: "<span class=t-M>(縺昴・繧医≧縺ｪ蜉ｪ蜉帙↓繧ゅ°縺九ｏ繧峨★)</span>、span class=t-S>縺輔ｉ縺ｪ繧狗ｵ梧ｸ育噪隱ｲ鬘後′</span> <span class=t-V>逋ｺ逕溘＠が/span>、",
+    naturalTranslation: "縺昴・繧医≧縺ｪ蜉ｪ蜉帙↓繧ゅ°縺九ｏ繧峨★縲√＆繧峨↑繧狗ｵ梧ｸ育噪隱ｲ鬘後′逕溘§縺溘・",
+    vocabulary: [
+    {
+    word: "despite",
+    meaning: "縲懊↓繧ゅ°縺九ｏ繧峨★"},
+    {
+    word: "further",
+    meaning: "縺輔ｉ縺ｪ繧九√◎繧御ｻ･荳翫・"},
+    {
+    word: "challenge",
+    meaning: "隱ｲ鬘後・屮蝠・"},
+    {
+    word: "occur",
+    meaning: "襍ｷ縺薙ｋ縲∫匱逕溘☆繧・"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "Despite",
+    explanation: "<b>蜑咲ｽｮ隧・/b>: 縲後懊↓繧ゅ°縺九ｏ繧峨★縲阪ょ錐隧槫唱繧剃ｼｴが・"}
+    ]
+    }
+    },
+    {
+    id: 20,
+    text: "Germany and France effectively left the Bretton Woods system, inflation increased in many countries, and the United States saw increased domestic and military spending.",
+    translation: "繝峨うテ→繝輔Λ繝ｳ繧ｹは莠句ｮ滉ｸ翫ヶ繝ｬ繝医Φ繧ｦテぜ菴灘宛繧帝屬閼ｱ縺励∝､壹￥の蝗ｽ縺ｧ繧､繝ｳ繝輔Ξ縺碁ｲ陦後＠縲√い繝｡繝ｪ繧ｫは蝗ｽ蜀・髪蜃ｺ縺ｨ霆堺ｺ区髪蜃ｺの蠅怜刈繧定ｦ九◆、",
+    grammarAnalysis: {
+    mainVerbs: [ "left", "increased", "saw" ],
+    structureHtml: "<span class=chunk S-group><span class=text>Germany and France</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>effectively left</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the Bretton Woods system</span><span class=tag>O</span></span>, <span class=chunk S-group><span class=text>inflation</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>increased</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(in many countries)</span><span class=tag>M</span></span>, and <span class=chunk S-group><span class=text>the United States</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>saw</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>increased domestic and military spending</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>繝峨うテ→繝輔Λ繝ｳ繧ｹは</span> <span class=t-V>莠句ｮ滉ｸ企屬閼ｱ縺励◆</span> <span class=t-O>繝悶Ξ繝医Φ繧ｦテぜ菴灘宛繧・/span>、span class=t-S>繧､繝ｳ繝輔Ξが/span> <span class=t-V>蠅怜刈縺励◆</span> <span class=t-M>(螟壹￥の蝗ｽ縺ｧ)</span>縲√◎縺励※ <span class=t-S>繧｢繝｡繝ｪ繧ｫは</span> <span class=t-V>隕九◆</span> <span class=t-O>蠅怜刈縺励◆蝗ｽ蜀・♀繧医・霆堺ｺ区髪蜃ｺ繧・/span>、",
+    naturalTranslation: "繝峨うテ→繝輔Λ繝ｳ繧ｹは莠句ｮ滉ｸ翫ヶ繝ｬ繝医Φ繧ｦテぜ菴灘宛繧帝屬閼ｱ縺励∝､壹￥の蝗ｽ縺ｧ繧､繝ｳ繝輔Ξ縺碁ｲ陦後＠縲√い繝｡繝ｪ繧ｫ縺ｧは蝗ｽ蜀・・霆堺ｺ区髪蜃ｺ縺悟｢怜刈縺励◆、",
+    vocabulary: [
+    {
+    word: "effectively",
+    meaning: "莠句ｮ滉ｸ翫∝ｮ溯ｳｪ逧・↓"},
+    {
+    word: "inflation",
+    meaning: "繧､繝ｳ繝輔Ξ"},
+    {
+    word: "domestic",
+    meaning: "蝗ｽ蜀・・"},
+    {
+    word: "military spending",
+    meaning: "霆堺ｺ区髪蜃ｺ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "domestic and military spending",
+    explanation: "<b>荳ｦ蛻玲ｧ矩</b>: domestic spending 縺ｨ military spending 繧偵∪縺ｨ繧√※がｋ、"},
+    {
+    phrase: "saw",
+    explanation: "<b>辟｡逕溽黄荳ｻ隱・/b>: 縲後い繝｡繝ｪ繧ｫは縲懊ｒ隕九◆縲坂・縲後い繝｡繝ｪ繧ｫ縺ｧは縲懊′縺ゅ▲縺溘阪→險ｳ縺吶→閾ｪ辟ｶ、"}
+    ]
+    }
+    },
+    {
+    id: 21,
+    text: "Such factors affected the valuation of, and confidence in, the dollar.",
+    translation: "縺昴・繧医≧縺ｪ隕∝屏縺後ラ繝ｫの隧穂ｾ｡縺ｨ繝峨Ν縺ｸの菫｡鬆ｼ縺ｫ蠖ｱ髻ｿ繧剃ｸ弱∴縺溘・",
+    grammarAnalysis: {
+    mainVerbs: "[ affected ]",
+    structureHtml: "<span class=chunk S-group><span class=text>Such factors</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>affected</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the valuation of, and confidence in, the dollar</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>縺昴・繧医≧縺ｪ隕∝屏が/span> <span class=t-V>蠖ｱ髻ｿ繧剃ｸ弱∴が/span> <span class=t-O>繝峨Νの隧穂ｾ｡縺ｨ菫｡鬆ｼ縺ｫ</span>、",
+    naturalTranslation: "縺薙≧縺励◆隕∝屏縺後√ラ繝ｫの隧穂ｾ｡縺ｨ菫｡鬆ｼ縺ｫ蠖ｱ髻ｿ繧貞所縺ｼ縺励◆、",
+    vocabulary: [
+    {
+    word: "valuation",
+    meaning: "隧穂ｾ｡縲∽ｾ｡蛟､蛻､譁ｭ"},
+    {
+    word: "confidence",
+    meaning: "菫｡鬆ｼ縲∽ｿ｡逕ｨ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "valuation of",
+    "and confidence in, explanation": "<b>蜈ｱ騾夂岼逧・ｪ・/b>: the valuation of (the dollar) 縺ｨ confidence in (the dollar)縲Ｕhe dollar縺悟・騾壹・逶ｮ逧・ｪ槭→縺ｪっ縺ｦがｋ、"}
+    ]
+    }
+    },
+    {
+    id: 22,
+    text: "In 1971, the United States suspended the dollar's convertibility to gold, effectively ending the Bretton Woods system.",
+    translation: "1971年縲√い繝｡繝ｪ繧ｫは繝峨Νの驥代∈の蜈梧鋤繧貞●豁｢縺励∽ｺ句ｮ滉ｸ翫ヶ繝ｬ繝医Φ繧ｦテぜ菴灘宛繧堤ｵゅｏ繧峨○縺溘・",
+    grammarAnalysis: {
+    mainVerbs: "[ suspended ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(In 1971)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the United States</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>suspended</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the dollar's convertibility to gold</span><span class=tag>O</span></span>, <span class=chunk M-group><span class=text>(effectively ending the Bretton Woods system)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-M>(1971年縺ｫ)</span>、span class=t-S>繧｢繝｡繝ｪ繧ｫは</span> <span class=t-V>蛛懈ｭ｢縺励◆</span> <span class=t-O>繝峨Νの驥代∈の蜈梧鋤諤ｧ繧・/span>、span class=t-M>(莠句ｮ滉ｸ翫ヶ繝ｬ繝医Φ繧ｦテぜ菴灘宛繧堤ｵゅｏ繧峨○縺ｦ)</span>、",
+    naturalTranslation: "1971年縲√い繝｡繝ｪ繧ｫは繝峨Νの驥台ｺ､謠帙ｒ蛛懈ｭ｢縺励∽ｺ句ｮ滉ｸ翫ヶ繝ｬ繝医Φ繧ｦテぜ菴灘宛繧堤ｵらｵ舌＆縺帙◆、",
+    vocabulary: [
+    {
+    word: "suspend",
+    meaning: "荳譎ょ●豁｢縺吶ｋ"},
+    {
+    word: "convertibility",
+    meaning: "莠､謠帛庄閭ｽ諤ｧ縲∝・謠帶ｧ"},
+    {
+    word: "effectively",
+    meaning: "莠句ｮ滉ｸ翫∝柑譫懃噪縺ｫ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "effectively ending",
+    explanation: "<b>蛻・ｩ樊ｧ区枚</b>: 縲後◎縺励※莠句ｮ滉ｸ翫懊ｒ邨ゅｏ繧峨○縺溘阪らｵ先棡繧定｡ｨ縺吶・"}
+    ]
+    }
+    },
+    {
+    id: 23,
+    text: "Nevertheless, its legacy lives on in the shape of the International Monetary Fund (IMF) and the World Bank, which emerged out of the system.",
+    translation: "縺昴ｌ縺ｫ繧ゅ°縺九ｏ繧峨★縲√◎の驕ｺ逕｣は蝗ｽ髫幃夊ｲｨ蝓ｺ驥托ｼ・MF・峨→荳也阜驫陦後→が≧蠖｢縺ｧ逕溘″邯壹￠縺ｦ縺翫ｊ縲√％繧後ｉは縺昴・菴灘宛縺九ｉ逕溘∪繧後◆繧ゅ・縺ｧ縺ゅｋ、",
+    grammarAnalysis: {
+    mainVerbs: "[ lives ]",
+    structureHtml: "<span class=chunk M-group><span class=text>(Nevertheless)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>its legacy</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>lives on</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(in the shape of the International Monetary Fund (IMF) and the World Bank)</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>(which emerged out of the system)</span><span class=tag>M</span></span>.",
+    translationHtml: "<span class=t-M>(縺昴ｌ縺ｫ繧ゅ°縺九ｏ繧峨★)</span>、span class=t-S>縺昴・驕ｺ逕｣は</span> <span class=t-V>逕溘″邯壹￠縺ｦがｋ</span> <span class=t-M>(蝗ｽ髫幃夊ｲｨ蝓ｺ驥・IMF)縺ｨ荳也阜驫陦後→が≧蠖｢縺ｧ)</span>、span class=t-M>(縺昴ｌ繧峨・縺昴・菴灘宛縺九ｉ逕溘∪繧後◆)</span>、",
+    naturalTranslation: "縺昴ｌ縺ｫ繧ゅ°縺九ｏ繧峨★縲√◎の驕ｺ逕｣は縲∝酔菴灘宛縺九ｉ逕溘∪繧後◆蝗ｽ髫幃夊ｲｨ蝓ｺ驥托ｼ・MF・峨→荳也阜驫陦後→が≧蠖｢縺ｧ逕溘″邯壹￠縺ｦがｋ、",
+    vocabulary: [
+    {
+    word: "legacy",
+    meaning: "驕ｺ逕｣"},
+    {
+    word: "live on",
+    meaning: "逕溘″邯壹￠繧九∝ｭ倡ｶ壹☆繧・"},
+    {
+    word: "in the shape of",
+    meaning: "縲懊・蠖｢縺ｧ"},
+    {
+    word: "emerge",
+    meaning: "迴ｾ繧後ｋ縲∝・迴ｾ縺吶ｋ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "which emerged",
+    explanation: "<b>髢｢菫ゆｻ｣蜷崎ｩ槭・髱槫宛髯千畑豕・/b>: 蜈郁｡瑚ｩ槭・IMF and the World Bank縲り｣懆ｶｳ逧・↑隱ｬ譏弱ｒ蜉縺医※がｋ、"}
+    ]
+    }
+    },
+    {
+    id: 24,
+    text: "The IMF's role as an organization that monitors and supports global monetary cooperation and the World Bank's loans and grants to governments in need form a core element of the modern financial order.",
+    translation: "荳也阜逧・↑驥題檮蜊泌鴨繧堤屮隕悶・謾ｯ謠ｴ縺吶ｋ邨・ｹ斐→縺励※のIMFの蠖ｹ蜑ｲ縺ｨ縲∽ｸ也阜驫陦後・蝗ｰ遯ｮ縺励※がｋ謾ｿ蠎懊∈の陞崎ｳ・・蜉ｩ謌宣≡は縲∫樟莉｣の驥題檮遘ｩ蠎上・荳ｭ譬ｸ隕∫ｴ繧貞ｽ｢謌舌＠縺ｦがｋ、",
+    grammarAnalysis: {
+    mainVerbs: "[ form ]",
+    structureHtml: "<span class=chunk S-group><span class=text>The IMF's role [as an organization that monitors ...] and the World Bank's loans and grants [to governments in need]</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>form</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>a core element of the modern financial order</span><span class=tag>O</span></span>.",
+    translationHtml: "<span class=t-S>IMFの蠖ｹ蜑ｲ [逶｣隕悶＠謾ｯ謠ｴ縺吶ｋ邨・ｹ斐→縺励※の] 縺ｨ荳也阜驫陦後・陞崎ｳ・→蜉ｩ謌宣≡ [蝗ｰ遯ｮ縺吶ｋ謾ｿ蠎懊∈の] は</span> <span class=t-V>蠖｢謌舌＠縺ｦがｋ</span> <span class=t-O>迴ｾ莉｣の驥題檮遘ｩ蠎上・荳ｭ譬ｸ隕∫ｴ繧・/span>、",
+    naturalTranslation: "荳也阜の驥題檮蜊泌鴨繧堤屮隕悶・謾ｯ謠ｴ縺吶ｋ邨・ｹ斐→縺励※のIMFの蠖ｹ蜑ｲ縺ｨ縲∝峅遯ｮ縺吶ｋ謾ｿ蠎懊∈の荳也阜驫陦後・陞崎ｳ・ｄ蜉ｩ謌宣≡は縲∫樟莉｣驥題檮遘ｩ蠎上・荳ｭ譬ｸ繧呈・縺励※がｋ、",
+    vocabulary: [
+    {
+    word: "monitor",
+    meaning: "逶｣隕悶☆繧・"},
+    {
+    word: "cooperation",
+    meaning: "蜊泌鴨"},
+    {
+    word: "loan",
+    meaning: "陞崎ｳ・∬ｲｸ莉・"},
+    {
+    word: "grant",
+    meaning: "蜉ｩ謌宣≡縲∽ｺ､莉倬≡"},
+    {
+    word: "core element",
+    meaning: "荳ｭ譬ｸ隕∫ｴ"}
+    ],
+    grammarNotes: [
+    {
+    phrase: "that monitors and supports",
+    explanation: "<b>髢｢菫ゆｻ｣蜷崎ｩ樒ｯ</b>: organization繧剃ｿｮ鬟ｾ縲ゅ後懊ｒ逶｣隕悶＠縲∵髪謠ｴ縺吶ｋ邨・ｹ斐阪・"}
+    ]
+    }
+    }
+    ]
+    }],
+    questions: [
+    {
+    id: 28,
+    text: "What was the concern of the US delegate mentioned in the first paragraph?",
+    textTranslation: "第1谿ｵ關ｽ縺ｧ險蜿翫＆繧後※がｋ繧｢繝｡繝ｪ繧ｫ莉｣陦ｨの諛ｸ蠢ｵは菴輔〒縺励◆縺具ｼ・",
+    keywords: [ "concern", "US delegate", "first paragraph" ],
+    keywordExplanations: {
+    concern: "諛ｸ蠢ｵ縲りｨｭ蝠丈ｸｭの逶ｴ謗･繧ｭー繝ｯー繝峨・",
+    "US delegate": "繧｢繝｡繝ｪ繧ｫ莉｣陦ｨ縲よ悽譁・・As one US delegate put it縺ｫ蟇ｾ蠢懊・",
+    "first paragraph": "第1谿ｵ關ｽ繧堤､ｺ縺呎欠遉ｺ、"
+    },
+    keywordMatches: [
+    {
+    sentenceId: 5,
+    text: "concerns",
+    keyword: "concern"},
+    {
+    sentenceId: 6,
+    text: "US delegate",
+    keyword: "US delegate"}
+    ],
+    choices: [
+    {
+    id: 1,
+    text: "It was important for delegates to admit that some fundamental problems with the interwar financial order would never be solved.",
+    translation: "莉｣陦ｨ閠・◆縺｡縺ｫ縺ｨっ縺ｦ縲∵姶髢捺悄の驥題檮遘ｩ蠎上・が￥縺､縺九・譬ｹ譛ｬ逧・↑蝠城｡後′豎ｺ縺励※隗｣豎ｺ縺輔ｌ縺ｪが％縺ｨ繧定ｪ阪ａ繧九％縺ｨ縺碁㍾隕√〒縺ゅ▲縺溘・",
+    isCorrect: false},
+    {
+    id: 2,
+    text: "European nations did not understand the need for reform",
+    "as they had not been affected by the Great Depression as much as the United States had., translation": "繝ｨー繝ｭテヱ隲ｸ蝗ｽは縲√い繝｡繝ｪ繧ｫ縺ｻ縺ｩ大諱先・の蠖ｱ髻ｿ繧貞女縺代※が↑縺九▲縺溘◆繧√∵隼髱ｩの蠢・ｦ∵ｧ繧堤炊隗｣縺励※が↑縺九▲縺溘・",
+    isCorrect: false},
+    {
+    id: 3,
+    text: "Holding the conference in 1944 might have been a mistake",
+    "as it was not clear that the Allies would win World War II., translation": "騾｣蜷亥嵜縺檎ｬｬ莠梧ｬ｡荳也阜大謌ｦ縺ｫ蜍晏茜縺吶ｋ縺薙→縺梧・繧峨°縺ｧは縺ｪ縺九▲縺溘◆繧√・944年縺ｫ莨夊ｭｰ繧帝幕蛯ｬ縺励◆縺薙→は髢馴＆が□っ縺溘°繧ゅ＠繧後↑が・",
+    isCorrect: false},
+    {
+    id: 4,
+    text: "Although the Allies were working together to win the war",
+    "there were doubts about whether such cooperation would continue in economic fields., translation": "騾｣蜷亥嵜は謌ｦ莠峨↓蜍昴▽縺溘ａ縺ｫ蜊泌鴨縺励※が◆縺後√◎の繧医≧縺ｪ蜊泌鴨縺檎ｵ梧ｸ亥・驥弱〒繧らｶ壹￥縺九←が°逍大撫縺後≠っ縺溘・",
+    isCorrect: true,
+    highlight: "cooperation would continue in economic fields"}
+    ],
+    hint: {
+    paragraphId: 1,
+    description: "第1谿ｵ關ｽの蠑慕畑驛ｨ蛻・↓豕ｨ逶ｮ縲よ姶莠峨〒の蜊泌鴨縺檎ｵ梧ｸ磯擇縺ｧ繧らｶ壹￥縺九→が≧諛ｸ蠢ｵ、",
+    targetSentenceId: 6,
+    highlightWord: "walk together",
+    highlightWordSentenceId: 6},
+    choiceAdvice: "莉｣陦ｨ閠・・諛ｸ蠢ｵ、: 蝠城｡後′隗｣豎ｺ縺励↑がnever solved?)",
+    "2": "繝ｨー繝ｭテヱ縺梧隼髱ｩ繧堤炊隗｣縺励↑がnot understand?)",
+    "3": "莨夊ｭｰ髢句ぎ縺碁俣驕輔＞(mistake?)",
+    "4": "邨梧ｸ亥鵠蜉帙′邯壹￥縺狗桝蝠・doubts about cooperation)、",
+    logic: "[ {"
+    type: "text",
+    content: "譛ｬ譁・ We fight together on sodden battlefields... The test of this conference is whether we can walk together, solve our economic problems, down the road to peace"},
+    {
+    type: "text",
+    content: "縲舌・繧､繝ｳ繝医第姶莠峨〒は蜈ｱ縺ｫ謌ｦっ縺ｦがｋ縺後∫ｵ梧ｸ亥撫鬘後〒繧ょ・縺ｫ豁ｩ繧√ｋ縺九′隧ｦ驥醍浹、"},
+    {
+    type: "arrow",
+    content: "竊・"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い4: there were doubts about whether such cooperation would continue in economic fields"},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣: 4"}]
+    },
+    {
+    id: 29,
+    text: "What was one reason put forth by Harry Dexter White to justify the structure of the Bretton Woods agreement?",
+    textTranslation: "繝悶Ξ繝医Φ繧ｦテぜ蜊泌ｮ壹・讒矩繧呈ｭ｣蠖灘喧縺吶ｋ縺溘ａ縺ｫ繝上Μー繝ｻテけ繧ｹ繧ｿー繝ｻ繝帙Ρ繧､繝医′謠千､ｺ縺励◆逅・罰の1縺､は菴輔〒縺励◆縺具ｼ・",
+    keywords: [ "Harry Dexter White", "justify", "structure" ],
+    keywordExplanations: {
+    "Harry Dexter White": "繧｢繝｡繝ｪ繧ｫ雋｡蜍咏怐の莉｣陦ｨ閠・よ悽譁・ｬｬ2谿ｵ關ｽ縺ｫ逋ｻ蝣ｴ、",
+    justify: "豁｣蠖灘喧縺吶ｋ縲ゅ・繝ｯ繧､繝医・荳ｻ蠑ｵの譬ｹ諡、",
+    structure: "讒矩縲ゅヶ繝ｬ繝医Φ繧ｦテぜ菴灘宛の莉慕ｵ・∩、"
+    },
+    keywordMatches: [
+    {
+    sentenceId: 10,
+    text: "White pointed out",
+    keyword: "Harry Dexter White"}
+    ],
+    choices: [
+    {
+    id: 1,
+    text: "The United States was the only nation in a position to ensure that its currency would be stable enough to be used as a reserve currency.",
+    translation: "繧｢繝｡繝ｪ繧ｫは縲√◎の騾夊ｲｨ縺悟渕霆ｸ騾夊ｲｨ縺ｨ縺励※菴ｿ逕ｨ縺輔ｌ繧九・縺ｫ蜊∝・縺ｪ螳牙ｮ壽ｧ繧堤｢ｺ菫昴〒縺阪ｋ蜚ｯ荳の蝗ｽ縺ｧ縺ゅ▲縺溘・",
+    isCorrect: true,
+    highlight: "only nation in a position"},
+    {
+    id: 2,
+    text: "It was important to allow Great Britain to feel it was still equal in terms of political power to the United States despite the dominance of the US dollar.",
+    translation: "邀ｳ繝峨Νの謾ｯ驟阪↓繧ゅ°縺九ｏ繧峨★縲√う繧ｮ繝ｪ繧ｹ縺後い繝｡繝ｪ繧ｫ縺ｨ謾ｿ豐ｻ逧・ｨｩ蜉帙↓縺翫＞縺ｦ萓晉┯縺ｨ縺励※蟇ｾ遲峨〒縺ゅｋ縺ｨ諢溘§繧峨ｌ繧九ｈが↓縺吶ｋ縺薙→縺碁㍾隕√〒縺ゅ▲縺溘・",
+    isCorrect: false},
+    {
+    id: 3,
+    text: "Both he and John Maynard Keynes felt European powers needed to hold onto their colonies to help them boost their productive capabilities.",
+    translation: "蠖ｼ縺ｨジ繝ｧ繝ｳ繝ｻ繝｡繧､繝翫・繝峨・繧ｱ繧､繝ｳ繧ｺの荳｡閠・・縲√Κー繝ｭテヱ蛻怜ｼｷ縺檎函逕｣閭ｽ蜉帙ｒ鬮倥ａ繧九◆繧√↓讀肴ｰ大慍繧剃ｿ晄戟縺吶ｋ蠢・ｦ√′縺ゅｋ縺ｨ諢溘§縺ｦが◆、",
+    isCorrect: false},
+    {
+    id: 4,
+    text: "Other countries would be able to use their large reserves of gold to support the value of their own currencies in the international financial system.",
+    translation: "莉悶・蝗ｽ、・縲∝嵜髫幃≡陞阪す繧ｹテΒ縺ｧ閾ｪ蝗ｽ騾夊ｲｨの萓｡蛟､繧呈髪縺医ｋ縺溘ａ縺ｫ縲∝､ｧ驥上・驥第ｺ門ｙ繧剃ｽｿ逕ｨ縺ｧ縺阪ｋ縺繧阪≧、",
+    isCorrect: false}
+    ],
+    hint: {
+    paragraphId: 2,
+    description: "第2谿ｵ關ｽ縺ｧWhite縺梧欠鞫倥＠縺溘√い繝｡繝ｪ繧ｫの驥第ｺ門ｙ縺ｫ縺､が※の險蜿翫・",
+    targetSentenceId: 10,
+    highlightWord: "seemed unlikely the United States would run out",
+    highlightWordSentenceId: 10},
+    choiceAdvice: "繝帙Ρ繧､繝医・逅・罰、: 繧｢繝｡繝ｪ繧ｫ縺縺代′螳牙ｮ夐夊ｲｨ繧堤ｶｭ謖√〒縺阪ｋ(only nation)",
+    "2": "繧､繧ｮ繝ｪ繧ｹ縺悟ｯｾ遲峨→諢溘§繧・Great Britain equal?)",
+    "3": "讀肴ｰ大慍菫晄戟(colonies?)",
+    "4": "莉門嵜縺碁≡貅門ｙ繧剃ｽｿがother countries gold?)、",
+    logic: "[ {"
+    type: "text",
+    content: "譛ｬ譁・ the US Federal Reserve possessed the world's largest reserves of gold, so as White pointed out, it seemed unlikely the United States would run out"},
+    {
+    type: "text",
+    content: "縲舌・繧､繝ｳ繝医代い繝｡繝ｪ繧ｫ縺御ｸ也阜譛大の驥第ｺ門ｙ繧呈戟っ縺ｦ縺翫ｊ縲∝ｰｽ縺阪ｋ蜿ｯ閭ｽ諤ｧ縺御ｽ弱＞ 竊・蝓ｺ霆ｸ騾夊ｲｨ縺ｨ縺励※螳牙ｮ壹・"},
+    {
+    type: "arrow",
+    content: "竊・"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い1: The United States was the only nation in a position to ensure that its currency would be stable enough"},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣: 1"}]
+    },
+    {
+    id: 30,
+    text: "According to the author of the passage, after problems with the Bretton Woods system began to appear",
+    textTranslation: "譛ｬ譁・・遲・・↓繧医ｋ縺ｨ縲√ヶ繝ｬ繝医Φ繧ｦテぜ菴灘宛縺ｫ蝠城｡後′迴ｾ繧悟ｧ九ａ縺溷ｾ後・",
+    keywords: [ "after problems", "began to appear", "author" ],
+    keywordExplanations: {
+    "after problems": "蝠城｡後′襍ｷ縺阪◆蠕後らｬｬ3谿ｵ關ｽのcracks縺ｫ蟇ｾ蠢懊・",
+    "began to appear": "迴ｾ繧悟ｧ九ａ縺溘よ悽譁・・ cracks began to appear 縺ｫ螳悟・荳閾ｴ、",
+    author: "遲・・・隕玖ｧ｣繧貞撫が撫鬘後・"
+    },
+    keywordMatches: [
+    {
+    sentenceId: 13,
+    text: "cracks began to appear",
+    keyword: "began to appear"}
+    ],
+    choices: [
+    {
+    id: 1,
+    text: "the European powers decided to try to raise capital by forcing other countries to pay for European food products in US dollars.",
+    translation: "繝ｨー繝ｭテヱ蛻怜ｼｷは縲∽ｻ門嵜縺ｫ繝ｨー繝ｭテヱの鬟溷刀繧堤ｱｳ繝峨Ν縺ｧ謾ｯ謇輔ｏ縺帙ｋ縺薙→縺ｧ雉・悽繧定ｪｿ驕斐＠繧医≧縺ｨ縺励◆、",
+    isCorrect: false},
+    {
+    id: 2,
+    text: "the British and American delegations did their best to ensure that George C. Marshall's comments about European decline were not made public.",
+    translation: "闍ｱ邀ｳ莉｣陦ｨ蝗｣は縲√ず繝ｧージ繝ｻC繝ｻ繝槭・繧ｷ繝｣繝ｫの繝ｨー繝ｭテヱ陦ｰ騾縺ｫ縺､が※の繧ｳ繝｡繝ｳ繝医′蜈ｬ陦ｨ縺輔ｌ縺ｪがｈが怙蝟・ｒ蟆ｽ縺上＠縺溘・",
+    isCorrect: false},
+    {
+    id: 3,
+    text: "the United States proposed protectionist trade policies as it had become clear that European countries were taking advantage of its leniency.",
+    translation: "繝ｨー繝ｭテヱ隲ｸ蝗ｽ縺後い繝｡繝ｪ繧ｫの蟇帛ｮｹ縺輔ｒ蛻ｩ逕ｨ縺励※がｋ縺薙→縺梧・繧峨°縺ｫ縺ｪっ縺溘◆繧√√い繝｡繝ｪ繧ｫは菫晁ｭｷ荳ｻ鄒ｩ逧・↑雋ｿ譏捺帆遲悶ｒ謠先｡医＠縺溘・",
+    isCorrect: false},
+    {
+    id: 4,
+    text: "the United States took action to assist European countries partly because doing so would also benefit the United States.",
+    translation: "繧｢繝｡繝ｪ繧ｫ縺後Κー繝ｭテヱ隲ｸ蝗ｽ繧呈髪謠ｴ縺吶ｋ陦悟虚繧定ｵｷ縺薙＠縺溘・は縲√◎が☆繧九％縺ｨ縺後い繝｡繝ｪ繧ｫ縺ｫ繧ょ茜逶翫ｒ繧ゅ◆繧峨☆縺九ｉ縺ｧ繧ゅ≠っ縺溘・",
+    isCorrect: true,
+    highlight: "assist European countries ... benefit the United States"}
+    ],
+    hint: {
+    paragraphId: 3,
+    description: "第3谿ｵ關ｽ縲ゅΚー繝ｭテヱ縺御ｿ晁ｭｷ荳ｻ鄒ｩ縺ｫ謌ｻ繧九→繧｢繝｡繝ｪ繧ｫ縺ｫ謔ｪ蠖ｱ髻ｿ竊偵・ー繧ｷ繝｣繝ｫ繝励Λ繝ｳ謇ｿ隱阪・",
+    targetSentenceId: 17,
+    highlightWord: "negatively affect the free-trade-supporting United States",
+    highlightWordSentenceId: 17},
+    choiceAdvice: "蝠城｡檎匱逕溷ｾ後・蟇ｾ蠢懊・: 繝ｨー繝ｭテヱ縺瑚ｳ・悽隱ｿ驕・raise capital?)",
+    "2": "繝槭・繧ｷ繝｣繝ｫの繧ｳ繝｡繝ｳ繝磯撼蜈ｬ髢・not made public?)",
+    "3": "繧｢繝｡繝ｪ繧ｫ縺御ｿ晁ｭｷ荳ｻ鄒ｩ(protectionist?)",
+    "4": "繧｢繝｡繝ｪ繧ｫ縺梧髪謠ｴ縺励※繧｢繝｡繝ｪ繧ｫ縺ｫ繧ょ茜逶・assist and benefit)、",
+    logic: "[ {"
+    type: "text",
+    content: "譛ｬ譁・ Concerns were raised that Europe might return to protectionist trade policies, which might negatively affect the free-trade-supporting United States"},
+    {
+    type: "text",
+    content: "邯壹″: To address these and other concerns, the Marshall Plan was approved to provide billions of dollars in aid"},
+    {
+    type: "text",
+    content: "縲舌・繧､繝ｳ繝医代Κー繝ｭテヱの菫晁ｭｷ荳ｻ鄒ｩは繧｢繝｡繝ｪ繧ｫ縺ｫ謔ｪ蠖ｱ髻ｿ 竊・繝槭・繧ｷ繝｣繝ｫ繝励Λ繝ｳ縺ｧ謾ｯ謠ｴ = 繧｢繝｡繝ｪ繧ｫ縺ｫ繧ょ茜逶翫・"},
+    {
+    type: "arrow",
+    content: "竊・"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い4: took action to assist European countries partly because doing so would also benefit the United States"},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣: 4"}]
+    },
+    {
+    id: 31,
+    text: "What can be concluded about the Bretton Woods system?",
+    textTranslation: "繝悶Ξ繝医Φ繧ｦテぜ菴灘宛縺ｫ縺､が※菴輔′邨占ｫ悶▼縺代ｉ繧後∪縺吶°・・",
+    keywords: [ "concluded", "Bretton Woods system" ],
+    keywordExplanations: {
+    concluded: "邨占ｫ悶▼縺代ｋ縲ょ・菴薙・縺ｾ縺ｨ繧√ｒ蝠上≧蝠城｡後・",
+    "Bretton Woods system": "繝悶Ξ繝医Φ繧ｦテぜ菴灘宛縲らｬｬ4谿ｵ關ｽ縺ｧ邨らч縺ｨ驕ｺ逕｣縺瑚ｿｰ縺ｹ繧峨ｌ縺ｦがｋ、"
+    },
+    keywordMatches: [
+    {
+    sentenceId: 22,
+    text: "ending the Bretton Woods system",
+    keyword: "Bretton Woods system"},
+    {
+    sentenceId: 23,
+    text: "legacy lives on",
+    keyword: "concluded"}
+    ],
+    choices: [
+    {
+    id: 1,
+    text: "The system may have been more successful if the IMF had insisted that the US dollar remained tied to gold.",
+    translation: "IMF縺檎ｱｳ繝峨Ν繧帝≡縺ｫ騾｣蜍輔＆縺帷ｶ壹￠繧九％縺ｨ繧剃ｸｻ蠑ｵ縺励※がｌ縺ｰ縲∽ｽ灘宛は繧医ｊ謌仙粥縺励※が◆縺九ｂ縺励ｌ縺ｪが・",
+    isCorrect: false},
+    {
+    id: 2,
+    text: "Although the system itself ended in failure",
+    "some economic organizations that play an important role today owe their existence to it., translation": "菴灘宛閾ｪ菴薙・螟ｱ謨励↓邨ゅｏっ縺溘′縲∽ｻ頑律驥崎ｦ√↑蠖ｹ蜑ｲ繧呈棡縺溘＠縺ｦがｋが￥縺､縺九・邨梧ｸ育ｵ・ｹ斐・縲√◎の蟄伜惠繧偵％の菴灘宛縺ｫ雋っ縺ｦがｋ、",
+    isCorrect: true,
+    highlight: "ended in failure ... owe their existence"},
+    {
+    id: 3,
+    text: "The United States should have ended the system earlier to prevent a loss of confidence in the US dollar as a global currency.",
+    translation: "繧｢繝｡繝ｪ繧ｫは縲√げ繝ｭー繝舌Ν騾夊ｲｨ縺ｨ縺励※の邀ｳ繝峨Ν縺ｸの菫｡鬆ｼ蝟ｪ螟ｱ繧帝亟縺舌◆繧√↓縲∽ｽ灘宛繧偵ｈ繧頑掠縺冗ｵゅｏ繧峨○繧九∋縺阪□っ縺溘・",
+    isCorrect: false},
+    {
+    id: 4,
+    text: "Although both the IMF and the World Bank are influential today",
+    "their actions were considered the main reason for the systems downfall., translation": "IMF縺ｨ荳也阜驫陦後・莉頑律縺ｧは蠖ｱ髻ｿ蜉帙′縺ゅｋ縺後∝ｽｼ繧峨・陦悟虚は菴灘宛の蟠ｩ螢翫・荳ｻ縺ｪ逅・罰縺ｨ閠・∴繧峨ｌ縺ｦが◆、",
+    isCorrect: false}
+    ],
+    hint: {
+    paragraphId: 4,
+    description: "第4谿ｵ關ｽ縲ゆｽ灘宛は邨ゅｏっ縺溘′縲！MF縺ｨ荳也阜驫陦後→が≧驕ｺ逕｣縺梧ｮ九▲縺ｦがｋ、",
+    targetSentenceId: 23,
+    highlightWord: "its legacy lives on",
+    highlightWordSentenceId: 23},
+    choiceAdvice: "菴灘宛の邨占ｫ悶・: IMF縺碁≡騾｣蜍輔ｒ荳ｻ蠑ｵ縺励※がｌ縺ｰ(more successful?)",
+    "2": "螟ｱ謨励＠縺溘′邨・ｹ斐′谿九ｋ(ended in failure",
+    "owe existence), 3": "繧ゅ▲縺ｨ譌ｩ縺冗ｵゅｏ繧峨○繧九∋がshould have ended earlier?)",
+    "4": "IMF縺ｨ荳也阜驫陦後′蟠ｩ螢翫・蜴溷屏(main reason?)、",
+    logic: "[ {"
+    type: "text",
+    content: "譛ｬ譁・ In 1971, the United States suspended the dollar's convertibility to gold, effectively ending the Bretton Woods system"},
+    {
+    type: "text",
+    content: "邯壹″: Nevertheless, its legacy lives on in the shape of the International Monetary Fund (IMF) and the World Bank, which emerged out of the system"},
+    {
+    type: "text",
+    content: "縲舌・繧､繝ｳ繝医台ｽ灘宛は邨ゅｏっ縺滂ｼ亥､ｱ謨暦ｼ峨′縲！MF縺ｨ荳也阜驫陦後→が≧驕ｺ逕｣縺檎樟莉｣縺ｫ逕溘″邯壹￠縺ｦがｋ、"},
+    {
+    type: "arrow",
+    content: "竊・"},
+    {
+    type: "text",
+    content: "驕ｸ謚櫁い2: Although the system itself ended in failure, some economic organizations ... owe their existence to it"},
+    {
+    type: "conclusion",
+    content: "豁｣隗｣: 2"}]
+    }
+    ],
+    summaryForInstructors: {
+    title: "隰帛ｸｫ逕ｨ隗｣隱ｬ・壹ヶ繝ｬ繝医Φ繧ｦテぜ菴灘宛の蜈ｨ菴灘ワ",
+    intro: "縺薙・繝代ャ繧ｻージは縲∵姶蠕後・蝗ｽ髫幃≡陞咲ｧｩ蠎上・豎ｺ螳壽遠縺ｨ縺ｪっ縺溘後ヶ繝ｬ繝医Φ繧ｦテぜ菴灘宛縲阪・謌千ｫ九∝虚謠ｺ縲∝ｴｩ螢翫√◎縺励※迴ｾ莉｣縺ｸの驕ｺ逕｣繧呈緒が※が∪縺吶ら函蠕偵↓は縲√後↑縺懊い繝｡繝ｪ繧ｫ繝峨Ν縺悟ｼｷが・縺九阪栗MF繧・ｸ也阜驫陦後・縺ｩ縺薙°繧画擂縺溘・縺九阪→が≧隕也せ縺ｧ闊亥袖繧呈戟縺溘○繧九→濶ｯが〒縺励ｇが・",
+    points: [
+    {
+    label: "1. 閭梧勹縺ｨ蜍墓ｩ・(第1谿ｵ關ｽ)",
+    text: "1944年縲∝､ｧ諱先・繧・ヶ繝ｭテけ邨梧ｸ医′第莠梧ｬ｡大謌ｦの荳蝗縺ｨ縺ｪっ縺溷渚逵√°繧峨・｣蜷亥嵜は縲悟ｮ牙ｮ壹＠縺溷嵜髫幃≡陞咲ｧｩ蠎上阪ｒ豎ゅａ縺ｦ髮・ｵ舌＠縺ｾ縺励◆縲よ姶莠峨〒の蜊泌鴨髢｢菫ゅｒ縲∵姶蠕後・邨梧ｸ亥・驥弱〒繧らｶｭ謖√〒縺阪ｋ縺九′譛大の辟ｦ轤ｹ縺ｧ縺励◆、"
+    },
+    {
+    label: "2. 繝峨Ν譛ｬ菴榊宛の遒ｺ遶・(第2谿ｵ關ｽ)",
+    text: "蠖捺凾縲∫ｱｳ蝗ｽは荳也阜邨梧ｸ医・隕・ｨｩ繧呈升繧翫∽ｸ也阜の驥第ｺ門ｙの驕主濠繧剃ｿ晄怏縺励※が∪縺励◆縲ゅ％繧後↓繧医ｊ縲√後ラ繝ｫ繧帝≡縺ｨ莠､謠帛庄閭ｽ縺ｫ縺吶ｋ・磯≡譛ｬ菴榊宛・峨阪％縺ｨ縺ｧ繝峨Νの菫｡逕ｨ繧呈球菫昴＠縲∽ｻ門嵜騾夊ｲｨ繧偵ラ繝ｫ縺ｫ蝗ｺ螳壹☆繧倶ｽ灘宛縺梧・遶九＠縺ｾ縺励◆、"
+    },
+    {
+    label: "3. 繝峨Ν荳崎ｶｳ縺ｨ繝槭・繧ｷ繝｣繝ｫ繝ｻ繝励Λ繝ｳ (第3谿ｵ關ｽ)",
+    text: "謌ｦ蠕後∬穀蟒・＠縺滓ｬｧ蟾槭・蠕ｩ闊郁ｳ・攝繧定ｲｷがラ繝ｫ縺御ｸ崎ｶｳ・医ラ繝ｫ荳崎ｶｳ蝠城｡鯉ｼ峨ゆｿ晁ｭｷ荳ｻ鄒ｩ縺ｸの騾・綾繧翫ｒ諱舌ｌ縺溽ｱｳ蝗ｽは縲√後・ー繧ｷ繝｣繝ｫ繝ｻ繝励Λ繝ｳ縲阪〒蟾ｨ鬘阪・繝峨Ν謠ｴ蜉ｩ繧定｡後＞縲∬･ｿ蛛ｴ隲ｸ蝗ｽの邨梧ｸ医ｒ謾ｯ縺医∪縺励◆、"
+    },
+    {
+    label: "4. 菴灘宛の蟠ｩ螢翫→驕ｺ逕｣ (第4谿ｵ關ｽ)",
+    text: "1971年縲∫ｱｳ蝗ｽの雋｡謾ｿ謔ｪ蛹悶↑縺ｩ縺ｧ繝峨Ν縺ｨ驥代・莠､謠帙′蛛懈ｭ｢縺輔ｌ・医ルク繧ｽ繝ｳ繝ｻ繧ｷ繝ｧテけ・峨√ヶ繝ｬ繝医Φ繧ｦテぜ菴灘宛は蟠ｩ螢翫＠縺ｾ縺励◆縲ゅ＠縺九＠縲√％の譎ゅ↓逕溘∪繧後◆縲栗MF・磯夊ｲｨ螳牙ｮ夲ｼ峨阪→縲御ｸ也阜驫陦鯉ｼ磯幕逋ｺ謾ｯ謠ｴ・峨阪・縲∝ｽ｢繧貞､峨∴縺ｦ迴ｾ蝨ｨ繧ゆｸ也阜邨梧ｸ医・荳ｭ譫｢繧呈球っ縺ｦが∪縺吶・"
+    }
+    ]
+    }
+    },
+];

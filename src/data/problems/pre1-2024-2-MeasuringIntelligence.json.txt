@@ -1,0 +1,373 @@
+{
+id: "pre1-2024-2-MeasuringIntelligence",
+grade: "貅・邏・",
+title: "Measuring Intelligence",
+subTitle: "2024蟷ｴ蠎ｦ 隨ｬ2蝗・螟ｧ蝠・",
+images: {
+content: "/images/reading/pre1-2024-2-MeasuringIntelligence-content.png",
+question: "/images/reading/pre1-2024-2-MeasuringIntelligence-question.png"
+},
+content: [
+{
+paragraphId: 1,
+sentences: [
+{
+id: 1,
+text: "Intelligence quotient, commonly known as IQ, claims to be a numerical representation of a person's cognitive ability or intelligence.",
+translation: "荳闊ｬ縺ｫIQ縺ｨ縺励※遏･繧峨ｌ繧狗衍閭ｽ謖・焚縺ｯ縲∽ｺｺ縺ｮ隱咲衍閭ｽ蜉帙ｄ遏･閭ｽ縺ｮ謨ｰ逧・｡ｨ迴ｾ縺ｧ縺ゅｋ縺ｨ荳ｻ蠑ｵ縺励※縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "claims" ],
+structureHtml: "<span class=chunk S-group><span class=text>Intelligence quotient</span><span class=tag>S</span></span>, <span class=chunk M-group><span class=text>(commonly known as IQ)</span><span class=tag>M</span></span>, <span class=chunk V-group><span class=text>claims</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>to be a numerical representation</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>遏･閭ｽ謖・焚縺ｯ</span>縲・span class=t-M>(荳闊ｬ縺ｫIQ縺ｨ縺励※遏･繧峨ｌ繧・</span>縲・span class=t-V>荳ｻ蠑ｵ縺励※縺・∪縺・/span> <span class=t-O>謨ｰ逧・｡ｨ迴ｾ縺ｧ縺ゅｋ縺ｨ</span>縲・",
+naturalTranslation: "荳闊ｬ縺ｫIQ縺ｨ縺励※遏･繧峨ｌ繧狗衍閭ｽ謖・焚縺ｯ縲∽ｺｺ縺ｮ隱咲衍閭ｽ蜉帙ｄ遏･閭ｽ繧呈焚蛟､縺ｧ陦ｨ縺励◆繧ゅ・縺ｧ縺ゅｋ縺ｨ縺輔ｌ縺ｦ縺・∪縺吶・",
+vocabulary: [ "{word: quotient", "meaning: 謖・焚 }", "{word: cognitive", "meaning: 隱咲衍縺ｮ }", "{word: representation", "meaning: 陦ｨ迴ｾ }" ],
+grammarNotes: [ "{phrase: known as", "explanation: <b>known as</b>: 縲後懊→縺励※遏･繧峨ｌ繧九・ }", "{phrase: claims to be", "explanation: <b>claims to be</b>: 縲後懊〒縺ゅｋ縺ｨ荳ｻ蠑ｵ縺吶ｋ縲・ }", "{phrase: numerical", "explanation: <b>numerical</b>: 縲梧焚縺ｮ縲∵焚蛟､縺ｮ縲・ }" ]
+}
+},
+{
+id: 2,
+text: "The first IQ test was developed in the early 1900s by a French psychologist named Alfred Binet.",
+translation: "譛蛻昴・IQ繝・せ繝医・1900蟷ｴ莉｣蛻晞ｭ縺ｫ繧｢繝ｫ繝輔Ξ繝・ラ繝ｻ繝薙ロ繝ｼ縺ｨ縺・≧蜷阪・繝輔Λ繝ｳ繧ｹ縺ｮ蠢・炊蟄ｦ閠・↓繧医▲縺ｦ髢狗匱縺輔ｌ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was developed" ],
+structureHtml: "<span class=chunk S-group><span class=text>The first IQ test</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was developed</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(in the early 1900s)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>譛蛻昴・IQ繝・せ繝医・</span> <span class=t-V>髢狗匱縺輔ｌ縺ｾ縺励◆</span> <span class=t-M>(1900蟷ｴ莉｣蛻晞ｭ縺ｫ)</span>縲・",
+naturalTranslation: "譛蛻昴・IQ繝・せ繝医・縲・900蟷ｴ莉｣蛻晞ｭ縺ｫ繧｢繝ｫ繝輔Ξ繝・ラ繝ｻ繝薙ロ繝ｼ縺ｨ縺・≧繝輔Λ繝ｳ繧ｹ莠ｺ蠢・炊蟄ｦ閠・↓繧医▲縺ｦ髢狗匱縺輔ｌ縺ｾ縺励◆縲・",
+vocabulary: [ "{word: psychologist", "meaning: 蠢・炊蟄ｦ閠・ }", "{word: develop", "meaning: 髢狗匱縺吶ｋ }", "{word: named", "meaning: 縲懊→縺・≧蜷阪・ }" ],
+grammarNotes: [ "{phrase: was developed", "explanation: <b>was developed (蜿怜虚諷・</b>: 縲碁幕逋ｺ縺輔ｌ縺溘・ }", "{phrase: named", "explanation: <b>named (驕主悉蛻・ｩ・</b>: 縲後懊→縺・≧蜷榊燕縺ｮ縲阪Ｑsychologist繧剃ｿｮ鬟ｾ縲・ }", "{phrase: in the early 1900s", "explanation: <b>in the early 1900s</b>: 縲・900蟷ｴ莉｣蛻晞ｭ縺ｫ縲・ }" ]
+}
+},
+{
+id: 3,
+text: "Binet was asked by the French government to create a test that could be used to identify children who needed educational support.",
+translation: "繝薙ロ繝ｼ縺ｯ繝輔Λ繝ｳ繧ｹ謾ｿ蠎懊°繧峨∵蕗閧ｲ逧・髪謠ｴ繧貞ｿ・ｦ√→縺吶ｋ蟄蝉ｾ帙◆縺｡繧堤音螳壹☆繧九◆繧√↓菴ｿ逕ｨ縺ｧ縺阪ｋ繝・せ繝医ｒ菴懈・縺吶ｋ繧医≧萓晞ｼ縺輔ｌ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was asked" ],
+structureHtml: "<span class=chunk S-group><span class=text>Binet</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was asked</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(by the French government)</span><span class=tag>M</span></span> <span class=chunk O-group><span class=text>to create a test</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>繝薙ロ繝ｼ縺ｯ</span> <span class=t-V>鬆ｼ縺ｾ繧後∪縺励◆</span> <span class=t-M>(繝輔Λ繝ｳ繧ｹ謾ｿ蠎懊↓繧医▲縺ｦ)</span> <span class=t-O>繝・せ繝医ｒ菴懈・縺吶ｋ繧医≧縺ｫ</span>縲・",
+naturalTranslation: "繝薙ロ繝ｼ縺ｯ繝輔Λ繝ｳ繧ｹ謾ｿ蠎懊°繧峨∵蕗閧ｲ逧・髪謠ｴ縺悟ｿ・ｦ√↑蟄蝉ｾ帙◆縺｡繧堤音螳壹☆繧九◆繧√・繝・せ繝医ｒ菴懈・縺吶ｋ繧医≧萓晞ｼ縺輔ｌ縺ｾ縺励◆縲・",
+vocabulary: [ "{word: government", "meaning: 謾ｿ蠎・ }", "{word: identify", "meaning: 迚ｹ螳壹☆繧・ }", "{word: support", "meaning: 謾ｯ謠ｴ }" ],
+grammarNotes: [ "{phrase: asked ... to create", "explanation: <b>ask O to do</b>: 縲薫縺ｫ縲懊☆繧九ｈ縺・↓鬆ｼ繧縲阪ょ女蜍墓・縺ｯ S be asked to do. }", "{phrase: test that could be used", "explanation: <b>test that could be used (髢｢菫ゆｻ｣蜷崎ｩ・</b>: 縲御ｽｿ繧上ｌ縺・ｋ繝・せ繝医・ }", "{phrase: identify", "explanation: <b>identify</b>: 縲檎音螳壹☆繧九∬ｭ伜挨縺吶ｋ縲・ }" ]
+}
+},
+{
+id: 4,
+text: "The Binet-Simon test that was created as a result provided the foundation for all IQ tests that have been produced since.",
+translation: "邨先棡縺ｨ縺励※菴懈・縺輔ｌ縺溘ン繝阪・繝ｻ繧ｷ繝｢繝ｳ繝ｻ繝・せ繝医・縲√◎繧御ｻ･譚･菴懈・縺輔ｌ縺溘☆縺ｹ縺ｦ縺ｮIQ繝・せ繝医・蝓ｺ遉弱ｒ謠蝉ｾ帙＠縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "provided" ],
+structureHtml: "<span class=chunk S-group><span class=text>The Binet-Simon test</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>provided</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the foundation</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>繝薙ロ繝ｼ繝ｻ繧ｷ繝｢繝ｳ繝ｻ繝・せ繝医・</span> <span class=t-V>謠蝉ｾ帙＠縺ｾ縺励◆</span> <span class=t-O>蝓ｺ遉弱ｒ</span>縲・",
+naturalTranslation: "縺昴・邨先棡菴懈・縺輔ｌ縺溘ン繝阪・繝ｻ繧ｷ繝｢繝ｳ繝ｻ繝・せ繝医・縲∽ｻ･譚･菴懊ｉ繧後◆縺吶∋縺ｦ縺ｮIQ繝・せ繝医・蝓ｺ遉弱→縺ｪ繧翫∪縺励◆縲・",
+vocabulary: [ "{word: foundation", "meaning: 蝓ｺ遉弱∝悄蜿ｰ }", "{word: result", "meaning: 邨先棡 }", "{word: produce", "meaning: 逕溽肇縺吶ｋ縲∽ｽ懈・縺吶ｋ }" ],
+grammarNotes: [ "{phrase: that was created", "explanation: <b>that was created (髢｢菫ゆｻ｣蜷崎ｩ・</b>: 縲御ｽ懈・縺輔ｌ縺溘・ }", "{phrase: as a result", "explanation: <b>as a result</b>: 縲檎ｵ先棡縺ｨ縺励※縲・ }", "{phrase: since", "explanation: <b>since</b>: 縲後◎繧御ｻ･譚･縲・ }" ]
+}
+},
+{
+id: 5,
+text: "Because they were a quick and easy way to categorize people, IQ tests soon became a popular tool in educational and employment settings to measure student performance and assess potential new recruits.",
+translation: "縺昴ｌ繧峨・莠ｺ縲・ｒ蛻・｡槭☆繧九◆繧√・霑・溘〒邁｡蜊倥↑譁ｹ豕輔〒縺ゅ▲縺溘◆繧√！Q繝・せ繝医・縺吶＄縺ｫ謨呵ご繧・寐逕ｨ縺ｮ迴ｾ蝣ｴ縺ｧ莠ｺ豌励・縺ゅｋ繝・・繝ｫ縺ｨ縺ｪ繧翫∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "became" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Because they were...)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>IQ tests</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>became</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>a popular tool</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-M>(縺昴ｌ繧峨・...縺縺｣縺溘・縺ｧ)</span>縲・span class=t-S>IQ繝・せ繝医・</span> <span class=t-V>縺ｪ繧翫∪縺励◆</span> <span class=t-C>莠ｺ豌励・縺ゅｋ繝・・繝ｫ縺ｫ</span>縲・",
+naturalTranslation: "謇区掠縺冗ｰ｡蜊倥↓莠ｺ繧貞・鬘槭〒縺阪ｋ縺溘ａ縲！Q繝・せ繝医・謨呵ご繧・寐逕ｨ縺ｮ蝣ｴ縺ｧ縲∫函蠕偵・謌千ｸｾ貂ｬ螳壹ｄ譁ｰ蜈･遉ｾ蜩｡縺ｮ隧穂ｾ｡縺ｫ菴ｿ繧上ｌ繧倶ｺｺ豌励ヤ繝ｼ繝ｫ縺ｨ縺ｪ繧翫∪縺励◆縲・",
+vocabulary: [ "{word: categorize", "meaning: 蛻・｡槭☆繧・ }", "{word: setting", "meaning: 迺ｰ蠅・∝ｴ髱｢ }", "{word: recruit", "meaning: 譁ｰ莠ｺ縲∵眠蜈･遉ｾ蜩｡ }" ],
+grammarNotes: [ "{phrase: Because", "explanation: <b>Because (謗･邯夊ｩ・</b>: 縲後懊↑縺ｮ縺ｧ縲・ }", "{phrase: measure", "explanation: <b>measure</b>: 縲梧ｸｬ螳壹☆繧九・ }", "{phrase: assess", "explanation: <b>assess</b>: 縲瑚ｩ穂ｾ｡縺吶ｋ縲・ }" ]
+}
+}
+]
+},
+{
+paragraphId: 2,
+sentences: [
+{
+id: 6,
+text: "Although IQ tests are now widely used, there is ongoing debate regarding their validity.",
+translation: "IQ繝・せ繝医・迴ｾ蝨ｨ蠎・￥菴ｿ逕ｨ縺輔ｌ縺ｦ縺・∪縺吶′縲√◎縺ｮ螯･蠖捺ｧ縺ｫ縺､縺・※縺ｯ邯咏ｶ夂噪縺ｪ隴ｰ隲悶′縺ゅｊ縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Although IQ tests are widely used)</span><span class=tag>M</span></span>, <span class=chunk V-group><span class=text>there is</span><span class=tag>V</span></span> <span class=chunk S-group><span class=text>ongoing debate</span><span class=tag>S</span></span>.",
+translationHtml: "<span class=t-M>(IQ繝・せ繝医・蠎・￥菴ｿ繧上ｌ縺ｦ縺・ｋ縺・</span>縲・span class=t-V>縺ゅｊ縺ｾ縺・/span> <span class=t-S>邯咏ｶ夂噪縺ｪ隴ｰ隲悶′</span>縲・",
+naturalTranslation: "IQ繝・せ繝医・蠎・￥菴ｿ繧上ｌ縺ｦ縺・∪縺吶′縲√◎縺ｮ螯･蠖捺ｧ繧貞ｷ｡縺｣縺ｦ縺ｯ隴ｰ隲悶′邯壹＞縺ｦ縺・∪縺吶・",
+vocabulary: [ "{word: validity", "meaning: 螯･蠖捺ｧ }", "{word: ongoing", "meaning: 邯咏ｶ壻ｸｭ縺ｮ }", "{word: debate", "meaning: 隴ｰ隲・ }" ],
+grammarNotes: [ "{phrase: Although", "explanation: <b>Although (謗･邯夊ｩ・</b>: 縲後懊□縺代ｌ縺ｩ繧ゅ・ }", "{phrase: there is", "explanation: <b>there is</b>: 縲後懊′縺ゅｋ縲・ }", "{phrase: regarding", "explanation: <b>regarding (蜑咲ｽｮ隧・</b>: 縲後懊↓髢｢縺励※縲・ }" ]
+}
+},
+{
+id: 7,
+text: "One issue raised by critics relates to the nature of intelligence.",
+translation: "謇ｹ隧募ｮｶ縺ｫ繧医▲縺ｦ謠占ｵｷ縺輔ｌ縺滉ｸ縺､縺ｮ蝠城｡後・縲∫衍閭ｽ縺ｮ諤ｧ雉ｪ縺ｫ髢｢騾｣縺励※縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "relates" ],
+structureHtml: "<span class=chunk S-group><span class=text>One issue <span class=modifier>(raised by critics)</span></span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>relates</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(to the nature of intelligence)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺ゅｋ蝠城｡後・ <span class=t-M>(謇ｹ隧募ｮｶ縺ｫ繧医▲縺ｦ謠占ｵｷ縺輔ｌ縺・</span></span> <span class=t-V>髢｢騾｣縺励※縺・∪縺・/span> <span class=t-M>(遏･閭ｽ縺ｮ諤ｧ雉ｪ縺ｫ)</span>縲・",
+naturalTranslation: "謇ｹ隧募ｮｶ縺梧嫌縺偵ｋ蝠城｡後・荳縺､縺ｯ縲∫衍閭ｽ縺ｮ譛ｬ雉ｪ縺ｫ髢｢縺吶ｋ繧ゅ・縺ｧ縺吶・",
+vocabulary: [ "{word: critic", "meaning: 謇ｹ隧募ｮｶ }", "{word: relate", "meaning: 髢｢騾｣縺吶ｋ }", "{word: nature", "meaning: 諤ｧ雉ｪ縲∵悽雉ｪ }" ],
+grammarNotes: [ "{phrase: raised by", "explanation: <b>raised by (驕主悉蛻・ｩ・</b>: 縲後懊↓繧医▲縺ｦ謠占ｵｷ縺輔ｌ縺溘阪Ｊssue繧剃ｿｮ鬟ｾ縲・ }", "{phrase: relates to", "explanation: <b>relates to</b>: 縲後懊↓髢｢騾｣縺吶ｋ縲・ }" ]
+}
+},
+{
+id: 8,
+text: "IQ tests are based on the principle that all aspects of intelligence can be measured by one standardized test of general cognitive ability.",
+translation: "IQ繝・せ繝医・縲∫衍閭ｽ縺ｮ縺吶∋縺ｦ縺ｮ蛛ｴ髱｢縺御ｸ闊ｬ逧・↑隱咲衍閭ｽ蜉帙・1縺､縺ｮ讓呎ｺ門喧縺輔ｌ縺溘ユ繧ｹ繝医↓繧医▲縺ｦ貂ｬ螳壹〒縺阪ｋ縺ｨ縺・≧蜴溷援縺ｫ蝓ｺ縺･縺・※縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "are based" ],
+structureHtml: "<span class=chunk S-group><span class=text>IQ tests</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>are based</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(on the principle that...)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>IQ繝・せ繝医・</span> <span class=t-V>蝓ｺ縺･縺・※縺・∪縺・/span> <span class=t-M>(縲懊→縺・≧蜴溷援縺ｫ)</span>縲・",
+naturalTranslation: "IQ繝・せ繝医・縲∫衍閭ｽ縺ｮ縺ゅｉ繧・ｋ蛛ｴ髱｢縺後∽ｸ闊ｬ逧・ｪ咲衍閭ｽ蜉帙ｒ貂ｬ繧句腰荳縺ｮ讓呎ｺ門喧繝・せ繝医〒貂ｬ螳壼庄閭ｽ縺ｧ縺ゅｋ縺ｨ縺・≧蜴溷援縺ｫ蝓ｺ縺･縺・※縺・∪縺吶・",
+vocabulary: [ "{word: principle", "meaning: 蜴溷援 }", "{word: standardized", "meaning: 讓呎ｺ門喧縺輔ｌ縺・ }", "{word: aspect", "meaning: 蛛ｴ髱｢ }" ],
+grammarNotes: [ "{phrase: based on", "explanation: <b>based on</b>: 縲後懊↓蝓ｺ縺･縺・※縺・ｋ縲・ }", "{phrase: principle that", "explanation: <b>principle that (蜷梧ｼ縺ｮthat)</b>: 縲後懊→縺・≧蜴溷援縲・ }", "{phrase: be measured", "explanation: <b>be measured (蜿怜虚諷・</b>: 縲梧ｸｬ螳壹＆繧後ｋ縲・ }" ]
+}
+},
+{
+id: 9,
+text: "However, a large-scale study carried out in Canada suggests that this model of intelligence is too simple.",
+translation: "縺励°縺励√き繝翫ム縺ｧ陦後ｏ繧後◆螟ｧ隕乗ｨ｡縺ｪ遐皮ｩｶ縺ｯ縲√％縺ｮ遏･閭ｽ繝｢繝・Ν縺悟腰邏斐☆縺弱ｋ縺薙→繧堤､ｺ蜚・＠縺ｦ縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "suggests" ],
+structureHtml: "<span class=chunk M-group><span class=text>(However)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>a large-scale study</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>suggests</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that this model ... is too simple]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(縺励°縺・</span>縲・span class=t-S>螟ｧ隕乗ｨ｡縺ｪ遐皮ｩｶ縺ｯ</span> <span class=t-V>遉ｺ蜚・＠縺ｦ縺・∪縺・/span> <span class=t-O>[縺薙・繝｢繝・Ν縺ｯ蜊倡ｴ斐☆縺弱ｋ縺ｨ]</span>縲・",
+naturalTranslation: "縺励°縺励√き繝翫ム縺ｧ陦後ｏ繧後◆螟ｧ隕乗ｨ｡縺ｪ遐皮ｩｶ縺ｯ縲√％縺ｮ遏･閭ｽ繝｢繝・Ν縺後≠縺ｾ繧翫↓蜊倡ｴ斐☆縺弱ｋ縺薙→繧堤､ｺ蜚・＠縺ｦ縺・∪縺吶・",
+vocabulary: [ "{word: large-scale", "meaning: 螟ｧ隕乗ｨ｡縺ｪ }", "{word: suggest", "meaning: 遉ｺ蜚・☆繧・ }", "{word: simple", "meaning: 蜊倡ｴ斐↑ }" ],
+grammarNotes: [ "{phrase: carried out", "explanation: <b>carried out (驕主悉蛻・ｩ・</b>: 縲悟ｮ溯｡後＆繧後◆縲阪Ｔtudy繧剃ｿｮ鬟ｾ縲・ }", "{phrase: suggests that", "explanation: <b>suggests that</b>: 縲後懊→縺・≧縺薙→繧堤､ｺ蜚・☆繧九・ }", "{phrase: too simple", "explanation: <b>too simple</b>: 縲悟腰邏斐☆縺弱ｋ縲・ }" ]
+}
+},
+{
+id: 10,
+text: "In the study, which included over 100,000 participants, researchers asked subjects to answer questions that targeted a range of cognitive skills.",
+translation: "10荳・ｺｺ莉･荳翫・蜿ょ刈閠・ｒ蜷ｫ繧縺昴・遐皮ｩｶ縺ｧ縲∫皮ｩｶ閠・・陲ｫ鬨楢・↓讒倥・↑隱咲衍繧ｹ繧ｭ繝ｫ繧貞ｯｾ雎｡縺ｨ縺励◆雉ｪ蝠上↓遲斐∴繧九ｈ縺・ｱゅａ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "asked" ],
+structureHtml: "<span class=chunk M-group><span class=text>(In the study)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>researchers</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>asked</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>subjects</span><span class=tag>O</span></span> <span class=chunk C-group><span class=text>to answer questions</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-M>(縺昴・遐皮ｩｶ縺ｧ)</span>縲・span class=t-S>遐皮ｩｶ閠・・</span> <span class=t-V>豎ゅａ縺ｾ縺励◆</span> <span class=t-O>陲ｫ鬨楢・↓</span> <span class=t-C>雉ｪ蝠上↓遲斐∴繧九ｈ縺・/span>縲・",
+naturalTranslation: "10荳・ｺｺ莉･荳翫′蜿ょ刈縺励◆縺昴・遐皮ｩｶ縺ｧ縲∫皮ｩｶ閠・・讒倥・↑隱咲衍閭ｽ蜉帙ｒ蝠上≧雉ｪ蝠上↓遲斐∴繧九ｈ縺・｢ｫ鬨楢・↓豎ゅａ縺ｾ縺励◆縲・",
+vocabulary: [ "{word: participant", "meaning: 蜿ょ刈閠・ }", "{word: subject", "meaning: 陲ｫ鬨楢・∽ｸｻ鬘・ }", "{word: target", "meaning: 蟇ｾ雎｡縺ｫ縺吶ｋ }" ],
+grammarNotes: [ "{phrase: which included", "explanation: <b>which included (髢｢菫ゆｻ｣蜷崎ｩ槭・髱槫宛髯千畑豕・</b>: 縲後◎縺ｮ遐皮ｩｶ縺ｯ縲懊ｒ蜷ｫ繧薙〒縺・◆縺後・..縲・ }", "{phrase: asked subjects to answer", "explanation: <b>ask O to do</b>: 縲薫縺ｫ縲懊☆繧九ｈ縺・ｼ繧/豎ゅａ繧九・ }", "{phrase: range of", "explanation: <b>range of</b>: 縲後懊・遽・峇縺ｮ縲∵ｧ倥・↑縲・ }" ]
+}
+},
+{
+id: 11,
+text: "As expected, some participants were better at answering the questions than others, but the researchers believed this could only be explained by considering three different aspects of mental ability窶敗hort-term memory, reasoning, and verbal skills.",
+translation: "莠域Φ騾壹ｊ縲∽ｸ驛ｨ縺ｮ蜿ょ刈閠・・莉悶・蜿ょ刈閠・ｈ繧翫ｂ雉ｪ蝠上↓遲斐∴繧九・縺御ｸ頑焔縺ｧ縺励◆縺後∫皮ｩｶ閠・◆縺｡縺ｯ縲√％繧後・3縺､縺ｮ逡ｰ縺ｪ繧狗ｲｾ逾櫁・蜉帙・蛛ｴ髱｢・育洒譛溯ｨ俶・縲∵耳隲悶∬ｨ隱槭せ繧ｭ繝ｫ・峨ｒ閠・・縺吶ｋ縺薙→縺ｫ繧医▲縺ｦ縺ｮ縺ｿ隱ｬ譏弱〒縺阪ｋ縺ｨ菫｡縺倥※縺・∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "were", "believed" ],
+structureHtml: "<span class=chunk S-group><span class=text>some participants</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>better</span><span class=tag>C</span></span>... but <span class=chunk S-group><span class=text>researchers</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>believed</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[this could only be explained...]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>荳驛ｨ縺ｮ蜿ょ刈閠・・</span> <span class=t-V>縺ｧ縺励◆</span> <span class=t-C>繧医ｊ荳頑焔縺ｪ</span>...縺励°縺・span class=t-S>遐皮ｩｶ閠・・</span> <span class=t-V>菫｡縺倥∪縺励◆</span> <span class=t-O>[縺薙ｌ縺ｯ隱ｬ譏弱〒縺阪ｋ縺ｨ]</span>縲・",
+naturalTranslation: "莠域Φ騾壹ｊ謌千ｸｾ縺ｫ縺ｯ蛟倶ｺｺ蟾ｮ縺後≠繧翫∪縺励◆縺後∫皮ｩｶ閠・・縺薙ｌ繧定ｪｬ譏弱☆繧九↓縺ｯ縲∫洒譛溯ｨ俶・縲∵耳隲悶∬ｨ隱槭せ繧ｭ繝ｫ縺ｨ縺・≧3縺､縺ｮ逡ｰ縺ｪ繧玖・蜉帛・髱｢繧定・・縺吶ｋ蠢・ｦ√′縺ゅｋ縺ｨ閠・∴縺ｾ縺励◆縲・",
+vocabulary: [ "{word: reasoning", "meaning: 謗ｨ隲・ }", "{word: aspect", "meaning: 蛛ｴ髱｢ }", "{word: verbal", "meaning: 險隱槭・ }" ],
+grammarNotes: [ "{phrase: better at", "explanation: <b>better at</b>: 縲後懊′蠕玲э縺ｧ縺ゅｋ(good at)縺ｮ豈碑ｼ・ｴ壹・ }", "{phrase: could only be explained", "explanation: <b>could only be explained (蜿怜虚諷・</b>: 縲瑚ｪｬ譏弱＆繧後≧繧九・ }", "{phrase: by considering", "explanation: <b>by considering (蜍募錐隧・</b>: 縲瑚・・縺吶ｋ縺薙→縺ｫ繧医▲縺ｦ縲・ }" ]
+}
+},
+{
+id: 12,
+text: "Furthermore, MRI scans taken while a small group of the participants were answering questions indicated that each of these abilities was controlled by a different region in the brain.",
+translation: "縺輔ｉ縺ｫ縲∝盾蜉閠・・蟆上げ繝ｫ繝ｼ繝励′雉ｪ蝠上↓遲斐∴縺ｦ縺・ｋ髢薙↓謦ｮ繧峨ｌ縺櫪RI繧ｹ繧ｭ繝｣繝ｳ縺ｯ縲√％繧後ｉ縺ｮ閭ｽ蜉帙・縺昴ｌ縺槭ｌ縺瑚┻縺ｮ逡ｰ縺ｪ繧矩伜沺縺ｫ繧医▲縺ｦ蛻ｶ蠕｡縺輔ｌ縺ｦ縺・ｋ縺薙→繧堤､ｺ縺励∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "indicated" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Furthermore)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>MRI scans</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>indicated</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that each ... was controlled by...]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(縺輔ｉ縺ｫ)</span>縲・span class=t-S>MRI繧ｹ繧ｭ繝｣繝ｳ縺ｯ</span> <span class=t-V>遉ｺ縺励∪縺励◆</span> <span class=t-O>[縺昴ｌ縺槭ｌ縺檎焚縺ｪ繧矩伜沺縺ｧ蛻ｶ蠕｡縺輔ｌ縺ｦ縺・ｋ縺ｨ]</span>縲・",
+naturalTranslation: "縺輔ｉ縺ｫ縲∝屓遲比ｸｭ縺ｮ閼ｳ繧樽RI縺ｧ繧ｹ繧ｭ繝｣繝ｳ縺励◆縺ｨ縺薙ｍ縲√％繧後ｉ縺ｮ閭ｽ蜉帙・縺昴ｌ縺槭ｌ閼ｳ縺ｮ逡ｰ縺ｪ繧矩伜沺縺ｫ繧医▲縺ｦ蛻ｶ蠕｡縺輔ｌ縺ｦ縺・ｋ縺薙→縺悟・縺九ｊ縺ｾ縺励◆縲・",
+vocabulary: [ "{word: indicate", "meaning: 遉ｺ縺・ }", "{word: region", "meaning: 鬆伜沺 }", "{word: control", "meaning: 蛻ｶ蠕｡縺吶ｋ }" ],
+grammarNotes: [ "{phrase: taken while", "explanation: <b>taken (驕主悉蛻・ｩ・</b>: 縲梧聴繧峨ｌ縺溘阪Ｘhile莉･荳九・蜑ｯ隧樒ｯ縲・ }", "{phrase: each of these", "explanation: <b>each of these</b>: 縲後％繧後ｉ縺ｮ縺昴ｌ縺槭ｌ縲・ }", "{phrase: was controlled by", "explanation: <b>was controlled by (蜿怜虚諷・</b>: 縲後懊↓繧医▲縺ｦ蛻ｶ蠕｡縺輔ｌ縺ｦ縺・◆縲・ }" ]
+}
+}
+]
+},
+{
+paragraphId: 3,
+sentences: [
+{
+id: 13,
+text: "Despite this criticism, proponents of IQ tests believe they can be beneficial if used appropriately.",
+translation: "縺薙・謇ｹ蛻､縺ｫ繧ゅ°縺九ｏ繧峨★縲！Q繝・せ繝医・謾ｯ謖∬・・縲・←蛻・↓菴ｿ逕ｨ縺輔ｌ繧後・譛臥寢縺ｧ縺ゅｋ縺ｨ菫｡縺倥※縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "believe" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Despite this criticism)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>proponents</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>believe</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[they can be beneficial]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(縺薙・謇ｹ蛻､縺ｫ繧ゅ°縺九ｏ繧峨★)</span>縲・span class=t-S>謾ｯ謖∬・・</span> <span class=t-V>菫｡縺倥※縺・∪縺・/span> <span class=t-O>[縺昴ｌ繧峨・譛臥寢縺ｧ縺ゅｊ縺・ｋ縺ｨ]</span>縲・",
+naturalTranslation: "縺薙≧縺励◆謇ｹ蛻､縺ｫ繧ゅ°縺九ｏ繧峨★縲！Q繝・せ繝医・謾ｯ謖∬・・縲・←蛻・↓菴ｿ縺医・譛臥寢縺ｧ縺ゅｋ縺ｨ閠・∴縺ｦ縺・∪縺吶・",
+vocabulary: [ "{word: criticism", "meaning: 謇ｹ蛻､ }", "{word: proponent", "meaning: 謾ｯ謖∬・ }", "{word: beneficial", "meaning: 譛臥寢縺ｪ }" ],
+grammarNotes: [ "{phrase: Despite", "explanation: <b>Despite (蜑咲ｽｮ隧・</b>: 縲後懊↓繧ゅ°縺九ｏ繧峨★縲・ }", "{phrase: if used", "explanation: <b>if used</b>: if (they are) used 縺ｮ逵∫払縲ゅ後ｂ縺嶺ｽｿ繧上ｌ繧後・縲・ }", "{phrase: appropriately", "explanation: <b>appropriately</b>: 縲碁←蛻・↓縲・ }" ]
+}
+},
+{
+id: 14,
+text: "In US schools, for example, children from ethnic minorities tend to be overlooked for gifted education programs.",
+translation: "萓九∴縺ｰ邀ｳ蝗ｽ縺ｮ蟄ｦ譬｡縺ｧ縺ｯ縲∝ｰ第焚豌第酪縺ｮ蟄蝉ｾ帙◆縺｡縺ｯ闍ｱ謇肴蕗閧ｲ繝励Ο繧ｰ繝ｩ繝縺ｧ隕玖誠縺ｨ縺輔ｌ繧句だ蜷代′縺ゅｊ縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "tend" ],
+structureHtml: "<span class=chunk M-group><span class=text>(In US schools)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>children</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>tend to be overlooked</span><span class=tag>V</span></span>.",
+translationHtml: "<span class=t-M>(邀ｳ蝗ｽ縺ｮ蟄ｦ譬｡縺ｧ縺ｯ)</span>縲・span class=t-S>蟄蝉ｾ帙◆縺｡縺ｯ</span> <span class=t-V>隕玖誠縺ｨ縺輔ｌ繧句だ蜷代′縺ゅｊ縺ｾ縺・/span>縲・",
+naturalTranslation: "萓九∴縺ｰ邀ｳ蝗ｽ縺ｮ蟄ｦ譬｡縺ｧ縺ｯ縲∝ｰ第焚豌第酪縺ｮ蟄蝉ｾ帙◆縺｡縺ｯ闍ｱ謇肴蕗閧ｲ繝励Ο繧ｰ繝ｩ繝縺ｮ蟇ｾ雎｡縺九ｉ貍上ｌ縺ｦ縺励∪縺・だ蜷代′縺ゅｊ縺ｾ縺吶・",
+vocabulary: [ "{word: ethnic minority", "meaning: 蟆第焚豌第酪 }", "{word: overlook", "meaning: 隕玖誠縺ｨ縺・ }", "{word: gifted", "meaning: 謇崎・縺ｮ縺ゅｋ縲∬恭謇阪・ }" ],
+grammarNotes: [ "{phrase: tend to", "explanation: <b>tend to</b>: 縲後懊☆繧句だ蜷代′縺ゅｋ縲・ }", "{phrase: be overlooked", "explanation: <b>be overlooked (蜿怜虚諷・</b>: 縲瑚ｦ玖誠縺ｨ縺輔ｌ繧九・ }", "{phrase: for example", "explanation: <b>for example</b>: 縲御ｾ九∴縺ｰ縲・ }" ]
+}
+},
+{
+id: 15,
+text: "One reason for this is that, historically, candidates for such programs have been selected based on referrals from teachers.",
+translation: "縺薙ｌ縺ｮ1縺､縺ｮ逅・罰縺ｯ縲∵ｭｴ蜿ｲ逧・↓縲√◎縺ｮ繧医≧縺ｪ繝励Ο繧ｰ繝ｩ繝縺ｮ蛟呵｣懆・′謨吝ｸｫ縺九ｉ縺ｮ謗ｨ阮ｦ縺ｫ蝓ｺ縺･縺・※驕ｸ縺ｰ繧後※縺阪◆縺薙→縺ｧ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk S-group><span class=text>One reason</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>[that ... candidates ... have been selected...]</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>荳縺､縺ｮ逅・罰縺ｯ</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>[蛟呵｣懆・′驕ｸ縺ｰ繧後※縺阪◆縺ｨ縺・≧縺薙→]</span>縲・",
+naturalTranslation: "縺昴・逅・罰縺ｮ荳縺､縺ｯ縲∵ｭｴ蜿ｲ逧・↓縺昴≧縺励◆繝励Ο繧ｰ繝ｩ繝縺ｮ蛟呵｣懆・′謨吝ｸｫ縺ｮ謗ｨ阮ｦ縺ｫ蝓ｺ縺･縺・※驕ｸ謚懊＆繧後※縺阪◆縺薙→縺ｫ縺ゅｊ縺ｾ縺吶・",
+vocabulary: [ "{word: candidate", "meaning: 蛟呵｣懆・ }", "{word: referral", "meaning: 謗ｨ阮ｦ縲∫ｴｹ莉・ }", "{word: select", "meaning: 驕ｸ縺ｶ }" ],
+grammarNotes: [ "{phrase: reason ... is that", "explanation: <b>reason ... is that</b>: 縲檎炊逕ｱ縺ｯ縲懊→縺・≧縺薙→縺ｧ縺ゅｋ縲・ }", "{phrase: have been selected", "explanation: <b>have been selected (迴ｾ蝨ｨ螳御ｺ・女蜍墓・)</b>: 縲碁∈縺ｰ繧後※縺阪◆縲・ }", "{phrase: based on", "explanation: <b>based on</b>: 縲後懊↓蝓ｺ縺･縺・※縲・ }" ]
+}
+},
+{
+id: 16,
+text: "Studies have shown that the academic performance and behavior of students are influenced by their teachers attitudes toward them, which may, in turn, be affected by the teachers subconscious racial biases.",
+translation: "遐皮ｩｶ縺ｫ繧医ｋ縺ｨ縲∫函蠕偵・蟄ｦ讌ｭ謌千ｸｾ縺ｨ陦悟虚縺ｯ謨吝ｸｫ縺ｮ蠖ｼ繧峨↓蟇ｾ縺吶ｋ諷句ｺｦ縺ｫ蠖ｱ髻ｿ縺輔ｌ縲√◎繧後・莉雁ｺｦ縺ｯ謨吝ｸｫ縺ｮ辟｡諢剰ｭ倥・莠ｺ遞ｮ逧・￥隕九↓繧医▲縺ｦ蠖ｱ髻ｿ縺輔ｌ繧句庄閭ｽ諤ｧ縺後≠繧九％縺ｨ縺檎､ｺ縺輔ｌ縺ｦ縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "have shown" ],
+structureHtml: "<span class=chunk S-group><span class=text>Studies</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>have shown</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that performance ... are influenced ...]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>遐皮ｩｶ縺ｯ</span> <span class=t-V>遉ｺ縺励※縺・∪縺・/span> <span class=t-O>[謌千ｸｾ縺ｪ縺ｩ縺ｯ蠖ｱ髻ｿ縺輔ｌ繧九→]</span>縲・",
+naturalTranslation: "遐皮ｩｶ縺ｫ繧医ｌ縺ｰ縲∫函蠕偵・謌千ｸｾ繧・・蠎ｦ縺ｯ謨吝ｸｫ縺ｮ謗･縺玲婿縺ｫ蠖ｱ髻ｿ縺輔ｌ縲√◎縺ｮ謗･縺玲婿閾ｪ菴薙ｂ謨吝ｸｫ縺ｮ辟｡諢剰ｭ倥・莠ｺ遞ｮ逧・￥隕九↓蠖ｱ髻ｿ縺輔ｌ縺ｦ縺・ｋ蜿ｯ閭ｽ諤ｧ縺後≠繧翫∪縺吶・",
+vocabulary: [ "{word: attitude", "meaning: 諷句ｺｦ }", "{word: subconscious", "meaning: 貎懷惠諢剰ｭ倥・縲∫┌諢剰ｭ倥・ }", "{word: bias", "meaning: 蛛剰ｦ・ }" ],
+grammarNotes: [ "{phrase: are influenced by", "explanation: <b>are influenced by (蜿怜虚諷・</b>: 縲後懊↓蠖ｱ髻ｿ縺輔ｌ繧九・ }", "{phrase: which may", "explanation: <b>which (髢｢菫ゆｻ｣蜷崎ｩ槭・髱槫宛髯千畑豕・</b>: 蜑阪・譁・・蜀・ｮｹ・域蕗蟶ｫ縺ｮ諷句ｺｦ・峨ｒ謖・☆縲・ }", "{phrase: in turn", "explanation: <b>in turn</b>: 縲御ｻ雁ｺｦ縺ｯ縲∵ｬ｡縺ｯ縲・ }" ]
+}
+},
+{
+id: 17,
+text: "Since the majority of teachers in US schools are White, students from ethnic minorities tend to have less chance of being selected for such programs.",
+translation: "邀ｳ蝗ｽ縺ｮ蟄ｦ譬｡縺ｮ謨吝ｸｫ縺ｮ螟ｧ驛ｨ蛻・・逋ｽ莠ｺ縺ｧ縺ゅｋ縺溘ａ縲∝ｰ第焚豌第酪縺ｮ逕溷ｾ偵・縺昴・繧医≧縺ｪ繝励Ο繧ｰ繝ｩ繝縺ｫ驕ｸ縺ｰ繧後ｋ蜿ｯ閭ｽ諤ｧ縺御ｽ弱＞蛯ｾ蜷代′縺ゅｊ縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "tend" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Since the majority ... are White)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>students</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>tend to have</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>less chance</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(螟ｧ蜊翫′逋ｽ莠ｺ縺ｪ縺ｮ縺ｧ)</span>縲・span class=t-S>逕溷ｾ偵・</span> <span class=t-V>謖√▽蛯ｾ蜷代′縺ゅｊ縺ｾ縺・/span> <span class=t-O>繧医ｊ蟆代↑縺・メ繝｣繝ｳ繧ｹ繧・/span>縲・",
+naturalTranslation: "邀ｳ蝗ｽ縺ｮ謨吝ｸｫ縺ｮ螟ｧ蜊翫・逋ｽ莠ｺ縺ｧ縺ゅｋ縺溘ａ縲∝ｰ第焚豌第酪縺ｮ逕溷ｾ偵′縺昴≧縺励◆繝励Ο繧ｰ繝ｩ繝縺ｫ驕ｸ縺ｰ繧後ｋ繝√Ε繝ｳ繧ｹ縺ｯ蟆代↑縺上↑繧句だ蜷代↓縺ゅｊ縺ｾ縺吶・",
+vocabulary: [ "{word: majority", "meaning: 螟ｧ螟壽焚 }", "{word: chance", "meaning: 讖滉ｼ壹∝庄閭ｽ諤ｧ }", "{word: less", "meaning: 繧医ｊ蟆代↑縺・ }" ],
+grammarNotes: [ "{phrase: Since", "explanation: <b>Since (謗･邯夊ｩ・</b>: 縲後懊↑縺ｮ縺ｧ縲・ }", "{phrase: tend to", "explanation: <b>tend to</b>: 縲後懊＠縺後■縺ｧ縺ゅｋ縲・ }", "{phrase: of being selected", "explanation: <b>of being selected (蜍募錐隧槭・蜿怜虚諷・</b>: 縲碁∈縺ｰ繧後ｋ縺薙→縺ｮ・医メ繝｣繝ｳ繧ｹ・峨・ }" ]
+}
+},
+{
+id: 18,
+text: "However, in US school districts where IQ tests have been used in the selection process, more students from ethnic minorities have been able to enter the programs.",
+translation: "縺励°縺励・∈謚懊・繝ｭ繧ｻ繧ｹ縺ｧIQ繝・せ繝医′菴ｿ逕ｨ縺輔ｌ縺ｦ縺・ｋ邀ｳ蝗ｽ縺ｮ蟄ｦ蛹ｺ縺ｧ縺ｯ縲√ｈ繧雁､壹￥縺ｮ蟆第焚豌第酪縺ｮ逕溷ｾ偵′繝励Ο繧ｰ繝ｩ繝縺ｫ蜿ょ刈縺吶ｋ縺薙→縺後〒縺阪※縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "have been able" ],
+structureHtml: "<span class=chunk M-group><span class=text>(However)</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>(in US school districts where...)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>more students</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>have been able to enter</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the programs</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(縺励°縺・</span>縲・span class=t-M>(IQ繝・せ繝医′菴ｿ繧上ｌ縺ｦ縺・ｋ蟄ｦ蛹ｺ縺ｧ縺ｯ)</span>縲・span class=t-S>繧医ｊ螟壹￥縺ｮ逕溷ｾ偵′</span> <span class=t-V>蜈･繧九％縺ｨ縺後〒縺阪※縺・∪縺・/span> <span class=t-O>繝励Ο繧ｰ繝ｩ繝縺ｫ</span>縲・",
+naturalTranslation: "縺励°縺励・∈閠・℃遞九〒IQ繝・せ繝医ｒ蟆主・縺励※縺・ｋ蟄ｦ蛹ｺ縺ｧ縺ｯ縲√ｈ繧雁､壹￥縺ｮ蟆第焚豌第酪縺ｮ逕溷ｾ偵′繝励Ο繧ｰ繝ｩ繝縺ｫ蜈･繧九％縺ｨ縺後〒縺阪※縺・∪縺吶・",
+vocabulary: [ "{word: district", "meaning: 蝨ｰ蛹ｺ縲∝ｭｦ蛹ｺ }", "{word: selection", "meaning: 驕ｸ謚・ }", "{word: process", "meaning: 驕守ｨ九√・繝ｭ繧ｻ繧ｹ }" ],
+grammarNotes: [ "{phrase: where", "explanation: <b>where (髢｢菫ょ憶隧・</b>: districts繧剃ｿｮ鬟ｾ縲ゅ後懊☆繧九ｈ縺・↑蝨ｰ蛹ｺ縺ｧ縺ｯ縲・ }", "{phrase: have been able to", "explanation: <b>have been able to (迴ｾ蝨ｨ螳御ｺ・ｽ｢)</b>: 縲後懊☆繧九％縺ｨ縺後〒縺阪※縺・ｋ縲・ }" ]
+}
+},
+{
+id: 19,
+text: "Supporters of the tests say they are a fairer selection method because they provide an objective measure of ability.",
+translation: "繝・せ繝医・謾ｯ謖∬・・縲√◎繧後ｉ縺瑚・蜉帙・螳｢隕ｳ逧・↑蟆ｺ蠎ｦ繧呈署萓帙☆繧九◆繧√√ｈ繧雁・蟷ｳ縺ｪ驕ｸ謚懈婿豕輔〒縺ゅｋ縺ｨ險縺・∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "say" ],
+structureHtml: "<span class=chunk S-group><span class=text>Supporters</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>say</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[they are a fairer selection method]</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(because they provide...)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>謾ｯ謖∬・・</span> <span class=t-V>險縺・∪縺・/span> <span class=t-O>[縺昴ｌ繧峨・繧医ｊ蜈ｬ蟷ｳ縺ｪ譁ｹ豕輔□縺ｨ]</span> <span class=t-M>(縺ｪ縺懊↑繧画署萓帙☆繧九°繧・</span>縲・",
+naturalTranslation: "謾ｯ謖∬・◆縺｡縺ｯ縲！Q繝・せ繝医・閭ｽ蜉帙・螳｢隕ｳ逧・↑貂ｬ螳壼､繧呈署萓帙☆繧九◆繧√√ｈ繧雁・蟷ｳ縺ｪ驕ｸ謚懈婿豕輔〒縺ゅｋ縺ｨ荳ｻ蠑ｵ縺励※縺・∪縺吶・",
+vocabulary: [ "{word: supporter", "meaning: 謾ｯ謖∬・ }", "{word: fair", "meaning: 蜈ｬ蟷ｳ縺ｪ }", "{word: objective", "meaning: 螳｢隕ｳ逧・↑ }" ],
+grammarNotes: [ "{phrase: say they", "explanation: <b>say (that)</b>: 謗･邯夊ｩ柎hat縺ｮ逵∫払縲ゅ後懊□縺ｨ險縺・・ }", "{phrase: fairer", "explanation: <b>fairer (豈碑ｼ・ｴ・</b>: 縲後ｈ繧雁・蟷ｳ縺ｪ縲・ }", "{phrase: measure", "meaning: 蟆ｺ蠎ｦ縲∵ｸｬ螳・ }" ]
+}
+}
+]
+}
+],
+questions: [
+{
+id: 25,
+text: "According to the first paragraph, what is true about Alfred Binet?",
+textTranslation: "隨ｬ1谿ｵ關ｽ縺ｫ繧医ｋ縺ｨ縲√い繝ｫ繝輔Ξ繝・ラ繝ｻ繝薙ロ繝ｼ縺ｫ縺､縺・※豁｣縺励＞縺薙→縺ｯ菴輔〒縺吶°・・",
+keywords: [ "first paragraph", "true", "Alfred Binet" ],
+keywordExplanations: {
+first paragraph: 隨ｬ1谿ｵ關ｽ縲らｯ・峇繧呈欠螳壹☆繧九く繝ｼ繝ｯ繝ｼ繝峨〒縺吶・,
+true: "豁｣縺励＞繧ゅ・繧帝∈縺ｶ蝠城｡後〒縺吶・",
+Alfred Binet: 莠ｺ蜷阪らｬｬ1谿ｵ關ｽ縺ｮ荳ｭ縺九ｉ縺薙・蜷榊燕・医∪縺溘・繝薙ロ繝ｼ縺ｮ縺ｿ・峨ｒ謗｢縺励∪縺励ｇ縺・・
+},
+keywordMatches: [
+{sentenceId: 2, text: Alfred Binet, keyword: Alfred Binet },
+{sentenceId: 3, text: Binet, keyword: Alfred Binet }
+],
+hint: "{paragraphId: 1, description: 隨ｬ1谿ｵ關ｽ縺ｮ蠕悟濠縲ゅ掲oundation縲・蝓ｺ遉・ 縺ｨ縺・≧險闡峨ｒ蜷ｫ繧譁・ｒ謗｢縺励∪縺励ｇ縺・・, targetSentenceId: 4, highlightWord: provided the foundation, highlightWordSentenceId: 4 }",
+choiceAdvice: "繝薙ロ繝ｼ縺ｮ蜉溽ｸｾ縺ｫ縺､縺・※縲・: 諢丞峙縺碁＆縺｣縺・not intended?), 2: 蝓ｺ遉弱↓縺ｪ縺｣縺・basis), 3: 隗｣髮・＆繧後◆(lost job?), 4: 譛蛻昴〒縺ｯ縺ｪ縺・not the first person?)縲・",
+logic: [
+{type: text, content: 譛ｬ譁・ The Binet-Simon test ... provided the foundation for all IQ tests that have been produced since. },
+{type: text, content: 隗｣隱ｬ: 譛ｬ譁・↓縺ｯ縲悟ｽｼ縺御ｽ懈・縺励◆繝・せ繝医・縲√◎縺ｮ蠕後・縺吶∋縺ｦ縺ｮIQ繝・せ繝医・蝓ｺ遉趣ｼ・oundation・峨ｒ謠蝉ｾ帙＠縺溘阪→縺ゅｊ縺ｾ縺吶ゅ％繧後・驕ｸ謚櫁い2縺ｮ縲悟渕遉趣ｼ・asis・峨→縺ｪ縺｣縺溘阪→險縺・鋤縺医ｉ繧後∪縺吶・ },
+{type: arrow, content: 竊・ },
+{type: text, content: 驕ｸ謚櫁い2: The test he developed became the basis for all IQ tests that have been developed since. },
+{type: conclusion, content: 豁｣隗｣: 2 }
+],
+choices: [
+{id: 1, text: The test he developed was not initially intended for the purpose of measuring intelligence in children., translation: 蠖ｼ縺碁幕逋ｺ縺励◆繝・せ繝医・縲∝ｽ灘・縺ｯ蟄蝉ｾ帙・遏･閭ｽ繧呈ｸｬ螳壹☆繧狗岼逧・〒縺ｯ縺ｪ縺九▲縺溘・, isCorrect: false },
+{id: 2, text: The test he developed became the basis for all IQ tests that have been developed since., translation: 蠖ｼ縺碁幕逋ｺ縺励◆繝・せ繝医・縲√◎繧御ｻ･譚･髢狗匱縺輔ｌ縺溘☆縺ｹ縺ｦ縺ｮIQ繝・せ繝医・蝓ｺ遉弱→縺ｪ縺｣縺溘・, isCorrect: true, highlight: basis for all IQ tests },
+{id: 3, text: He lost his job with the French government because of his strong opinions regarding IQ tests., translation: 蠖ｼ縺ｯIQ繝・せ繝医↓髢｢縺吶ｋ蠑ｷ縺・э隕九・縺溘ａ縺ｫ繝輔Λ繝ｳ繧ｹ謾ｿ蠎懊〒縺ｮ閨ｷ繧貞､ｱ縺｣縺溘・, isCorrect: false },
+{id: 4, text: He was not the first person to attempt to create a test that could be used to measure a person's intelligence., translation: 蠖ｼ縺ｯ莠ｺ縺ｮ遏･閭ｽ繧呈ｸｬ螳壹☆繧九◆繧√↓菴ｿ逕ｨ縺ｧ縺阪ｋ繝・せ繝医ｒ菴懈・縺励ｈ縺・→縺励◆譛蛻昴・莠ｺ迚ｩ縺ｧ縺ｯ縺ｪ縺九▲縺溘・, isCorrect: false }
+]
+},
+{
+id: 26,
+text: "A study in Canada suggested that",
+textTranslation: "繧ｫ繝翫ム縺ｧ縺ｮ遐皮ｩｶ縺ｯ縲懊→遉ｺ蜚・＠縺ｾ縺励◆縲・",
+keywords: [ "study in Canada", "suggested" ],
+keywordExplanations: {
+study in Canada: 繧ｫ繝翫ム縺ｧ縺ｮ遐皮ｩｶ縲らｬｬ2谿ｵ關ｽ縺ｮ study carried out in Canada 繧呈爾縺励∪縺吶・,
+suggested: "遉ｺ蜚・＠縺溘よ悽譁・〒縺ｯ迴ｾ蝨ｨ蠖｢ suggests 縺ｫ縺ｪ縺｣縺ｦ縺・∪縺吶・"
+},
+keywordMatches: [
+{sentenceId: 9, text: study carried out in Canada, keyword: study in Canada },
+{sentenceId: 9, text: suggests, keyword: suggested }
+],
+hint: "{paragraphId: 2, description: 隨ｬ2谿ｵ關ｽ縺ｮ蜑榊濠縲ゅ茎imple縲阪ｄ縲稽istaken縲阪→縺・▲縺溘∝ｾ捺擂縺ｮ繝｢繝・Ν縺ｸ縺ｮ蜷ｦ螳夂噪縺ｪ陦ｨ迴ｾ繧呈爾縺励∪縺励ｇ縺・・, targetSentenceId: 9, highlightWord: too simple, highlightWordSentenceId: 9 }",
+choiceAdvice: "繧ｫ繝翫ム縺ｮ遐皮ｩｶ邨先棡縲・: 閼ｳ縺ｮ荳驛ｨ蛻・↓萓晏ｭ・one part?), 2: 辟｡蜉ｹ(ineffective?), 3: 蜊倅ｸ閭ｽ蜉帙→縺・≧隱､縺｣縺滓ｦょｿｵ(mistaken concept, single ability), 4: 蛟倶ｺｺ蟾ｮ縺悟ｰ代↑縺・less variation?)縲・",
+logic: [
+{type: text, content: 譛ｬ譁・ suggests that this model of intelligence is too simple. },
+{type: text, content: 隗｣隱ｬ: 遐皮ｩｶ縺ｯ蠕捺擂縺ｮ遏･閭ｽ繝｢繝・Ν縺後悟腰邏斐☆縺弱ｋ・・oo simple・峨阪→遉ｺ蜚・＠縺ｦ縺・∪縺吶ゅ％繧後・縲∫衍閭ｽ繧貞腰荳縺ｮ閭ｽ蜉帙→縺励※謐峨∴繧九％縺ｨ縺後瑚ｪ､縺｣縺滓ｦょｿｵ・・istaken concept・峨阪〒縺ゅｋ縺ｨ縺・≧諢丞袖縺ｧ縺吶・ },
+{type: arrow, content: 竊・ },
+{type: text, content: 驕ｸ謚櫁い3: designed based on the mistaken concept that intelligence is a single ability },
+{type: conclusion, content: 豁｣隗｣: 3 }
+],
+choices: [
+{id: 1, text: although intelligence consists of several different aspects, it is dependent on the function of just one part of the brain., translation: 遏･閭ｽ縺ｯ縺・￥縺､縺九・逡ｰ縺ｪ繧句・髱｢縺九ｉ謌舌ｋ縺後√◎繧後・閼ｳ縺ｮ縺溘▲縺滉ｸ縺､縺ｮ驛ｨ蛻・・讖溯・縺ｫ萓晏ｭ倥＠縺ｦ縺・ｋ縲・, isCorrect: false },
+{id: 2, text: while most IQ tests are based on valid research, the way they are carried out makes them ineffective., translation: 縺ｻ縺ｨ繧薙←縺ｮIQ繝・せ繝医・譛牙柑縺ｪ遐皮ｩｶ縺ｫ蝓ｺ縺･縺・※縺・ｋ縺後√◎縺ｮ螳滓命譁ｹ豕輔・縺昴ｌ繧峨ｒ蜉ｹ譫懊・縺ｪ縺・ｂ縺ｮ縺ｫ縺励※縺・ｋ縲・, isCorrect: false },
+{id: 3, text: IQ tests are designed based on the mistaken concept that intelligence is a single ability that can be measured in isolation., translation: IQ繝・せ繝医・縲∫衍閭ｽ縺ｯ蛻・屬縺励※貂ｬ螳壹〒縺阪ｋ蜊倅ｸ縺ｮ閭ｽ蜉帙〒縺ゅｋ縺ｨ縺・≧隱､縺｣縺滓ｦょｿｵ縺ｫ蝓ｺ縺･縺・※險ｭ險医＆繧後※縺・ｋ縲・, isCorrect: true, highlight: mistaken concept ... single ability },
+{id: 4, text: evidence from brain scans indicates there is less variation in people's intelligence than was previously believed., translation: 閼ｳ繧ｹ繧ｭ繝｣繝ｳ縺ｮ險ｼ諡縺ｯ縲∽ｻ･蜑崎・∴繧峨ｌ縺ｦ縺・◆繧医ｊ繧ゆｺｺ縲・・遏･閭ｽ縺ｮ螟牙虚縺悟ｰ代↑縺・％縺ｨ繧堤､ｺ縺励※縺・ｋ縲・, isCorrect: false }
+]
+},
+{
+id: 27,
+text: "What does the author of the passage say about gifted education programs in US schools?",
+textTranslation: "繝代ャ繧ｻ繝ｼ繧ｸ縺ｮ闡苓・・縲∫ｱｳ蝗ｽ縺ｮ蟄ｦ譬｡縺ｫ縺翫￠繧玖恭謇肴蕗閧ｲ繝励Ο繧ｰ繝ｩ繝縺ｫ縺､縺・※菴輔→險縺｣縺ｦ縺・∪縺吶°・・",
+keywords: [ "gifted education programs", "US schools" ],
+keywordExplanations: {
+gifted education programs: 闍ｱ謇肴蕗閧ｲ繝励Ο繧ｰ繝ｩ繝縲らｬｬ3谿ｵ關ｽ縺ｧ縺昴・縺ｾ縺ｾ縺ｮ隱槫唱縺瑚ｦ九▽縺九ｊ縺ｾ縺吶・,
+US schools: 邀ｳ蝗ｽ縺ｮ蟄ｦ譬｡縲ゅ％繧後ｂ隨ｬ3谿ｵ關ｽ縺ｮ蜀帝ｭ縺ｫ縺ゅｊ縺ｾ縺吶・
+},
+keywordMatches: [
+{sentenceId: 14, text: In US schools, keyword: US schools },
+{sentenceId: 14, text: gifted education programs, keyword: gifted education programs }
+],
+hint: "{paragraphId: 3, description: 隨ｬ3谿ｵ關ｽ縺ｮ蠕悟濠縲ゅ栗Q tests縲阪ｒ菴ｿ縺・％縺ｨ縺ｧ縲稽inorities縲阪↓縺ｩ縺ｮ繧医≧縺ｪ螟牙喧縺後≠縺｣縺溘°繧堤｢ｺ隱阪＠縺ｾ縺励ｇ縺・・, targetSentenceId: 18, highlightWord: able to enter, highlightWordSentenceId: 18 }",
+choiceAdvice: "闍ｱ謇肴蕗閧ｲ繝励Ο繧ｰ繝ｩ繝縺ｸ縺ｮ蠖ｱ髻ｿ縲・: 謨吝ｸｫ縺ｫ謔ｪ逕ｨ縺輔ｌ縺ｦ縺・ｋ(misused?), 2: 莠域ｸｬ縺ｫ蠖ｹ遶九◆縺ｪ縺・little help?), 3: 繝槭う繝弱Μ繝・ぅ縺ｮ譁ｹ縺梧・邵ｾ縺瑚憶縺・perform better?), 4: 繝槭う繝弱Μ繝・ぅ縺ｫ繝√Ε繝ｳ繧ｹ繧剃ｸ弱∴繧・better chance)縲・",
+logic: [
+{type: text, content: 譛ｬ譁・ where IQ tests have been used ... more students from ethnic minorities have been able to enter the programs. },
+{type: text, content: 隗｣隱ｬ: IQ繝・せ繝医ｒ蟆主・縺励◆蝨ｰ蝓溘〒縺ｯ縲√ｈ繧雁､壹￥縺ｮ蟆第焚豌第酪縺ｮ逕溷ｾ偵′繝励Ο繧ｰ繝ｩ繝縺ｫ蜈･繧九％縺ｨ縺後〒縺阪◆縺ｨ霑ｰ縺ｹ繧峨ｌ縺ｦ縺・∪縺吶ゅ％繧後・蠖ｼ繧峨↓縲後ｈ繧願憶縺・メ繝｣繝ｳ繧ｹ・・etter chance・峨ｒ荳弱∴縺溘阪→險縺・鋤縺医ｉ繧後∪縺吶・ },
+{type: arrow, content: 竊・ },
+{type: text, content: 驕ｸ謚櫁い4: given students from ethnic minorities a better chance of entering such programs. },
+{type: conclusion, content: 豁｣隗｣: 4 }
+],
+choices: [
+{id: 1, text: IQ tests are being misused by teachers as a way to determine which students should enter such programs., translation: IQ tests縺ｯ縲√←縺ｮ逕溷ｾ偵′縺昴・繧医≧縺ｪ繝励Ο繧ｰ繝ｩ繝縺ｫ蜈･繧九∋縺阪°繧呈ｱｺ螳壹☆繧区婿豕輔→縺励※謨吝ｸｫ縺ｫ繧医▲縺ｦ謔ｪ逕ｨ縺輔ｌ縺ｦ縺・ｋ縲・, isCorrect: false },
+{id: 2, text: Results of IQ tests provide little help in predicting how well students in such programs will perform., translation: IQ繝・せ繝医・邨先棡縺ｯ縲√◎縺ｮ繧医≧縺ｪ繝励Ο繧ｰ繝ｩ繝縺ｮ逕溷ｾ偵′縺ｩ繧後￥繧峨＞濶ｯ縺・・邵ｾ繧貞庶繧√ｋ縺九ｒ莠域ｸｬ縺吶ｋ縺ｮ縺ｫ縺ｻ縺ｨ繧薙←蠖ｹ遶九◆縺ｪ縺・・, isCorrect: false },
+{id: 3, text: Students from ethnic minorities tend to perform better in such programs than White students do., translation: 蟆第焚豌第酪縺ｮ逕溷ｾ偵・縲∫區莠ｺ縺ｮ逕溷ｾ偵ｈ繧翫ｂ縺昴・繧医≧縺ｪ繝励Ο繧ｰ繝ｩ繝縺ｧ繧医ｊ濶ｯ縺・・邵ｾ繧貞庶繧√ｋ蛯ｾ蜷代′縺ゅｋ縲・, isCorrect: false },
+{id: 4, text: The use of IQ tests has given students from ethnic minorities a better chance of entering such programs., translation: IQ繝・せ繝医・菴ｿ逕ｨ縺ｯ縲∝ｰ第焚豌第酪縺ｮ逕溷ｾ偵↓縺昴・繧医≧縺ｪ繝励Ο繧ｰ繝ｩ繝縺ｫ蜈･繧九ｈ繧願憶縺・メ繝｣繝ｳ繧ｹ繧剃ｸ弱∴縺ｦ縺・ｋ縲・, isCorrect: true, highlight: better chance of entering }
+]
+}
+],
+summaryForInstructors: {
+title: "Measuring Intelligence・育衍閭ｽ貂ｬ螳夲ｼ・",
+intro: "IQ繝・せ繝医・襍ｷ貅撰ｼ医ン繝阪・・峨√◎縺ｮ螯･蠖捺ｧ縺ｫ蟇ｾ縺吶ｋ迴ｾ莉｣縺ｮ謇ｹ蛻､・育衍閭ｽ縺ｮ螟壽ｧ俶ｧ・峨√♀繧医・謨呵ご迴ｾ蝣ｴ縺ｫ縺翫￠繧九・繧､繝弱Μ繝・ぅ驕ｸ謚懊∈縺ｮ蜈ｬ蟷ｳ諤ｧ縺ｨ縺・≧隕ｳ轤ｹ縺九ｉ縺ｮ蜀崎ｩ穂ｾ｡縺ｫ縺､縺・※隴ｰ隲悶☆繧九ヱ繝・そ繝ｼ繧ｸ縺ｧ縺吶・",
+points: [
+{label: 1. 髢狗匱縺ｨ譎ｮ蜿・, text: 繝薙ロ繝ｼ縺ｫ繧医ｋ蛻晄悄縺ｮ繝・せ繝磯幕逋ｺ縺檎樟蝨ｨ縺ｮIQ繝・せ繝医・蝓ｺ遉弱→縺ｪ繧翫・∈蛻･縺ｮ謇玖ｻｽ縺輔°繧画蕗閧ｲ繧・寐逕ｨ縺ｧ譎ｮ蜿翫＠縺ｾ縺励◆縲・ },
+{label: 2. 螯･蠖捺ｧ縺ｸ縺ｮ謇ｹ蛻､, text: 遏･閭ｽ縺ｯ蜊倅ｸ縺ｮ閭ｽ蜉帙〒縺ｯ縺ｪ縺上∬ｨ俶・繝ｻ謗ｨ隲悶・險隱槭↑縺ｩ縺ｮ隍・焚隕∫ｴ縺ｧ讒区・縺輔ｌ縺ｦ縺・ｋ縺ｨ縺・≧遐皮ｩｶ邨先棡縺後≠繧翫∝ｾ捺擂縺ｮIQ繝・せ繝医・蜑肴署縺ｫ菫ｮ豁｣繧定ｿｫ縺｣縺ｦ縺・∪縺吶・ },
+{label: 3. 蜈ｬ蟷ｳ諤ｧ縺ｮ遒ｺ菫・, text: 謨吝ｸｫ縺ｮ蛛剰ｦ九′蜈･繧翫≧繧区耳阮ｦ蛻ｶ蠎ｦ縺ｫ豈斐∋縲∝ｮ｢隕ｳ逧・↑IQ繝・せ繝医・繝槭う繝弱Μ繝・ぅ縺ｮ逕溷ｾ偵↓蜈ｬ蟷ｳ縺ｪ驕ｸ謚懊・讖滉ｼ壹ｒ荳弱∴繧句柑譫懊′遒ｺ隱阪＆繧後※縺・∪縺吶・ }
+]
+}
+},

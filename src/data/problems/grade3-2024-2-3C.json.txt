@@ -1,0 +1,577 @@
+{
+id: "grade3-2024-2-3C",
+grade: "3邏・",
+title: "The SS Savannah",
+subTitle: "2024蟷ｴ蠎ｦ 隨ｬ2蝗・螟ｧ蝠・C",
+images: {
+content: "/images/reading/grade3-2024-2-3C-content.png",
+question: "/images/reading/grade3-2024-2-3C-question.png"
+},
+content: [
+{
+paragraphId: 1,
+sentences: [
+{
+id: 1,
+text: "The SS Savannah was an American ship.",
+translation: "SS繧ｵ繝舌Φ繝雁捷縺ｯ繧｢繝｡繝ｪ繧ｫ縺ｮ闊ｹ縺ｧ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was" ],
+structureHtml: "<span class=chunk S-group><span class=text>The SS Savannah</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>an American ship</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>SS繧ｵ繝舌Φ繝雁捷縺ｯ</span> <span class=t-V>縺ｧ縺励◆</span> <span class=t-C>繧｢繝｡繝ｪ繧ｫ縺ｮ闊ｹ</span>縲・",
+naturalTranslation: "SS繧ｵ繝舌Φ繝雁捷縺ｯ繧｢繝｡繝ｪ繧ｫ縺ｮ闊ｹ縺ｧ縺励◆縲・",
+vocabulary: [ "" ],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 2,
+text: "It was built in the 1810s.",
+translation: "縺昴ｌ縺ｯ1810蟷ｴ莉｣縺ｫ蟒ｺ騾縺輔ｌ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was built" ],
+structureHtml: "<span class=chunk S-group><span class=text>It</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was built</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(in the 1810s)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺昴ｌ縺ｯ</span> <span class=t-V>蟒ｺ騾縺輔ｌ縺ｾ縺励◆</span> <span class=t-M>(1810蟷ｴ莉｣縺ｫ)</span>縲・",
+naturalTranslation: "1810蟷ｴ莉｣縺ｫ蟒ｺ騾縺輔ｌ縺ｾ縺励◆縲・",
+vocabulary: [
+{ word: build, meaning: 蟒ｺ縺ｦ繧九∝ｻｺ騾縺吶ｋ }
+],
+grammarNotes: [
+{ phrase: was built, explanation: <b>蜿怜虚諷・/b>: 縲悟ｻｺ騾縺輔ｌ縺溘阪・ }
+]
+}
+},
+{
+id: 3,
+text: "It was planned as a sailing ship for people and cargo.",
+translation: "縺昴ｌ縺ｯ莠ｺ縺ｨ雋ｨ迚ｩ繧帝°縺ｶ蟶・飴縺ｨ縺励※險育判縺輔ｌ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was planned" ],
+structureHtml: "<span class=chunk S-group><span class=text>It</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was planned</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(as a sailing ship)</span><span class=tag>M</span></span> <span class=chunk M-group><span class=text>(for people and cargo)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺昴ｌ縺ｯ</span> <span class=t-V>險育判縺輔ｌ縺ｾ縺励◆</span> <span class=t-M>(蟶・飴縺ｨ縺励※)</span> <span class=t-M>(莠ｺ縺ｨ雋ｨ迚ｩ縺ｮ縺溘ａ縺ｮ)</span>縲・",
+naturalTranslation: "莠ｺ縺ｨ雋ｨ迚ｩ繧帝°縺ｶ蟶・飴縺ｨ縺励※險ｭ險医＆繧後∪縺励◆縲・",
+vocabulary: [
+{ word: sailing ship, meaning: 蟶・飴 },
+{ word: cargo, meaning: 雋ｨ迚ｩ }
+],
+grammarNotes: [
+{ phrase: was planned as, explanation: <b>蜿怜虚諷・+ as</b>: 縲後懊→縺励※險育判縺輔ｌ縺溘阪・ }
+]
+}
+},
+{
+id: 4,
+text: "The design had large rooms with carpets and curtains.",
+translation: "縺昴・險ｭ險医↓縺ｯ縲√き繝ｼ繝壹ャ繝医→繧ｫ繝ｼ繝・Φ縺ｮ縺ゅｋ螟ｧ縺阪↑驛ｨ螻九′縺ゅｊ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "had" ],
+structureHtml: "<span class=chunk S-group><span class=text>The design</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>had</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>large rooms <span class=modifier>(with carpets and curtains)</span></span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>縺昴・險ｭ險医↓縺ｯ</span> <span class=t-V>縺ゅｊ縺ｾ縺励◆</span> <span class=t-O>螟ｧ縺阪↑驛ｨ螻九′ (繧ｫ繝ｼ繝壹ャ繝医→繧ｫ繝ｼ繝・Φ縺ｮ縺ゅｋ)</span>縲・",
+naturalTranslation: "險ｭ險医↓縺ｯ縲√き繝ｼ繝壹ャ繝医ｄ繧ｫ繝ｼ繝・Φ莉倥″縺ｮ螟ｧ縺阪↑驛ｨ螻九′縺ゅｊ縺ｾ縺励◆縲・",
+vocabulary: [
+{ word: design, meaning: 險ｭ險・ },
+{ word: carpet, meaning: 繧ｫ繝ｼ繝壹ャ繝・ },
+{ word: curtain, meaning: 繧ｫ繝ｼ繝・Φ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 5,
+text: "However, a change was made to the ship's design.",
+translation: "縺励°縺励∬飴縺ｮ險ｭ險医↓螟画峩縺悟刈縺医ｉ繧後∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was made" ],
+structureHtml: "However, <span class=chunk S-group><span class=text>a change</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was made</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(to the ship's design)</span><span class=tag>M</span></span>.",
+translationHtml: "縺励°縺励・span class=t-S>螟画峩縺・/span> <span class=t-V>蜉縺医ｉ繧後∪縺励◆</span> <span class=t-M>(闊ｹ縺ｮ險ｭ險医↓)</span>縲・",
+naturalTranslation: "縺励°縺励∬飴縺ｮ險ｭ險医↓螟画峩縺悟刈縺医ｉ繧後∪縺励◆縲・",
+vocabulary: [
+{ word: change, meaning: 螟画峩 }
+],
+grammarNotes: [
+{ phrase: was made, explanation: <b>蜿怜虚諷・/b>: 縲御ｽ懊ｉ繧後◆縲∝刈縺医ｉ繧後◆縲阪・ }
+]
+}
+},
+{
+id: 6,
+text: "At that time, people were developing steam engines.",
+translation: "蠖捺凾縲∽ｺｺ縲・・闥ｸ豌玲ｩ滄未繧帝幕逋ｺ縺励※縺・∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "were developing" ],
+structureHtml: "<span class=chunk M-group><span class=text>(At that time)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>people</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were developing</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>steam engines</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(蠖捺凾)</span>縲・span class=t-S>莠ｺ縲・・</span> <span class=t-V>髢狗匱縺励※縺・∪縺励◆</span> <span class=t-O>闥ｸ豌玲ｩ滄未繧・/span>縲・",
+naturalTranslation: "縺昴・蠖捺凾縲∽ｺｺ縲・・闥ｸ豌玲ｩ滄未繧帝幕逋ｺ荳ｭ縺ｧ縺励◆縲・",
+vocabulary: [
+{ word: develop, meaning: 髢狗匱縺吶ｋ },
+{ word: steam engine, meaning: 闥ｸ豌玲ｩ滄未 }
+],
+grammarNotes: [
+{ phrase: were developing, explanation: <b>驕主悉騾ｲ陦悟ｽ｢</b>: 縲後懊＠縺ｦ縺・◆縲阪・ }
+]
+}
+},
+{
+id: 7,
+text: "So, the SS Savannah became a sailing ship that had a steam engine, too.",
+translation: "縺昴・縺溘ａ縲ヾS繧ｵ繝舌Φ繝雁捷縺ｯ闥ｸ豌玲ｩ滄未繧ょｙ縺医◆蟶・飴縺ｫ縺ｪ繧翫∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "became" ],
+structureHtml: "So, <span class=chunk S-group><span class=text>the SS Savannah</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>became</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>a sailing ship [that had a steam engine, too]</span><span class=tag>C</span></span>.",
+translationHtml: "縺昴・縺溘ａ縲・span class=t-S>SS繧ｵ繝舌Φ繝雁捷縺ｯ</span> <span class=t-V>縺ｪ繧翫∪縺励◆</span> <span class=t-C>蟶・飴縺ｫ [闥ｸ豌玲ｩ滄未繧ょｙ縺医◆]</span>縲・",
+naturalTranslation: "縺昴％縺ｧ縲ヾS繧ｵ繝舌Φ繝雁捷縺ｯ闥ｸ豌玲ｩ滄未繧よ政霈峨＠縺溷ｸ・飴縺ｫ縺ｪ繧翫∪縺励◆縲・",
+vocabulary: [
+{ word: become, meaning: 縲懊↓縺ｪ繧・ }
+],
+grammarNotes: [
+{ phrase: that had, explanation: <b>髢｢菫ゆｻ｣蜷崎ｩ柎hat</b>: a sailing ship繧剃ｿｮ鬟ｾ縲・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 2,
+sentences: [
+{
+id: 8,
+text: "The ship's captain also had an idea for the SS Savannah.",
+translation: "闊ｹ髟ｷ繧４S繧ｵ繝舌Φ繝雁捷縺ｫ髢｢縺吶ｋ繧｢繧､繝・い繧呈戟縺｣縺ｦ縺・∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "had" ],
+structureHtml: "<span class=chunk S-group><span class=text>The ship's captain</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(also)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>had</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>an idea <span class=modifier>(for the SS Savannah)</span></span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>闊ｹ髟ｷ繧・/span> <span class=t-M>(縺ｾ縺・</span> <span class=t-V>謖√▲縺ｦ縺・∪縺励◆</span> <span class=t-O>繧｢繧､繝・い繧・(SS繧ｵ繝舌Φ繝雁捷縺ｫ髢｢縺吶ｋ)</span>縲・",
+naturalTranslation: "闊ｹ髟ｷ繧４S繧ｵ繝舌Φ繝雁捷縺ｫ縺､縺・※縺ゅｋ繧｢繧､繝・い繧呈戟縺｣縺ｦ縺・∪縺励◆縲・",
+vocabulary: [
+{ word: captain, meaning: 闊ｹ髟ｷ },
+{ word: idea, meaning: 繧｢繧､繝・い縲∬・∴ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 9,
+text: "He wanted to take it across the Atlantic Ocean to England.",
+translation: "蠖ｼ縺ｯ縺昴ｌ繧貞､ｧ隘ｿ豢九ｒ貂｡縺｣縺ｦ繧､繧ｮ繝ｪ繧ｹ縺ｾ縺ｧ闊ｪ豬ｷ縺輔○縺溘＞縺ｨ諤昴▲縺ｦ縺・∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "wanted" ],
+structureHtml: "<span class=chunk S-group><span class=text>He</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>wanted</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>to take it across the Atlantic Ocean to England</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>蠖ｼ縺ｯ</span> <span class=t-V>譛帙∩縺ｾ縺励◆</span> <span class=t-O>縺昴ｌ繧貞､ｧ隘ｿ豢九ｒ貂｡縺｣縺ｦ繧､繧ｮ繝ｪ繧ｹ縺ｸ謖√▲縺ｦ陦後￥縺薙→繧・/span>縲・",
+naturalTranslation: "蠖ｼ縺ｯ螟ｧ隘ｿ豢九ｒ讓ｪ譁ｭ縺励※繧､繧ｮ繝ｪ繧ｹ縺ｾ縺ｧ闊ｪ豬ｷ縺励◆縺・→閠・∴縺ｦ縺・∪縺励◆縲・",
+vocabulary: [
+{ word: Atlantic Ocean, meaning: 螟ｧ隘ｿ豢・ },
+{ word: across, meaning: 縲懊ｒ讓ｪ譁ｭ縺励※ }
+],
+grammarNotes: [
+{ phrase: wanted to take, explanation: <b>want to do</b>: 縲後懊＠縺溘＞縲阪・ }
+]
+}
+},
+{
+id: 10,
+text: "This plan worried some people because England was far away.",
+translation: "繧､繧ｮ繝ｪ繧ｹ縺ｯ驕縺九▲縺溘◆繧√√％縺ｮ險育判縺ｯ荳驛ｨ縺ｮ莠ｺ縲・ｒ蠢・・縺輔○縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "worried", "was" ],
+structureHtml: "<span class=chunk S-group><span class=text>This plan</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>worried</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>some people</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(because England was far away)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺薙・險育判縺ｯ</span> <span class=t-V>蠢・・縺輔○縺ｾ縺励◆</span> <span class=t-O>荳驛ｨ縺ｮ莠ｺ縲・ｒ</span> <span class=t-M>(繧､繧ｮ繝ｪ繧ｹ縺ｯ驕縺九▲縺溘・縺ｧ)</span>縲・",
+naturalTranslation: "繧､繧ｮ繝ｪ繧ｹ縺碁□縺・◆繧√√％縺ｮ險育判繧貞ｿ・・縺吶ｋ莠ｺ繧ゅ＞縺ｾ縺励◆縲・",
+vocabulary: [
+{ word: worry, meaning: 蠢・・縺輔○繧・ },
+{ word: far away, meaning: 驕縺城屬繧後◆ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 11,
+text: "They thought such a ship could not travel so far.",
+translation: "蠖ｼ繧峨・縺昴・繧医≧縺ｪ闊ｹ縺後◎繧薙↑縺ｫ驕縺上∪縺ｧ闊ｪ豬ｷ縺ｧ縺阪↑縺・→閠・∴縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "thought", "could not travel" ],
+structureHtml: "<span class=chunk S-group><span class=text>They</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>thought</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[such a ship could not travel so far]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>諤昴＞縺ｾ縺励◆</span> <span class=t-O>[縺昴・繧医≧縺ｪ闊ｹ縺ｯ縺昴ｓ縺ｪ縺ｫ驕縺上∪縺ｧ闊ｪ豬ｷ縺ｧ縺阪↑縺Ь縺ｨ</span>縲・",
+naturalTranslation: "蠖ｼ繧峨・縲√◎縺ｮ繧医≧縺ｪ闊ｹ縺後◎繧薙↑縺ｫ驕縺上∪縺ｧ闊ｪ陦後〒縺阪ｋ縺ｨ縺ｯ諤昴▲縺ｦ縺・∪縺帙ｓ縺ｧ縺励◆縲・",
+vocabulary: [
+{ word: such a, meaning: 縺昴・繧医≧縺ｪ },
+{ word: travel, meaning: 譌・｡後☆繧九∬穐陦後☆繧・ }
+],
+grammarNotes: [
+{ phrase: thought (that), explanation: <b>that遽・育怐逡･・・/b>: 縲後懊→諤昴▲縺溘阪・ }
+]
+}
+},
+{
+id: 12,
+text: "However, the captain found some people who wanted to join him, and he began the dangerous trip.",
+translation: "縺励°縺励∬飴髟ｷ縺ｯ蜿ょ刈縺励◆縺・ｺｺ縲・ｒ隕九▽縺代∝些髯ｺ縺ｪ譌・ｒ蟋九ａ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "found", "began" ],
+structureHtml: "However, <span class=chunk S-group><span class=text>the captain</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>found</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>some people [who wanted to join him]</span><span class=tag>O</span></span>, and <span class=chunk S-group><span class=text>he</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>began</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the dangerous trip</span><span class=tag>O</span></span>.",
+translationHtml: "縺励°縺励・span class=t-S>闊ｹ髟ｷ縺ｯ</span> <span class=t-V>隕九▽縺代∪縺励◆</span> <span class=t-O>莠ｺ縲・ｒ [蜿ょ刈縺励◆縺・→諤昴≧]</span>縲√◎縺励※ <span class=t-S>蠖ｼ縺ｯ</span> <span class=t-V>蟋九ａ縺ｾ縺励◆</span> <span class=t-O>蜊ｱ髯ｺ縺ｪ譌・ｒ</span>縲・",
+naturalTranslation: "縺励°縺励∬飴髟ｷ縺ｯ蜷瑚｡後＠縺ｦ縺上ｌ繧倶ｺｺ繧定ｦ九▽縺代∝些髯ｺ縺ｪ闊ｪ豬ｷ繧貞ｧ九ａ縺ｾ縺励◆縲・",
+vocabulary: [
+{ word: join, meaning: 蜿ょ刈縺吶ｋ縲∝刈繧上ｋ },
+{ word: dangerous, meaning: 蜊ｱ髯ｺ縺ｪ },
+{ word: trip, meaning: 譌・ }
+],
+grammarNotes: [
+{ phrase: who wanted, explanation: <b>髢｢菫ゆｻ｣蜷崎ｩ檜ho</b>: some people繧剃ｿｮ鬟ｾ縲・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 3,
+sentences: [
+{
+id: 13,
+text: "The SS Savannah arrived in England after about one month.",
+translation: "SS繧ｵ繝舌Φ繝雁捷縺ｯ邏・縺区怦蠕後↓繧､繧ｮ繝ｪ繧ｹ縺ｫ蛻ｰ逹縺励∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "arrived" ],
+structureHtml: "<span class=chunk S-group><span class=text>The SS Savannah</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>arrived</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(in England)</span><span class=tag>M</span></span> <span class=chunk M-group><span class=text>(after about one month)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>SS繧ｵ繝舌Φ繝雁捷縺ｯ</span> <span class=t-V>蛻ｰ逹縺励∪縺励◆</span> <span class=t-M>(繧､繧ｮ繝ｪ繧ｹ縺ｫ)</span> <span class=t-M>(邏・縺区怦蠕後↓)</span>縲・",
+naturalTranslation: "SS繧ｵ繝舌Φ繝雁捷縺ｯ邏・縺区怦蠕後↓繧､繧ｮ繝ｪ繧ｹ縺ｫ蛻ｰ逹縺励∪縺励◆縲・",
+vocabulary: [
+{ word: arrive in, meaning: 縲懊↓蛻ｰ逹縺吶ｋ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 14,
+text: "For most of the trip, the SS Savannah used sail power, but it also sometimes used steam power.",
+translation: "闊ｪ豬ｷ縺ｮ縺ｻ縺ｨ繧薙←縺ｧSS繧ｵ繝舌Φ繝雁捷縺ｯ蟶・・蜉帙ｒ菴ｿ縺・∪縺励◆縺後∵凾縲・頂豌怜虚蜉帙ｂ菴ｿ縺・∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "used", "used" ],
+structureHtml: "<span class=chunk M-group><span class=text>(For most of the trip)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the SS Savannah</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>used</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>sail power</span><span class=tag>O</span></span>, but <span class=chunk S-group><span class=text>it</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(also sometimes)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>used</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>steam power</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(闊ｪ豬ｷ縺ｮ縺ｻ縺ｨ繧薙←縺ｧ)</span>縲・span class=t-S>SS繧ｵ繝舌Φ繝雁捷縺ｯ</span> <span class=t-V>菴ｿ縺・∪縺励◆</span> <span class=t-O>蟶・・蜉帙ｒ</span>縲√＠縺九＠ <span class=t-S>縺昴ｌ縺ｯ</span> <span class=t-M>(譎ゅ・</span> <span class=t-V>菴ｿ縺・∪縺励◆</span> <span class=t-O>闥ｸ豌怜虚蜉帙ｒ</span>縲・",
+naturalTranslation: "闊ｪ豬ｷ縺ｮ縺ｻ縺ｨ繧薙←縺ｯ蟶・ｵｰ縺ｧ縺励◆縺後∵凾縺ｫ縺ｯ闥ｸ豌怜虚蜉帙ｂ菴ｿ縺・∪縺励◆縲・",
+vocabulary: [
+{ word: sail power, meaning: 蟶・・蜉・ },
+{ word: steam power, meaning: 闥ｸ豌怜虚蜉・ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 15,
+text: "It was the first ship to use steam power to help it to cross the Atlantic Ocean.",
+translation: "縺昴ｌ縺ｯ螟ｧ隘ｿ豢九ｒ讓ｪ譁ｭ縺吶ｋ縺ｮ繧貞勧縺代ｋ縺溘ａ縺ｫ闥ｸ豌怜虚蜉帙ｒ菴ｿ縺｣縺滓怙蛻昴・闊ｹ縺ｧ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was" ],
+structureHtml: "<span class=chunk S-group><span class=text>It</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>the first ship [to use steam power to help it to cross the Atlantic Ocean]</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>縺昴ｌ縺ｯ</span> <span class=t-V>縺ｧ縺励◆</span> <span class=t-C>譛蛻昴・闊ｹ [螟ｧ隘ｿ豢九ｒ讓ｪ譁ｭ縺吶ｋ縺ｮ繧貞勧縺代ｋ縺溘ａ縺ｫ闥ｸ豌怜虚蜉帙ｒ菴ｿ縺｣縺歉</span>縲・",
+naturalTranslation: "螟ｧ隘ｿ豢区ｨｪ譁ｭ縺ｫ闥ｸ豌怜虚蜉帙ｒ菴ｿ縺｣縺滓怙蛻昴・闊ｹ縺ｧ縺励◆縲・",
+vocabulary: [
+{ word: cross, meaning: 讓ｪ譁ｭ縺吶ｋ }
+],
+grammarNotes: [
+{ phrase: the first ship to use, explanation: <b>蠎乗焚隧・+ to荳榊ｮ夊ｩ・/b>: 縲後懊＠縺滓怙蛻昴・闊ｹ縲阪・ }
+]
+}
+},
+{
+id: 16,
+text: "Many people in England went to see this ship.",
+translation: "繧､繧ｮ繝ｪ繧ｹ縺ｮ螟壹￥縺ｮ莠ｺ縲・′縺薙・闊ｹ繧定ｦ九↓陦後″縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "went" ],
+structureHtml: "<span class=chunk S-group><span class=text>Many people <span class=modifier>(in England)</span></span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>went</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(to see this ship)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>繧､繧ｮ繝ｪ繧ｹ縺ｮ螟壹￥縺ｮ莠ｺ縲・′</span> <span class=t-V>陦後″縺ｾ縺励◆</span> <span class=t-M>(縺薙・闊ｹ繧定ｦ九↓)</span>縲・",
+naturalTranslation: "繧､繧ｮ繝ｪ繧ｹ縺ｮ螟壹￥縺ｮ莠ｺ縺後％縺ｮ闊ｹ繧定ｦ九↓譚･縺ｾ縺励◆縲・",
+vocabulary: [ "" ],
+grammarNotes: [
+{ phrase: went to see, explanation: <b>go to荳榊ｮ夊ｩ・/b>: 縲後懊＠縺ｫ陦後￥縲阪・ }
+]
+}
+},
+{
+id: 17,
+text: "Before the SS Savannah went home, it went to other countries such as Sweden.",
+translation: "SS繧ｵ繝舌Φ繝雁捷縺ｯ蟶ｰ蝗ｽ縺吶ｋ蜑阪↓縲√せ繧ｦ繧ｧ繝ｼ繝・Φ縺ｪ縺ｩ莉悶・蝗ｽ縲・↓繧り｡後″縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "went", "went" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Before the SS Savannah went home)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>it</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>went</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(to other countries such as Sweden)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(SS繧ｵ繝舌Φ繝雁捷縺悟ｸｰ蝗ｽ縺吶ｋ蜑阪↓)</span>縲・span class=t-S>縺昴ｌ縺ｯ</span> <span class=t-V>陦後″縺ｾ縺励◆</span> <span class=t-M>(繧ｹ繧ｦ繧ｧ繝ｼ繝・Φ縺ｪ縺ｩ縺ｮ莉悶・蝗ｽ縲・∈)</span>縲・",
+naturalTranslation: "蟶ｰ蝗ｽ蜑阪↓縲ヾS繧ｵ繝舌Φ繝雁捷縺ｯ繧ｹ繧ｦ繧ｧ繝ｼ繝・Φ縺ｪ縺ｩ縺ｮ蝗ｽ縲・ｒ險ｪ繧後∪縺励◆縲・",
+vocabulary: [
+{ word: such as, meaning: 縲懊・繧医≧縺ｪ },
+{ word: Sweden, meaning: 繧ｹ繧ｦ繧ｧ繝ｼ繝・Φ }
+],
+grammarNotes: [
+{ phrase: Before ... went, explanation: <b>before遽</b>: 縲後懊☆繧句燕縺ｫ縲阪・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 4,
+sentences: [
+{
+id: 18,
+text: "The trip was a success.",
+translation: "縺昴・闊ｪ豬ｷ縺ｯ謌仙粥縺ｧ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was" ],
+structureHtml: "<span class=chunk S-group><span class=text>The trip</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>a success</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>縺昴・闊ｪ豬ｷ縺ｯ</span> <span class=t-V>縺ｧ縺励◆</span> <span class=t-C>謌仙粥</span>縲・",
+naturalTranslation: "闊ｪ豬ｷ縺ｯ謌仙粥縺ｧ縺励◆縲・",
+vocabulary: [
+{ word: success, meaning: 謌仙粥 }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 19,
+text: "However, some people still thought steam technology was dangerous.",
+translation: "縺励°縺励∽ｸ驛ｨ縺ｮ莠ｺ縲・・闥ｸ豌玲橿陦薙′蜊ｱ髯ｺ縺縺ｨ萓晉┯縺ｨ縺励※閠・∴縺ｦ縺・∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "thought", "was" ],
+structureHtml: "However, <span class=chunk S-group><span class=text>some people</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(still)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>thought</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[steam technology was dangerous]</span><span class=tag>O</span></span>.",
+translationHtml: "縺励°縺励・span class=t-S>荳驛ｨ縺ｮ莠ｺ縲・・</span> <span class=t-M>(萓晉┯縺ｨ縺励※)</span> <span class=t-V>諤昴＞縺ｾ縺励◆</span> <span class=t-O>[闥ｸ豌玲橿陦薙′蜊ｱ髯ｺ縺縺ｨ]</span>縲・",
+naturalTranslation: "縺励°縺励∬頂豌玲橿陦薙ｒ蜊ｱ髯ｺ縺縺ｨ閠・∴繧倶ｺｺ縺ｯ縺ｾ縺縺・∪縺励◆縲・",
+vocabulary: [
+{ word: technology, meaning: 謚陦・ },
+{ word: dangerous, meaning: 蜊ｱ髯ｺ縺ｪ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 20,
+text: "The ship's steam engine was taken out.",
+translation: "闊ｹ縺ｮ闥ｸ豌玲ｩ滄未縺ｯ蜿悶ｊ螟悶＆繧後∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was taken out" ],
+structureHtml: "<span class=chunk S-group><span class=text>The ship's steam engine</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was taken out</span><span class=tag>V</span></span>.",
+translationHtml: "<span class=t-S>闊ｹ縺ｮ闥ｸ豌玲ｩ滄未縺ｯ</span> <span class=t-V>蜿悶ｊ螟悶＆繧後∪縺励◆</span>縲・",
+naturalTranslation: "闊ｹ縺ｮ闥ｸ豌玲ｩ滄未縺ｯ謦､蜴ｻ縺輔ｌ縺ｾ縺励◆縲・",
+vocabulary: [
+{ word: take out, meaning: 蜿悶ｊ蜃ｺ縺吶∝叙繧雁､悶☆ }
+],
+grammarNotes: [
+{ phrase: was taken out, explanation: <b>蜿怜虚諷・/b>: 縲悟叙繧雁､悶＆繧後◆縲阪・ }
+]
+}
+},
+{
+id: 21,
+text: "The SS Savannah was then used as a sailing ship to take people and cargo between Georgia and New York.",
+translation: "縺昴・蠕郡S繧ｵ繝舌Φ繝雁捷縺ｯ縲√ず繝ｧ繝ｼ繧ｸ繧｢縺ｨ繝九Η繝ｼ繝ｨ繝ｼ繧ｯ髢薙〒莠ｺ縺ｨ雋ｨ迚ｩ繧帝°縺ｶ蟶・飴縺ｨ縺励※菴ｿ繧上ｌ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was used" ],
+structureHtml: "<span class=chunk S-group><span class=text>The SS Savannah</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was <span class=modifier>(then)</span> used</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(as a sailing ship)</span><span class=tag>M</span></span> <span class=chunk M-group><span class=text>(to take people and cargo between Georgia and New York)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>SS繧ｵ繝舌Φ繝雁捷縺ｯ</span> <span class=t-V>菴ｿ繧上ｌ縺ｾ縺励◆ (縺昴・蠕・</span> <span class=t-M>(蟶・飴縺ｨ縺励※)</span> <span class=t-M>(繧ｸ繝ｧ繝ｼ繧ｸ繧｢縺ｨ繝九Η繝ｼ繝ｨ繝ｼ繧ｯ髢薙〒莠ｺ縺ｨ雋ｨ迚ｩ繧帝°縺ｶ縺溘ａ縺ｫ)</span>縲・",
+naturalTranslation: "縺昴・蠕後ヾS繧ｵ繝舌Φ繝雁捷縺ｯ繧ｸ繝ｧ繝ｼ繧ｸ繧｢繝ｻ繝九Η繝ｼ繝ｨ繝ｼ繧ｯ髢薙・莠ｺ縺ｨ雋ｨ迚ｩ繧帝°縺ｶ蟶・飴縺ｨ縺励※菴ｿ逕ｨ縺輔ｌ縺ｾ縺励◆縲・",
+vocabulary: [
+{ word: between A and B, meaning: A縺ｨB縺ｮ髢薙〒 }
+],
+grammarNotes: [
+{ phrase: was used as, explanation: <b>蜿怜虚諷・+ as</b>: 縲後懊→縺励※菴ｿ繧上ｌ縺溘阪・ }
+]
+}
+},
+{
+id: 22,
+text: "Sadly, in the early 1820s, the SS Savannah had an accident near New York City and broke into many pieces.",
+translation: "謔ｲ縺励＞縺薙→縺ｫ縲・820蟷ｴ莉｣蛻晞ｭ縺ｫSS繧ｵ繝舌Φ繝雁捷縺ｯ繝九Η繝ｼ繝ｨ繝ｼ繧ｯ蟶りｿ代￥縺ｧ莠区腐縺ｫ驕ｭ縺・√ヰ繝ｩ繝舌Λ縺ｫ螢翫ｌ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "had", "broke" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Sadly)</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>(in the early 1820s)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the SS Savannah</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>had</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>an accident</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(near New York City)</span><span class=tag>M</span></span> and <span class=chunk V-group><span class=text>broke</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(into many pieces)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(謔ｲ縺励＞縺薙→縺ｫ)</span>縲・span class=t-M>(1820蟷ｴ莉｣蛻晞ｭ縺ｫ)</span>縲・span class=t-S>SS繧ｵ繝舌Φ繝雁捷縺ｯ</span> <span class=t-V>驕ｭ縺・∪縺励◆</span> <span class=t-O>莠区腐縺ｫ</span> <span class=t-M>(繝九Η繝ｼ繝ｨ繝ｼ繧ｯ蟶りｿ代￥縺ｧ)</span>縲√◎縺励※ <span class=t-V>螢翫ｌ縺ｾ縺励◆</span> <span class=t-M>(繝舌Λ繝舌Λ縺ｫ)</span>縲・",
+naturalTranslation: "谿句ｿｵ縺ｪ縺後ｉ縲・820蟷ｴ莉｣蛻昴ａ縺ｫSS繧ｵ繝舌Φ繝雁捷縺ｯ繝九Η繝ｼ繝ｨ繝ｼ繧ｯ蟶りｿ代￥縺ｧ莠区腐縺ｫ驕ｭ縺・∝､ｧ遐ｴ縺励※縺励∪縺・∪縺励◆縲・",
+vocabulary: [
+{ word: sadly, meaning: 謔ｲ縺励＞縺薙→縺ｫ },
+{ word: have an accident, meaning: 莠区腐縺ｫ驕ｭ縺・ },
+{ word: break into pieces, meaning: 繝舌Λ繝舌Λ縺ｫ螢翫ｌ繧・ }
+],
+grammarNotes: [ "" ]
+}
+}
+]
+}
+],
+questions: [
+{
+id: 26,
+text: "How did the plan for the SS Savannah change?",
+textTranslation: "SS繧ｵ繝舌Φ繝雁捷縺ｮ險育判縺ｯ縺ｩ縺ｮ繧医≧縺ｫ螟峨ｏ繧翫∪縺励◆縺具ｼ・",
+keywords: [ "plan", "change" ],
+keywordExplanations: {
+plan change: 隨ｬ1谿ｵ關ｽ縺ｧ闊ｹ縺ｮ險ｭ險亥､画峩縺ｫ縺､縺・※譖ｸ縺九ｌ縺ｦ縺・ｋ邂・園繧呈爾縺吶・
+},
+keywordMatches: [
+{ sentenceId: 5, text: a change was made to the ship's design, keyword: change },
+{ sentenceId: 7, text: became a sailing ship that had a steam engine, too, keyword: plan }
+],
+choiceAdvice: "驕ｸ謚櫁い縺ｯ險ｭ險亥､画峩縺ｮ蜀・ｮｹ・・team engine / bigger / curtains / rooms・峨ｒ霑ｰ縺ｹ縺ｦ縺・∪縺吶らｬｬ1谿ｵ關ｽ縺ｧ菴輔′霑ｽ蜉縺輔ｌ縺溘°遒ｺ隱阪＠縺ｾ縺励ｇ縺・・",
+choices: [
+{
+id: "1, text: A steam engine was added., translation: 闥ｸ豌玲ｩ滄未縺瑚ｿｽ蜉縺輔ｌ縺溘・, isCorrect: true, highlight: A steam engine was added }",
+{ id: 2, text: The captain made the ship much bigger., translation: 闊ｹ髟ｷ縺ｯ闊ｹ繧偵★縺｣縺ｨ螟ｧ縺阪￥縺励◆縲・, isCorrect: false },
+{ id: 3, text: The curtains were taken off the ship., translation: 繧ｫ繝ｼ繝・Φ縺瑚飴縺九ｉ螟悶＆繧後◆縲・, isCorrect: false },
+{ id: 4, text: Some rooms were made smaller., translation: 縺・￥縺､縺九・驛ｨ螻九′蟆上＆縺上＆繧後◆縲・, isCorrect: false }
+],
+hint: {
+paragraphId: 1,
+description: "隨ｬ1谿ｵ關ｽ縲ゅ径 change was made to the ship's design縲坂・縲荊he SS Savannah became a sailing ship that had a steam engine, too縲阪→縺・≧豬√ｌ繧堤｢ｺ隱阪・",
+targetSentenceId: 7,
+highlightWord: "became a sailing ship that had a steam engine, too",
+highlightWordSentenceId: 7
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ a change was made to the ship's design + became a sailing ship that had a steam engine, too },
+{ type: arrow, content: 縲瑚ｨｭ險亥､画峩 竊・闥ｸ豌玲ｩ滄未繧ょｙ縺医◆蟶・飴縺ｫ縺ｪ縺｣縺溘・ 縲瑚頂豌玲ｩ滄未縺瑚ｿｽ蜉縺輔ｌ縺溘・ },
+{ type: text, content: 驕ｸ謚櫁い1: A steam engine was added. },
+{ type: conclusion, content: 豁｣隗｣: 1 }
+]
+},
+{
+id: 27,
+text: "Why were some people worried?",
+textTranslation: "縺ｪ縺應ｸ驛ｨ縺ｮ莠ｺ縲・・蠢・・縺励∪縺励◆縺具ｼ・",
+keywords: [ "worried" ],
+keywordExplanations: {
+worried: "隨ｬ2谿ｵ關ｽ縺ｧ縲詣orried縲阪→縺・≧蜊倩ｪ槭′縺ゅｋ譁・・逅・罰繧呈爾縺吶・"
+},
+keywordMatches: [
+{ sentenceId: 10, text: worried some people because England was far away, keyword: worried },
+{ sentenceId: 11, text: thought such a ship could not travel so far, keyword: worried }
+],
+choiceAdvice: "驕ｸ謚櫁い縺ｯ蠢・・縺ｮ逅・罰・・ngland wanted / not a good captain / too much money / could not travel far・峨ｒ霑ｰ縺ｹ縺ｦ縺・∪縺吶らｬｬ2谿ｵ關ｽ縺ｧ蠢・・縺ｮ逅・罰繧堤｢ｺ隱阪＠縺ｾ縺励ｇ縺・・",
+choices: [
+{ id: 1, text: They thought England wanted to keep the ship., translation: 繧､繧ｮ繝ｪ繧ｹ縺瑚飴繧剃ｿ晄戟縺励◆縺後▲縺ｦ縺・ｋ縺ｨ諤昴▲縺溘・, isCorrect: false },
+{ id: 2, text: The ship's captain was not a good captain., translation: 闊ｹ髟ｷ縺ｯ濶ｯ縺・飴髟ｷ縺ｧ縺ｯ縺ｪ縺九▲縺溘・, isCorrect: false },
+{ id: 3, text: The ship's captain wanted too much money., translation: 闊ｹ髟ｷ縺後♀驥代ｒ隕∵ｱゅ＠縺吶℃縺溘・, isCorrect: false },
+{ id: 4, text: They thought the ship could not travel a long way., translation: 闊ｹ縺後◎繧薙↑縺ｫ驕縺上∪縺ｧ闊ｪ豬ｷ縺ｧ縺阪↑縺・→諤昴▲縺溘・, isCorrect: true, highlight: could not travel a long way }
+],
+hint: {
+paragraphId: 2,
+description: "隨ｬ2谿ｵ關ｽ縲ゅ詣orried some people because England was far away縲坂・縲卦hey thought such a ship could not travel so far縲阪→縺・≧豬√ｌ縲る□縺吶℃縺ｦ辟｡逅・□縺ｨ諤昴▲縺溘・",
+targetSentenceId: 11,
+highlightWord: "thought such a ship could not travel so far",
+highlightWordSentenceId: 11
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ They thought such a ship could not travel so far. },
+{ type: arrow, content: 縲後◎縺ｮ繧医≧縺ｪ闊ｹ縺ｯ縺昴ｓ縺ｪ縺ｫ驕縺上∪縺ｧ闊ｪ豬ｷ縺ｧ縺阪↑縺・→諤昴▲縺溘・ },
+{ type: text, content: 驕ｸ謚櫁い4: They thought the ship could not travel a long way. },
+{ type: conclusion, content: 豁｣隗｣: 4 }
+]
+},
+{
+id: 28,
+text: "When the ship arrived in England,",
+textTranslation: "闊ｹ縺後う繧ｮ繝ｪ繧ｹ縺ｫ蛻ｰ逹縺励◆縺ｨ縺阪・",
+keywords: [ "arrived in England" ],
+keywordExplanations: {
+arrived in England: 隨ｬ3谿ｵ關ｽ縺ｧ繧､繧ｮ繝ｪ繧ｹ蛻ｰ逹蠕後・蜃ｺ譚･莠九ｒ謗｢縺吶・
+},
+keywordMatches: [
+{ sentenceId: 16, text: Many people in England went to see this ship, keyword: arrived in England }
+],
+choiceAdvice: "驕ｸ謚櫁い縺ｯ繧､繧ｮ繝ｪ繧ｹ蛻ｰ逹蠕後・蜃ｺ譚･莠具ｼ・any people / Sweden / captain to leave / from Sweden・峨ｒ霑ｰ縺ｹ縺ｦ縺・∪縺吶らｬｬ3谿ｵ關ｽ繧堤｢ｺ隱阪＠縺ｾ縺励ｇ縺・・",
+choices: [
+{
+id: "1, text: many people went to see it., translation: 螟壹￥縺ｮ莠ｺ縺後◎繧後ｒ隕九↓陦後▲縺溘・, isCorrect: true, highlight: many people went to see it }",
+{ id: 2, text: a person from Sweden tried to buy it., translation: 繧ｹ繧ｦ繧ｧ繝ｼ繝・Φ縺九ｉ縺ｮ莠ｺ縺後◎繧後ｒ雋ｷ縺翫≧縺ｨ縺励◆縲・, isCorrect: false },
+{ id: 3, text: some people told the captain to leave., translation: 荳驛ｨ縺ｮ莠ｺ縺瑚飴髟ｷ縺ｫ蜴ｻ繧九ｈ縺・↓險縺｣縺溘・, isCorrect: false },
+{ id: 4, text: people thought it was from Sweden., translation: 莠ｺ縲・・縺昴ｌ縺後せ繧ｦ繧ｧ繝ｼ繝・Φ縺九ｉ縺縺ｨ諤昴▲縺溘・, isCorrect: false }
+],
+hint: {
+paragraphId: 3,
+description: "隨ｬ3谿ｵ關ｽ縲ゅ卦he SS Savannah arrived in England縲坂・縲勲any people in England went to see this ship縲阪・",
+targetSentenceId: 16,
+highlightWord: "Many people in England went to see this ship",
+highlightWordSentenceId: 16
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ Many people in England went to see this ship. },
+{ type: arrow, content: 縲後う繧ｮ繝ｪ繧ｹ縺ｮ螟壹￥縺ｮ莠ｺ縺後％縺ｮ闊ｹ繧定ｦ九↓陦後▲縺溘・ },
+{ type: text, content: 驕ｸ謚櫁い1: many people went to see it. },
+{ type: conclusion, content: 豁｣隗｣: 1 }
+]
+},
+{
+id: 29,
+text: "What finally happened to the SS Savannah?",
+textTranslation: "譛邨ら噪縺ｫSS繧ｵ繝舌Φ繝雁捷縺ｫ菴輔′襍ｷ縺阪∪縺励◆縺具ｼ・",
+keywords: [ "finally happened" ],
+keywordExplanations: {
+finally happened: 隨ｬ4谿ｵ關ｽ縺ｮ譛蠕後∬飴縺ｮ譛邨ら噪縺ｪ驕句多繧呈爾縺吶・
+},
+keywordMatches: [
+{ sentenceId: 22, text: had an accident near New York City and broke into many pieces, keyword: finally happened }
+],
+choiceAdvice: "驕ｸ謚櫁い縺ｯ譛邨ら噪縺ｪ邨先忰・・ccident / sold / parts / museum・峨ｒ霑ｰ縺ｹ縺ｦ縺・∪縺吶らｬｬ4谿ｵ關ｽ縺ｮ譛蠕後ｒ遒ｺ隱阪＠縺ｾ縺励ｇ縺・・",
+choices: [
+{
+id: "1, text: It had an accident and broke into pieces., translation: 莠区腐縺ｫ驕ｭ縺・√ヰ繝ｩ繝舌Λ縺ｫ螢翫ｌ縺溘・, isCorrect: true, highlight: had an accident and broke into pieces }",
+{ id: 2, text: It was sold to a company in New York., translation: 繝九Η繝ｼ繝ｨ繝ｼ繧ｯ縺ｮ莨夂､ｾ縺ｫ螢ｲ繧峨ｌ縺溘・, isCorrect: false },
+{ id: 3, text: Its parts were used to build new ships., translation: 縺昴・驛ｨ蜩√′譁ｰ縺励＞闊ｹ繧剃ｽ懊ｋ縺ｮ縺ｫ菴ｿ繧上ｌ縺溘・, isCorrect: false },
+{ id: 4, text: It was put in a museum in England., translation: 繧､繧ｮ繝ｪ繧ｹ縺ｮ蜊夂黄鬢ｨ縺ｫ鄂ｮ縺九ｌ縺溘・, isCorrect: false }
+],
+hint: {
+paragraphId: 4,
+description: "隨ｬ4谿ｵ關ｽ縺ｮ譛蠕後・譁・ゅ敬ad an accident near New York City and broke into many pieces縲阪′闊ｹ縺ｮ譛邨ら噪縺ｪ驕句多縲・",
+targetSentenceId: 22,
+highlightWord: "had an accident near New York City and broke into many pieces",
+highlightWordSentenceId: 22
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ had an accident near New York City and broke into many pieces. },
+{ type: arrow, content: 縲後ル繝･繝ｼ繝ｨ繝ｼ繧ｯ蟶りｿ代￥縺ｧ莠区腐縺ｫ驕ｭ縺・ヰ繝ｩ繝舌Λ縺ｫ螢翫ｌ縺溘・ },
+{ type: text, content: 驕ｸ謚櫁い1: It had an accident and broke into pieces. },
+{ type: conclusion, content: 豁｣隗｣: 1 }
+]
+},
+{
+id: 30,
+text: "What is this story about?",
+textTranslation: "縺薙・隧ｱ縺ｯ菴輔↓縺､縺・※縺ｧ縺吶°・・",
+keywords: [ "story about" ],
+keywordExplanations: {
+story about: 譁・ｫ蜈ｨ菴薙・繝・・繝槭ｒ蝠上≧蝠城｡後ゅち繧､繝医Ν縺ｨ蜀・ｮｹ縺九ｉ蛻､譁ｭ縲・
+},
+keywordMatches: [
+{ sentenceId: 15, text: the first ship to use steam power to help it to cross the Atlantic Ocean, keyword: story about }
+],
+choiceAdvice: "驕ｸ謚櫁い縺ｯ譁・ｫ蜈ｨ菴薙・繝・・繝橸ｼ・team engines / captain / ship / company・峨ｒ陦ｨ縺励※縺・∪縺吶ゅち繧､繝医Ν縲卦he SS Savannah縲阪°繧牙愛譁ｭ縺励∪縺励ｇ縺・・",
+choices: [
+{ id: 1, text: Popular steam engines in Europe., translation: 繝ｨ繝ｼ繝ｭ繝・ヱ縺ｧ莠ｺ豌励・縺ゅｋ闥ｸ豌玲ｩ滄未縲・, isCorrect: false },
+{ id: 2, text: The life of an English captain., translation: 繧､繧ｮ繝ｪ繧ｹ莠ｺ闊ｹ髟ｷ縺ｮ莠ｺ逕溘・, isCorrect: false },
+{
+id: "3, text: A ship that made a special trip., translation: 迚ｹ蛻･縺ｪ譌・ｒ縺励◆闊ｹ縲・, isCorrect: true, highlight: A ship that made a special trip }",
+{ id: 4, text: A company that cleans boats., translation: 繝懊・繝医ｒ謗・勁縺吶ｋ莨夂､ｾ縲・, isCorrect: false }
+],
+hint: {
+paragraphId: 3,
+description: "譁・ｫ蜈ｨ菴薙・繝・・繝槫撫鬘後ゅ荊he first ship to use steam power to help it to cross the Atlantic Ocean縲阪↑縺ｩ縲ヾS繧ｵ繝舌Φ繝雁捷縺ｨ縺・≧闊ｹ縺ｮ迚ｹ蛻･縺ｪ闊ｪ豬ｷ縺ｫ縺､縺・※縺ｮ隧ｱ縺ｧ縺吶・",
+targetSentenceId: 15,
+highlightWord: "the first ship to use steam power",
+highlightWordSentenceId: 15
+},
+logic: [
+{ type: text, content: 繧ｿ繧､繝医Ν: The SS Savannah / 譛ｬ譁・ 螟ｧ隘ｿ豢区ｨｪ譁ｭ縺ｫ闥ｸ豌怜虚蜉帙ｒ菴ｿ縺｣縺滓怙蛻昴・闊ｹ },
+{ type: arrow, content: 縲檎音蛻･縺ｪ譌・ｒ縺励◆闊ｹ縺ｮ隧ｱ縲・ },
+{ type: text, content: 驕ｸ謚櫁い3: A ship that made a special trip. },
+{ type: conclusion, content: 豁｣隗｣: 3 }
+]
+}
+],
+summaryForInstructors: {
+title: "The SS Savannah・・S繧ｵ繝舌Φ繝雁捷・・",
+intro: "19荳也ｴ蛻晞ｭ縺ｮ繧｢繝｡繝ｪ繧ｫ闊ｹSS繧ｵ繝舌Φ繝雁捷縺ｫ縺､縺・※縲り頂豌怜虚蜉帙ｒ菴ｿ縺｣縺ｦ螟ｧ隘ｿ豢九ｒ讓ｪ譁ｭ縺励◆譛蛻昴・闊ｹ縺ｨ縺励※豁ｴ蜿ｲ縺ｫ蜷阪ｒ谿九＠縺溯飴縺ｮ迚ｩ隱槭りｨｭ險亥､画峩縺九ｉ螟ｧ隘ｿ豢区ｨｪ譁ｭ謌仙粥縲√◎縺励※譛邨ら噪縺ｪ驕句多縺ｾ縺ｧ繧定ｿｽ縺・ヱ繝・そ繝ｼ繧ｸ縲・",
+points: [
+{ label: 1. 蟒ｺ騾縺ｨ險ｭ險亥､画峩, text: 1810蟷ｴ莉｣縺ｫ蟒ｺ騾縲ょｽ灘・縺ｯ雎ｪ闖ｯ縺ｪ蟶・飴縺ｨ縺励※險ｭ險医＆繧後◆縺後∬頂豌玲ｩ滄未縺ｮ髢狗匱縺ｫ莨ｴ縺・頂豌玲ｩ滄未繧よ政霈峨☆繧九％縺ｨ縺ｫ縺ｪ縺｣縺溘・ },
+{ label: 2. 闊ｹ髟ｷ縺ｮ謖第姶, text: 闊ｹ髟ｷ縺ｯ螟ｧ隘ｿ豢九ｒ讓ｪ譁ｭ縺励※繧､繧ｮ繝ｪ繧ｹ縺ｫ陦後￥縺薙→繧定ｨ育判縲る□縺吶℃縺ｦ辟｡逅・□縺ｨ蠢・・縺吶ｋ莠ｺ繧ゅ＞縺溘′縲∽ｻｲ髢薙ｒ隕九▽縺代※蜃ｺ逋ｺ縺励◆縲・ },
+{ label: 3. 豁ｴ蜿ｲ逧・穐豬ｷ, text: 邏・縺区怦縺ｧ繧､繧ｮ繝ｪ繧ｹ縺ｫ蛻ｰ逹縲ゅ⊇縺ｨ繧薙←蟶・ｵｰ縺縺｣縺溘′縲∬頂豌怜虚蜉帙ｂ菴ｵ逕ｨ縲ょ､ｧ隘ｿ豢区ｨｪ譁ｭ縺ｫ闥ｸ豌励ｒ菴ｿ縺｣縺滓怙蛻昴・闊ｹ縺ｨ縺ｪ縺｣縺溘ょｸｰ蝗ｽ蜑阪↓繧ｹ繧ｦ繧ｧ繝ｼ繝・Φ縺ｪ縺ｩ繧りｨｪ蝠上・ },
+{ label: 4. 縺昴・蠕後・驕句多, text: 闥ｸ豌玲橿陦薙∈縺ｮ荳榊ｮ峨°繧芽頂豌玲ｩ滄未縺ｯ謦､蜴ｻ縲る壼ｸｸ縺ｮ蟶・飴縺ｨ縺励※繧ｸ繝ｧ繝ｼ繧ｸ繧｢繝ｻ繝九Η繝ｼ繝ｨ繝ｼ繧ｯ髢薙〒菴ｿ逕ｨ縺輔ｌ縺溘′縲・820蟷ｴ莉｣蛻晞ｭ縺ｫ莠区腐縺ｧ螟ｧ遐ｴ縺励◆縲・ }
+]
+}
+},

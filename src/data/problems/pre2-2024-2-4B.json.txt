@@ -1,0 +1,617 @@
+{
+id: "pre2-2024-2-4B",
+grade: "貅・邏・",
+title: "Circles in the Sand",
+subTitle: "2024蟷ｴ蠎ｦ 隨ｬ2蝗・螟ｧ蝠・B",
+images: {
+content: "/images/reading/pre2-2024-2-4B-content.png",
+question: "/images/reading/pre2-2024-2-4B-question.png"
+},
+content: [
+{
+paragraphId: 1,
+sentences: [
+{
+id: 1,
+text: "In 1995, divers swimming in the ocean near southern Japan discovered something unusual.",
+translation: "1995蟷ｴ縲∝漉譌･譛ｬ縺ｮ霑代￥縺ｮ豬ｷ縺ｧ豕ｳ縺・〒縺・◆繝繧､繝舌・縺溘■縺後∽ｽ輔°迴阪＠縺・ｂ縺ｮ繧堤匱隕九＠縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "discovered" ],
+structureHtml: "<span class=chunk M-group><span class=text>(In 1995)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>divers <span class=modifier>[swimming in the ocean near southern Japan]</span></span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>discovered</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>something unusual</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(1995蟷ｴ縺ｫ)</span>縲・span class=t-S>繝繧､繝舌・縺溘■縺・<span class=t-M>[蜊玲律譛ｬ縺ｮ霑代￥縺ｮ豬ｷ縺ｧ豕ｳ縺・〒縺・◆]</span></span> <span class=t-V>逋ｺ隕九＠縺ｾ縺励◆</span> <span class=t-O>菴輔°迴阪＠縺・ｂ縺ｮ繧・/span>縲・",
+naturalTranslation: "1995蟷ｴ縲∝漉譌･譛ｬ縺ｮ霑代￥縺ｮ豬ｷ縺ｧ豕ｳ縺・〒縺・◆繝繧､繝舌・縺溘■縺後∽ｽ輔°迴阪＠縺・ｂ縺ｮ繧堤匱隕九＠縺ｾ縺励◆縲・",
+vocabulary: [
+{ word: diver, meaning: 繝繧､繝舌・ },
+{ word: discover, meaning: 逋ｺ隕九☆繧・ },
+{ word: unusual, meaning: 迴阪＠縺・∵勸騾壹〒縺ｪ縺・ }
+],
+grammarNotes: [
+{ phrase: swimming, explanation: <b>迴ｾ蝨ｨ蛻・ｩ槭・蠖｢螳ｹ隧樒噪逕ｨ豕・/b>: divers繧剃ｿｮ鬟ｾ縲・ },
+{ phrase: something unusual, explanation: <b>蠖｢螳ｹ隧槭・蠕檎ｽｮ菫ｮ鬟ｾ</b>: -thing縺ｧ邨ゅｏ繧句錐隧槭・蠖｢螳ｹ隧槭′蠕後ｍ縺ｫ譚･繧九・ }
+]
+}
+},
+{
+id: 2,
+text: "They saw large circles drawn in the sand at the bottom of the sea.",
+translation: "蠖ｼ繧峨・縲∵ｵｷ蠎輔・遐ゅ↓謠上°繧後◆螟ｧ縺阪↑蜀・ｒ隕九∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "saw" ],
+structureHtml: "<span class=chunk S-group><span class=text>They</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>saw</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>large circles <span class=modifier>[drawn in the sand at the bottom of the sea]</span></span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>隕九∪縺励◆</span> <span class=t-O>螟ｧ縺阪↑蜀・ｒ <span class=t-M>[豬ｷ縺ｮ蠎輔・遐ゅ↓謠上°繧後◆]</span></span>縲・",
+naturalTranslation: "蠖ｼ繧峨・縲∵ｵｷ蠎輔・遐ゅ↓謠上°繧後◆螟ｧ縺阪↑蜀・ｒ隕九∪縺励◆縲・",
+vocabulary: [
+{ word: draw, meaning: 謠上￥ },
+{ word: bottom, meaning: 蠎・ }
+],
+grammarNotes: [
+{ phrase: drawn, explanation: <b>驕主悉蛻・ｩ槭・蠖｢螳ｹ隧樒噪逕ｨ豕・/b>: circles繧剃ｿｮ鬟ｾ縲ゅ梧緒縺九ｌ縺溷・縲阪・ }
+]
+}
+},
+{
+id: 3,
+text: "The divers did not know what had caused these circles.",
+translation: "繝繧､繝舌・縺溘■縺ｯ縲∽ｽ輔′縺薙ｌ繧峨・蜀・ｒ菴懊▲縺溘・縺句・縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "did not know" ],
+structureHtml: "<span class=chunk S-group><span class=text>The divers</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>did not know</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[what had caused these circles]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>繝繧､繝舌・縺溘■縺ｯ</span> <span class=t-V>遏･繧翫∪縺帙ｓ縺ｧ縺励◆</span> <span class=t-O>[菴輔′縺薙ｌ繧峨・蜀・ｒ蠑輔″襍ｷ縺薙＠縺溘・縺犠繧・/span>縲・",
+naturalTranslation: "繝繧､繝舌・縺溘■縺ｯ縲∽ｽ輔′縺薙ｌ繧峨・蜀・ｒ菴懊▲縺溘・縺句・縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲・",
+vocabulary: [
+{ word: cause, meaning: 蠑輔″襍ｷ縺薙☆縲∝次蝗縺ｨ縺ｪ繧・ }
+],
+grammarNotes: [
+{ phrase: what had caused, explanation: <b>髢捺磁逍大撫譁・/b>: what縺御ｸｻ隱槭ゅ御ｽ輔′縲懊＆縺帙◆縺九阪・ },
+{ phrase: had caused, explanation: <b>驕主悉螳御ｺ・ｽ｢</b>: 逋ｺ隕九＠縺滓凾轤ｹ・磯℃蜴ｻ・峨ｈ繧翫ｂ蜑阪↓襍ｷ縺阪◆縺薙→縲・ }
+]
+}
+},
+{
+id: 4,
+text: "However, the mystery was eventually solved by some scientists who saw the circles being drawn.",
+translation: "縺励°縺励√◎縺ｮ隰弱・譛邨ら噪縺ｫ縲∝・縺梧緒縺九ｌ縺ｦ縺・ｋ縺ｨ縺薙ｍ繧定ｦ九◆遘大ｭｦ閠・◆縺｡縺ｫ繧医▲縺ｦ隗｣譏弱＆繧後∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was solved" ],
+structureHtml: "<span class=chunk M-group><span class=text>(However)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the mystery</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was <span class=modifier>(eventually)</span> solved</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>by some scientists <span class=modifier>[who saw the circles being drawn]</span></span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(縺励°縺・</span>縲・span class=t-S>縺昴・隰弱・</span> <span class=t-V>隗｣譏弱＆繧後∪縺励◆</span> <span class=t-M>遘大ｭｦ閠・◆縺｡縺ｫ繧医▲縺ｦ <span class=t-M>[蜀・′謠上°繧後※縺・ｋ縺ｮ繧定ｦ九◆]</span></span>縲・",
+naturalTranslation: "縺励°縺励√◎縺ｮ隰弱・譛邨ら噪縺ｫ縲∝・縺梧緒縺九ｌ繧区ｧ伜ｭ舌ｒ逶ｮ謦・＠縺溽ｧ大ｭｦ閠・◆縺｡縺ｫ繧医▲縺ｦ隗｣譏弱＆繧後∪縺励◆縲・",
+vocabulary: [
+{ word: mystery, meaning: 隰・ },
+{ word: eventually, meaning: 縺､縺・↓縲∫ｵ仙ｱ縺ｯ },
+{ word: solve, meaning: 隗｣豎ｺ縺吶ｋ }
+],
+grammarNotes: [
+{ phrase: was solved, explanation: <b>蜿怜虚諷・/b>: 縲瑚ｧ｣譏弱＆繧後◆縲阪・ },
+{ phrase: saw the circles being drawn, explanation: <b>遏･隕壼虚隧・O+doing(蜿怜虚)</b>: 縲悟・縺梧緒縺九ｌ縺ｦ縺・ｋ縺ｮ繧定ｦ九ｋ縲阪・ }
+]
+}
+},
+{
+id: 5,
+text: "The artist was a male fish called a puffer fish.",
+translation: "縺昴・闃ｸ陦灘ｮｶ縺ｯ縲√ヵ繧ｰ縺ｨ蜻ｼ縺ｰ繧後ｋ繧ｪ繧ｹ縺ｮ鬲壹〒縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was" ],
+structureHtml: "<span class=chunk S-group><span class=text>The artist</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>a male fish <span class=modifier>(called a puffer fish)</span></span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>縺昴・闃ｸ陦灘ｮｶ縺ｯ</span> <span class=t-V>縺ｧ縺励◆</span> <span class=t-C>繧ｪ繧ｹ縺ｮ鬲・<span class=t-M>(繝輔げ縺ｨ蜻ｼ縺ｰ繧後ｋ)</span></span>縲・",
+naturalTranslation: "縺昴・闃ｸ陦灘ｮｶ縺ｯ縲√ヵ繧ｰ縺ｨ蜻ｼ縺ｰ繧後ｋ繧ｪ繧ｹ縺ｮ鬲壹〒縺励◆縲・",
+vocabulary: [
+{ word: male, meaning: 繧ｪ繧ｹ縺ｮ・亥ｯｾ鄒ｩ隱・ female・・ },
+{ word: puffer fish, meaning: 繝輔げ }
+],
+grammarNotes: [
+{ phrase: called, explanation: <b>驕主悉蛻・ｩ槭・蠖｢螳ｹ隧樒噪逕ｨ豕・/b>: fish繧剃ｿｮ鬟ｾ縲ゅ後懊→蜻ｼ縺ｰ繧後ｋ縲阪・ }
+]
+}
+},
+{
+id: 6,
+text: "He was using different parts of his body to create the circles.",
+translation: "蠖ｼ縺ｯ蜀・ｒ菴懊ｋ縺溘ａ縺ｫ縲∽ｽ薙・逡ｰ縺ｪ繧矩Κ蛻・ｒ菴ｿ縺｣縺ｦ縺・∪縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was using" ],
+structureHtml: "<span class=chunk S-group><span class=text>He</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was using</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>different parts <span class=modifier>(of his body)</span></span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(to create the circles)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>蠖ｼ縺ｯ</span> <span class=t-V>菴ｿ縺｣縺ｦ縺・∪縺励◆</span> <span class=t-O>逡ｰ縺ｪ繧矩Κ蛻・ｒ <span class=t-M>(蠖ｼ縺ｮ菴薙・)</span></span> <span class=t-M>(蜀・ｒ菴懊ｋ縺溘ａ縺ｫ)</span>縲・",
+naturalTranslation: "蠖ｼ縺ｯ蜀・ｒ菴懊ｋ縺溘ａ縺ｫ縲∽ｽ薙・讒倥・↑驛ｨ蛻・ｒ菴ｿ縺｣縺ｦ縺・∪縺励◆縲・",
+vocabulary: [
+{ word: create, meaning: 蜑ｵ騾縺吶ｋ縲∽ｽ懊ｋ }
+],
+grammarNotes: [
+{ phrase: to create, explanation: <b>荳榊ｮ夊ｩ槭・蜑ｯ隧樒噪逕ｨ豕・/b>: 逶ｮ逧・ｒ陦ｨ縺吶ゅ後懊☆繧九◆繧√↓縲阪・ }
+]
+}
+},
+{
+id: 7,
+text: "When his work was complete, a female came and laid her eggs in the center.",
+translation: "蠖ｼ縺ｮ菴懈･ｭ縺悟ｮ御ｺ・☆繧九→縲√Γ繧ｹ縺後ｄ縺｣縺ｦ縺阪※荳ｭ螟ｮ縺ｫ蜊ｵ繧堤肇縺ｿ縺ｾ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "came", "laid" ],
+structureHtml: "<span class=chunk M-group><span class=text>(When his work was complete)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>a female</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>came and laid</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>her eggs</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(in the center)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(蠖ｼ縺ｮ菴懈･ｭ縺悟ｮ御ｺ・＠縺滓凾)</span>縲・span class=t-S>繝｡繧ｹ縺・/span> <span class=t-V>繧・▲縺ｦ縺阪※逕｣縺ｿ縺ｾ縺励◆</span> <span class=t-O>蠖ｼ螂ｳ縺ｮ蜊ｵ繧・/span> <span class=t-M>(荳ｭ螟ｮ縺ｫ)</span>縲・",
+naturalTranslation: "蠖ｼ縺ｮ菴懈･ｭ縺悟ｮ御ｺ・☆繧九→縲√Γ繧ｹ縺後ｄ縺｣縺ｦ縺阪※荳ｭ螟ｮ縺ｫ蜊ｵ繧堤肇縺ｿ縺ｾ縺励◆縲・",
+vocabulary: [
+{ word: complete, meaning: 螳御ｺ・＠縺・ },
+{ word: female, meaning: 繝｡繧ｹ },
+{ word: lay, meaning: ・亥嵯繧抵ｼ臥肇繧縲∫ｽｮ縺・ }
+],
+grammarNotes: [
+{ phrase: laid, explanation: <b>蜍戊ｩ柩ay縺ｮ驕主悉蠖｢</b>: lie・域ｨｪ縺溘ｏ繧具ｼ峨・驕主悉蠖｢lay縺ｨ豺ｷ蜷梧ｳｨ諢上ゅ％縺薙〒縺ｯ縲檎肇繧縲阪・莉門虚隧槭・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 2,
+sentences: [
+{
+id: 8,
+text: "The puffer fish is not the only animal that creates beautiful art.",
+translation: "鄒弱＠縺・敢陦薙ｒ菴懊ｊ蜃ｺ縺吝虚迚ｩ縺ｯ繝輔げ縺縺代〒縺ｯ縺ゅｊ縺ｾ縺帙ｓ縲・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk S-group><span class=text>The puffer fish</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is not</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>the only animal <span class=modifier>[that creates beautiful art]</span></span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>繝輔げ縺ｯ</span> <span class=t-V>縺ｧ縺ｯ縺ゅｊ縺ｾ縺帙ｓ</span> <span class=t-C>蜚ｯ荳縺ｮ蜍慕黄 <span class=t-M>[鄒弱＠縺・敢陦薙ｒ菴懊ｋ]</span></span>縲・",
+naturalTranslation: "鄒弱＠縺・敢陦薙ｒ菴懊ｊ蜃ｺ縺吝虚迚ｩ縺ｯ繝輔げ縺縺代〒縺ｯ縺ゅｊ縺ｾ縺帙ｓ縲・",
+vocabulary: [
+{ word: only, meaning: 蜚ｯ荳縺ｮ },
+{ word: art, meaning: 闃ｸ陦・ }
+],
+grammarNotes: [
+{ phrase: that creates, explanation: <b>髢｢菫ゆｻ｣蜷崎ｩ柎hat</b>: animal繧剃ｿｮ鬟ｾ縲・ }
+]
+}
+},
+{
+id: 9,
+text: "A bird called the bowerbird is another example.",
+translation: "繝九Ρ繧ｷ繝峨Μ縺ｨ蜻ｼ縺ｰ繧後ｋ魑･繧ゅ◎縺ｮ荳萓九〒縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk S-group><span class=text>A bird <span class=modifier>(called the bowerbird)</span></span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>another example</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>魑･縺ｯ <span class=t-M>(繝九Ρ繧ｷ繝峨Μ縺ｨ蜻ｼ縺ｰ繧後ｋ)</span></span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>繧ゅ≧荳縺､縺ｮ萓・/span>縲・",
+naturalTranslation: "繝九Ρ繧ｷ繝峨Μ縺ｨ蜻ｼ縺ｰ繧後ｋ魑･繧ゅ◎縺ｮ荳萓九〒縺吶・",
+vocabulary: [
+{ word: bowerbird, meaning: 繝九Ρ繧ｷ繝峨Μ },
+{ word: example, meaning: 萓・ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 10,
+text: "They gather colorful objects to build a structure called a bower.",
+translation: "蠖ｼ繧峨・縲後ヰ繧ｦ繧｢繝ｼ・医≠縺壹∪繧・ｼ峨阪→蜻ｼ縺ｰ繧後ｋ讒矩迚ｩ繧剃ｽ懊ｋ縺溘ａ縺ｫ縲∬牡縺ｨ繧翫←繧翫・迚ｩ菴薙ｒ髮・ａ縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "gather" ],
+structureHtml: "<span class=chunk S-group><span class=text>They</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>gather</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>colorful objects</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(to build a structure called a bower)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>髮・ａ縺ｾ縺・/span> <span class=t-O>濶ｲ縺ｨ繧翫←繧翫・迚ｩ菴薙ｒ</span> <span class=t-M>([繝舌え繧｢繝ｼ]縺ｨ蜻ｼ縺ｰ繧後ｋ讒矩迚ｩ繧剃ｽ懊ｋ縺溘ａ縺ｫ)</span>縲・",
+naturalTranslation: "蠖ｼ繧峨・縲後ヰ繧ｦ繧｢繝ｼ・医≠縺壹∪繧・ｼ峨阪→蜻ｼ縺ｰ繧後ｋ繧ゅ・繧剃ｽ懊ｋ縺溘ａ縺ｫ縲∬牡縺ｨ繧翫←繧翫・迚ｩ菴薙ｒ髮・ａ縺ｾ縺吶・",
+vocabulary: [
+{ word: gather, meaning: 髮・ａ繧・ },
+{ word: colorful, meaning: 濶ｲ蠖ｩ雎翫°縺ｪ },
+{ word: structure, meaning: 讒矩迚ｩ }
+],
+grammarNotes: [
+{ phrase: to build, explanation: <b>荳榊ｮ夊ｩ槭・蜑ｯ隧樒噪逕ｨ豕・/b>: 逶ｮ逧・・ },
+{ phrase: called, explanation: <b>驕主悉蛻・ｩ槭・蠖｢螳ｹ隧樒噪逕ｨ豕・/b>: structure繧剃ｿｮ鬟ｾ縲・ }
+]
+}
+},
+{
+id: 11,
+text: "This structure looks like a nest.",
+translation: "縺薙・讒矩迚ｩ縺ｯ蟾｣縺ｮ繧医≧縺ｫ隕九∴縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "looks" ],
+structureHtml: "<span class=chunk S-group><span class=text>This structure</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>looks</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(like a nest)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺薙・讒矩迚ｩ縺ｯ</span> <span class=t-V>隕九∴縺ｾ縺・/span> <span class=t-M>(蟾｣縺ｮ繧医≧縺ｫ)</span>縲・",
+naturalTranslation: "縺薙・讒矩迚ｩ縺ｯ蟾｣縺ｮ繧医≧縺ｫ隕九∴縺ｾ縺吶・",
+vocabulary: [
+{ word: nest, meaning: 蟾｣ }
+],
+grammarNotes: [
+{ phrase: look like, explanation: <b>look like + 蜷崎ｩ・/b>: 縲後懊・繧医≧縺ｫ隕九∴繧九阪・ }
+]
+}
+},
+{
+id: 12,
+text: "Other animals perform art that looks like songs or dances.",
+translation: "莉悶・蜍慕黄縺ｯ縲∵ｭ後ｄ繝繝ｳ繧ｹ縺ｮ繧医≧縺ｫ隕九∴繧九瑚敢陦薙阪ｒ貍斐§縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "perform" ],
+structureHtml: "<span class=chunk S-group><span class=text>Other animals</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>perform</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>art <span class=modifier>[that looks like songs or dances]</span></span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-S>莉悶・蜍慕黄縺溘■縺ｯ</span> <span class=t-V>貍斐§縺ｾ縺・/span> <span class=t-O>縲瑚敢陦薙阪ｒ <span class=t-M>[豁後ｄ繝繝ｳ繧ｹ縺ｮ繧医≧縺ｫ隕九∴繧犠</span></span>縲・",
+naturalTranslation: "莉悶・蜍慕黄縺ｯ縲∵ｭ後ｄ繝繝ｳ繧ｹ縺ｮ繧医≧縺ｪ縲瑚敢陦薙阪ｒ陦後＞縺ｾ縺吶・",
+vocabulary: [
+{ word: perform, meaning: 貍斐§繧九∬｡後≧ }
+],
+grammarNotes: [
+{ phrase: that looks, explanation: <b>髢｢菫ゆｻ｣蜷崎ｩ柎hat</b>: art繧剃ｿｮ鬟ｾ縲・ }
+]
+}
+},
+{
+id: 13,
+text: "These animals do not make art for pleasure.",
+translation: "縺薙ｌ繧峨・蜍慕黄縺ｯ縲∵･ｽ縺励∩縺ｮ縺溘ａ縺ｫ闃ｸ陦薙ｒ菴懊ｋ縺ｮ縺ｧ縺ｯ縺ゅｊ縺ｾ縺帙ｓ縲・",
+grammarAnalysis: {
+mainVerbs: [ "do not make" ],
+structureHtml: "<span class=chunk S-group><span class=text>These animals</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>do not make</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>art</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(for pleasure)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺薙ｌ繧峨・蜍慕黄縺ｯ</span> <span class=t-V>菴懊ｊ縺ｾ縺帙ｓ</span> <span class=t-O>闃ｸ陦薙ｒ</span> <span class=t-M>(讌ｽ縺励∩縺ｮ縺溘ａ縺ｫ)</span>縲・",
+naturalTranslation: "縺薙ｌ繧峨・蜍慕黄縺ｯ縲∵･ｽ縺励∩縺ｮ縺溘ａ縺ｫ闃ｸ陦薙ｒ菴懊ｋ縺ｮ縺ｧ縺ｯ縺ゅｊ縺ｾ縺帙ｓ縲・",
+vocabulary: [
+{ word: pleasure, meaning: 讌ｽ縺励∩縲∝万縺ｳ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 14,
+text: "The purpose is to attract a partner.",
+translation: "縺昴・逶ｮ逧・・縲√ヱ繝ｼ繝医リ繝ｼ繧貞ｼ輔″縺､縺代ｋ縺溘ａ縺ｧ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk S-group><span class=text>The purpose</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>to attract a partner</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>縺昴・逶ｮ逧・・</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>繝代・繝医リ繝ｼ繧貞ｼ輔″縺､縺代ｋ縺薙→</span>縲・",
+naturalTranslation: "縺昴・逶ｮ逧・・縲√ヱ繝ｼ繝医リ繝ｼ繧貞ｼ輔″縺､縺代ｋ縺薙→縺ｧ縺吶・",
+vocabulary: [
+{ word: purpose, meaning: 逶ｮ逧・ },
+{ word: attract, meaning: 蠑輔″縺､縺代ｋ縲・ｭ・ｺ・☆繧・ },
+{ word: partner, meaning: 繝代・繝医リ繝ｼ縲√▽縺後＞ }
+],
+grammarNotes: [
+{ phrase: to attract, explanation: <b>荳榊ｮ夊ｩ槭・蜷崎ｩ樒噪逕ｨ豕・/b>: 陬懆ｪ橸ｼ・・峨↓縺ｪ縺｣縺ｦ縺・ｋ縲ゅ後懊☆繧九％縺ｨ縲阪・ }
+]
+}
+},
+{
+id: 15,
+text: "There is a risk for animals doing this because it can attract attention from dangerous animals.",
+translation: "蜊ｱ髯ｺ縺ｪ蜍慕黄縺九ｉ縺ｮ豕ｨ諢上ｒ蠑輔＞縺ｦ縺励∪縺・庄閭ｽ諤ｧ縺後≠繧九◆繧√√％繧後ｒ陦後≧蜍慕黄縺ｫ縺ｯ繝ｪ繧ｹ繧ｯ縺後≠繧翫∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is", "can attract" ],
+structureHtml: "<span class=chunk V-group><span class=text>There is</span><span class=tag>V</span></span> <span class=chunk S-group><span class=text>a risk</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(for animals doing this)</span><span class=tag>M</span></span> <span class=chunk M-group><span class=text>(because it can attract attention from dangerous animals)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-V>縺ゅｊ縺ｾ縺・/span> <span class=t-S>繝ｪ繧ｹ繧ｯ縺・/span> <span class=t-M>(縺薙ｌ繧定｡後≧蜍慕黄縺ｫ縺ｨ縺｣縺ｦ縺ｮ)</span> <span class=t-M>(縺ｪ縺懊↑繧峨◎繧後′蜊ｱ髯ｺ縺ｪ蜍慕黄縺ｮ豕ｨ諢上ｒ蠑輔″縺・ｋ縺九ｉ)</span>縲・",
+naturalTranslation: "蜊ｱ髯ｺ縺ｪ蜍慕黄縺ｮ豕ｨ諢上ｒ蠑輔＞縺ｦ縺励∪縺・庄閭ｽ諤ｧ縺後≠繧九◆繧√√％繧後ｒ陦後≧蜍慕黄縺ｫ縺ｯ繝ｪ繧ｹ繧ｯ縺後≠繧翫∪縺吶・",
+vocabulary: [
+{ word: risk, meaning: 蜊ｱ髯ｺ縲√Μ繧ｹ繧ｯ },
+{ word: attention, meaning: 豕ｨ諢・ },
+{ word: dangerous, meaning: 蜊ｱ髯ｺ縺ｪ }
+],
+grammarNotes: [
+{ phrase: There is, explanation: <b>There is讒区枚</b>: 縲後懊′縺ゅｋ縲阪・ },
+{ phrase: animals doing this, explanation: <b>迴ｾ蝨ｨ蛻・ｩ槭・蠖｢螳ｹ隧樒噪逕ｨ豕・/b>: animals繧剃ｿｮ鬟ｾ縲ゅ後％繧後ｒ陦後▲縺ｦ縺・ｋ蜍慕黄縲阪・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 3,
+sentences: [
+{
+id: 16,
+text: "It is almost always males that perform these behaviors rather than females.",
+translation: "縺薙ｌ繧峨・陦悟虚繧定｡後≧縺ｮ縺ｯ縲√Γ繧ｹ縺ｧ縺ｯ縺ｪ縺上⊇縺ｨ繧薙←蟶ｸ縺ｫ繧ｪ繧ｹ縺ｧ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "perform" ],
+structureHtml: "<span class=chunk S-group><span class=text>It is almost always males</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>[that perform these behaviors]</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(rather than females)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺昴ｌ縺ｯ縺ｻ縺ｨ繧薙←蟶ｸ縺ｫ繧ｪ繧ｹ縺ｧ縺・/span> <span class=t-V>[縺薙ｌ繧峨・陦悟虚繧定｡後≧縺ｮ縺ｯ]</span> <span class=t-M>(繝｡繧ｹ繧医ｊ繧ゅ・縺励ｍ)</span>縲・",
+naturalTranslation: "縺薙ｌ繧峨・陦悟虚繧定｡後≧縺ｮ縺ｯ縲√Γ繧ｹ縺ｧ縺ｯ縺ｪ縺上⊇縺ｨ繧薙←蟶ｸ縺ｫ繧ｪ繧ｹ縺ｧ縺吶・",
+vocabulary: [
+{ word: behavior, meaning: 陦悟虚 },
+{ word: rather than, meaning: 縲懊→縺・≧繧医ｊ縺ｯ縲√懊〒縺ｯ縺ｪ縺・ }
+],
+grammarNotes: [
+{ phrase: It is ... that ..., explanation: <b>蠑ｷ隱ｿ讒区枚</b>: malews繧貞ｼｷ隱ｿ縺励※縺・ｋ縲・ }
+]
+}
+},
+{
+id: 17,
+text: "Instead, the female watches the male perform and decides whether to choose him as a partner.",
+translation: "縺昴・莉｣繧上ｊ縲√Γ繧ｹ縺ｯ繧ｪ繧ｹ縺梧ｼ斐§繧九・繧定ｦ九※縲∝ｽｼ繧偵ヱ繝ｼ繝医リ繝ｼ縺ｨ縺励※驕ｸ縺ｶ縺九←縺・°繧呈ｱｺ繧√∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "watches", "decides" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Instead)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the female</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>watches</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the male <span class=modifier>(perform)</span></span><span class=tag>O</span></span> and <span class=chunk V-group><span class=text>decides</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[whether to choose him as a partner]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(縺昴・莉｣繧上ｊ縺ｫ)</span>縲・span class=t-S>繝｡繧ｹ縺ｯ</span> <span class=t-V>隕九∪縺・/span> <span class=t-O>繧ｪ繧ｹ縺・<span class=t-M>(貍斐§繧九・繧・</span></span> 縺昴＠縺ｦ <span class=t-V>豎ｺ繧√∪縺・/span> <span class=t-O>[蠖ｼ繧偵ヱ繝ｼ繝医リ繝ｼ縺ｨ縺励※驕ｸ縺ｶ縺九←縺・°繧綻</span>縲・",
+naturalTranslation: "莉｣繧上ｊ縺ｫ縲√Γ繧ｹ縺ｯ繧ｪ繧ｹ縺梧ｼ斐§繧九・繧定ｦ九※縲∝ｽｼ繧偵ヱ繝ｼ繝医リ繝ｼ縺ｨ縺励※驕ｸ縺ｶ縺九←縺・°繧呈ｱｺ繧√∪縺吶・",
+vocabulary: [
+{ word: wether, meaning: 縲懊°縺ｩ縺・° },
+{ word: choose, meaning: 驕ｸ縺ｶ }
+],
+grammarNotes: [
+{ phrase: watch ... perform, explanation: <b>遏･隕壼虚隧檜atch + O + 蜴溷ｽ｢荳榊ｮ夊ｩ・/b>: 縲薫縺後懊☆繧九・繧定ｦ九ｋ縲阪Ｑerform縺ｯ蜍戊ｩ槭・蜴溷ｽ｢縲・ },
+{ phrase: whether to choose, explanation: <b>whether to do</b>: 縲後懊☆縺ｹ縺阪°縺ｩ縺・°縲阪・ }
+]
+}
+},
+{
+id: 18,
+text: "That is because scientists believe that the quality of a male animal's art or performance is often a good way for the female to select the healthiest male.",
+translation: "縺昴ｌ縺ｯ縲∫ｧ大ｭｦ閠・◆縺｡縺後√が繧ｹ縺ｮ蜍慕黄縺ｮ闃ｸ陦薙ｄ繝代ヵ繧ｩ繝ｼ繝槭Φ繧ｹ縺ｮ雉ｪ縺ｯ縲√Γ繧ｹ縺梧怙繧ょ▼蠎ｷ縺ｪ繧ｪ繧ｹ繧帝∈縺ｶ縺溘ａ縺ｮ濶ｯ縺・婿豕輔〒縺ゅｋ縺薙→縺悟､壹＞縺ｨ菫｡縺倥※縺・ｋ縺九ｉ縺ｧ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is", "believe" ],
+structureHtml: "<span class=chunk S-group><span class=text>That</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>because scientists believe [that the quality ... is a good way ...]</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>縺昴ｌ縺ｯ</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>遘大ｭｦ閠・◆縺｡縺啓縲懊→]菫｡縺倥※縺・ｋ縺九ｉ</span>縲・",
+naturalTranslation: "縺昴ｌ縺ｯ縲√が繧ｹ縺ｮ闃ｸ陦薙ｄ繝代ヵ繧ｩ繝ｼ繝槭Φ繧ｹ縺ｮ雉ｪ縺後√Γ繧ｹ縺ｫ縺ｨ縺｣縺ｦ譛繧ょ▼蠎ｷ縺ｪ繧ｪ繧ｹ繧帝∈縺ｶ濶ｯ縺・焔谿ｵ縺ｧ縺ゅｋ縺ｨ遘大ｭｦ閠・′閠・∴縺ｦ縺・ｋ縺九ｉ縺ｧ縺吶・",
+vocabulary: [
+{ word: quality, meaning: 雉ｪ },
+{ word: performance, meaning: 貍疲橿縲√ヱ繝輔か繝ｼ繝槭Φ繧ｹ },
+{ word: select, meaning: 驕ｸ縺ｶ }
+],
+grammarNotes: [
+{ phrase: That is because ..., explanation: <b>That is because ...</b>: 縲後◎繧後・縲懊□縺九ｉ縺縲阪ら炊逕ｱ繧定ｪｬ譏弱☆繧九・ },
+{ phrase: way for the female to select, explanation: <b>for A to do</b>: 荳榊ｮ夊ｩ柎o select縺ｮ諢丞袖荳翫・荳ｻ隱槭′the female縲ゅ後Γ繧ｹ縺碁∈縺ｶ縺溘ａ縺ｮ譁ｹ豕輔阪・ }
+]
+}
+},
+{
+id: 19,
+text: "Females want to choose healthy males because their babies will be stronger and healthier, too.",
+translation: "繝｡繧ｹ縺ｯ蛛･蠎ｷ縺ｪ繧ｪ繧ｹ繧帝∈縺ｳ縺溘＞縺ｨ諤昴▲縺ｦ縺・∪縺吶ゅ↑縺懊↑繧峨√◎繧後↓繧医▲縺ｦ蟄蝉ｾ帙◆縺｡繧ゅｈ繧雁ｼｷ縺上√ｈ繧雁▼蠎ｷ縺ｫ縺ｪ繧九°繧峨〒縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "want" ],
+structureHtml: "<span class=chunk S-group><span class=text>Females</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>want to choose</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>healthy males</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(because their babies will be stronger and healthier, too)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>繝｡繧ｹ縺ｯ</span> <span class=t-V>驕ｸ縺ｳ縺溘＞縺ｨ譛帙∩縺ｾ縺・/span> <span class=t-O>蛛･蠎ｷ縺ｪ繧ｪ繧ｹ繧・/span> <span class=t-M>(縺ｪ縺懊ｉ縺ｪ蠖ｼ螂ｳ縺溘■縺ｮ襍､縺｡繧・ｓ繧ゅｈ繧雁ｼｷ縺丞▼蠎ｷ逧・↓縺ｪ繧九°繧・</span>縲・",
+naturalTranslation: "繝｡繧ｹ縺ｯ蛛･蠎ｷ縺ｪ繧ｪ繧ｹ繧帝∈縺ｳ縺溘＞縺ｨ譛帙∩縺ｾ縺吶ゅ◎縺・☆繧後・蟄蝉ｾ帙◆縺｡繧ゆｸ亥､ｫ縺ｧ蛛･蠎ｷ縺ｫ縺ｪ繧九°繧峨〒縺吶・",
+vocabulary: [
+{ word: healthy, meaning: 蛛･蠎ｷ縺ｪ }
+],
+grammarNotes: [
+{ phrase: stronger and healthier, explanation: <b>豈碑ｼ・ｴ・/b>: 縲後ｈ繧雁ｼｷ縺上√ｈ繧雁▼蠎ｷ縺ｫ縲阪・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 4,
+sentences: [
+{
+id: 20,
+text: "In the case of the puffer fish, scientists still do not really know how females choose the best males.",
+translation: "繝輔げ縺ｮ蝣ｴ蜷医∫ｧ大ｭｦ閠・◆縺｡縺ｯ繝｡繧ｹ縺後←縺ｮ繧医≧縺ｫ縺励※譛濶ｯ縺ｮ繧ｪ繧ｹ繧帝∈繧薙〒縺・ｋ縺ｮ縺九√∪縺繧医￥繧上°縺｣縺ｦ縺・∪縺帙ｓ縲・",
+grammarAnalysis: {
+mainVerbs: [ "do not know" ],
+structureHtml: "<span class=chunk M-group><span class=text>(In the case of the puffer fish)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>scientists</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>still do not <span class=modifier>(really)</span> know</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[how females choose the best males]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(繝輔げ縺ｮ蝣ｴ蜷・</span>縲・span class=t-S>遘大ｭｦ閠・◆縺｡縺ｯ</span> <span class=t-V>縺ｾ縺繧医￥繧上°繧翫∪縺帙ｓ</span> <span class=t-O>[縺ｩ縺ｮ繧医≧縺ｫ縺励※繝｡繧ｹ縺梧怙濶ｯ縺ｮ繧ｪ繧ｹ繧帝∈縺ｶ縺犠繧・/span>縲・",
+naturalTranslation: "繝輔げ縺ｮ蝣ｴ蜷医√Γ繧ｹ縺後←縺・ｄ縺｣縺ｦ譛濶ｯ縺ｮ繧ｪ繧ｹ繧帝∈繧薙〒縺・ｋ縺ｮ縺九∫ｧ大ｭｦ閠・↓繧ゅ∪縺繧医￥蛻・°縺｣縺ｦ縺・∪縺帙ｓ縲・",
+vocabulary: [
+{ word: still, meaning: 縺ｾ縺 }
+],
+grammarNotes: [
+{ phrase: how ... choose, explanation: <b>髢捺磁逍大撫譁・/b>: know縺ｮ逶ｮ逧・ｪ槭・ }
+]
+}
+},
+{
+id: 21,
+text: "Perhaps they choose the most beautiful circle or the circle on the softest sand.",
+translation: "縺翫◎繧峨￥蠖ｼ螂ｳ縺溘■縺ｯ縲∵怙繧らｾ弱＠縺・・繧・∵怙繧よ沐繧峨°縺・ゅ・荳翫↓縺ゅｋ蜀・ｒ驕ｸ繧薙〒縺・ｋ縺ｮ縺ｧ縺励ｇ縺・・",
+grammarAnalysis: {
+mainVerbs: [ "choose" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Perhaps)</span><span class=tag>M</span></span> <span class=chunk S-group><span class=text>they</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>choose</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the most beautiful circle or the circle <span class=modifier>(on the softest sand)</span></span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(縺翫◎繧峨￥)</span> <span class=t-S>蠖ｼ螂ｳ縺溘■縺ｯ</span> <span class=t-V>驕ｸ縺ｳ縺ｾ縺・/span> <span class=t-O>譛繧らｾ弱＠縺・・縲√≠繧九＞縺ｯ蜀・ｒ <span class=t-M>(譛繧よ沐繧峨°縺・ゅ・荳翫・)</span></span>縲・",
+naturalTranslation: "縺翫◎繧峨￥縲∵怙繧らｾ弱＠縺・・繧・∽ｸ逡ｪ譟斐ｉ縺九＞遐ゅ・荳翫↓縺ゅｋ蜀・ｒ驕ｸ繧薙〒縺・ｋ縺ｮ縺ｧ縺励ｇ縺・・",
+vocabulary: [
+{ word: beautiful, meaning: 鄒弱＠縺・ },
+{ word: soft, meaning: 譟斐ｉ縺九＞ }
+],
+grammarNotes: [
+{ phrase: most beautiful, explanation: <b>譛荳顔ｴ・/b>: 縲梧怙繧らｾ弱＠縺・阪・ }
+]
+}
+},
+{
+id: 22,
+text: "One idea is that the circles provide ideal conditions for puffer fish eggs to grow.",
+translation: "荳縺､縺ｮ閠・∴縺ｯ縲√◎縺ｮ蜀・′繝輔げ縺ｮ蜊ｵ縺瑚ご縺､縺ｮ縺ｫ逅・Φ逧・↑譚｡莉ｶ繧呈署萓帙＠縺ｦ縺・ｋ縺ｨ縺・≧繧ゅ・縺ｧ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "is" ],
+structureHtml: "<span class=chunk S-group><span class=text>One idea</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>is</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>[that the circles provide ideal conditions for puffer fish eggs to grow]</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-S>荳縺､縺ｮ閠・∴縺ｯ</span> <span class=t-V>縺ｧ縺・/span> <span class=t-C>[蜀・′逅・Φ逧・↑譚｡莉ｶ繧呈署萓帙＠縺ｦ縺・ｋ縺ｨ縺・≧繧ゅ・]</span>縲・",
+naturalTranslation: "縺昴・蜀・′繝輔げ縺ｮ蜊ｵ縺ｮ謌宣聞縺ｫ逅・Φ逧・↑迺ｰ蠅・ｒ謠蝉ｾ帙＠縺ｦ縺・ｋ縲√→縺・≧隱ｬ繧ゅ≠繧翫∪縺吶・",
+vocabulary: [
+{ word: provide, meaning: 謠蝉ｾ帙☆繧・ },
+{ word: ideal, meaning: 逅・Φ逧・↑ },
+{ word: condition, meaning: 譚｡莉ｶ縲∫腸蠅・ }
+],
+grammarNotes: [
+{ phrase: provide, explanation: <b>provide</b>: 縲御ｸ弱∴繧九∵署萓帙☆繧九阪・ },
+{ phrase: for ... to grow, explanation: <b>荳榊ｮ夊ｩ槭・諢丞袖荳翫・荳ｻ隱・/b>: 縲悟嵯縺瑚ご縺､縺溘ａ縺ｮ縲阪・ }
+]
+}
+},
+{
+id: 23,
+text: "Sadly, the circles do not last long.",
+translation: "謔ｲ縺励＞縺薙→縺ｫ縲√◎縺ｮ蜀・・髟ｷ縺上・邯壹″縺ｾ縺帙ｓ縲・",
+grammarAnalysis: {
+mainVerbs: [ "do not last" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Sadly)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the circles</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>do not last</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(long)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(謔ｲ縺励＞縺薙→縺ｫ)</span>縲・span class=t-S>蜀・・</span> <span class=t-V>邯壹″縺ｾ縺帙ｓ</span> <span class=t-M>(髟ｷ縺上・)</span>縲・",
+naturalTranslation: "謔ｲ縺励＞縺薙→縺ｫ縲√◎縺ｮ蜀・・髟ｷ謖√■縺励∪縺帙ｓ縲・",
+vocabulary: [
+{ word: sadly, meaning: 謔ｲ縺励＞縺薙→縺ｫ },
+{ word: last, meaning: 邯壹￥縲∵戟邯壹☆繧・ }
+],
+grammarNotes: [ "" ]
+}
+},
+{
+id: 24,
+text: "They always make a new circle each time they look for a partner.",
+translation: "蠖ｼ繧峨・繝代・繝医リ繝ｼ繧呈爾縺吶◆縺ｳ縺ｫ縲√＞縺､繧よ眠縺励＞蜀・ｒ菴懊ｊ縺ｾ縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "make" ],
+structureHtml: "<span class=chunk S-group><span class=text>They</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(always)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>make</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>a new circle</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(each time they look for a partner)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>蠖ｼ繧峨・</span> <span class=t-V>菴懊ｊ縺ｾ縺・/span> <span class=t-O>譁ｰ縺励＞蜀・ｒ</span> <span class=t-M>(繝代・繝医リ繝ｼ繧呈爾縺吶◆縺ｳ縺ｫ)</span>縲・",
+naturalTranslation: "蠖ｼ繧峨・繝代・繝医リ繝ｼ繧呈爾縺吶◆縺ｳ縺ｫ縲∵ｯ主屓譁ｰ縺励＞蜀・ｒ菴懊ｊ縺ｾ縺吶・",
+vocabulary: [
+{ word: each time, meaning: 縲懊☆繧九◆縺ｳ縺ｫ },
+{ word: look for, meaning: 謗｢縺・ }
+],
+grammarNotes: [
+{ phrase: each time ..., explanation: <b>謗･邯夊ｩ樒噪逕ｨ豕・/b>: 縲後懊☆繧区凾縺ｯ縺・▽縺ｧ繧ゅ阪・ }
+]
+}
+}
+]
+}
+],
+questions: [
+{
+id: 26,
+text: "Divers who were swimming in Japan found",
+textTranslation: "譌･譛ｬ縺ｧ豕ｳ縺・〒縺・◆繝繧､繝舌・縺檎匱隕九＠縺溘・縺ｯ...",
+keywords: [ "Divers", "Japan found" ],
+keywordExplanations: {
+Divers: "隨ｬ1谿ｵ關ｽ蜀帝ｭ縺ｮ逋ｻ蝣ｴ莠ｺ迚ｩ縲・",
+found: "discovered (逋ｺ隕九＠縺・ 縺ｮ險縺・鋤縺医・"
+},
+keywordMatches: [
+{ sentenceId: 1, text: divers ... discovered, keyword: Divers },
+{ sentenceId: 2, text: saw large circles drawn in the sand, keyword: Japan found }
+],
+choiceAdvice: "縲碁ｭ壹◎縺ｮ繧ゅ・縲阪〒縺ｯ縺ｪ縺上悟・縲阪ｒ隕九▽縺代◆縺薙→縺ｫ豕ｨ諢上・",
+choices: [
+{ id: 1, text: a new type of sea creature called a puffer fish., translation: 繝輔げ縺ｨ蜻ｼ縺ｰ繧後ｋ譁ｰ遞ｮ縺ｮ豬ｷ縺ｮ逕溽黄縲・, isCorrect: false },
+{
+id: "2, text: strange circle patterns at the bottom of the ocean., translation: 豬ｷ蠎輔・螂・ｦ吶↑蜀・ｽ｢縺ｮ讓｡讒倥・, isCorrect: true, highlight: strange circle patterns }",
+{ id: 3, text: marks in the sand that were made by the motion of seawater., translation: 豬ｷ豌ｴ縺ｮ蜍輔″縺ｫ繧医▲縺ｦ菴懊ｉ繧後◆遐ゅ・霍｡縲・, isCorrect: false },
+{ id: 4, text: fish eggs that Japanese scientists had never seen before., translation: 譌･譛ｬ縺ｮ遘大ｭｦ閠・′縺薙ｌ縺ｾ縺ｧ隕九◆縺薙→繧ゅ↑縺・ｭ壹・蜊ｵ縲・, isCorrect: false }
+],
+paragraphStrategy: "闍ｱ讀懊・髟ｷ譁・撫鬘後〒縺ｯ縲∬ｨｭ蝠城・→谿ｵ關ｽ鬆・′荳閾ｴ縺吶ｋ縺薙→縺悟､壹＞縺ｧ縺吶・26)縺ｯ譛蛻昴・險ｭ蝠上↑縺ｮ縺ｧ縲√∪縺壹・縲千ｬｬ1谿ｵ關ｽ縲代ｒ髮・ｸｭ逧・↓謗｢縺励∪縺励ｇ縺・・",
+hint: {
+paragraphId: 1,
+description: "隨ｬ1谿ｵ關ｽ縲ゅ慧iscovered something unusual縲阪・逶ｴ蠕後・譁・↓縲∝・菴鍋噪縺ｫ菴輔ｒ隕九◆縺九′譖ｸ縺九ｌ縺ｦ縺・∪縺吶・",
+targetSentenceId: 2,
+highlightWord: "large circles drawn in the sand",
+highlightWordSentenceId: 2
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ They saw large circles drawn in the sand },
+{ type: arrow, content: 縲檎ゅ↓謠上°繧後◆螟ｧ縺阪↑蜀・ｒ隕九◆縲・ },
+{ type: text, content: 驕ｸ謚櫁い2: strange circle patterns at the bottom of the ocean },
+{ type: conclusion, content: 豁｣隗｣: 2 }
+]
+},
+{
+id: 27,
+text: "Why do some animals make or perform art?",
+textTranslation: "縺ｪ縺應ｸ驛ｨ縺ｮ蜍慕黄縺ｯ縲瑚敢陦薙阪ｒ菴懊▲縺溘ｊ貍斐§縺溘ｊ縺吶ｋ縺ｮ縺ｧ縺吶°・・",
+keywords: [ "Why", "art" ],
+keywordExplanations: {
+Why: "逅・罰繧貞撫縺・撫鬘後Ｑurpose (逶ｮ逧・ 縺ｨ縺・≧蜊倩ｪ槭ｒ謗｢縺吶・",
+art: "隨ｬ2谿ｵ關ｽ縺ｮ蜀・ｮｹ縲・"
+},
+keywordMatches: [
+{ sentenceId: 14, text: purpose is to attract a partner, keyword: Why }
+],
+choiceAdvice: "縲梧･ｽ縺励・縺溘ａ縲阪〒縺ｯ縺ｪ縺上後ヱ繝ｼ繝医リ繝ｼ繧貞ｼ輔″縺､縺代ｋ縺溘ａ縲阪〒縺ゅｋ縺ｨ縺・≧險倩ｿｰ繧定ｦ九▽縺代ｋ縲・",
+choices: [
+{ id: 1, text: To avoid other dangerous animals living nearby., translation: 霑代￥縺ｫ菴上・莉悶・蜊ｱ髯ｺ縺ｪ蜍慕黄繧帝∩縺代ｋ縺溘ａ縲・, isCorrect: false },
+{
+id: "2, text: To make other animals interested in becoming their partner., translation: 莉悶・蜍慕黄縺ｫ縲√ヱ繝ｼ繝医リ繝ｼ縺ｫ縺ｪ繧九％縺ｨ縺ｫ闊亥袖繧呈戟縺｣縺ｦ繧ゅｉ縺・◆繧√・, isCorrect: true, highlight: make other animals interested in becoming their partner }",
+{ id: 3, text: They are trying to improve their creative skills., translation: 蜑ｵ騾逧・↑繧ｹ繧ｭ繝ｫ繧貞髄荳翫＆縺帙ｈ縺・→縺励※縺・ｋ縲・, isCorrect: false },
+{ id: 4, text: They enjoy the pleasure of making nests to live in., translation: 菴上・縺溘ａ縺ｮ蟾｣菴懊ｊ繧呈･ｽ縺励ｓ縺ｧ縺・ｋ縲・, isCorrect: false }
+],
+paragraphStrategy: "闍ｱ讀懊・髟ｷ譁・撫鬘後〒縺ｯ縲∬ｨｭ蝠城・→谿ｵ關ｽ鬆・′荳閾ｴ縺吶ｋ縺薙→縺悟､壹＞縺ｧ縺吶・27)縺ｯ2逡ｪ逶ｮ縺ｮ險ｭ蝠上↑縺ｮ縺ｧ縲∵ｬ｡縺ｯ縲千ｬｬ2谿ｵ關ｽ縲代ｒ髮・ｸｭ逧・↓謗｢縺励∪縺励ｇ縺・・",
+hint: {
+paragraphId: 2,
+description: "隨ｬ2谿ｵ關ｽ縺ｮ邨ゅｏ繧翫ゅ卦hese animals do not make art for pleasure縲阪・谺｡縺ｮ譁・ｒ隕九※縺上□縺輔＞縲・",
+targetSentenceId: 14,
+highlightWord: "The purpose is to attract a partner",
+highlightWordSentenceId: 14
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ The purpose is to attract a partner. },
+{ type: arrow, content: 縲檎岼逧・・繝代・繝医リ繝ｼ繧貞ｼ輔″縺､縺代ｋ縺薙→縲・ },
+{ type: text, content: 驕ｸ謚櫁い2: To make other animals interested in becoming their partner. },
+{ type: conclusion, content: 豁｣隗｣: 2 }
+]
+},
+{
+id: 28,
+text: "In nature, female animals are usually",
+textTranslation: "閾ｪ辟ｶ逡後〒縺ｯ縲√Γ繧ｹ縺ｮ蜍慕黄縺ｯ騾壼ｸｸ...",
+keywords: [ "female", "usually" ],
+keywordExplanations: {
+female: "隨ｬ3谿ｵ關ｽ縺ｮ蠖ｹ蜑ｲ蛻・球縺ｫ縺､縺・※縺ｮ險倩ｿｰ縲・"
+},
+keywordMatches: [
+{ sentenceId: 17, text: the female watches ... and decides, keyword: female },
+{ sentenceId: 19, text: Females want to choose healthy males, keyword: female }
+],
+choiceAdvice: "繧ｪ繧ｹ縺梧ｼ斐§縲√Γ繧ｹ縺ｯ縲碁∈縺ｶ蛛ｴ縲阪〒縺ゅｋ縺ｨ縺・≧髢｢菫よｧ繧堤炊隗｣縺吶ｋ縲・",
+choices: [
+{ id: 1, text: better at creating art than males., translation: 繧ｪ繧ｹ繧医ｊ繧り敢陦薙ｒ菴懊ｋ縺ｮ縺御ｸ頑焔縲・, isCorrect: false },
+{ id: 2, text: stronger than most other partners they can find., translation: 蠖ｼ螂ｳ縺溘■縺瑚ｦ九▽縺代ｉ繧後ｋ莉悶・繝代・繝医リ繝ｼ繧医ｊ繧ょｼｷ縺・・, isCorrect: false },
+{
+id: "3, text: the ones who select partners., translation: 繝代・繝医リ繝ｼ繧帝∈縺ｶ蛛ｴ縺ｧ縺ゅｋ縲・, isCorrect: true, highlight: the ones who select partners }",
+{ id: 4, text: chosen by stronger and healthier male partners., translation: 繧医ｊ蠑ｷ縺丞▼蠎ｷ縺ｪ繧ｪ繧ｹ縺ｮ繝代・繝医リ繝ｼ縺ｫ繧医▲縺ｦ驕ｸ縺ｰ繧後ｋ縲・, isCorrect: false }
+],
+paragraphStrategy: "闍ｱ讀懊・髟ｷ譁・撫鬘後〒縺ｯ縲∬ｨｭ蝠城・→谿ｵ關ｽ鬆・′荳閾ｴ縺吶ｋ縺薙→縺悟､壹＞縺ｧ縺吶・28)縺ｯ3逡ｪ逶ｮ縺ｮ險ｭ蝠上↑縺ｮ縺ｧ縲√◎縺ｮ谺｡縺ｯ縲千ｬｬ3谿ｵ關ｽ縲代ｒ髮・ｸｭ逧・↓謗｢縺励∪縺励ｇ縺・・",
+hint: {
+paragraphId: 3,
+description: "隨ｬ3谿ｵ關ｽ縲ゅ慧ecides whether to choose him縲阪ｄ縲詣ant to choose healthy males縲阪→縺・▲縺溯｡ｨ迴ｾ縺ｫ豕ｨ逶ｮ縲・",
+targetSentenceId: 17,
+highlightWord: "decides whether to choose him",
+highlightWordSentenceId: 17
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ decides whether to choose him as a partner / want to choose healthy males },
+{ type: arrow, content: 縲後Γ繧ｹ縺碁∈謚樊ｨｩ繧呈戟縺｣縺ｦ縺・ｋ縲・ },
+{ type: text, content: 驕ｸ謚櫁い3: the ones who select partners. },
+{ type: conclusion, content: 豁｣隗｣: 3 }
+]
+},
+{
+id: 29,
+text: "What is one thing we know for sure about puffer fish circles?",
+textTranslation: "繝輔げ縺ｮ蜀・↓縺､縺・※縲∫ｧ√◆縺｡縺檎｢ｺ螳溘↓遏･縺｣縺ｦ縺・ｋ縺薙→縺ｯ菴輔〒縺吶°・・",
+keywords: [ "sure", "puffer fish circles" ],
+keywordExplanations: {
+sure: "謗ｨ貂ｬ・・erhaps, One idea・峨〒縺ｯ縺ｪ縺上∽ｺ句ｮ溘→縺励※霑ｰ縺ｹ繧峨ｌ縺ｦ縺・ｋ縺薙→・・lways縺ｪ縺ｩ・峨・"
+},
+keywordMatches: [
+{ sentenceId: 24, text: always make a new circle each time, keyword: sure }
+],
+choiceAdvice: "譛邨よｮｵ關ｽ縺ｮ譛蠕後・荳譁・ｒ遒ｺ隱阪ゆｽｿ縺・屓縺励〒縺ｯ縺ｪ縺上梧ｯ主屓譁ｰ縺励￥菴懊ｋ縲阪％縺ｨ縺梧嶌縺九ｌ縺ｦ縺・ｋ縲・",
+choices: [
+{ id: 1, text: Only one puffer fish egg can fit in a circle., translation: 荳縺､縺ｮ蜀・↓縺ｯ荳縺､縺ｮ蜊ｵ縺励°蜈･繧峨↑縺・・, isCorrect: false },
+{ id: 2, text: The newest circles are chosen by the females., translation: 譛繧よ眠縺励＞蜀・′繝｡繧ｹ縺ｫ繧医▲縺ｦ驕ｸ縺ｰ繧後ｋ縲・, isCorrect: false },
+{ id: 3, text: The circles are always made in the softest sand., translation: 蜀・・蟶ｸ縺ｫ譛繧よ沐繧峨°縺・ゅ・荳翫↓菴懊ｉ繧後ｋ縲・, isCorrect: false },
+{ id: 4, text: Males make new circles when trying to find new partners., translation: 繧ｪ繧ｹ縺ｯ譁ｰ縺励＞繝代・繝医リ繝ｼ繧呈爾縺昴≧縺ｨ縺吶ｋ譎ゅ∵眠縺励＞蜀・ｒ菴懊ｋ縲・, isCorrect: true, highlight: Males make new circles }
+],
+paragraphStrategy: "闍ｱ讀懊・髟ｷ譁・撫鬘後〒縺ｯ縲∬ｨｭ蝠城・→谿ｵ關ｽ鬆・′荳閾ｴ縺吶ｋ縺薙→縺悟､壹＞縺ｧ縺吶・29)縺ｯ譛蠕後・險ｭ蝠上↑縺ｮ縺ｧ縲∵怙蠕後・縲千ｬｬ4谿ｵ關ｽ縲代ｒ髮・ｸｭ逧・↓謗｢縺励∪縺励ｇ縺・・",
+hint: {
+paragraphId: 4,
+description: "隨ｬ4谿ｵ關ｽ縺ｮ譛蠕後・譁・ゅ卦hey always make a new circle each time...縲阪ｒ遒ｺ隱阪＠縺ｾ縺励ｇ縺・・",
+targetSentenceId: 24,
+highlightWord: "always make a new circle each time",
+highlightWordSentenceId: 24
+},
+logic: [
+{ type: text, content: 譛ｬ譁・ They always make a new circle each time they look for a partner. },
+{ type: arrow, content: 縲後ヱ繝ｼ繝医リ繝ｼ繧呈爾縺吶◆縺ｳ縺ｫ譁ｰ縺励＞蜀・ｒ菴懊ｋ縲・ },
+{ type: text, content: 驕ｸ謚櫁い4: Males make new circles when trying to find new partners. },
+{ type: conclusion, content: 豁｣隗｣: 4 }
+]
+}
+],
+summaryForInstructors: {
+title: "Circles in the Sand (遐ゅ・蜀・",
+intro: "豬ｷ蠎輔・繝溘せ繝・Μ繝ｼ繧ｵ繝ｼ繧ｯ繝ｫ繧剃ｽ懊ｋ繝輔げ縺ｨ縲∝虚迚ｩ縺ｮ豎よ・陦悟虚縺ｨ縺励※縺ｮ縲瑚敢陦薙阪ｒ繝・・繝槭↓縺励◆繝代ャ繧ｻ繝ｼ繧ｸ縲・",
+points: [
+{ label: 1. 闃ｸ陦灘ｮｶ, text: 豬ｷ蠎輔・蜀・・繝輔げ縺ｮ繧ｪ繧ｹ縺御ｽ薙ｒ菴ｿ縺｣縺ｦ菴懊▲縺溘ｂ縺ｮ縺ｧ縲√Γ繧ｹ縺悟嵯繧堤肇繧縺溘ａ縺ｮ蝣ｴ謇縺ｨ縺ｪ繧九・ },
+{ label: 2. 逶ｮ逧・, text: 繝九Ρ繧ｷ繝峨Μ縺ｪ縺ｩ繧ょ性繧√∝虚迚ｩ縺ｮ繧｢繝ｼ繝井ｽ懈・縺ｯ繝代・繝医リ繝ｼ・医Γ繧ｹ・峨ｒ蠑輔″縺､縺代・∈繧薙〒繧ゅｉ縺・◆繧√・謇区ｮｵ縲・ },
+{ label: 3. 繝｡繧ｹ縺ｮ驕ｸ謚・, text: 繝｡繧ｹ縺ｯ繧ｪ繧ｹ縺ｮ繧｢繝ｼ繝医・雉ｪ繧定ｦ九※縲∝▼蠎ｷ逧・〒驕ｺ莨晉噪縺ｫ蜆ｪ繧後◆繝代・繝医リ繝ｼ縺九←縺・°繧貞愛譁ｭ縺吶ｋ縲・ }
+]
+}
+},

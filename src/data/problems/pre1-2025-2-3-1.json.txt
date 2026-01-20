@@ -1,0 +1,652 @@
+{
+id: "pre1-2025-2-3-1",
+grade: "貅・邏・",
+title: "Rocket Science",
+subTitle: "2025蟷ｴ蠎ｦ 隨ｬ2蝗・貅・邏・螟ｧ蝠・-1",
+images: {
+content: "/images/reading/pre1-2025-2-3-1-content.png",
+question: "/images/reading/pre1-2025-2-3-1-question.png"
+},
+content: [
+{
+paragraphId: 1,
+sentences: [
+{
+id: 1,
+text: "Some US astronauts became household names in the 1950s and 60s, partly due to the media coverage of their achievements.",
+translation: "荳驛ｨ縺ｮ邀ｳ蝗ｽ縺ｮ螳・ｮ咎｣幄｡悟｣ｫ縺ｯ縲・950蟷ｴ莉｣縺九ｉ60蟷ｴ莉｣縺ｫ縺九￠縺ｦ縲√◎縺ｮ蜉溽ｸｾ縺後Γ繝・ぅ繧｢縺ｧ蝣ｱ驕薙＆繧後◆縺薙→繧ゅ≠繧翫∝ｮｶ蠎ｭ縺ｧ隕ｪ縺励∪繧後ｋ蜷榊燕縺ｨ縺ｪ縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "became" ],
+structureHtml: "<span class=chunk S-group><span class=text>Some US astronauts</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>became</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>household names</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>(in the 1950s and 60s)</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>(partly due to the media coverage of their achievements)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>荳驛ｨ縺ｮ邀ｳ蝗ｽ縺ｮ螳・ｮ咎｣幄｡悟｣ｫ縺ｯ</span> <span class=t-V>縺ｪ縺｣縺・/span> <span class=t-C>螳ｶ蠎ｭ縺ｧ隕ｪ縺励∪繧後ｋ蜷榊燕縺ｫ</span> <span class=t-M>(1950蟷ｴ莉｣縺九ｉ60蟷ｴ莉｣縺ｫ縺九￠縺ｦ)</span>縲・span class=t-M>(縺昴・蜉溽ｸｾ縺ｮ繝｡繝・ぅ繧｢蝣ｱ驕薙ｂ荳驛ｨ縺ゅ▲縺ｦ)</span>縲・",
+naturalTranslation: "荳驛ｨ縺ｮ邀ｳ蝗ｽ縺ｮ螳・ｮ咎｣幄｡悟｣ｫ縺ｯ縲・950蟷ｴ莉｣縺九ｉ60蟷ｴ莉｣縺ｫ縺九￠縺ｦ縲√◎縺ｮ蜉溽ｸｾ縺後Γ繝・ぅ繧｢縺ｧ蝣ｱ驕薙＆繧後◆縺薙→繧ゅ≠繧翫∝ｮｶ蠎ｭ縺ｧ隕ｪ縺励∪繧後ｋ蜷榊燕縺ｨ縺ｪ縺｣縺溘・",
+vocabulary: [
+{ word: household names, meaning: 縲瑚ｪｰ縺ｧ繧ら衍縺｣縺ｦ縺・ｋ蜷榊燕縲阪後♀闌ｶ縺ｮ髢薙↓豬ｸ騾上＠縺ｦ縺・ｋ蜷榊燕縲阪・ },
+{ word: due to, meaning: 縲後懊′蜴溷屏縺ｧ縲阪後懊・縺溘ａ縺ｫ縲阪・ },
+{ word: achievements, meaning: 縲梧･ｭ邵ｾ縲阪悟粥邵ｾ縲阪・ }
+],
+grammarNotes: [
+{ phrase: became household names, explanation: <b>became household names</b>: SVC譁・梛縲ゅ靴縺ｫ縺ｪ繧九阪Ｉousehold names縺瑚｣懆ｪ槭・ },
+{ phrase: in the 1950s, explanation: <b>in the 1950s</b>: 譎ゅｒ陦ｨ縺吝憶隧槫唱縲ゅ・950蟷ｴ莉｣縺ｫ縲阪・ },
+{ phrase: partly due to, explanation: <b>partly due to</b>: 縲御ｸ驛ｨ縺ｫ縺ｯ縲懊′蜴溷屏縺ｧ縲阪ら炊逕ｱ繧定｡ｨ縺吝憶隧槫唱繧貞ｰ弱￥縲・ }
+]
+}
+},
+{
+id: 2,
+text: "Behind the scenes, however, others played a crucial role in making US space missions, including the moon landing, successful.",
+translation: "縺励°縺励∬・蜿ｰ陬上〒縺ｯ縲∵怦髱｢逹髯ｸ繧貞性繧邀ｳ蝗ｽ縺ｮ螳・ｮ吶Α繝・す繝ｧ繝ｳ繧呈・蜉溘＆縺帙ｋ荳翫〒縲∽ｻ悶・莠ｺ縲・′驥崎ｦ√↑蠖ｹ蜑ｲ繧呈棡縺溘＠縺ｦ縺・◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "played" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Behind the scenes)</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>(however)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>others</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>played</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>a crucial role</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(in making US space missions, including the moon landing, successful)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(闊槫床陬上〒縺ｯ)</span>縲・span class=t-M>(縺励°縺・</span>縲・span class=t-S>莉悶・莠ｺ縲・′</span> <span class=t-V>譫懊◆縺励◆</span> <span class=t-O>驥崎ｦ√↑蠖ｹ蜑ｲ繧・/span> <span class=t-M>(譛磯擇逹髯ｸ繧貞性繧邀ｳ蝗ｽ縺ｮ螳・ｮ吶Α繝・す繝ｧ繝ｳ繧呈・蜉溘＆縺帙ｋ荳翫〒)</span>縲・",
+naturalTranslation: "縺励°縺励∬・蜿ｰ陬上〒縺ｯ縲∵怦髱｢逹髯ｸ繧貞性繧邀ｳ蝗ｽ縺ｮ螳・ｮ吶Α繝・す繝ｧ繝ｳ繧呈・蜉溘＆縺帙ｋ荳翫〒縲∽ｻ悶・莠ｺ縲・′驥崎ｦ√↑蠖ｹ蜑ｲ繧呈棡縺溘＠縺ｦ縺・◆縲・",
+vocabulary: [
+{ word: Behind the scenes, meaning: 縲瑚・蜿ｰ陬上〒縲阪瑚｣乗婿縺ｨ縺励※縲阪・ },
+{ word: play a role in, meaning: 縲後懊↓縺翫＞縺ｦ蠖ｹ蜑ｲ繧呈棡縺溘☆縲阪・ },
+{ word: crucial, meaning: 縲梧ｱｺ螳夂噪縺ｪ縲阪梧･ｵ繧√※驥崎ｦ√↑縲阪・ },
+{ word: successful, meaning: 縲梧・蜉溘＠縺溘阪・ }
+],
+grammarNotes: [
+{ phrase: Behind the scenes, explanation: <b>Behind the scenes</b>: 蝣ｴ謇繧定｡ｨ縺吝憶隧槫唱縲ゅ瑚・蜿ｰ陬上〒縲阪・ },
+{ phrase: played a crucial role, explanation: <b>played a crucial role</b>: SVO譁・梛縲ゅ碁㍾隕√↑蠖ｹ蜑ｲ繧呈棡縺溘＠縺溘阪・ },
+{ phrase: making ... successful, explanation: <b>making ... successful</b>: 縲後懊ｒ謌仙粥縺輔○繧九阪Ｎake O C・・繧辰縺ｫ縺吶ｋ・峨・隨ｬ5譁・梛縲・ },
+{ phrase: including, explanation: <b>including</b>: 縲後懊ｒ蜷ｫ繧√※縲阪ょ燕鄂ｮ隧樒噪縺ｫ逕ｨ縺・ｉ繧後ｋ迴ｾ蝨ｨ蛻・ｩ槭・ }
+]
+}
+},
+{
+id: 3,
+text: "Unlike the astronauts, many of these unsung heroes were female.",
+translation: "螳・ｮ咎｣幄｡悟｣ｫ縺ｨ縺ｯ逡ｰ縺ｪ繧翫√％縺・＠縺溽ｧｰ雉帙＆繧後↑縺・恭髮・・螟壹￥縺ｯ螂ｳ諤ｧ縺ｧ縺ゅ▲縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "were" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Unlike the astronauts)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>many of these unsung heroes</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>female</span><span class=tag>C</span></span>.",
+translationHtml: "<span class=t-M>(螳・ｮ咎｣幄｡悟｣ｫ縺ｨ縺ｯ逡ｰ縺ｪ繧・</span>縲・span class=t-S>縺薙≧縺励◆遘ｰ雉帙＆繧後↑縺・恭髮・・螟壹￥縺ｯ</span> <span class=t-V>縺ｧ縺ゅ▲縺・/span> <span class=t-C>螂ｳ諤ｧ</span>縲・",
+naturalTranslation: "螳・ｮ咎｣幄｡悟｣ｫ縺ｨ縺ｯ驕輔＞縲√％繧後ｉ縺ｮ遏･繧峨ｌ縺悶ｋ闍ｱ髮・◆縺｡縺ｮ螟壹￥縺ｯ螂ｳ諤ｧ縺ｧ縺励◆縲・",
+vocabulary: [
+{ word: unsung heroes, meaning: 縲檎ｧｰ雉帙＆繧後↑縺・恭髮・阪檎ｸ√・荳九・蜉帶戟縺｡縲阪・ },
+{ word: Unlike, meaning: 縲後懊→縺ｯ逡ｰ縺ｪ繧翫阪・ },
+{ word: female, meaning: 縲悟･ｳ諤ｧ縺ｮ縲阪・ }
+],
+grammarNotes: [
+{ phrase: Unlike the astronauts, explanation: <b>Unlike the astronauts</b>: 縲悟ｮ・ｮ咎｣幄｡悟｣ｫ縺ｨ縺ｯ驕輔▲縺ｦ縲阪ょｯｾ豈斐ｒ陦ｨ縺吝憶隧槫唱縲・ },
+{ phrase: many of ..., explanation: <b>many of ...</b>: 縲後懊・螟壹￥縲阪ゆｸｻ隱槭ｒ讒区・縺吶ｋ驛ｨ蛻・・ },
+{ phrase: were female, explanation: <b>were female</b>: SVC譁・梛縲Ｇemale縺ｯ蠖｢螳ｹ隧槭〒縲悟･ｳ諤ｧ縺ｮ縲阪・ }
+]
+}
+},
+{
+id: 4,
+text: "These women, who came to be called human computers, conducted complex calculations in areas such as spacecraft navigation, rocket aerodynamics, and orbital physics.",
+translation: "繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｨ蜻ｼ縺ｰ繧後ｋ繧医≧縺ｫ縺ｪ縺｣縺溘％繧後ｉ縺ｮ螂ｳ諤ｧ縺溘■縺ｯ縲∝ｮ・ｮ呵飴縺ｮ闊ｪ陦後√Ο繧ｱ繝・ヨ縺ｮ遨ｺ豌怜鴨蟄ｦ縲∬ｻ碁％迚ｩ逅・ｭｦ縺ｪ縺ｩ縺ｮ蛻・㍽縺ｧ隍・尅縺ｪ險育ｮ励ｒ陦後▲縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "conducted" ],
+structureHtml: "<span class=chunk S-group><span class=text>These women, [who came to be called human computers]</span><span class=tag>S</span></span>, <span class=chunk V-group><span class=text>conducted</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>complex calculations</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(in areas such as spacecraft navigation, rocket aerodynamics, and orbital physics)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺薙ｌ繧峨・螂ｳ諤ｧ縺溘■縺ｯ縲ー蠕後↓繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｨ蜻ｼ縺ｰ繧後ｋ繧医≧縺ｫ縺ｪ縺｣縺歉</span> <span class=t-V>陦後▲縺・/span> <span class=t-O>隍・尅縺ｪ險育ｮ励ｒ</span> <span class=t-M>(螳・ｮ呵飴縺ｮ闊ｪ陦後√Ο繧ｱ繝・ヨ縺ｮ遨ｺ豌怜鴨蟄ｦ縲∬ｻ碁％迚ｩ逅・ｭｦ縺ｪ縺ｩ縺ｮ蛻・㍽縺ｧ)</span>縲・",
+naturalTranslation: "繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｨ蜻ｼ縺ｰ繧後ｋ繧医≧縺ｫ縺ｪ縺｣縺溘％繧後ｉ縺ｮ螂ｳ諤ｧ縺溘■縺ｯ縲∝ｮ・ｮ呵飴縺ｮ闊ｪ陦後√Ο繧ｱ繝・ヨ縺ｮ遨ｺ豌怜鴨蟄ｦ縲∬ｻ碁％迚ｩ逅・ｭｦ縺ｪ縺ｩ縺ｮ蛻・㍽縺ｧ隍・尅縺ｪ險育ｮ励ｒ陦後▲縺溘・",
+vocabulary: [
+{ word: aerodynamics, meaning: 縲檎ｩｺ豌怜鴨蟄ｦ縲阪・ },
+{ word: conducted, meaning: 縲瑚｡後▲縺溘阪悟ｮ滓命縺励◆縲阪・ },
+{ word: navigation, meaning: 縲瑚穐陦後阪瑚ｪ伜ｰ弱阪・ }
+],
+grammarNotes: [
+{ phrase: who came to be called, explanation: <b>who came to be called</b>: 髢｢菫ゆｻ｣蜷崎ｩ槭・髱槫宛髯千畑豕輔ょ・陦瑚ｩ杁hese women繧定｣懆ｶｳ隱ｬ譏弱・ },
+{ phrase: came to be called, explanation: <b>came to be called</b>: 縲後懊→蜻ｼ縺ｰ繧後ｋ繧医≧縺ｫ縺ｪ縺｣縺溘阪Ｄome to do 縺ｧ縲後懊☆繧九ｈ縺・↓縺ｪ繧九阪・ },
+{ phrase: such as, explanation: <b>such as</b>: 縲後懊・繧医≧縺ｪ縲阪ゆｾ狗､ｺ繧定｡ｨ縺吝燕鄂ｮ隧樒噪縺ｪ蜒阪″縲・ }
+]
+}
+},
+{
+id: 5,
+text: "The human computers calculations窶芭ostly done by hand窶背ere mentally and physically demanding, sometimes each taking a week to complete.",
+translation: "繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ險育ｮ励・縲√◎縺ｮ縺ｻ縺ｨ繧薙←縺梧焔菴懈･ｭ縺ｧ陦後ｏ繧後∫ｲｾ逾樒噪縺ｫ繧りｉ菴鍋噪縺ｫ繧る℃驟ｷ縺ｪ繧ゅ・縺ｧ縺ゅｊ縲∵凾縺ｫ縺ｯ1縺､縺ｮ險育ｮ励↓1騾ｱ髢薙ｒ隕√☆繧九％縺ｨ繧ゅ≠縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "were" ],
+structureHtml: "<span class=chunk S-group><span class=text>The human computers calculations窶・mostly done by hand)窶・/span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>mentally and physically demanding</span><span class=tag>C</span></span>, <span class=chunk M-group><span class=text>(sometimes each taking a week to complete)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ險育ｮ励・窶・縺昴・縺ｻ縺ｨ繧薙←縺梧焔菴懈･ｭ縺ｧ陦後ｏ繧・窶・/span> <span class=t-V>縺ｧ縺ゅ▲縺・/span> <span class=t-C>邊ｾ逾樒噪縺ｫ繧りｉ菴鍋噪縺ｫ繧る℃驟ｷ縺ｪ繧ゅ・縺ｧ</span>縲・span class=t-M>(譎ゅ↓縺ｯ縺昴ｌ縺槭ｌ螳御ｺ・☆繧九・縺ｫ1騾ｱ髢薙ｒ隕√☆繧九％縺ｨ繧ゅ≠縺｣縺・</span>縲・",
+naturalTranslation: "繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ險育ｮ励・縲√◎縺ｮ縺ｻ縺ｨ繧薙←縺梧焔菴懈･ｭ縺ｧ陦後ｏ繧後∫ｲｾ逾樒噪縺ｫ繧りｉ菴鍋噪縺ｫ繧る℃驟ｷ縺ｪ繧ゅ・縺ｧ縲∝ｮ御ｺ・∪縺ｧ縺ｫ1騾ｱ髢薙°縺九ｋ縺薙→繧ゅ≠繧翫∪縺励◆縲・",
+vocabulary: [
+{ word: demanding, meaning: 縲後″縺､縺・阪碁℃驟ｷ縺ｪ縲阪・ },
+{ word: mentally, meaning: 縲檎ｲｾ逾樒噪縺ｫ縲阪・ },
+{ word: physically, meaning: 縲瑚ｉ菴鍋噪縺ｫ縲阪・ }
+],
+grammarNotes: [
+{ phrase: mostly done by hand, explanation: <b>mostly done by hand</b>: 縲後⊇縺ｨ繧薙←縺梧焔菴懈･ｭ縺ｧ陦後ｏ繧後◆縲阪る℃蜴ｻ蛻・ｩ槭↓繧医ｋ謖ｿ蜈･菫ｮ鬟ｾ縲・ },
+{ phrase: mentally and physically, explanation: <b>mentally and physically</b>: 蠖｢螳ｹ隧枦emanding繧剃ｿｮ鬟ｾ縺吶ｋ蜑ｯ隧槭・荳ｦ蛻励・ },
+{ phrase: taking a week, explanation: <b>taking a week</b>: 蛻・ｩ樊ｧ区枚縲ゅ鯉ｼ亥ｮ御ｺ・☆繧九・縺ｫ・・騾ｱ髢薙ｒ隕√＠縺ｦ縲阪・ }
+]
+}
+},
+{
+id: 6,
+text: "Without them, it would have been impossible to launch spacecraft, and any inaccuracies could have had life-threatening consequences for the astronauts.",
+translation: "蠖ｼ螂ｳ縺溘■縺後＞縺ｪ縺代ｌ縺ｰ縲∝ｮ・ｮ呵飴繧呈遠縺｡荳翫￡繧九％縺ｨ縺ｯ荳榊庄閭ｽ縺縺｣縺溘〒縺励ｇ縺・＠縲√←縺ｮ繧医≧縺ｪ荳肴ｭ｣遒ｺ縺輔ｂ螳・ｮ咎｣幄｡悟｣ｫ縺ｫ縺ｨ縺｣縺ｦ蜻ｽ縺ｫ髢｢繧上ｋ邨先棡繧偵ｂ縺溘ｉ縺励◆蜿ｯ閭ｽ諤ｧ縺後≠繧翫∪縺吶・",
+grammarAnalysis: {
+mainVerbs: [ "would have been", "could have had" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Without them)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>it</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>would have been</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>impossible</span><span class=tag>C</span></span> <span class=chunk S-group><span class=text>[to launch spacecraft]</span><span class=tag>S</span></span>, and <span class=chunk S-group><span class=text>any inaccuracies</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>could have had</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>life-threatening consequences</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(for the astronauts)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(蠖ｼ螂ｳ縺溘■縺後＞縺ｪ縺代ｌ縺ｰ)</span>縲・span class=t-S>縺昴ｌ縺ｯ</span> <span class=t-V>縺縺｣縺溘□繧阪≧</span> <span class=t-C>荳榊庄閭ｽ</span> <span class=t-S>[螳・ｮ呵飴繧呈遠縺｡荳翫￡繧九％縺ｨ縺ｯ]</span>縲√◎縺励※ <span class=t-S>縺ｩ縺ｮ繧医≧縺ｪ荳肴ｭ｣遒ｺ縺輔ｂ</span> <span class=t-V>繧ゅ◆繧峨＠縺溷庄閭ｽ諤ｧ縺後≠繧・/span> <span class=t-O>蜻ｽ縺ｫ髢｢繧上ｋ邨先棡繧・/span> <span class=t-M>(螳・ｮ咎｣幄｡悟｣ｫ縺ｫ縺ｨ縺｣縺ｦ)</span>縲・",
+naturalTranslation: "蠖ｼ螂ｳ縺溘■縺後＞縺ｪ縺代ｌ縺ｰ縲∝ｮ・ｮ呵飴繧呈遠縺｡荳翫￡繧九％縺ｨ縺ｯ荳榊庄閭ｽ縺縺｣縺溘〒縺励ｇ縺・＠縲∝ｰ代＠縺ｮ險育ｮ励Α繧ｹ縺ｧ繧ょｮ・ｮ咎｣幄｡悟｣ｫ縺ｮ蜻ｽ縺ｫ髢｢繧上ｋ莠区・縺ｫ縺ｪ繧翫°縺ｭ縺ｾ縺帙ｓ縺ｧ縺励◆縲・",
+vocabulary: [
+{ word: inaccuracies, meaning: 縲御ｸ肴ｭ｣遒ｺ縺輔阪・ },
+{ word: life-threatening, meaning: 縲悟多縺ｫ髢｢繧上ｋ縲阪・ },
+{ word: consequences, meaning: 縲檎ｵ先棡縲阪・ }
+],
+grammarNotes: [
+{ phrase: Without them, explanation: <b>Without them</b>: 縲悟ｽｼ螂ｳ縺溘■縺後＞縺ｪ縺代ｌ縺ｰ縲阪Ｊf it had not been for them 縺ｮ莉｣逕ｨ縲ゆｻｮ螳壽ｳ暮℃蜴ｻ螳御ｺ・・ },
+{ phrase: it would have been ... to ..., explanation: <b>it would have been ... to ...</b>: 莉ｮ荳ｻ隱樊ｧ区枚・倶ｻｮ螳壽ｳ暮℃蜴ｻ螳御ｺ・ゅ後懊☆繧九％縺ｨ縺ｯ荳榊庄閭ｽ縺縺｣縺溘□繧阪≧縲阪・ },
+{ phrase: could have had, explanation: <b>could have had</b>: 莉ｮ螳壽ｳ暮℃蜴ｻ螳御ｺ・ゅ後懊→縺・≧邨先棡繧偵ｂ縺溘ｉ縺励◆蜿ｯ閭ｽ諤ｧ縺後≠繧九阪・ }
+]
+}
+},
+{
+id: 7,
+text: "The women were standing on the shoulders of others who had gone before them.",
+translation: "蠖ｼ螂ｳ縺溘■縺ｯ蜈井ｺｺ縺溘■縺ｮ閧ｩ縺ｮ荳翫↓遶九▲縺ｦ縺・◆・亥・莠ｺ縺溘■縺ｮ蜉溽ｸｾ縺ｮ荳翫↓謌舌ｊ遶九▲縺ｦ縺・◆・峨・",
+grammarAnalysis: {
+mainVerbs: [ "were standing" ],
+structureHtml: "<span class=chunk S-group><span class=text>The women</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were standing</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(on the shoulders of others who had gone before them)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>蠖ｼ螂ｳ縺溘■縺ｯ</span> <span class=t-V>遶九▲縺ｦ縺・◆</span> <span class=t-M>(蜈井ｺｺ縺溘■縺ｮ閧ｩ縺ｮ荳翫↓)</span>縲・",
+naturalTranslation: "蠖ｼ螂ｳ縺溘■縺ｯ蜈井ｺｺ縺溘■縺ｮ閧ｩ縺ｮ荳翫↓遶九▲縺ｦ縺・◆・亥・莠ｺ縺溘■縺ｮ蜉溽ｸｾ縺ｮ荳翫↓謌舌ｊ遶九▲縺ｦ縺・◆・峨・",
+vocabulary: [
+{ word: standing on the shoulders of..., meaning: 縲悟ｷｨ莠ｺ縺ｮ閧ｩ縺ｮ荳翫↓遶九▽縲阪→縺・≧諷｣逕ｨ蜿･縺九ｉ縺ｮ蠑慕畑縲ょ・莠ｺ縺ｮ遨阪∩驥阪・繧貞茜逕ｨ縺吶ｋ縺薙→縲・ },
+{ word: shoulders, meaning: 縲瑚か縲阪よｯ泌湊逧・↓縲瑚ｲｬ莉ｻ縲阪碁㍾闕ｷ縲阪↑縺ｩ繧呈髪縺医ｋ蝣ｴ謇縲・ },
+{ word: gone before, meaning: 縲悟・縺ｫ陦後▲縺溘阪悟・陦後＠縺溘阪・ }
+],
+grammarNotes: [
+{ phrase: were standing, explanation: <b>were standing</b>: 驕主悉騾ｲ陦悟ｽ｢縲ゅ檎ｫ九▲縺ｦ縺・◆縲阪・ },
+{ phrase: on the shoulders of, explanation: <b>on the shoulders of</b>: 蝣ｴ謇繧定｡ｨ縺吝憶隧槫唱縲ゅ後懊・閧ｩ縺ｮ荳翫↓縲阪・ },
+{ phrase: who had gone before them, explanation: <b>who had gone before them</b>: 髢｢菫ゆｻ｣蜷崎ｩ樒ｯ縲Ｐthers繧剃ｿｮ鬟ｾ縲・ }
+]
+}
+},
+{
+id: 8,
+text: "As fields such as astronomy, navigation, and surveying expanded in the nineteenth century, so did the need for mathematical computation.",
+translation: "19荳也ｴ縺ｫ螟ｩ譁・ｭｦ縲∬穐豬ｷ陦薙∵ｸｬ驥上→縺・▲縺溷・驥弱′諡｡螟ｧ縺吶ｋ縺ｫ縺､繧後∵焚蟄ｦ逧・ｨ育ｮ励・蠢・ｦ∵ｧ繧るｫ倥∪縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "did" ],
+structureHtml: "<span class=chunk M-group><span class=text>(As fields such as astronomy, navigation, and surveying expanded in the nineteenth century)</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>(so)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>did</span><span class=tag>V</span></span> <span class=chunk S-group><span class=text>the need for mathematical computation</span><span class=tag>S</span></span>.",
+translationHtml: "<span class=t-M>(19荳也ｴ縺ｫ螟ｩ譁・ｭｦ縲∬穐豬ｷ陦薙∵ｸｬ驥上→縺・▲縺溷・驥弱′諡｡螟ｧ縺吶ｋ縺ｫ縺､繧・</span>縲・span class=t-M>(蜷梧ｧ倥↓)</span> <span class=t-V>鬮倥∪縺｣縺・/span> <span class=t-S>謨ｰ蟄ｦ逧・ｨ育ｮ励・蠢・ｦ∵ｧ繧・/span>縲・",
+naturalTranslation: "19荳也ｴ縺ｫ螟ｩ譁・ｭｦ縲∬穐豬ｷ陦薙∵ｸｬ驥上→縺・▲縺溷・驥弱′諡｡螟ｧ縺吶ｋ縺ｫ縺､繧後∵焚蟄ｦ逧・ｨ育ｮ励・蠢・ｦ∵ｧ繧るｫ倥∪縺｣縺溘・",
+vocabulary: [
+{ word: astronomy, meaning: 縲悟､ｩ譁・ｭｦ縲阪・ },
+{ word: surveying, meaning: 縲梧ｸｬ驥上阪・ },
+{ word: computation, meaning: 縲瑚ｨ育ｮ励阪・ }
+],
+grammarNotes: [
+{ phrase: As ... expanded, explanation: <b>As ... expanded</b>: 豈比ｾ九ｒ陦ｨ縺呎磁邯夊ｩ暸s縲ゅ後懊☆繧九↓縺､繧後※縲阪・ },
+{ phrase: so did S, explanation: <b>so did S</b>: 蛟堤ｽｮ讒区枚縲ゅ郡繧ゅ◎縺・〒縺ゅ▲縺溘阪Ｅid縺ｯexpanded縺ｮ莉｣蜍戊ｩ槭・ },
+{ phrase: in the nineteenth century, explanation: <b>in the nineteenth century</b>: 譎ゅｒ陦ｨ縺吝憶隧槫唱縲ゅ・9荳也ｴ縺ｫ縲阪・ }
+]
+}
+},
+{
+id: 9,
+text: "This need only skyrocketed in World War I and World War II.",
+translation: "縺薙・髴隕√・縲∫ｬｬ荳谺｡荳也阜螟ｧ謌ｦ縺ｨ隨ｬ莠梧ｬ｡荳也阜螟ｧ謌ｦ縺ｧ諤･蠅励＠縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "skyrocketed" ],
+structureHtml: "<span class=chunk S-group><span class=text>This need</span><span class=tag>S</span></span> <span class=chunk M-group><span class=text>(only)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>skyrocketed</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(in World War I and World War II)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺薙・髴隕√・</span> <span class=t-M>(蜊倥↓)</span> <span class=t-V>諤･蠅励＠縺・/span> <span class=t-M>(隨ｬ荳谺｡荳也阜螟ｧ謌ｦ縺ｨ隨ｬ莠梧ｬ｡荳也阜螟ｧ謌ｦ縺ｧ)</span>縲・",
+naturalTranslation: "縺薙・髴隕√・縲∫ｬｬ荳谺｡荳也阜螟ｧ謌ｦ縺ｨ隨ｬ莠梧ｬ｡荳也阜螟ｧ謌ｦ縺ｧ諤･蠅励＠縺溘・",
+vocabulary: [
+{ word: skyrocketed, meaning: 縲梧･荳頑・縺励◆縲阪ゅΟ繧ｱ繝・ヨ縺ｮ繧医≧縺ｫ荳翫′繧九％縺ｨ縺九ｉ縲・ },
+{ word: need, meaning: 縲悟ｿ・ｦ√阪碁怙隕√阪・ },
+{ word: only, meaning: 縲後◆縺縲懊□縺代阪ゅ％縺薙〒縺ｯ縲後・縺溘☆繧峨懊＠縺溘阪→縺・≧蠑ｷ隱ｿ縺ｮ繝九Η繧｢繝ｳ繧ｹ縲・ }
+],
+grammarNotes: [
+{ phrase: This need, explanation: <b>This need</b>: 謖・､ｺ隱杁his繧貞性繧荳ｻ隱槭ょ燕譁・・縲瑚ｨ育ｮ励・蠢・ｦ∵ｧ縲阪ｒ謖・☆縲・ },
+{ phrase: only, explanation: <b>only</b>: 蜍戊ｩ槭ｒ菫ｮ鬟ｾ縺吶ｋ蜑ｯ隧槭ゅ後◆縺縺ｲ縺溘☆繧峨↓縲∽ｸ騾斐↓縲阪・ },
+{ phrase: in World War I and II, explanation: <b>in World War I and II</b>: 譎ゅｒ陦ｨ縺吝憶隧槫唱縲ゅ檎ｬｬ荳谺｡繝ｻ隨ｬ莠梧ｬ｡荳也阜螟ｧ謌ｦ荳ｭ縺ｫ縲阪・ }
+]
+}
+},
+{
+id: 10,
+text: "Early computation work had been mainly undertaken by men.",
+translation: "蛻晄悄縺ｮ險育ｮ嶺ｽ懈･ｭ縺ｯ荳ｻ縺ｫ逕ｷ諤ｧ縺ｫ繧医▲縺ｦ陦後ｏ繧後※縺・◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "had been undertaken" ],
+structureHtml: "<span class=chunk S-group><span class=text>Early computation work</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>had been</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(mainly)</span><span class=tag>M</span></span> <span class=chunk V-group><span class=text>undertaken</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(by men)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>蛻晄悄縺ｮ險育ｮ嶺ｽ懈･ｭ縺ｯ</span> <span class=t-V>縺輔ｌ縺ｦ縺・◆</span> <span class=t-M>(荳ｻ縺ｫ)</span> <span class=t-V>陦後ｏ繧後※</span> <span class=t-M>(逕ｷ諤ｧ縺ｫ繧医▲縺ｦ)</span>縲・",
+naturalTranslation: "蛻晄悄縺ｮ險育ｮ嶺ｽ懈･ｭ縺ｯ荳ｻ縺ｫ逕ｷ諤ｧ縺ｫ繧医▲縺ｦ陦後ｏ繧後※縺・◆縲・",
+vocabulary: [
+{ word: mainly, meaning: 縲御ｸｻ縺ｫ縲阪・ },
+{ word: computation, meaning: 縲瑚ｨ育ｮ励阪・ },
+{ word: undertaken, meaning: 縲悟ｮ滓命縺輔ｌ縺溘阪檎捩謇九＆繧後◆縲阪・ }
+],
+grammarNotes: [
+{ phrase: Early computation work, explanation: <b>Early computation work</b>: 譁・・荳ｻ隱槭ゅ悟・譛溘・險育ｮ嶺ｽ懈･ｭ縲阪・ },
+{ phrase: had been undertaken, explanation: <b>had been undertaken</b>: 驕主悉螳御ｺ・女蜍墓・縲ゅ鯉ｼ医≠繧区凾轤ｹ縺ｾ縺ｧ縺ｫ・芽｡後ｏ繧後※縺・◆縲阪・ },
+{ phrase: mainly, explanation: <b>mainly</b>: 蜑ｯ隧槭ゅ御ｸｻ縺ｫ縲阪・ },
+{ phrase: by men, explanation: <b>by men</b>: 蜍穂ｽ應ｸｻ繧定｡ｨ縺吝憶隧槫唱縲ゅ檎塙諤ｧ縺ｫ繧医▲縺ｦ縲阪・ }
+]
+}
+},
+{
+id: 11,
+text: "However, partly due to the discriminatory nature of contemporary societal norms, employing women meant that salaries窶蚤nd therefore overall costs窶把ould be dramatically reduced.",
+translation: "縺励°縺励∝ｽ捺凾縺ｮ遉ｾ莨夊ｦ冗ｯ・・蟾ｮ蛻･逧・↑諤ｧ雉ｪ繧ゅ≠縺｣縺ｦ縲∝･ｳ諤ｧ繧帝寐逕ｨ縺吶ｋ縺薙→縺ｯ邨ｦ荳弱√・縺・※縺ｯ蜈ｨ菴鍋噪縺ｪ繧ｳ繧ｹ繝医ｒ蜉・噪縺ｫ蜑頑ｸ帙〒縺阪ｋ縺薙→繧呈э蜻ｳ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "meant" ],
+structureHtml: "<span class=chunk M-group><span class=text>(However)</span><span class=tag>M</span></span>, <span class=chunk M-group><span class=text>(partly due to the discriminatory nature of contemporary societal norms)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>employing women</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>meant</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that salaries窶蚤nd therefore overall costs窶把ould be dramatically reduced]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(縺励°縺・</span>縲・span class=t-M>(蠖捺凾縺ｮ遉ｾ莨夊ｦ冗ｯ・・蟾ｮ蛻･逧・↑諤ｧ雉ｪ繧ゅ≠縺｣縺ｦ)</span>縲・span class=t-S>螂ｳ諤ｧ繧帝寐逕ｨ縺吶ｋ縺薙→縺ｯ</span> <span class=t-V>諢丞袖縺励◆</span> <span class=t-O>[邨ｦ荳弱√・縺・※縺ｯ蜈ｨ菴鍋噪縺ｪ繧ｳ繧ｹ繝医ｒ蜉・噪縺ｫ蜑頑ｸ帙〒縺阪ｋ縺薙→繧綻</span>縲・",
+naturalTranslation: "縺励°縺励∝ｽ捺凾縺ｮ遉ｾ莨夊ｦ冗ｯ・・蟾ｮ蛻･逧・↑諤ｧ雉ｪ繧ゅ≠縺｣縺ｦ縲∝･ｳ諤ｧ繧帝寐逕ｨ縺吶ｋ縺薙→縺ｯ邨ｦ荳弱√・縺・※縺ｯ蜈ｨ菴鍋噪縺ｪ繧ｳ繧ｹ繝医ｒ蜉・噪縺ｫ蜑頑ｸ帙〒縺阪ｋ縺薙→繧呈э蜻ｳ縺励◆縲・",
+vocabulary: [
+{ word: discriminatory nature, meaning: 縲悟ｷｮ蛻･逧・↑諤ｧ雉ｪ縲阪ょｽ捺凾縺ｮ遉ｾ莨夐壼ｿｵ繧定ｪｬ譏弱＠縺ｦ縺・ｋ縲・ },
+{ word: societal norms, meaning: 縲檎､ｾ莨夊ｦ冗ｯ・阪檎､ｾ莨夐壼ｿｵ縲阪・ },
+{ word: dramatically, meaning: 縲悟括逧・↓縲阪・ }
+],
+grammarNotes: [
+{ phrase: partly due to, explanation: <b>partly due to</b>: 縲御ｸ驛ｨ縺ｫ縺ｯ縲懊′蜴溷屏縺ｧ縲阪ら炊逕ｱ繧定｡ｨ縺吝憶隧槫唱縲・ },
+{ phrase: employing women, explanation: <b>employing women</b>: 蜍募錐隧槫唱縺ｧ荳ｻ隱槭ゅ悟･ｳ諤ｧ繧帝寐縺・％縺ｨ縺ｯ縲阪・ },
+{ phrase: that ... reduced, explanation: <b>that ... reduced</b>: meant縺ｮ逶ｮ逧・ｪ槭→縺ｪ繧句錐隧樒ｯ縲よ磁邯夊ｩ柎hat莉･荳九・[邨ｦ荳弱′蜑頑ｸ帙＆繧後≧繧犠縺ｨ縺・≧蜀・ｮｹ縲・ }
+]
+}
+},
+{
+id: 12,
+text: "Gradually, these jobs came to be seen by some as women's work.",
+translation: "蠕舌・↓縲√％縺・＠縺滉ｻ穂ｺ九・荳驛ｨ縺ｧ縲悟･ｳ諤ｧ縺ｮ莉穂ｺ九阪→隕九↑縺輔ｌ繧九ｈ縺・↓縺ｪ縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "came to be seen" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Gradually)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>these jobs</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>came to be seen</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(by some)</span><span class=tag>M</span></span> <span class=chunk C-group><span class=text>as women's work.</span><span class=tag>C</span></span>",
+translationHtml: "<span class=t-M>(蠕舌・↓)</span>縲・span class=t-S>縺薙≧縺励◆莉穂ｺ九・</span> <span class=t-V>隕九↑縺輔ｌ繧九ｈ縺・↓縺ｪ縺｣縺・/span> <span class=t-M>(荳驛ｨ縺ｧ)</span> <span class=t-C>縲悟･ｳ諤ｧ縺ｮ莉穂ｺ九阪→</span>縲・",
+naturalTranslation: "蠕舌・↓縲√％縺・＠縺滉ｻ穂ｺ九・荳驛ｨ縺ｧ縲悟･ｳ諤ｧ縺ｮ莉穂ｺ九阪→隕九↑縺輔ｌ繧九ｈ縺・↓縺ｪ縺｣縺溘・",
+vocabulary: [
+{ word: Gradually, meaning: 縲悟ｾ舌・↓縲阪・ },
+{ word: came to be seen, meaning: 縲瑚ｦ九↑縺輔ｌ繧九ｈ縺・↓縺ｪ縺｣縺溘阪・ },
+{ word: women's work, meaning: 縲悟･ｳ諤ｧ縺ｮ莉穂ｺ九阪・ }
+],
+grammarNotes: [
+{ phrase: Gradually, explanation: <b>Gradually</b>: 譁・ｭ縺ｮ蜑ｯ隧槭ゅ悟ｾ舌・↓縲阪・ },
+{ phrase: came to be seen, explanation: <b>came to be seen</b>: 縲瑚ｦ九↑縺輔ｌ繧九ｈ縺・↓縺ｪ縺｣縺溘阪Ｄome to be 驕主悉蛻・ｩ槭・ },
+{ phrase: by some, explanation: <b>by some</b>: 縲御ｸ驛ｨ縺ｮ莠ｺ縲・↓繧医▲縺ｦ縲阪ょ虚菴應ｸｻ繧呈・遉ｺ縺吶ｋ蜑ｯ隧槫唱縲・ },
+{ phrase: as, explanation: <b>as</b>: 縲後懊→縺励※縲阪Ｔee A as B・・繧達縺ｨ縺ｿ縺ｪ縺呻ｼ峨・蜿怜虚諷区ｧ矩縲・ }
+]
+}
+},
+{
+id: 13,
+text: "Historian Mar Hicks believes that one reason these pre-electronic computation jobs were feminized is they were seen as rote and de-skilled.",
+translation: "豁ｴ蜿ｲ螳ｶ縺ｮ繝槭・繝ｻ繝偵ャ繧ｯ繧ｹ縺ｯ縲√％縺・＠縺溘碁崕蟄仙喧莉･蜑阪・險育ｮ玲･ｭ蜍吶′螂ｳ諤ｧ蛹悶＆繧後◆逅・罰縺ｮ荳縺､縺ｯ縲√◎繧後ｉ縺梧ｩ滓｢ｰ逧・〒繧ｹ繧ｭ繝ｫ縺ｮ縺・ｉ縺ｪ縺・ｂ縺ｮ縺ｨ隕九↑縺輔ｌ縺ｦ縺・◆縺九ｉ縺縲阪→閠・∴縺ｦ縺・ｋ縲・",
+grammarAnalysis: {
+mainVerbs: [ "believes" ],
+structureHtml: "<span class=chunk S-group><span class=text>Historian Mar Hicks</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>believes</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that one reason these pre-electronic computation jobs were feminized is they were seen as rote and de-skilled.]</span><span class=tag>O</span></span>",
+translationHtml: "<span class=t-S>豁ｴ蜿ｲ螳ｶ縺ｮ繝槭・繝ｻ繝偵ャ繧ｯ繧ｹ縺ｯ</span> <span class=t-V>閠・∴縺ｦ縺・ｋ</span> <span class=t-O>[縺薙≧縺励◆縲碁崕蟄仙喧莉･蜑阪・險育ｮ玲･ｭ蜍吶′螂ｳ諤ｧ蛹悶＆繧後◆逅・罰縺ｮ荳縺､縺ｯ縲√◎繧後ｉ縺梧ｩ滓｢ｰ逧・〒繧ｹ繧ｭ繝ｫ縺ｮ縺・ｉ縺ｪ縺・ｂ縺ｮ縺ｨ隕九↑縺輔ｌ縺ｦ縺・◆縺九ｉ縺縲阪→]</span>縲・",
+naturalTranslation: "豁ｴ蜿ｲ螳ｶ縺ｮ繝槭・繝ｻ繝偵ャ繧ｯ繧ｹ縺ｯ縲√％縺・＠縺溘碁崕蟄仙喧莉･蜑阪・險育ｮ玲･ｭ蜍吶′螂ｳ諤ｧ蛹悶＆繧後◆逅・罰縺ｮ荳縺､縺ｯ縲√◎繧後ｉ縺梧ｩ滓｢ｰ逧・〒繧ｹ繧ｭ繝ｫ縺ｮ縺・ｉ縺ｪ縺・ｂ縺ｮ縺ｨ隕九↑縺輔ｌ縺ｦ縺・◆縺九ｉ縺縲阪→閠・∴縺ｦ縺・ｋ縲・",
+vocabulary: [
+{ word: rote and de-skilled, meaning: 縲梧ｩ滓｢ｰ逧・〒繧ｹ繧ｭ繝ｫ縺ｮ縺・ｉ縺ｪ縺・阪ゅ悟腰邏比ｽ懈･ｭ縲阪・諢丞袖縲・ },
+{ word: feminized, meaning: 縲悟･ｳ諤ｧ蛹悶＆繧後◆縲阪ょ･ｳ諤ｧ縺ｮ莉穂ｺ九→隕九↑縺輔ｌ繧九ｈ縺・↓縺ｪ縺｣縺溘→縺・≧縺薙→縲・ },
+{ word: pre-electronic, meaning: 縲碁崕蟄仙喧莉･蜑阪・縲阪・ }
+],
+grammarNotes: [
+{ phrase: believes that, explanation: <b>believes that</b>: SVO譁・梛縲Ｕhat縺ｯ蜷崎ｩ樒ｯ繧貞ｰ弱￥謗･邯夊ｩ槭・ },
+{ phrase: one reason ... is ..., explanation: <b>one reason ... is ...</b>: that遽縺ｮ荳ｭ縺ｮ讒矩縲ゅ後懊〒縺ゅｋ逅・罰縺ｮ荳縺､縺ｯ縲≫ｦ縺ｧ縺ゅｋ縺ｨ縺・≧縺薙→縺縲・ },
+{ phrase: seen as, explanation: <b>seen as</b>: 縲後懊〒縺ゅｋ縺ｨ隕九↑縺輔ｌ繧九阪・ },
+{ phrase: were feminized, explanation: <b>were feminized</b>: 蜿怜虚諷九ゅ悟･ｳ諤ｧ蛹悶＆繧後◆縲阪・ }
+]
+}
+},
+{
+id: 14,
+text: "Although human-computer work was sometimes repetitive, Hicks points out that it often required advanced math skills.",
+translation: "繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ莉穂ｺ九・譎ゅ↓蜿榊ｾｩ逧・〒縺ゅ▲縺溘′縲・ｫ伜ｺｦ縺ｪ謨ｰ蟄ｦ繧ｹ繧ｭ繝ｫ繧貞ｿ・ｦ√→縺吶ｋ縺薙→縺悟､壹°縺｣縺溘→繝偵ャ繧ｯ繧ｹ縺ｯ謖・遭縺励※縺・ｋ縲・",
+grammarAnalysis: {
+mainVerbs: [ "points out" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Although human-computer work was sometimes repetitive)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>Hicks</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>points out</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>[that it often required advanced math skills]</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ莉穂ｺ九・譎ゅ↓蜿榊ｾｩ逧・〒縺ゅ▲縺溘′)</span>縲・span class=t-S>繝偵ャ繧ｯ繧ｹ縺ｯ</span> <span class=t-V>謖・遭縺励※縺・ｋ</span> <span class=t-O>[鬮伜ｺｦ縺ｪ謨ｰ蟄ｦ繧ｹ繧ｭ繝ｫ繧貞ｿ・ｦ√→縺吶ｋ縺薙→縺悟､壹°縺｣縺溘→]</span>縲・",
+naturalTranslation: "繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ莉穂ｺ九・譎ゅ↓蜿榊ｾｩ逧・〒縺ゅ▲縺溘′縲・ｫ伜ｺｦ縺ｪ謨ｰ蟄ｦ繧ｹ繧ｭ繝ｫ繧貞ｿ・ｦ√→縺吶ｋ縺薙→縺悟､壹°縺｣縺溘→繝偵ャ繧ｯ繧ｹ縺ｯ謖・遭縺励※縺・ｋ縲・",
+vocabulary: [
+{ word: repetitive, meaning: 縲悟渚蠕ｩ逧・↑縲阪檎ｹｰ繧願ｿ斐＠縺ｮ縲阪・ },
+{ word: advanced, meaning: 縲碁ｫ伜ｺｦ縺ｪ縲阪悟・騾ｲ逧・↑縲阪・ },
+{ word: math skills, meaning: 縲梧焚蟄ｦ繧ｹ繧ｭ繝ｫ縲阪瑚ｨ育ｮ苓・蜉帙阪・ }
+],
+grammarNotes: [
+{ phrase: Although, explanation: <b>Although</b>: 縲後懊□縺代ｌ縺ｩ繧ゅ阪りｭｲ豁ｩ繧定｡ｨ縺呎磁邯夊ｩ槭・ },
+{ phrase: points out that, explanation: <b>points out that</b>: 縲後懊→謖・遭縺吶ｋ縲阪・ },
+{ phrase: required, explanation: <b>required</b>: SVO譁・梛縲ゅ後懊ｒ蠢・ｦ√→縺励◆縲阪・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 3,
+sentences: [
+{
+id: 15,
+text: "Around the mid-twentieth century, when Cold War tensions with the Soviet Union escalated, the United States turned more of its attention to space.",
+translation: "20荳也ｴ蜊翫・鬆・√た繝薙お繝磯｣驍ｦ縺ｨ縺ｮ蜀ｷ謌ｦ縺ｮ邱雁ｼｵ縺碁ｫ倥∪繧九→縲√い繝｡繝ｪ繧ｫ縺ｯ螳・ｮ吶∈縺ｮ髢｢蠢・ｒ蠑ｷ繧√◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "turned" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Around the mid-twentieth century, <span class=chunk M-group><span class=text>(when Cold War tensions with the Soviet Union escalated)</span><span class=tag>M</span></span>)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>the United States</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>turned</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>more of its attention</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(to space)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(20荳也ｴ蜊翫・鬆・・span class=t-M>(繧ｽ繝薙お繝磯｣驍ｦ縺ｨ縺ｮ蜀ｷ謌ｦ縺ｮ邱雁ｼｵ縺碁ｫ倥∪繧九→)</span>)</span>縲・span class=t-S>繧｢繝｡繝ｪ繧ｫ縺ｯ</span> <span class=t-V>蜷代￠縺・/span> <span class=t-O>縺輔ｉ縺ｪ繧矩未蠢・ｒ</span> <span class=t-M>(螳・ｮ吶∈)</span>縲・",
+naturalTranslation: "20荳也ｴ蜊翫・鬆・√た繝薙お繝磯｣驍ｦ縺ｨ縺ｮ蜀ｷ謌ｦ縺ｮ邱雁ｼｵ縺碁ｫ倥∪繧九→縲√い繝｡繝ｪ繧ｫ縺ｯ螳・ｮ吶∈縺ｮ髢｢蠢・ｒ蠑ｷ繧√◆縲・",
+vocabulary: [
+{ word: turned attention to, meaning: 縲後懊↓髢｢蠢・ｒ蜷代￠繧九阪・ },
+{ word: escalated, meaning: 縲碁ｫ倥∪縺｣縺溘阪後お繧ｹ繧ｫ繝ｬ繝ｼ繝医＠縺溘阪・ },
+{ word: tensions, meaning: 縲檎ｷ雁ｼｵ縲阪・ }
+],
+grammarNotes: [
+{ phrase: Around the mid-twentieth century, explanation: <b>Around the mid-twentieth century</b>: 譎ゅｒ陦ｨ縺吝憶隧槫唱縲ゅ・0荳也ｴ蜊翫・鬆・阪・ },
+{ phrase: when ... escalated, explanation: <b>when ... escalated</b>: 髢｢菫ょ憶隧槭・髱槫宛髯千畑豕輔よ凾繧定｡ｨ縺吝・陦瑚ｩ槭↓蟇ｾ縺吶ｋ隱ｬ譏弱・ },
+{ phrase: turned ... to, explanation: <b>turned ... to</b>: 縲後懊ｒ窶ｦ縺ｫ蜷代￠繧九阪Ｕurn A to B 縺ｮ讒矩縲・ }
+]
+}
+},
+{
+id: 16,
+text: "NASA's predecessor, NACA, employed many women to conduct calculations.",
+translation: "NASA縺ｮ蜑崎ｺｫ縺ｧ縺ゅｋNACA縺ｯ縲∬ｨ育ｮ励ｒ陦後≧縺溘ａ縺ｫ螟壹￥縺ｮ螂ｳ諤ｧ繧帝寐縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "employed" ],
+structureHtml: "<span class=chunk S-group><span class=text>NASA's predecessor, NACA,</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>employed</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>many women</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(to conduct calculations)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>NASA縺ｮ蜑崎ｺｫ縺ｧ縺ゅｋNACA縺ｯ</span> <span class=t-V>髮・▲縺・/span> <span class=t-O>螟壹￥縺ｮ螂ｳ諤ｧ繧・/span> <span class=t-M>(險育ｮ励ｒ陦後≧縺溘ａ縺ｫ)</span>縲・",
+naturalTranslation: "NASA縺ｮ蜑崎ｺｫ縺ｧ縺ゅｋNACA縺ｯ縲∬ｨ育ｮ励ｒ陦後≧縺溘ａ縺ｫ螟壹￥縺ｮ螂ｳ諤ｧ繧帝寐縺｣縺溘・",
+vocabulary: [
+{ word: predecessor, meaning: 縲悟燕霄ｫ縲阪・ },
+{ word: employed, meaning: 縲碁寐縺｣縺溘阪・ }
+],
+grammarNotes: [
+{ phrase: NASA's predecessor, NACA, explanation: <b>NASA's predecessor, NACA</b>: 蜷梧ｼ縲ゅ君ASA縺ｮ蜑崎ｺｫ縺ｧ縺ゅｋNACA縲阪・ },
+{ phrase: employed, explanation: <b>employed</b>: SVO譁・梛縲ゅ後懊ｒ髮・▲縺溘阪・ },
+{ phrase: to conduct, explanation: <b>to conduct</b>: 蜑ｯ隧樒噪逕ｨ豕輔・荳榊ｮ夊ｩ槭ゅ後懊☆繧九◆繧√↓縲阪・ }
+]
+}
+},
+{
+id: 17,
+text: "The agency was seen as progressive in a few respects窶背omen's pay was relatively high, some women were supervisors, and married women with children were employed.",
+translation: "縺薙・讖滄未縺ｯ縺・￥縺､縺九・轤ｹ縺ｧ騾ｲ豁ｩ逧・〒縺ゅｋ縺ｨ隕九↑縺輔ｌ縺ｦ縺・◆縲ょ･ｳ諤ｧ縺ｮ邨ｦ荳弱・豈碑ｼ・噪濶ｯ縺上∫屮逹｣閠・↓縺ｪ繧句･ｳ諤ｧ繧ゅ♀繧翫∝ｭ蝉ｾ帙ｒ謖√▽譌｢蟀壼･ｳ諤ｧ繧る寐逕ｨ縺輔ｌ縺ｦ縺・◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "was seen" ],
+structureHtml: "<span class=chunk S-group><span class=text>The agency</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was seen</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>as progressive</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>(in a few respects)</span><span class=tag>M</span></span>窶・span class=chunk M-group><span class=text>(women's pay was relatively high, some women were supervisors, and married women with children were employed)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>縺薙・讖滄未縺ｯ</span> <span class=t-V>隕九↑縺輔ｌ縺ｦ縺・◆</span> <span class=t-C>騾ｲ豁ｩ逧・〒縺ゅｋ縺ｨ</span> <span class=t-M>(縺・￥縺､縺九・轤ｹ縺ｧ)</span>窶・span class=t-M>(螂ｳ諤ｧ縺ｮ邨ｦ荳弱・豈碑ｼ・噪濶ｯ縺上∫屮逹｣閠・↓縺ｪ繧句･ｳ諤ｧ繧ゅ♀繧翫∝ｭ蝉ｾ帙ｒ謖√▽譌｢蟀壼･ｳ諤ｧ繧る寐逕ｨ縺輔ｌ縺ｦ縺・◆)</span>縲・",
+naturalTranslation: "縺薙・讖滄未縺ｯ縺・￥縺､縺九・轤ｹ縺ｧ騾ｲ豁ｩ逧・〒縺ゅｋ縺ｨ隕九↑縺輔ｌ縺ｦ縺・◆縲ょ･ｳ諤ｧ縺ｮ邨ｦ荳弱・豈碑ｼ・噪濶ｯ縺上∫屮逹｣閠・↓縺ｪ繧句･ｳ諤ｧ繧ゅ♀繧翫∝ｭ蝉ｾ帙ｒ謖√▽譌｢蟀壼･ｳ諤ｧ繧る寐逕ｨ縺輔ｌ縺ｦ縺・◆縲・",
+vocabulary: [
+{ word: progressive, meaning: 縲碁ｲ豁ｩ逧・↑縲阪・ },
+{ word: respects, meaning: 縲檎せ縲阪檎ｮ・園縲阪・ },
+{ word: supervisors, meaning: 縲檎屮逹｣閠・阪御ｸ雁昇縲阪・ }
+],
+grammarNotes: [
+{ phrase: seen as, explanation: <b>seen as</b>: 縲後懊→隕九↑縺輔ｌ繧九阪・ },
+{ phrase: in a few respects, explanation: <b>in a few respects</b>: 縲後＞縺上▽縺九・轤ｹ縺ｧ縲阪る剞螳壹ｒ陦ｨ縺吝憶隧槫唱縲・ },
+{ phrase: women's pay was ..., explanation: <b>women's pay was ...</b>: 繝繝・す繝･・遺費ｼ我ｻ･荳九・蜈ｷ菴謎ｾ九・蛻玲嫌縲・ }
+]
+}
+},
+{
+id: 18,
+text: "Nevertheless, women were not treated as equals.",
+translation: "縺昴ｌ縺ｫ繧ゅ°縺九ｏ繧峨★縲∝･ｳ諤ｧ縺ｯ蟇ｾ遲峨↓縺ｯ謇ｱ繧上ｌ縺ｪ縺九▲縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "were not treated" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Nevertheless)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>women</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>were not treated</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(as equals)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(縺昴ｌ縺ｫ繧ゅ°縺九ｏ繧峨★)</span>縲・span class=t-S>螂ｳ諤ｧ縺ｯ</span> <span class=t-V>謇ｱ繧上ｌ縺ｪ縺九▲縺・/span> <span class=t-M>(蟇ｾ遲峨↓縺ｯ)</span>縲・",
+naturalTranslation: "縺昴ｌ縺ｫ繧ゅ°縺九ｏ繧峨★縲∝･ｳ諤ｧ縺ｯ蟇ｾ遲峨↓縺ｯ謇ｱ繧上ｌ縺ｪ縺九▲縺溘・",
+vocabulary: [
+{ word: treated, meaning: 縲梧桶繧上ｌ縺溘阪・ }
+],
+grammarNotes: [
+{ phrase: Nevertheless, explanation: <b>Nevertheless</b>: 縲後◎繧後↓繧ゅ°縺九ｏ繧峨★縲阪ょｼｷ縺・・磁縲・ },
+{ phrase: were not treated, explanation: <b>were not treated</b>: 蜿怜虚諷九ゅ梧桶繧上ｌ縺ｪ縺九▲縺溘阪・ },
+{ phrase: as equals, explanation: <b>as equals</b>: 縲悟ｯｾ遲峨↑蟄伜惠縺ｨ縺励※縲阪・ }
+]
+}
+},
+{
+id: 19,
+text: "African American women faced an additional layer of discrimination as they were forced to conduct much of their work in segregated facilities.",
+translation: "繧｢繝輔Μ繧ｫ邉ｻ繧｢繝｡繝ｪ繧ｫ莠ｺ縺ｮ螂ｳ諤ｧ縺ｯ縲∽ｻ穂ｺ九・螟ｧ蜊翫ｒ髫秘屬縺輔ｌ縺滓命險ｭ縺ｧ陦後≧縺薙→繧剃ｽ吝о縺ｪ縺上＆繧後◆縺溘ａ縲√＆繧峨↑繧句ｷｮ蛻･縺ｫ逶ｴ髱｢縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "faced" ],
+structureHtml: "<span class=chunk S-group><span class=text>African American women</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>faced</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>an additional layer of discrimination</span><span class=tag>O</span></span> <span class=chunk M-group><span class=text>(as they were forced to conduct much of their work in segregated facilities)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>繧｢繝輔Μ繧ｫ邉ｻ繧｢繝｡繝ｪ繧ｫ莠ｺ縺ｮ螂ｳ諤ｧ縺ｯ</span> <span class=t-V>逶ｴ髱｢縺励◆</span> <span class=t-O>縺輔ｉ縺ｪ繧句ｷｮ蛻･縺ｫ</span> <span class=t-M>(莉穂ｺ九・螟ｧ蜊翫ｒ髫秘屬縺輔ｌ縺滓命險ｭ縺ｧ陦後≧縺薙→繧剃ｽ吝о縺ｪ縺上＆繧後◆縺溘ａ)</span>縲・",
+naturalTranslation: "繧｢繝輔Μ繧ｫ邉ｻ繧｢繝｡繝ｪ繧ｫ莠ｺ縺ｮ螂ｳ諤ｧ縺ｯ縲∽ｻ穂ｺ九・螟ｧ蜊翫ｒ髫秘屬縺輔ｌ縺滓命險ｭ縺ｧ陦後≧縺薙→繧剃ｽ吝о縺ｪ縺上＆繧後◆縺溘ａ縲√＆繧峨↑繧句ｷｮ蛻･縺ｫ逶ｴ髱｢縺励◆縲・",
+vocabulary: [
+{ word: an additional layer of, meaning: 縲後ｂ縺・ｸ縺､縺ｮ縲阪後＆繧峨↑繧句ｱ､縺ｮ縲阪Ｎultiple layers of discrimination (螟夐㍾蟾ｮ蛻･)縲・ },
+{ word: segregated facilities, meaning: 縲碁囈髮｢縺輔ｌ縺滓命險ｭ縲阪ゆｺｺ遞ｮ髫秘屬謾ｿ遲紋ｸ九・繝医う繝ｬ繧・｣溷ゅ↑縺ｩ縲・ },
+{ word: discrimination, meaning: 縲悟ｷｮ蛻･縲阪・ }
+],
+grammarNotes: [
+{ phrase: faced, explanation: <b>faced</b>: SVO譁・梛縲ゅ後懶ｼ亥峅髮｣縺ｪ縺ｩ・峨↓逶ｴ髱｢縺励◆縲阪・ },
+{ phrase: as they were ..., explanation: <b>as they were ...</b>: 逅・罰繧定｡ｨ縺呎磁邯夊ｩ杪s縲ゅ後懊□縺｣縺溘・縺ｧ縲阪・ },
+{ phrase: forced to, explanation: <b>forced to</b>: 縲後懊☆繧九％縺ｨ繧貞ｼｷ縺・ｉ繧後ｋ縲阪Ｃe forced to do. }
+]
+}
+},
+{
+id: 20,
+text: "When NASA was established in 1958, it abolished that policy and also improved other conditions for women.",
+translation: "1958蟷ｴ縺ｫNASA縺瑚ｨｭ遶九＆繧後ｋ縺ｨ縲√◎縺ｮ譁ｹ驥昴・謦､蟒・＆繧後∝･ｳ諤ｧ縺ｮ縺溘ａ縺ｮ縺昴・莉悶・譚｡莉ｶ繧よ隼蝟・＆繧後◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "abolished", "improved" ],
+structureHtml: "<span class=chunk M-group><span class=text>(When NASA was established in 1958)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>it</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>abolished</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>that policy</span><span class=tag>O</span></span> and also <span class=chunk V-group><span class=text>improved</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>other conditions for women</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(1958蟷ｴ縺ｫNASA縺瑚ｨｭ遶九＆繧後ｋ縺ｨ)</span>縲・span class=t-S>縺昴ｌ・・ASA・峨・</span> <span class=t-V>謦､蟒・＠縺・/span> <span class=t-O>縺昴・譁ｹ驥晢ｼ磯囈髮｢謾ｿ遲厄ｼ峨ｒ</span>縲√◎縺励※縺ｾ縺・<span class=t-V>謾ｹ蝟・＠縺・/span> <span class=t-O>螂ｳ諤ｧ縺ｮ縺溘ａ縺ｮ縺昴・莉悶・譚｡莉ｶ繧・/span>縲・",
+naturalTranslation: "1958蟷ｴ縺ｫNASA縺瑚ｨｭ遶九＆繧後ｋ縺ｨ縲√◎縺ｮ譁ｹ驥昴・謦､蟒・＆繧後∝･ｳ諤ｧ縺ｮ縺溘ａ縺ｮ縺昴・莉悶・譚｡莉ｶ繧よ隼蝟・＆繧後◆縲・",
+vocabulary: [
+{ word: abolished, meaning: 縲悟ｻ・ｭ｢縺励◆縲阪・ },
+{ word: policy, meaning: 縲梧婿驥昴阪梧帆遲悶阪・ },
+{ word: conditions, meaning: 縲梧擅莉ｶ縲阪檎腸蠅・阪・ }
+],
+grammarNotes: [
+{ phrase: When ... established, explanation: <b>When ... established</b>: 譎ゅｒ陦ｨ縺吝憶隧樒ｯ縲・ },
+{ phrase: abolished ... and improved, explanation: <b>abolished ... and improved</b>: 蜍戊ｩ槭・荳ｦ蛻玲ｧ矩縲Ｊt縺悟・騾壹・荳ｻ隱槭・ },
+{ phrase: in 1958, explanation: <b>in 1958</b>: 譎ゅｒ陦ｨ縺吝憶隧槫唱縲・ }
+]
+}
+}
+]
+},
+{
+paragraphId: 4,
+sentences: [
+{
+id: 21,
+text: "Time, however, was not on the human computers side.",
+translation: "縺励°縺励∵凾髢薙・繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ蜻ｳ譁ｹ縺ｧ縺ｯ縺ｪ縺九▲縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "was" ],
+structureHtml: "<span class=chunk S-group><span class=text>Time</span><span class=tag>S</span></span>, <span class=chunk M-group><span class=text>(however)</span><span class=tag>M</span></span>, <span class=chunk V-group><span class=text>was not</span><span class=tag>V</span></span> <span class=chunk M-group><span class=text>(on the human computers side)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-S>譎る俣縺ｯ</span>縲・span class=t-M>(縺励°縺・</span>縲・span class=t-V>縺ｪ縺九▲縺・/span> <span class=t-M>(繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ蜻ｳ譁ｹ縺ｧ縺ｯ)</span>縲・",
+naturalTranslation: "縺励°縺励∵凾髢薙・繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ蜻ｳ譁ｹ縺ｧ縺ｯ縺ｪ縺九▲縺溘・",
+vocabulary: [
+{ word: not on one's side, meaning: 縲後懊・蜻ｳ譁ｹ縺ｧ縺ｯ縺ｪ縺・阪よ凾髢薙′邨後▽縺ｫ縺､繧後※迥ｶ豕√′謔ｪ蛹悶＠縺溘％縺ｨ繧堤､ｺ蜚・・ },
+{ word: side, meaning: 縲悟・縲阪悟袖譁ｹ縲阪・ },
+{ word: human computers, meaning: 縲後ヲ繝･繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縲阪る崕蟄占ｨ育ｮ玲ｩ滉ｻ･蜑阪↓險育ｮ玲･ｭ蜍吶ｒ陦後▲縺ｦ縺・◆莠ｺ縲・・ }
+],
+grammarNotes: [
+{ phrase: Time ... was not, explanation: <b>Time ... was not</b>: SVC譁・梛縲５ime縺御ｸｻ隱槭・ },
+{ phrase: on ... side, explanation: <b>on ... side</b>: 縲後懊・蜻ｳ譁ｹ縺ｧ縲阪ょｴ謇繝ｻ謇螻槭ｒ陦ｨ縺吝憶隧槫唱縲・ },
+{ phrase: however, explanation: <b>however</b>: 縲後＠縺九＠縺ｪ縺後ｉ縲阪よ諺蜈･逧・↓逕ｨ縺・ｉ繧後※縺・ｋ謗･邯壼憶隧槭・ }
+]
+}
+},
+{
+id: 22,
+text: "Space missions became more complex, and the transition to electronic computation negated the need for most human computers.",
+translation: "螳・ｮ吶Α繝・す繝ｧ繝ｳ縺ｯ繧医ｊ隍・尅縺ｫ縺ｪ繧翫・崕蟄占ｨ育ｮ励∈縺ｮ遘ｻ陦後↓繧医▲縺ｦ縲√⊇縺ｨ繧薙←縺ｮ繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ蠢・ｦ∵ｧ縺ｯ縺ｪ縺上↑縺｣縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "became", "negated" ],
+structureHtml: "<span class=chunk S-group><span class=text>Space missions</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>became</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>more complex</span><span class=tag>C</span></span>, and <span class=chunk S-group><span class=text>the transition to electronic computation</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>negated</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>the need for most human computers</span><span class=tag>O</span></span>.",
+translationHtml: "<span class=t-M>(螳・ｮ吶Α繝・す繝ｧ繝ｳ縺ｯ)</span> <span class=t-V>縺ｪ繧・/span> <span class=t-C>繧医ｊ隍・尅縺ｫ</span>縲√◎縺励※ <span class=t-S>髮ｻ蟄占ｨ育ｮ励∈縺ｮ遘ｻ陦後・</span> <span class=t-V>縺ｪ縺上＠縺滂ｼ域遠縺｡豸医＠縺滂ｼ・/span> <span class=t-O>縺ｻ縺ｨ繧薙←縺ｮ繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ蠢・ｦ∵ｧ繧・/span>縲・",
+naturalTranslation: "螳・ｮ吶Α繝・す繝ｧ繝ｳ縺ｯ繧医ｊ隍・尅縺ｫ縺ｪ繧翫・崕蟄占ｨ育ｮ励∈縺ｮ遘ｻ陦後↓繧医▲縺ｦ縲√⊇縺ｨ繧薙←縺ｮ繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ蠢・ｦ∵ｧ縺ｯ縺ｪ縺上↑縺｣縺溘・",
+vocabulary: [
+{ word: negated, meaning: 縲檎┌蜉ｹ縺ｫ縺励◆縲阪梧遠縺｡豸医＠縺溘阪ょｿ・ｦ∵ｧ繧偵↑縺上＠縺溘→縺・≧縺薙→縲・ },
+{ word: transition, meaning: 縲檎ｧｻ陦後阪悟､蛾・縲阪・ },
+{ word: complex, meaning: 縲瑚､・尅縺ｪ縲阪・ }
+],
+grammarNotes: [
+{ phrase: became more complex, explanation: <b>became more complex</b>: SVC譁・梛縲ゅ鯉ｼ井ｻ･蜑阪ｈ繧奇ｼ芽､・尅縺ｫ縺ｪ縺｣縺溘阪・ },
+{ phrase: transition ... computation, explanation: <b>transition ... computation</b>: 譁・・荳ｻ隱槭ゅ碁崕蟄占ｨ育ｮ励∈縺ｮ遘ｻ陦後阪・ },
+{ phrase: negated, explanation: <b>negated</b>: SVO譁・梛縲ゅ後懊ｒ辟｡蜉ｹ縺ｫ縺励◆縲∽ｸ崎ｦ√↓縺励◆縲阪・ }
+]
+}
+},
+{
+id: 23,
+text: "Nonetheless, it was a while before electronic data would be wholly trusted:",
+translation: "縺ｨ縺ｯ縺・∴縲・崕蟄舌ョ繝ｼ繧ｿ縺悟ｮ悟・縺ｫ菫｡鬆ｼ縺輔ｌ繧九ｈ縺・↓縺ｪ繧九∪縺ｧ縺ｫ縺ｯ縺励・繧峨￥譎る俣縺後°縺九▲縺溘・",
+grammarAnalysis: {
+mainVerbs: [ "was" ],
+structureHtml: "<span class=chunk M-group><span class=text>(Nonetheless)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>it</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>was</span><span class=tag>V</span></span> <span class=chunk C-group><span class=text>a while</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>(before electronic data would be wholly trusted)</span><span class=tag>M</span></span>:",
+translationHtml: "<span class=t-M>(縺ｨ縺ｯ縺・∴)</span>縲・span class=t-S>縺昴ｌ縺ｯ・域凾髢薙′・・/span> <span class=t-V>縺九°縺｣縺滂ｼ医％縺ｨ縺ｯ莠句ｮ溘□・・/span> <span class=t-C>縺励・繧峨￥</span> <span class=t-M>(髮ｻ蟄舌ョ繝ｼ繧ｿ縺悟ｮ悟・縺ｫ菫｡鬆ｼ縺輔ｌ繧九ｈ縺・↓縺ｪ繧九∪縺ｧ縺ｫ縺ｯ)</span>:",
+naturalTranslation: "縺ｨ縺ｯ縺・∴縲・崕蟄舌ョ繝ｼ繧ｿ縺悟ｮ悟・縺ｫ菫｡鬆ｼ縺輔ｌ繧九ｈ縺・↓縺ｪ繧九∪縺ｧ縺ｫ縺ｯ縺励・繧峨￥譎る俣縺後°縺九▲縺溘・",
+vocabulary: [
+{ word: wholly trusted, meaning: 縲悟・髱｢逧・↓菫｡鬆ｼ縺輔ｌ繧九阪・ },
+{ word: data, meaning: 縲後ョ繝ｼ繧ｿ縲阪・ },
+{ word: electronic, meaning: 縲碁崕蟄舌・縲阪・ }
+],
+grammarNotes: [
+{ phrase: it is ... before ..., explanation: <b>it is ... before ...</b>: 縲後懊☆繧九∪縺ｧ縺ｫ窶ｦ・域凾髢難ｼ峨′縺九°繧九阪Ｊt縺ｯ譎る俣繧定｡ｨ縺吶・ },
+{ phrase: Nonetheless, explanation: <b>Nonetheless</b>: 縲後◎繧後↓繧ゅ°縺九ｏ繧峨★縲阪・ },
+{ phrase: would be ... trusted, explanation: <b>would be ... trusted</b>: 蜿怜虚諷九ゅ御ｿ｡鬆ｼ縺輔ｌ繧九ｈ縺・↓縺ｪ繧具ｼ医∪縺ｧ・峨阪Ｃefore遽縺ｮ荳ｭ縺ｮ譎ょ宛縲・ }
+]
+}
+},
+{
+id: 24,
+text: "In the early 1960s, for example, astronaut John Glenn asked Katherine Johnson, an African American human computer, to personally verify computer-calculated orbital equations before he would fly.",
+translation: "萓九∴縺ｰ1960蟷ｴ莉｣蛻晞ｭ縲∝ｮ・ｮ咎｣幄｡悟｣ｫ縺ｮ繧ｸ繝ｧ繝ｳ繝ｻ繧ｰ繝ｬ繝ｳ縺ｯ縲√い繝輔Μ繧ｫ邉ｻ繧｢繝｡繝ｪ繧ｫ莠ｺ縺ｮ繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｧ縺ゅｋ繧ｭ繝｣繧ｵ繝ｪ繝ｳ繝ｻ繧ｸ繝ｧ繝ｳ繧ｽ繝ｳ縺ｫ縲・｣幄｡悟燕縺ｫ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺瑚ｨ育ｮ励＠縺溯ｻ碁％譁ｹ遞句ｼ上ｒ蛟倶ｺｺ逧・↓讀懆ｨｼ縺吶ｋ繧医≧萓晞ｼ縺励◆縲・",
+grammarAnalysis: {
+mainVerbs: [ "asked" ],
+structureHtml: "<span class=chunk M-group><span class=text>(In the early 1960s, for example)</span><span class=tag>M</span></span>, <span class=chunk S-group><span class=text>astronaut John Glenn</span><span class=tag>S</span></span> <span class=chunk V-group><span class=text>asked</span><span class=tag>V</span></span> <span class=chunk O-group><span class=text>Katherine Johnson, an African American human computer,</span><span class=tag>O</span></span> <span class=chunk C-group><span class=text>to personally verify computer-calculated orbital equations</span><span class=tag>C</span></span> <span class=chunk M-group><span class=text>(before he would fly)</span><span class=tag>M</span></span>.",
+translationHtml: "<span class=t-M>(萓九∴縺ｰ1960蟷ｴ莉｣蛻晞ｭ)</span>縲・span class=t-S>螳・ｮ咎｣幄｡悟｣ｫ縺ｮ繧ｸ繝ｧ繝ｳ繝ｻ繧ｰ繝ｬ繝ｳ縺ｯ</span> <span class=t-V>萓晞ｼ縺励◆</span> <span class=t-O>繧ｭ繝｣繧ｵ繝ｪ繝ｳ繝ｻ繧ｸ繝ｧ繝ｳ繧ｽ繝ｳ・医い繝輔Μ繧ｫ邉ｻ繧｢繝｡繝ｪ繧ｫ莠ｺ縺ｮ繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ・峨↓</span> <span class=t-C>繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺瑚ｨ育ｮ励＠縺溯ｻ碁％譁ｹ遞句ｼ上ｒ蛟倶ｺｺ逧・↓讀懆ｨｼ縺吶ｋ繧医≧</span> <span class=t-M>(鬟幄｡悟燕縺ｫ)</span>縲・",
+naturalTranslation: "萓九∴縺ｰ1960蟷ｴ莉｣蛻晞ｭ縲∝ｮ・ｮ咎｣幄｡悟｣ｫ縺ｮ繧ｸ繝ｧ繝ｳ繝ｻ繧ｰ繝ｬ繝ｳ縺ｯ縲√い繝輔Μ繧ｫ邉ｻ繧｢繝｡繝ｪ繧ｫ莠ｺ縺ｮ繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｧ縺ゅｋ繧ｭ繝｣繧ｵ繝ｪ繝ｳ繝ｻ繧ｸ繝ｧ繝ｳ繧ｽ繝ｳ縺ｫ縲・｣幄｡悟燕縺ｫ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺瑚ｨ育ｮ励＠縺溯ｻ碁％譁ｹ遞句ｼ上ｒ蛟倶ｺｺ逧・↓讀懆ｨｼ縺吶ｋ繧医≧萓晞ｼ縺励◆縲・",
+vocabulary: [
+{ word: personally verify, meaning: 縲悟倶ｺｺ逧・↓・郁・蛻・・逶ｮ縺ｧ・画､懆ｨｼ縺吶ｋ縲阪よｩ滓｢ｰ莉ｻ縺帙↓縺励↑縺・→縺・≧縺薙→縲・ },
+{ word: orbital equations, meaning: 縲瑚ｻ碁％譁ｹ遞句ｼ上阪・ },
+{ word: astronaut, meaning: 縲悟ｮ・ｮ咎｣幄｡悟｣ｫ縲阪・ }
+],
+grammarNotes: [
+{ phrase: In the early 1960s, explanation: <b>In the early 1960s</b>: 譎ゅｒ陦ｨ縺吝憶隧槫唱縲・ },
+{ phrase: Katherine Johnson, ..., explanation: <b>Katherine Johnson, ...</b>: 繧ｫ繝ｳ繝槭〒謖溘∪繧後◆驛ｨ蛻・・蜷梧ｼ縺ｮ謖ｿ蜈･縲・ },
+{ phrase: ask O to do, explanation: <b>ask O to do</b>: 縲薫縺ｫ縲懊☆繧九ｈ縺・ｼ繧縲阪・ }
+]
+}
+}
+]
+}
+],
+questions: [
+{
+id: 25,
+text: "What does the author of the passage say about US space missions in the 1950s and 60s?",
+textTranslation: "遲・・・1950蟷ｴ莉｣縺ｨ60蟷ｴ莉｣縺ｮ邀ｳ蝗ｽ縺ｮ螳・ｮ吶Α繝・す繝ｧ繝ｳ縺ｫ縺､縺・※菴輔→霑ｰ縺ｹ縺ｦ縺・∪縺吶°・・",
+choices: [
+{ id: 1, text: Given the physical demands of space travel, it was understandable that men rather than women were being sent into space., translation: 螳・ｮ呎羅陦後・霄ｫ菴鍋噪雋諡・ｒ閠・∴繧九→縲∝･ｳ諤ｧ縺ｧ縺ｯ縺ｪ縺冗塙諤ｧ縺悟ｮ・ｮ吶↓騾√ｉ繧後ｋ縺ｮ縺ｯ逅・ｧ｣縺ｧ縺阪ｋ縺薙→縺縺｣縺溘・, isCorrect: false },
+{ id: 2, text: The missions were considered too important to rely on the calculations of human computers., translation: 繝溘ャ繧ｷ繝ｧ繝ｳ縺ｯ縺ゅ∪繧翫↓驥崎ｦ√〒縲√ヲ繝･繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ險育ｮ励↓鬆ｼ繧九％縺ｨ縺ｯ縺ｧ縺阪↑縺・→閠・∴繧峨ｌ縺ｦ縺・◆縲・, isCorrect: false },
+{ id: 3, text: The astronauts at the time felt the media should have given women working on the missions more credit., translation: 蠖捺凾縺ｮ螳・ｮ咎｣幄｡悟｣ｫ縺ｯ縲√Γ繝・ぅ繧｢縺ｯ繝溘ャ繧ｷ繝ｧ繝ｳ縺ｫ蠕謎ｺ九＠縺溷･ｳ諤ｧ縺ｫ蟇ｾ縺励※繧ゅ▲縺ｨ遘ｰ雉帙ｒ荳弱∴繧九∋縺阪□縺ｨ諢溘§縺ｦ縺・◆縲・, isCorrect: false },
+{ id: 4, text: The missions could only be effectively completed thanks to the precision of the calculations made by human computers., translation: 繝溘ャ繧ｷ繝ｧ繝ｳ縺ｯ縲√ヲ繝･繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｫ繧医ｋ險育ｮ励・豁｣遒ｺ縺輔・縺翫°縺偵〒縺ｮ縺ｿ縲∝柑譫懃噪縺ｫ螳碁≠縺吶ｋ縺薙→縺後〒縺阪◆縲・, isCorrect: true, highlight: effectively completed thanks to ...precision }
+],
+hint: {
+paragraphId: 1,
+description: "隨ｬ1谿ｵ關ｽ縺ｮ譛蠕後ゅ係ithout them...縲阪・莉ｮ螳壽ｳ輔・譁・ｒ遒ｺ隱阪＠縺ｾ縺励ｇ縺・・",
+targetSentenceId: 6,
+highlightWord: "impossible to launch",
+highlightWordSentenceId: 6
+},
+keywords: [ "US space missions", "1950s and 60s", "author say" ],
+keywordExplanations: {
+US space missions: 邀ｳ蝗ｽ縺ｮ螳・ｮ吶Α繝・す繝ｧ繝ｳ縲らｬｬ1谿ｵ關ｽ縺ｮ繝・・繝槭・,
+author say: 縲占ｨ縺・鋤縺医・譬ｹ諡縲題ｨｭ蝠上・ what does the author say・育ｭ・・・菴輔→險縺｣縺ｦ縺・ｋ縺具ｼ峨・縲∫音螳壹・蜊倩ｪ槭〒縺ｯ縺ｪ縺上∬送閠・′螳｢隕ｳ逧・ｺ句ｮ溘ｄ隧穂ｾ｡縺ｨ縺励※霑ｰ縺ｹ縺ｦ縺・ｋ譁・・菴難ｼ育音縺ｫ譁・忰縺ｮ邨占ｫ夜Κ蛻・↑縺ｩ・峨ｒ謗｢縺吝粋蝗ｳ縺ｧ縺吶・
+},
+keywordMatches: [
+{ sentenceId: 1, text: Some US astronauts ... in the 1950s and 60s, keyword: 1950s and 60s },
+{ sentenceId: 2, text: making US space missions ... successful, keyword: US space missions }
+],
+choiceAdvice: "1: 逕ｷ諤ｧ縺碁∈縺ｰ繧後◆逅・罰(understandable?), 2: 驥崎ｦ√☆縺弱※莉ｻ縺帙ｉ繧後↑縺・too important?), 3: 鬟幄｡悟｣ｫ縺ｮ諢滓ュ(felt more credit?), 4: 蠖ｼ螂ｳ縺溘■縺ｮ縺翫°縺・thanks to precision)縲・",
+logic: [
+{ type: text, content: 譛ｬ譁・ Without them, it would have been impossible... (繧ｪ繝ｬ繝ｳ繧ｸ濶ｲ縺ｮ繝上う繝ｩ繧､繝・ },
+{ type: text, content: 縲先ｱｺ螳夊ｦ∝屏縲台ｻｮ螳壽ｳ輔・ Without them... impossible・亥ｽｼ螂ｳ繧峨′縺・↑縺代ｌ縺ｰ荳榊庄閭ｽ縺縺｣縺滂ｼ峨・縲√悟ｽｼ螂ｳ繧峨・縺翫°縺偵〒謌仙粥縺励◆縲阪→縺・≧蠑ｷ縺・け螳壹ｒ諢丞袖縺励∪縺吶ゅ％繧後′驕ｸ謚櫁い4縺ｮ thanks to the precision 縺ｨ蟇ｾ蠢懊＠縺ｦ縺・∪縺吶・ },
+{ type: arrow, content: 竊・ },
+{ type: text, content: 驕ｸ謚櫁い4: completed thanks to the precision of the calculations },
+{ type: conclusion, content: 豁｣隗｣: 4 }
+]
+},
+{
+id: 26,
+text: "Which of the following statements would Mar Hicks most likely agree with?",
+textTranslation: "谺｡縺ｮ險倩ｿｰ縺ｮ縺・■縲√・繝ｼ繝ｻ繝偵ャ繧ｯ繧ｹ縺梧怙繧ょ酔諢上＠縺昴≧縺ｪ繧ゅ・縺ｯ縺ｩ繧後〒縺吶°・・",
+choices: [
+{
+id: "1, text: The view that computation work was for women stemmed partly from a misunderstanding of the nature of the work., translation: 險育ｮ玲･ｭ蜍吶′螂ｳ諤ｧ蜷代￠縺縺ｨ縺・≧隕区婿縺ｯ縲・Κ蛻・噪縺ｫ縺ｯ縺昴・莉穂ｺ九・諤ｧ雉ｪ縺ｫ蟇ｾ縺吶ｋ隱､隗｣縺九ｉ逕溘§縺ｦ縺・◆縲・, isCorrect: true, highlight: stemmed partly from a misunderstanding }",
+{ id: 2, text: Male mathematicians still played a vital role in the interwar period as the women employed sometimes lacked the necessary math skills., translation: 髮・畑縺輔ｌ縺溷･ｳ諤ｧ縺ｫ縺ｯ蠢・ｦ√↑謨ｰ蟄ｦ繧ｹ繧ｭ繝ｫ縺梧ｬ縺代※縺・ｋ縺薙→縺後≠縺｣縺溘◆繧√∵姶髢捺悄縺ｫ縺翫＞縺ｦ繧ら塙諤ｧ謨ｰ蟄ｦ閠・′萓晉┯縺ｨ縺励※驥崎ｦ√↑蠖ｹ蜑ｲ繧呈棡縺溘＠縺ｦ縺・◆縲・, isCorrect: false },
+{ id: 3, text: Reducing costs by paying low wages to women ultimately had a negative effect on overall data reliability., translation: 螂ｳ諤ｧ縺ｫ菴手ｳ・≡繧呈髪謇輔▲縺ｦ繧ｳ繧ｹ繝医ｒ蜑頑ｸ帙☆繧九％縺ｨ縺ｯ縲∵怙邨ら噪縺ｫ繝・・繧ｿ蜈ｨ菴薙・菫｡鬆ｼ諤ｧ縺ｫ謔ｪ蠖ｱ髻ｿ繧貞所縺ｼ縺励◆縲・, isCorrect: false },
+{ id: 4, text: The two world wars brought about significant societal changes that benefited women much more than men., translation: 2縺､縺ｮ荳也阜螟ｧ謌ｦ縺ｯ縲∫塙諤ｧ繧医ｊ繧ょ･ｳ諤ｧ縺ｫ螟ｧ縺阪↑蛻ｩ逶翫ｒ繧ゅ◆繧峨☆驥崎ｦ√↑遉ｾ莨夂噪螟牙喧繧偵ｂ縺溘ｉ縺励◆縲・, isCorrect: false }
+],
+hint: {
+paragraphId: 2,
+description: "隨ｬ2谿ｵ關ｽ縺ｮ蠕悟濠縲よｭｴ蜿ｲ螳ｶ Mar Hicks 縺ｮ逋ｺ險蜀・ｮｹ・亥ｼ慕畑隨ｦ縺ｧ蝗ｲ縺ｾ繧後◆驛ｨ蛻・ｼ峨ｒ遒ｺ隱阪＠縺ｾ縺励ｇ縺・・",
+targetSentenceId: 13,
+highlightWord: "seen as rote and de-skilled",
+highlightWordSentenceId: 13
+},
+keywords: [ "Mar Hicks", "most likely agree with" ],
+keywordExplanations: {
+Mar Hicks: 豁ｴ蜿ｲ螳ｶ縺ｮ蜷榊燕縲らｬｬ2谿ｵ關ｽ蠕悟濠縺ｫ蜃ｺ縺ｦ縺阪∪縺吶・,
+most likely agree with: 縲占ｨ縺・鋤縺医・譬ｹ諡縲題ｨｭ蝠上・ agree with・亥酔諢上☆繧具ｼ峨・縲∵悽譁・〒縺ｯ豁ｴ蜿ｲ螳ｶ閾ｪ霄ｫ縺ｮ閠・∴繧定ｿｰ縺ｹ繧・believes・郁・∴縺ｦ縺・ｋ繝ｻ菫｡縺倥※縺・ｋ・峨→縺・≧蜍戊ｩ槭〒陦ｨ迴ｾ縺輔ｌ縺ｦ縺・∪縺吶・
+},
+keywordMatches: [
+{ sentenceId: 13, text: Historian Mar Hicks believes, keyword: Mar Hicks },
+{ sentenceId: 13, text: believes, keyword: most likely agree with }
+],
+choiceAdvice: "繝偵ャ繧ｯ繧ｹ縺ｮ荳ｻ蠑ｵ縲・: 隱､隗｣縺九ｉ逕溘§縺・misunderstanding), 2: 逕ｷ諤ｧ縺ｮ蠖ｹ蜑ｲ(vital role?), 3: 繧ｳ繧ｹ繝亥炎貂帙・謔ｪ蠖ｱ髻ｿ(reliability?), 4: 謌ｦ莠峨・諱ｩ諱ｵ(benefited women?)縲・",
+logic: [
+{ type: text, content: 譛ｬ譁・ seen as rote and de-skilled. (繧ｪ繝ｬ繝ｳ繧ｸ濶ｲ縺ｮ繝上う繝ｩ繧､繝・ },
+{ type: text, content: 譛ｬ譁・ Although ... it often required advanced math skills. (螳滄圀縺ｯ鬮伜ｺｦ縺ｪ繧ｹ繧ｭ繝ｫ縺悟ｿ・ｦ√□縺｣縺・ },
+{ type: text, content: 縲先ｱｺ螳夊ｦ∝屏縲代悟ｮ滄圀縺ｯ鬮伜ｺｦ縺ｪ繧ｹ繧ｭ繝ｫ縺悟ｿ・ｦ√□縺｣縺溘・縺ｫ縲∝腰邏比ｽ懈･ｭ縺ｨ隕九↑縺輔ｌ縺ｦ縺・◆縲阪→縺・≧蟇ｾ豈斐・縲∽ｻ穂ｺ九・諤ｧ雉ｪ縺ｫ蟇ｾ縺吶ｋ縲瑚ｪ､隗｣ (misunderstanding)縲阪′縺ゅ▲縺溘％縺ｨ繧堤､ｺ縺励※縺・∪縺吶・ },
+{ type: arrow, content: 竊・ },
+{ type: text, content: 驕ｸ謚櫁い1: stemmed partly from a misunderstanding of the nature of the work },
+{ type: conclusion, content: 豁｣隗｣: 1 }
+]
+},
+{
+id: 27,
+text: "The author of the passage points out that after NASA was established,",
+textTranslation: "遲・・・縲¨ASA縺ｮ險ｭ遶句ｾ後∽ｽ輔′縺ゅ▲縺溘→謖・遭縺励※縺・∪縺吶°・・",
+choices: [
+{ id: 1, text: the focus of the Cold War began to turn away from conducting space-related missions., translation: 蜀ｷ謌ｦ縺ｮ辟ｦ轤ｹ縺ｯ縲∝ｮ・ｮ咎未騾｣縺ｮ繝溘ャ繧ｷ繝ｧ繝ｳ繧定｡後≧縺薙→縺九ｉ髮｢繧悟ｧ九ａ縺溘・, isCorrect: false },
+{
+id: "2, text: it made efforts to address some of the inequities that certain human computers had experienced., translation: 迚ｹ螳壹・繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺檎ｵ碁ｨ薙＠縺ｦ縺・◆荳榊ｹｳ遲峨・荳驛ｨ縺ｫ蟇ｾ蜃ｦ縺吶ｋ縺溘ａ縺ｮ蜉ｪ蜉帙′縺ｪ縺輔ｌ縺溘・, isCorrect: true, highlight: address ...inequities }",
+{ id: 3, text: female supervisors were awarded additional compensation to make up for their historically low wages., translation: 螂ｳ諤ｧ縺ｮ逶｣逹｣閠・・縲∵ｭｴ蜿ｲ逧・↓菴弱＞雉・≡繧貞沂繧∝粋繧上○繧九◆繧√↓霑ｽ蜉縺ｮ蝣ｱ驟ｬ繧剃ｸ弱∴繧峨ｌ縺溘・, isCorrect: false },
+{ id: 4, text: it realized that winning the space race would only be possible if it recruited some of the Soviet Union's human computers., translation: 螳・ｮ咎幕逋ｺ遶ｶ莠峨↓蜍昴▽縺ｫ縺ｯ縲√た繝薙お繝磯｣驍ｦ縺ｮ繝偵Η繝ｼ繝槭Φ繝ｻ繧ｳ繝ｳ繝斐Η繝ｼ繧ｿ繝ｼ縺ｮ荳莠ｺ繧呈治逕ｨ縺吶ｋ縺励°縺ｪ縺・→豌励▼縺・◆縲・, isCorrect: false }
+],
+hint: {
+paragraphId: 3,
+description: "隨ｬ3谿ｵ關ｽ縺ｮ譛蠕後ゅ係hen NASA was established縲阪・譁・↓豕ｨ逶ｮ縺励∽ｽ輔′螟峨ｏ縺｣縺溘°繧堤｢ｺ隱阪＠縺ｾ縺励ｇ縺・・",
+targetSentenceId: 20,
+highlightWord: "improved other conditions",
+highlightWordSentenceId: 20
+},
+keywords: [ "NASA was established", "author points out" ],
+keywordExplanations: {
+NASA was established: 1958蟷ｴ縺ｮNASA險ｭ遶区凾縲らｬｬ3谿ｵ關ｽ縺ｮ譛蠕後↓蜈ｷ菴鍋噪縺ｪ險倩ｿｰ縺後≠繧翫∪縺吶・,
+author points out: 縲占ｨ縺・鋤縺医・譬ｹ諡縲題ｨｭ蝠上・ points out・域欠鞫倥☆繧具ｼ峨・縲∬送閠・′莠句ｮ溘→縺励※謠千､ｺ縺励※縺・ｋ蜀・ｮｹ繧呈欠縺励∪縺吶ゅ％縺薙〒縺ｯ NASA 險ｭ遶句ｾ後・螟牙喧・・bolished, improved 縺ｪ縺ｩ・峨′縺昴・謖・遭蜀・ｮｹ縺ｫ縺ゅ◆繧翫∪縺吶・
+},
+keywordMatches: [
+{ sentenceId: 20, text: When NASA was established, keyword: NASA was established }
+],
+choiceAdvice: "NASA險ｭ遶句ｾ後・螟牙喧縲・: 蜀ｷ謌ｦ縺ｮ辟ｦ轤ｹ(away?), 2: 荳榊ｹｳ遲峨・譏ｯ豁｣(address inequities), 3: 邨ｦ荳手｣懷─(compensation?), 4: 繧ｽ騾｣縺ｮ莠ｺ譚・Soviet?).",
+logic: [
+{ type: text, content: 譛ｬ譁・ abolished that policy and also improved other conditions for women. (繧ｪ繝ｬ繝ｳ繧ｸ濶ｲ縺ｮ繝上う繝ｩ繧､繝・ },
+{ type: text, content: 縲先ｱｺ螳夊ｦ∝屏縲代悟ｷｮ蛻･逧・↑譁ｹ驥昴ｒ蟒・ｭ｢縺励∵擅莉ｶ繧呈隼蝟・＠縺溘阪→縺・≧險倩ｿｰ縺ｯ縲∽ｸ榊・蟷ｳ・・nequities・峨↓蟇ｾ蜃ｦ・・ddress・峨＠縺溘％縺ｨ縺ｮ蜈ｷ菴鍋噪縺ｪ蜀・ｮｹ縺ｫ莉悶↑繧翫∪縺帙ｓ縲・ },
+{ type: arrow, content: 竊・ },
+{ type: text, content: 驕ｸ謚櫁い2: address some of the inequities (荳榊ｹｳ遲峨・譏ｯ豁｣) },
+{ type: conclusion, content: 豁｣隗｣: 2 }
+]
+}
+],
+summaryForInstructors: {
+title: "Rocket Science・医Ο繧ｱ繝・ヨ遘大ｭｦ縺ｨ螂ｳ諤ｧ險育ｮ玲焔・・",
+intro: "1950蟷ｴ莉｣縺九ｉ60蟷ｴ莉｣縺ｮ邀ｳ蝗ｽ螳・ｮ咎幕逋ｺ繧帝匆縺ｧ謾ｯ縺医◆縲御ｺｺ髢薙さ繝ｳ繝斐Η繝ｼ繧ｿ縲阪→蜻ｼ縺ｰ繧後◆螂ｳ諤ｧ縺溘■縺ｮ雋｢迪ｮ縺ｨ縲∵凾莉｣縺ｮ螟蛾・縺ｫ繧医ｋ蠖ｹ蜑ｲ縺ｮ螟牙喧繧呈緒縺・◆繝代ャ繧ｻ繝ｼ繧ｸ縺ｧ縺吶・",
+points: [
+{ label: 1. 髫繧後◆闍ｱ髮・◆縺｡, text: 螳・ｮ咎｣幄｡悟｣ｫ縺ｮ譬・・縺ｮ髯ｰ縺ｧ縲∬､・尅縺ｪ霆碁％險育ｮ励↑縺ｩ繧呈焔菴懈･ｭ縺ｧ陦後＞縲√Α繝・す繝ｧ繝ｳ繧呈・蜉溘↓蟆弱＞縺溘・縺ｯ螂ｳ諤ｧ險育ｮ玲焔縺溘■縺ｧ縺励◆縲・ },
+{ label: 2. 縺ｪ縺懷･ｳ諤ｧ縺縺｣縺溘・縺・, text: 蠖灘・縺ｯ逕ｷ諤ｧ縺ｮ莉穂ｺ九〒縺励◆縺後√さ繧ｹ繝亥炎貂帙ｄ蟾ｮ蛻･逧・↑遉ｾ莨夐壼ｿｵ縺ｫ繧医ｊ縲∝ｾ舌・↓縲悟･ｳ諤ｧ縺ｮ莉穂ｺ九阪→隕九↑縺輔ｌ繧九ｈ縺・↓縺ｪ繧翫∪縺励◆縲・ },
+{ label: 3. 蟾ｮ蛻･縺ｨ騾ｲ豁ｩ, text: NACA・・ASA縺ｮ蜑崎ｺｫ・峨・螂ｳ諤ｧ繧貞､壹￥謗｡逕ｨ縺玲ｯ碑ｼ・噪蠕・∞繧り憶縺九▲縺溘ｂ縺ｮ縺ｮ縲・ｻ剃ｺｺ螂ｳ諤ｧ縺ｸ縺ｮ髫秘屬縺ｪ縺ｩ蟾ｮ蛻･繧ょｭ伜惠縺励∪縺励◆縲・ },
+{ label: 4. 謚陦馴擠譁ｰ縺ｨ菫｡鬆ｼ, text: 髮ｻ蟄占ｨ育ｮ玲ｩ溘・逋ｻ蝣ｴ縺ｧ蠖ｹ蜑ｲ縺ｯ邵ｮ蟆上＠縺ｾ縺励◆縺後∝・譛溘↓縺ｯ螳・ｮ咎｣幄｡悟｣ｫ縺梧ｩ滓｢ｰ繧医ｊ繧ょｽｼ螂ｳ繧峨・險育ｮ礼ｵ先棡繧剃ｿ｡鬆ｼ縺励◆繧ｨ繝斐た繝ｼ繝峨′縺ゅｊ縺ｾ縺吶・ }
+]
+}
+},
